@@ -52,32 +52,47 @@ class GenerationPipeline {
       console.warn("Rule conflicts found:", conflicts.length);
     }
   }
-
   async process(result, edition) {
-    const errors = this.validator.validate(result.traits);
+  console.log("PROCESS CALLED", edition);
 
-    if (errors.length) {
-      throw new Error(errors.join("\n"));
-    }
+  console.log("VALIDATING");
+  const errors = this.validator.validate(result.traits);
 
-    const canvas = await this.renderer.render(result.traits);
+  console.log("VALIDATION COMPLETE");
 
-    this.exporter.save(canvas, edition);
-
-    const metadata = this.metadataEngine.build({
-      edition,
-      dna: result.dna,
-      traits: result.traits,
-      rank: result.rank || "Common",
-    });
-
-    this.writer.write(metadata, edition);
-
-    this.analytics.record(result);
-
-    return metadata;
+  if (errors.length) {
+    throw new Error(errors.join("\n"));
   }
 
+  console.log("STARTING RENDER");
+
+  const canvas = await this.renderer.render(result.traits);
+
+  console.log("RENDER COMPLETE");
+
+  this.exporter.save(canvas, edition);
+
+  console.log("IMAGE SAVED");
+
+  const metadata = this.metadataEngine.build({
+    edition,
+    dna: result.dna,
+    traits: result.traits,
+    rank: result.rank || "Common",
+  });
+
+  console.log("METADATA BUILT");
+
+  this.writer.write(metadata, edition);
+
+  console.log("METADATA WRITTEN");
+
+  this.analytics.record(result);
+
+  console.log("ANALYTICS RECORDED");
+
+  return metadata;
+}
   finalize() {
     this.analytics.export();
   }

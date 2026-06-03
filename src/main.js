@@ -20,10 +20,12 @@ async function run() {
   pipeline.initialize();
 
   switch (command) {
-
     case "generate": {
       const builder = new CollectionBuilder(config);
       const results = builder.build();
+
+      console.log("RESULTS:", results);
+      console.log("RESULT LENGTH:", results?.length);
 
       let edition = 1;
 

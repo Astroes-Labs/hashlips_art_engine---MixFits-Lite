@@ -21,30 +21,33 @@ class CanvasRenderer {
     );
   }
 
-  async render(traits) {
-    this.clear();
+ async render(traits) {
+  this.clear();
 
-    for (const layer of Object.entries(traits)) {
-      const traitName = layer[1];
+  for (const [layerName, traitName] of Object.entries(traits)) {
 
-      if (!traitName) continue;
+    console.log("PROCESSING LAYER", layerName);
+    console.log("PROCESSING TRAIT", traitName);
 
-      const imagePath = traitName.path;
+    if (!traitName) continue;
 
-      const img = await loadImage(imagePath);
+    const imagePath = `${process.cwd()}/layers/${layerName}/${traitName}.png`;
 
-      this.ctx.drawImage(
-        img,
-        0,
-        0,
-        this.config.render.width,
-        this.config.render.height
-      );
-    }
+    console.log("IMAGE PATH", imagePath);
 
-    return this.canvas;
-    console.log("Rendering traits:", traits);
+    const img = await loadImage(imagePath);
+
+    this.ctx.drawImage(
+      img,
+      0,
+      0,
+      this.config.render.width,
+      this.config.render.height
+    );
   }
+
+  return this.canvas;
+}
 }
 
 module.exports = CanvasRenderer;
