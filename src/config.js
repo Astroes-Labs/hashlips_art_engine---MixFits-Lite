@@ -1,92 +1,122 @@
+//src\config.js
+
 const basePath = process.cwd();
+const { MODE } = require(`${basePath}/constants/blend_mode.js`);
 const { NETWORK } = require(`${basePath}/constants/network.js`);
 
-module.exports = {
-  network: NETWORK.eth,
+const network = NETWORK.eth;
 
-  collection: {
-    namePrefix: "MixFits",
-    description: "MixFits Collection",
-    baseUri: "ipfs://replace-me",
-    editionSize: 10,
-  },
+// General metadata for Ethereum
+const namePrefix = "Your Collection";
+const description = "Remember to replace this description";
+const baseUri = "ipfs://NewUriToReplace";
 
-  render: {
-    width: 1024,
-    height: 1024,
+const solanaMetadata = {
+    symbol: "YC",
+    seller_fee_basis_points: 1000, // Define how much % you want from secondary market sales 1000 = 10%
+    external_url: "https://www.youtube.com/c/hashlipsnft",
+    creators: [{
+        address: "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
+        share: 100,
+    }, ],
+};
+
+// If you have selected Solana then the collection starts from 0 automatically
+const layerConfigurations = [{
+    growEditionSizeTo: 5,
+    layersOrder: [
+        { name: "Background" },
+        { name: "Body" },
+        { name: "Eyes" },
+        { name: "Foot Wears" },
+        { name: "Hair" },
+        { name: "Hats" },
+        { name: "Pants" },
+        { name: "Shirt" },
+        { name: "Special" },
+    ],
+}, ];
+
+const shuffleLayerConfigurations = false;
+
+const debugLogs = false;
+
+const format = {
+    width: 512,
+    height: 512,
     smoothing: false,
-    background: {
-      generate: false,
-      default: "#000000",
-    },
-  },
+};
 
-  layers: [
-    { name: "Background" },
-    { name: "Body" },
-    { name: "Eyes" },
-    { name: "Foot Wears" },
-    { name: "Hair" },
-    { name: "Hats" },
-    { name: "Pants" },
-    { name: "Shirt" },
-    { name: "Special" },
-  ],
+const gif = {
+    export: false,
+    repeat: 0,
+    quality: 100,
+    delay: 500,
+};
 
-  generation: {
-    shuffle: true,
-    uniqueDnaTolerance: 100000,
-    hybridMode: false,
-    singleMode: false,
-  },
+const text = {
+    only: false,
+    color: "#ffffff",
+    size: 20,
+    xGap: 40,
+    yGap: 40,
+    align: "left",
+    baseline: "top",
+    weight: "regular",
+    family: "Courier",
+    spacer: " => ",
+};
 
-  groups: {
-    slimeFaces: ["Straight Face", "Happy Face", "Sad Face"],
+const pixelFormat = {
+    ratio: 2 / 128,
+};
 
-    wolfHair: ["Wolf Hair", "Alpha Hair"],
-  },
+const background = {
+    generate: true,
+    brightness: "80%",
+    static: false,
+    default: "#000000",
+};
 
-  legendaryNFTs: [
-    {
-      name: "The First King",
+const extraMetadata = {};
 
-      traits: {
-        Species: "Werewolf",
+const rarityDelimiter = "#";
 
-        Head: "King Head",
+const uniqueDnaTorrance = 10000;
 
-        Crown: "Genesis Crown",
+const preview = {
+    thumbPerRow: 5,
+    thumbWidth: 50,
+    imageRatio: format.height / format.width,
+    imageName: "preview.png",
+};
 
-        Eyes: "Galaxy Eyes",
-      },
-    },
-  ],
+const preview_gif = {
+    numberOfImages: 5,
+    order: "ASC", // ASC, DESC, MIXED
+    repeat: 0,
+    quality: 100,
+    delay: 500,
+    imageName: "preview.gif",
+};
 
-  metadataTemplates: {
-    common: {
-      description: "{{name}} is a citizen of MixFits.",
-    },
-
-    founder: {
-      description: "{{name}} is an original founder NFT.",
-    },
-
-    legendary: {
-      description: "{{name}} is one of the legendary MixFits.",
-    },
-  },
-  csvSchemas: {
-    default: ["edition", "dna", "rank"],
-
-    rarity: ["edition", "dna", "score", "rank"],
-  },
-
-  rules: {
-    requires: require("./rules/traitRequires"),
-    excludes: require("./rules/traitExcludes"),
-    replacements: require("./rules/traitReplacement"),
-    layerIgnore: require("./rules/layerIgnore"),
-    multiLayerIgnore: require("./rules/multiLayerIgnore"),
-    inheritance: require("./rules/inheritance"),
-  },
+module.exports = {
+    format,
+    baseUri,
+    description,
+    background,
+    uniqueDnaTorrance,
+    layerConfigurations,
+    rarityDelimiter,
+    preview,
+    shuffleLayerConfigurations,
+    debugLogs,
+    extraMetadata,
+    pixelFormat,
+    text,
+    namePrefix,
+    network,
+    solanaMetadata,
+    gif,
+    preview_gif,
 };
