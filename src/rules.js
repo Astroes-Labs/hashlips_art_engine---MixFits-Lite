@@ -23,7 +23,19 @@ const rules = {
             },
             then: {
                 allowedLayers: ["Background", "Eyes", "Hair", "Hat", "Shirt", "Pants", "Footwear", "Special"],
-                mutualExclusion: ["Hair", "Hat"]
+                mutualExclusion: ["Hair", "Hat"],
+                // === IGNORE SPECIFIC TRAITS ON SPECIAL LAYER ===
+                ignoreTraits: {
+                    "Special": [
+                        "Bomb", 
+                        "Brain", 
+                        "Cheese",
+                        "Dog",
+                        "Ring",
+                        "Slime Crown"
+                        // Add all the Special traits you want to exclude for humans here
+                    ]
+                }
             }
         },
 
