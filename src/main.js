@@ -318,8 +318,12 @@ const createDna = (_layers) => {
     _layers.forEach((layer, index) => {
         if (layer.name === "Body") return;
 
+        // Skip this layer?
         if (rules.currentAllowed && !rules.currentAllowed.includes(layer.name)) {
-            disabledLayers.add(layer.name);
+            // But don't skip if we are forcing a trait on this layer
+            if (!forcedTraits[layer.name]) {
+                disabledLayers.add(layer.name);
+            }
         }
         if (disabledLayers.has(layer.name)) {
             randNum[index] = null;

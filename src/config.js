@@ -27,12 +27,12 @@ const layerConfigurations = [{
     layersOrder: [
         { name: "Background" },
         { name: "Body" },
-        { name: "Eyes" },
-        { name: "Footwear" },
         { name: "Hair" },
         { name: "Hats" },
+        { name: "Eyes" },
         { name: "Pants" },
         { name: "Shirt" },
+        { name: "Footwear" },
         { name: "Special" },
     ],
 }, ];
