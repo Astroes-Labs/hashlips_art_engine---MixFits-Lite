@@ -2,49 +2,32 @@
 
 /**
  * Advanced Trait Rules for Hashlips Art Engine
- * Structured from user rule sheet - Supports single values and arrays
+ * Structured from user rule sheet
  */
 
 const rules = {
 
-    // ==================== GLOBAL LAYER CONTROLS ====================
-
-    /** 
-     * Completely skip these layers for ALL NFTs
-     * Accepts: string or array of strings
-     */
     ignoreLayers: [],
 
-    // ==================== FORCED TRAITS ====================
+    forcedTraits: {},
 
-    forcedTraits: {
-        // Global forces (if any) - most forces will be handled via conditions
-    },
-
-    // ==================== IGNORED TRAITS ====================
-
-    ignoreTraits: {
-        // Global trait ignores (if any)
-    },
-
-    // ==================== CONDITIONAL RULES ====================
+    ignoreTraits: {},
 
     conditions: [
 
-        // ====================== HUMAN BASE RULES ======================
+        // ====================== NORMAL BODIES (Full Layers) ======================
         {
             if: {
                 layer: "Body",
-                trait: ["Homo Sapien", "Zombie"] // Assuming default human body, adjust if your trait name differs
+                trait: ["Homo Sapien", "Zombie"]
             },
             then: {
                 allowedLayers: ["Background", "Eyes", "Hair", "Hat", "Shirt", "Pants", "Footwear", "Special"],
-                ignore: [], // will be calculated
-                mutualExclusion: ["Hair", "Hat"] // Hair and Hat cannot both appear
+                mutualExclusion: ["Hair", "Hat"]
             }
         },
 
-        // ====================== SLIME BASE RULES ======================
+        // ====================== SLIME BODIES ======================
         {
             if: {
                 layer: "Body",
@@ -54,25 +37,26 @@ const rules = {
                 allowedLayers: ["Background", "Special"],
                 ignore: ["Eyes", "Hair", "Hat", "Shirt", "Pants", "Footwear"],
                 forcedTraits: {
-                    "Eyes": "Straight Face" // as per "face": "Straight Face"
+                    "Eyes": "Straight Face"
                 }
             }
         },
 
-        // King Slime special case
         {
             if: {
                 layer: "Body",
                 trait: "King Slime"
             },
             then: {
+                allowedLayers: ["Background", "Special"],
+                ignore: ["Eyes", "Hair", "Hat", "Shirt", "Pants", "Footwear"],
                 forcedTraits: {
                     "Special": "Slime Crown"
                 }
             }
         },
 
-        // ====================== SPECIAL BODY OVERRIDES ======================
+        // ====================== SPECIAL BODIES (No Eyes) ======================
         {
             if: {
                 layer: "Body",
@@ -87,8 +71,8 @@ const rules = {
                 ]
             },
             then: {
-                allowedLayers: ["Background", "Body"],
-                ignore: ["Hair", "Hat", "Shirt", "Pants", "Footwear", "Special", "Eyes"]
+                allowedLayers: ["Background", "Body"],   // Only Background + Body
+                ignore: ["Eyes", "Hair", "Hat", "Shirt", "Pants", "Footwear", "Special"]
             }
         }
 

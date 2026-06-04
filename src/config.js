@@ -28,7 +28,7 @@ const layerConfigurations = [{
         { name: "Background" },
         { name: "Body" },
         { name: "Eyes" },
-        { name: "Foot Wears" },
+        { name: "Footwear" },
         { name: "Hair" },
         { name: "Hats" },
         { name: "Pants" },
