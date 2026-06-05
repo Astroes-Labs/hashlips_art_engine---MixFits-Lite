@@ -94,7 +94,7 @@ for (const issue of issues) {
 }
 
 fs.writeFileSync(
-  "./src/layer-name-audit.json",
+  "./src/json/layer-name-audit.json",
   JSON.stringify(issues, null, 2)
 );
 

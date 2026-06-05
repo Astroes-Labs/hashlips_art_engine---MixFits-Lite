@@ -564,7 +564,17 @@ Analytics:
 ```
 build/analytics
 ```
+## 14. src/scripts/editTraits tools
 
+Command Flag,Description,Example
+--search,Required. Finds all NFTs that match a specific trait,"--search ""Body=Homo Sapien"""
+--set,Set a trait to a fixed value (adds if missing),"--set ""Background=Void"""
+--random,Set a trait to a random value from a list (applies to all matches),"--random ""Hair=Blonde,Black,Brown"""
+--delete,Completely remove a trait type,"--delete ""Special"""
+--rename,Rename a trait type and set a fixed value,"--rename ""Shirt>Top=Knight"""
+--rename-random,Rename a trait type and assign a random value (all matches),"--rename-random ""Shirt>Top=Knight,Tux,Lab Coat"""
+--rename-random-n,Rename + random value but only on N random NFTs,"--rename-random-n ""500:Shirt>Top=Knight,Tux"""
+--add-random-n (NEW),Add a new trait with a random value to N random NFTs (without removing anything),"--add-random-n ""500:Hat=Baby Propeller Hat,Chef Hat"""
 ---
 
 ## End of Manual

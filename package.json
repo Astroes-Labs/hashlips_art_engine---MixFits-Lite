@@ -26,10 +26,13 @@
     "check_metadata": "node src/scripts/checkMetadata.js",
     "patch_metadata": "node src/scripts/patchMetadata.js patch.json",
     "regen_single": "node src/scripts/regenSingle.js",
+    "build_metadata": "node src/scripts/buildMetadata.js",
     "gmd": "node src/scripts/generateFromMetadata.js",
     "gtm": "node src/scripts/generateTraitManifest.js",
     "cmt": "node src/scripts/checkMetadataTraits.js",
-    "at": "node src/scripts/auditTraits.js"
+    "at": "node src/scripts/auditTraits.js",
+    "rs": "node src/scripts/regenSingle.js",
+    "bmd": "node src/scripts/buildMetadata.js"
   },
   "author": "Daniel Eugene Botha (HashLips)",
   "license": "MIT",

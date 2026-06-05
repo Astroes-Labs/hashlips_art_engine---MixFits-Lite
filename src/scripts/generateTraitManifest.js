@@ -30,7 +30,7 @@ for (const layer of layerFolders) {
   result[layer] = [...new Set(traits)].sort();
 }
 
-const outputPath = path.join(__dirname, "../traitManifest.json");
+const outputPath = path.join(__dirname, "../json/traitManifest.json");
 
 fs.writeFileSync(
   outputPath,
