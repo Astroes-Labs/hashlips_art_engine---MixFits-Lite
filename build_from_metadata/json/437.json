@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #437",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/437.png",
+  "dna": "eb987b41887bfd9e3bbaa492f1217a9a3a1aa62a",
+  "edition": 437,
+  "date": 1780640972778,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

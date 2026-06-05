@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #415",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/415.png",
+  "dna": "91664651faa4cb8f39becc46ffd16daeaaeb3b68",
+  "edition": 415,
+  "date": 1780640970863,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Wizard Robe"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

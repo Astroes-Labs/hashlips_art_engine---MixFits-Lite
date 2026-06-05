@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #212",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/212.png",
+  "dna": "fcb89176c7f17d3b861b19922040be009ab4ad1d",
+  "edition": 212,
+  "date": 1780640952073,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Monitor Bot X"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

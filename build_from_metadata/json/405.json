@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #405",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/405.png",
+  "dna": "b3b73d089e8dbdb2e5bfd38db6bff5a86bf7de24",
+  "edition": 405,
+  "date": 1780640970164,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Dark Green Jacket"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

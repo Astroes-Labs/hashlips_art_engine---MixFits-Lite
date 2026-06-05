@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #301",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/301.png",
+  "dna": "16f030c6a54060203cef7a792628ee0915b2fff8",
+  "edition": 301,
+  "date": 1780640959943,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink Slime"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Straight Face"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Dog"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

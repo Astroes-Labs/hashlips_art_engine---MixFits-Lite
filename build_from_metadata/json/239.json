@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #239",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/239.png",
+  "dna": "982c2ab37f8585556929ed9ee57892356f645784",
+  "edition": 239,
+  "date": 1780640954175,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brain Box"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

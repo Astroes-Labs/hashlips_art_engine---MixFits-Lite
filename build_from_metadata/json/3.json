@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #3",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3.png",
+  "dna": "ea87b91afc50ab246cfdd23f57a662e22b52a1c3",
+  "edition": 3,
+  "date": 1780640939471,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reddish Ghost"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

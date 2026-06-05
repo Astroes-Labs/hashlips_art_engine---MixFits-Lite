@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #13",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/13.png",
+  "dna": "0c60834b60725316048e333996d28cc5bdb737e3",
+  "edition": 13,
+  "date": 1780640940203,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver Skeleton"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

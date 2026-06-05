@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #25",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/25.png",
+  "dna": "44920a045c64bd918be687b03e422c5847c7a802",
+  "edition": 25,
+  "date": 1780640940964,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mummy"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

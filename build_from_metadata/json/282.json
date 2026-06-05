@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #282",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/282.png",
+  "dna": "d2cfbdf3469993463d3a34126e230c6e318f0fc9",
+  "edition": 282,
+  "date": 1780640957619,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Shark Suit"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

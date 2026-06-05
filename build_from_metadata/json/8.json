@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #8",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/8.png",
+  "dna": "6ed3fa589d7d1754f86dd347b34df68a19839b06",
+  "edition": 8,
+  "date": 1780640939854,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gold Skeleton"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

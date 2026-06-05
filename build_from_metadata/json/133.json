@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #133",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/133.png",
+  "dna": "da63efd0143ef38a43bc553476cb827385ecb9aa",
+  "edition": 133,
+  "date": 1780640946173,
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Experiment Zero"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #349",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/349.png",
+  "dna": "dfa049c0fb3cc19f044fc2e5b732b1995b3134e6",
+  "edition": 349,
+  "date": 1780640965995,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

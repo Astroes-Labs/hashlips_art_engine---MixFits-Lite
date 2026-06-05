@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #28",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/28.png",
+  "dna": "ccee3292456aa42426a6c318d56e8e7c519883e0",
+  "edition": 28,
+  "date": 1780640941098,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Werewolf"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

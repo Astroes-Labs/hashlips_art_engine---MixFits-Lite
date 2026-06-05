@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #442",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/442.png",
+  "dna": "e87c9d7299704c90207b31d8d57a7f035de649a9",
+  "edition": 442,
+  "date": 1780640973165,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Black Suits"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

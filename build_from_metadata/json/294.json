@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #294",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/294.png",
+  "dna": "d79446cb640a5a81bfd3191b4c600721e5f7e93a",
+  "edition": 294,
+  "date": 1780640959088,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink Slime"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Straight Face"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Ring"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

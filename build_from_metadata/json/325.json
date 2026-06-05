@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #325",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/325.png",
+  "dna": "80d81870ed87032e74befb7a6b7653fbfb4af743",
+  "edition": 325,
+  "date": 1780640963689,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Stoner"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Panda Suit"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

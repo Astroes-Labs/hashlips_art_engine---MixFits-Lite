@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #315",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/315.png",
+  "dna": "e20b23e67b24208492b2cecb698df4ffcf02b814",
+  "edition": 315,
+  "date": 1780640962055,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Wizard Robe"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

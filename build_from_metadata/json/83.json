@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #83",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/83.png",
+  "dna": "2e0e54c845e43b8fa088202a6b3d7f8dc6415b1d",
+  "edition": 83,
+  "date": 1780640943691,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Monitor Bot Y"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

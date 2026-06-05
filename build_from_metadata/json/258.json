@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #258",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/258.png",
+  "dna": "214f6e06daffb964bf5edb38db53e6d2b2b23846",
+  "edition": 258,
+  "date": 1780640955782,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Knight"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

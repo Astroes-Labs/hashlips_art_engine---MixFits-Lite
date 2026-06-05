@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #95",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/95.png",
+  "dna": "2fb6184133e983ffc4cea0c57bd4c3c276534e3d",
+  "edition": 95,
+  "date": 1780640944220,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Stone Balor"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

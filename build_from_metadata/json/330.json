@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #330",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/330.png",
+  "dna": "eb4ba0b508519173603e2377cf99a5ec897e1fa9",
+  "edition": 330,
+  "date": 1780640964344,
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Stoner"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #318",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/318.png",
+  "dna": "2d169a51556263163d04963d89bd2ffaa32e899c",
+  "edition": 318,
+  "date": 1780640962596,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Stoner"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

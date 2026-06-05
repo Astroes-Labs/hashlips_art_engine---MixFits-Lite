@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #412",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/412.png",
+  "dna": "14206550b8482ee3019eea4d4cc53129c9201e80",
+  "edition": 412,
+  "date": 1780640970660,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Stoner"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Straight Face"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Katana"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

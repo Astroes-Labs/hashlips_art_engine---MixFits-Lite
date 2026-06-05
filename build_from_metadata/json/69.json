@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #69",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/69.png",
+  "dna": "6039b973e5f7f0bef0213a7a2776c81d60f6865d",
+  "edition": 69,
+  "date": 1780640943050,
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Experiment Zero"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #87",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/87.png",
+  "dna": "716c8dd9201d1e36c8f75aae3853a0fc858ea743",
+  "edition": 87,
+  "date": 1780640943863,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Stone Balor"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

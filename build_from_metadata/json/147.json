@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #147",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/147.png",
+  "dna": "43885852f6b7888a43a818deebac2a6b9d996a6a",
+  "edition": 147,
+  "date": 1780640946838,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Void Watcher"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

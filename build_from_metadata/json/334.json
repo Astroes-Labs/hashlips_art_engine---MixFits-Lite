@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #334",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/334.png",
+  "dna": "afb5a909bf346b827428d7425dd6b7d27a91683e",
+  "edition": 334,
+  "date": 1780640964693,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Purple Slime"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Straight Face"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Dog"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

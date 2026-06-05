@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #106",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/106.png",
+  "dna": "28f9eb24e76175458d54df478253688d0afea43f",
+  "edition": 106,
+  "date": 1780640944740,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brain Box"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

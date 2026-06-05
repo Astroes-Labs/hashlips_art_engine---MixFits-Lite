@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #138",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/138.png",
+  "dna": "5303b5ef63f446e97548ac7cb1b2053e915937b5",
+  "edition": 138,
+  "date": 1780640946389,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brain Box"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #125",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/125.png",
+  "dna": "55f0c441f1651c95363f7e82b2fb8d56aa458279",
+  "edition": 125,
+  "date": 1780640945793,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Void Watcher"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

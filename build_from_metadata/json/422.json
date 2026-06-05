@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #422",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/422.png",
+  "dna": "ac6238a541024536b472cf4e3247c6bd1874d801",
+  "edition": 422,
+  "date": 1780640971364,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brains"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Kill Billy Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

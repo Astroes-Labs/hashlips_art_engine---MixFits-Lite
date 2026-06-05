@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #205",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/205.png",
+  "dna": "81284b6f3e5c0ff75493df7cb7b390ae76654d32",
+  "edition": 205,
+  "date": 1780640951500,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brains"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Joker Suit"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

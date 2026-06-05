@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #114",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/114.png",
+  "dna": "a810fa13edeba5387494ed47adf8aa0bdcbfdb5a",
+  "edition": 114,
+  "date": 1780640945178,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "HellHound"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

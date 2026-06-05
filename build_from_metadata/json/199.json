@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #199",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/199.png",
+  "dna": "20469627d4679c9b6ce67b3cd1aad40b1553bf65",
+  "edition": 199,
+  "date": 1780640951104,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Monitor Bot Y"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

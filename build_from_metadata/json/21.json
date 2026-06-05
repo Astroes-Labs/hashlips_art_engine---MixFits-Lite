@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #21",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/21.png",
+  "dna": "9a773b0764d0a9a98a71d97d9026defbf58d5eed",
+  "edition": 21,
+  "date": 1780640940718,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bluish Ghost"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

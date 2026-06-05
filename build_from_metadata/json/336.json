@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #336",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/336.png",
+  "dna": "2572ed07e931dd918c1fabb8efdeffaf09582919",
+  "edition": 336,
+  "date": 1780640965020,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brains"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

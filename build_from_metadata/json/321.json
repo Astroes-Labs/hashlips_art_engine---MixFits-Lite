@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #321",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/321.png",
+  "dna": "1140f9bea18be08933f065d279b8c96ff7dcce94",
+  "edition": 321,
+  "date": 1780640963064,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Varsity Jacket"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

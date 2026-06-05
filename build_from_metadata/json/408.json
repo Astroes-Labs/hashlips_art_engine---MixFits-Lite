@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #408",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/408.png",
+  "dna": "416b90defbfd38195ff8e03747a3a41359fa4df1",
+  "edition": 408,
+  "date": 1780640970385,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Task Force Vest"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

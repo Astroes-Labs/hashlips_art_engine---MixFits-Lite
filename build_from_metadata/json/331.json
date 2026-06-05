@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #331",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/331.png",
+  "dna": "bfa585e85a2246c4c6dc19579f95b60254b7143c",
+  "edition": 331,
+  "date": 1780640964476,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brains"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Wizard Robe"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

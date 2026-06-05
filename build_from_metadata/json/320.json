@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #320",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/320.png",
+  "dna": "205113926ee69f9bc1abfb7836f4fb2c3c605cc7",
+  "edition": 320,
+  "date": 1780640962929,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink Slime"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Straight Face"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Brain"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

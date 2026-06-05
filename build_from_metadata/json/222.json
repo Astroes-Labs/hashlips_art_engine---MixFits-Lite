@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #222",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/222.png",
+  "dna": "3ea07e842e146686e7dc6ed7b2de6d2edcdac640",
+  "edition": 222,
+  "date": 1780640952839,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

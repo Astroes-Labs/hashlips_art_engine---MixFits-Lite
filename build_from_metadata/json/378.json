@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #378",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/378.png",
+  "dna": "74e7fe2b196a778a9d17869e6c16318be33ba188",
+  "edition": 378,
+  "date": 1780640968159,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

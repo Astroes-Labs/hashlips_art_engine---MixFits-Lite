@@ -1,0 +1,23 @@
+{
+  "name": "Your Collection #400",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/400.png",
+  "dna": "79e75e46fac9ff2e8ffa4d671e8baf7d35a66dd4",
+  "edition": 400,
+  "date": 1780640969759,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Stoner"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Boxing Gloves"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

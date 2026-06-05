@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #332",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/332.png",
+  "dna": "9a06fa8b82ba0f6a3409e3e6503f5d26fc3c43d9",
+  "edition": 332,
+  "date": 1780640964549,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Slime"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Straight Face"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Brain"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

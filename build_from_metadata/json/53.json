@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #53",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/53.png",
+  "dna": "e8e7e36155106326d95e0ecfeb93e0a49e5fb059",
+  "edition": 53,
+  "date": 1780640942315,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "HellHound"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

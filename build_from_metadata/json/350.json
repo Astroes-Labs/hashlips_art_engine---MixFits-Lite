@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #350",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/350.png",
+  "dna": "59a0e48f75a2b7dd65e7e34050b506e07073eedf",
+  "edition": 350,
+  "date": 1780640966113,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Ninja Outfit"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

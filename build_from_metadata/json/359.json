@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #359",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/359.png",
+  "dna": "c0f6bc6280ca03ee1c74c84340ecb0c01cd4cf77",
+  "edition": 359,
+  "date": 1780640966767,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Pirate Capt"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

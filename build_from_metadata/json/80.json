@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #80",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/80.png",
+  "dna": "6fd7ab629913448d6816359a0859c98994437f27",
+  "edition": 80,
+  "date": 1780640943562,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Stoner"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Straight Face"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Cigratte"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

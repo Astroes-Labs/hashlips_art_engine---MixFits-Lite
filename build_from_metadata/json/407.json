@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #407",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/407.png",
+  "dna": "00c3a3a2e2d4437413be1da004111b9dd31bd2fe",
+  "edition": 407,
+  "date": 1780640970311,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Kill Billy Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

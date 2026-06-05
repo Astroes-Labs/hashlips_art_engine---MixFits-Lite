@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #232",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/232.png",
+  "dna": "3d6ed4124c05fef917b67ca9fbc19b73ede3418e",
+  "edition": 232,
+  "date": 1780640953728,
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Stoner"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

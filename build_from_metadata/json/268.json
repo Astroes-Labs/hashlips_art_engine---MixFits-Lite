@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #268",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/268.png",
+  "dna": "e2efae94fc07b56a500e6495e5db000f18993854",
+  "edition": 268,
+  "date": 1780640956470,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Biker Jacket"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Kill Billy Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

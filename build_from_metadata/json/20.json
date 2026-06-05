@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #20",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/20.png",
+  "dna": "9acbf34357134c96e1ec5c8332303bba803e5d25",
+  "edition": 20,
+  "date": 1780640940655,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Void Executioner"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

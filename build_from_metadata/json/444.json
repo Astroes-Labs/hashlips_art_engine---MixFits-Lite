@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #444",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/444.png",
+  "dna": "9a4598697097f1230b58f4c4b005d54376bdf12c",
+  "edition": 444,
+  "date": 1780640973322,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

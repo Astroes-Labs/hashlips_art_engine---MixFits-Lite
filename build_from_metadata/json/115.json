@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #115",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/115.png",
+  "dna": "d260338545a86b96cafae9086e39dc13db4439c6",
+  "edition": 115,
+  "date": 1780640945280,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Shark Suit"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

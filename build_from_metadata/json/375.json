@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #375",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/375.png",
+  "dna": "23fc1f0db93fb1e69e79a1f5105857f1c17119dc",
+  "edition": 375,
+  "date": 1780640967922,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Space Hunter Gear"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

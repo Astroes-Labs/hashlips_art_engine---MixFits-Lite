@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #230",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/230.png",
+  "dna": "09a07f1d171eac9ada56910ca60f581ea3277fd4",
+  "edition": 230,
+  "date": 1780640953443,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Werewolf II"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #395",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/395.png",
+  "dna": "d554c3baef26e7d55d4e0bf079a76c9b657a4c98",
+  "edition": 395,
+  "date": 1780640969366,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Slime"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Straight Face"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Cheese"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

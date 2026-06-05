@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #357",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/357.png",
+  "dna": "c0cf527d90f63969946fa082893920f210c78960",
+  "edition": 357,
+  "date": 1780640966605,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

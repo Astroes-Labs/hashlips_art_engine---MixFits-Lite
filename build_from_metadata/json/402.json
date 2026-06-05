@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #402",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/402.png",
+  "dna": "1c4d9b721b8a06ed74a55e03258b32420861ead7",
+  "edition": 402,
+  "date": 1780640969921,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

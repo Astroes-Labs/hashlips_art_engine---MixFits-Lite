@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #411",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/411.png",
+  "dna": "71cb6e7c241863a2d7241267a23001f90bb7181b",
+  "edition": 411,
+  "date": 1780640970609,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Joker Suit"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

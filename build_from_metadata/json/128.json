@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #128",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/128.png",
+  "dna": "d818f3aa1d0ae9c32510d6480a9bea4a8c537af0",
+  "edition": 128,
+  "date": 1780640945917,
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Experiment Zero"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #166",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/166.png",
+  "dna": "2aa317a5e14b2bbefcf008a8fcbb28aef0d64d95",
+  "edition": 166,
+  "date": 1780640948765,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Unknown Mutant"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

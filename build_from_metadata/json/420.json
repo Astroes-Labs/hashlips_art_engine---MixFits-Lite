@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #420",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/420.png",
+  "dna": "6617e8d637b992bd441dabbd7abf5f979c76af94",
+  "edition": 420,
+  "date": 1780640971217,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Biker Jacket"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

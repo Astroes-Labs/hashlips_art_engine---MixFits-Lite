@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #355",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/355.png",
+  "dna": "04cff1fca5157f10d249b486353d465a3fd0e5f5",
+  "edition": 355,
+  "date": 1780640966462,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

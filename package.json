@@ -20,7 +20,14 @@
     "update_info": "node utils/update_info.js",
     "preview_gif": "node utils/preview_gif.js",
     "generate_metadata": "node utils/generate_metadata.js",
-    "generate_trait_manifest": "node src/scripts/generateTraitManifest.js"
+    "generate_trait_manifest": "node src/scripts/generateTraitManifest.js",
+    "generate_from_metadata": "node src/scripts/generateFromMetadata.js",
+    "audit_traits": "node src/scripts/auditTraits.js",
+    "check_metadata": "node src/scripts/checkMetadata.js",
+    "gmd": "node src/scripts/generateFromMetadata.js",
+    "gtm": "node src/scripts/generateTraitManifest.js",
+    "cmt": "node src/scripts/checkMetadataTraits.js",
+    "at": "node src/scripts/auditTraits.js"
   },
   "author": "Daniel Eugene Botha (HashLips)",
   "license": "MIT",

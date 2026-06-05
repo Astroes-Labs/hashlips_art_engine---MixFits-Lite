@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #428",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/428.png",
+  "dna": "029eefa4df24a58fea18784022dbb34c88887933",
+  "edition": 428,
+  "date": 1780640971945,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink Slime"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Straight Face"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Ring"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

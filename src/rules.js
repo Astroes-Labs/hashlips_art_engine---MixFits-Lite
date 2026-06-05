@@ -30,17 +30,8 @@ const rules = {
           "Footwear",
         ],
         mutualExclusion: ["Hair", "Hat"],
-        // === IGNORE SPECIFIC TRAITS ON SPECIAL LAYER ===
         ignoreTraits: {
-          Special: [
-            "Bomb",
-            "Brain",
-            "Cheese",
-            "Dog",
-            "Ring",
-            "Slime Crown",
-            // Add all the Special traits you want to exclude for humans here
-          ],
+          Special: ["Bomb", "Brain", "Cheese", "Dog", "Ring", "Slime Crown"],
           Background: "Dark", // No Dark background
           Eyes: "Straight Face",
         },
@@ -51,26 +42,24 @@ const rules = {
     {
       if: {
         layer: "Body",
-        trait: ["Purple Slime", "Blue Slime", "Green Slime", "Pink Slime" ],
+        trait: ["Purple Slime", "Blue Slime", "Green Slime", "Pink Slime"],
       },
       then: {
-        allowedLayers: ["Background", "Special"],
-        ignore: ["Hair", "Hat", "Shirt", "Pants", "Footwear", "Eyes"],
+        allowedLayers: ["Background", "Eyes", "Special"],
+        ignore: ["Hair", "Hat", "Shirt", "Pants", "Footwear"],
+        forcedTraits: {
+          Eyes: "Straight Face", // Force Straight Face
+        },
         ignoreTraits: {
-        
           Special: [
             "Boxing Gloves",
-            "Dog",
-            "Ring",
-            "Slime Crown",
             "Cigratte",
+            "Gun",
+            "Halo",
+            "Katana",
+            "Slime Crown",
           ],
-          
-        }, 
-        forcedTraits: {
-         Eyes: [
-            "Straight Face"
-          ],
+          // No need to ignore other eyes since we're forcing one
         },
       },
     },
@@ -82,7 +71,7 @@ const rules = {
       },
       then: {
         allowedLayers: ["Background", "Special"],
-        ignore: ["Eyes", "Hair", "Hat", "Shirt", "Pants", "Footwear", "Special"],
+        ignore: ["Eyes", "Hair", "Hat", "Shirt", "Pants", "Footwear"],
         forcedTraits: {
           Special: "Slime Crown",
         },
@@ -90,6 +79,29 @@ const rules = {
     },
 
     // ====================== SPECIAL BODIES (No Eyes) ======================
+      {
+      if: {
+        layer: "Body",
+        trait: [
+          "Experiment Zero",
+        ],
+      },
+      then: {
+        allowedLayers: [ "Body","Eyes"], // Only Background + Body
+        ignore: [
+          "Background",
+          "Hair",
+          "Hat",
+          "Shirt",
+          "Pants",
+          "Footwear",
+          "Special",
+        ],
+        forcedTraits: {
+          Eyes: ["Regular Visor"]
+        },
+      },
+    },
     {
       if: {
         layer: "Body",
@@ -99,7 +111,6 @@ const rules = {
           "Brain Box",
           "Brown Werewolf II",
           "Brown Werewolf",
-          "Experiment Zero",
           "Ginger Werewolf",
           "Gold Skeleton",
           "Greenish Ghost",
@@ -134,6 +145,111 @@ const rules = {
           "Pants",
           "Footwear",
           "Special",
+        ],
+      },
+    },
+    {
+      if: {
+        layer: "Hair",
+        trait: [
+          "Blonde Slicked Back",
+          "Blonde Taper Fade",
+          "Blue Tinted Bun",
+          "Bowl Cut",
+          "Brains",
+          "Brunette Bun",
+          "Crew Cut",
+          "Clean Shave",
+          "Dirty Blonde Taper Fade",
+          "Fade",
+          "Ginger Bowl Cut",
+          "Messy",
+          "Slick Afro",
+        ],
+      },
+      then: {
+        ignoreTraits: {
+          Shirt: [
+            "Croc Suit",
+            "Full Protective Suit",
+            "Ninja Outfit",
+            "Panda Suit",
+            "Shark Suit",
+          ],
+        },
+      },
+    },
+    {
+      if: {
+        layer: "Hat",
+        trait: [
+          "Baby Propeller Hat",
+          "Banana Hat",
+          "Black Baseball Hat",
+          "Blue Baseball Hat",
+          "Brown Trucker Hat",
+          "Chef Hat",
+          "Grand Mage Hat",
+          "King Crown",
+          "Knight Helmet",
+          "Lucha Libre Mask",
+          "Mummy Hat",
+          "Not TMA Mask",
+          "Orange Trucker Hat",
+          "Pirate Hat",
+          "Pizza Hat",
+          "Police Hat",
+          "Propeller Hat",
+          "Space Gear Hood",
+          "Super Mutario Hat",
+          "Turban",
+          "White Baseball Hat",
+          "White Trucker Hat",
+          "Wizard Hat",
+        ],
+      },
+      then: {
+        ignoreTraits: {
+          Shirt: [
+            "Croc Suit",
+            "Full Protective Suit",
+            "Ninja Outfit",
+            "Panda Suit",
+            "Shark Suit",
+          ],
+        },
+      },
+    }, {
+      if: {
+        layer: "Eyes",
+        trait: [
+          "Laser",
+        ],
+      },
+      then: {
+        ignoreTraits: {
+          Shirt: [
+            "Croc Suit",
+            "Full Protective Suit",
+            "Ninja Outfit",
+            "Panda Suit",
+            "Shark Suit",
+          ],
+
+        },
+      },
+    },
+
+     {
+      if: {
+        layer: "Shirt",
+        trait: [
+         "Knight",
+        ],
+      },
+      then: {
+        ignore: [
+         "Footwear",
         ],
       },
     },
