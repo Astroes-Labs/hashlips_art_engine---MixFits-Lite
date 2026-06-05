@@ -24,6 +24,8 @@
     "generate_from_metadata": "node src/scripts/generateFromMetadata.js",
     "audit_traits": "node src/scripts/auditTraits.js",
     "check_metadata": "node src/scripts/checkMetadata.js",
+    "patch_metadata": "node src/scripts/patchMetadata.js patch.json",
+    "regen_single": "node src/scripts/regenSingle.js",
     "gmd": "node src/scripts/generateFromMetadata.js",
     "gtm": "node src/scripts/generateTraitManifest.js",
     "cmt": "node src/scripts/checkMetadataTraits.js",

@@ -1,0 +1,11 @@
+{
+  "edition": 17,
+  "attributes": [
+    { "trait_type": "Background", "value": "Void" },
+    { "trait_type": "Body",       "value": "Zombie" },
+    { "trait_type": "Hair",       "value": "Fade" },
+    { "trait_type": "Eyes",       "value": "Laser" },
+    { "trait_type": "Shirt",      "value": "Kill Billy Jacket" },
+    { "trait_type": "Footwear",   "value": "Kill Billy Boots" }
+  ]
+}
