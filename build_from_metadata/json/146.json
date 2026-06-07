@@ -2,13 +2,13 @@
   "name": "Your Collection #146",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/146.png",
-  "dna": "a51e452423353c9270ef4d3363921809a427d410",
+  "dna": "496fde0ff59efc123959b321f336ea80532684a0",
   "edition": 146,
-  "date": 1780640946795,
+  "date": 1780647616583,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Void"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Blonde Slicked Back"
+      "value": "Blonde Taper Fade"
     },
     {
       "trait_type": "Eyes",
-      "value": "Classic Visor"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Red Pirate Capt"
+      "value": "Sunglasses"
     },
     {
       "trait_type": "Pants",
-      "value": "Faded Jeans"
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
     },
     {
       "trait_type": "Footwear",
-      "value": "Black Combat Boots"
+      "value": "Black Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

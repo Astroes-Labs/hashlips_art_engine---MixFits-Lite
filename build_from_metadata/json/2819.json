@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2819",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2819.png",
+  "dna": "9aa455c276cdc676ac01e8d6d00523cbcc88e864",
+  "edition": 2819,
+  "date": 1780647804411,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

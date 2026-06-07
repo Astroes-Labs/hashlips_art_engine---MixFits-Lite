@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2499",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2499.png",
+  "dna": "8b0feb1ddd1fe64a8b151a06f7ffa8bd4745e4cb",
+  "edition": 2499,
+  "date": 1780647782234,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Tux"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

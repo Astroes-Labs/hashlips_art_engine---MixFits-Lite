@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #4301",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4301.png",
+  "dna": "d4e6e42a0c6f93292f497e1b129d75105074fd97",
+  "edition": 4301,
+  "date": 1780774597942,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Stoner"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #1895",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1895.png",
+  "dna": "1272ec167e7d24166d44b5d0d845c1155c934f5c",
+  "edition": 1895,
+  "date": 1780685527879,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Biker Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Chef Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

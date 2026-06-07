@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3727",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3727.png",
+  "dna": "1737478338ed26133880f19f71508518d843c773",
+  "edition": 3727,
+  "date": 1780647868418,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

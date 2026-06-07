@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #1692",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1692.png",
+  "dna": "95e473668b84772941a8a049aac80741688dbbba",
+  "edition": 1692,
+  "date": 1780775050188,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Ninja Outfit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

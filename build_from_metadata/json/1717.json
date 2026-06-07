@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1717",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1717.png",
+  "dna": "409884d91595e158e62b967656e06b35b5897e09",
+  "edition": 1717,
+  "date": 1780647727947,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

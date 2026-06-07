@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2744",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2744.png",
+  "dna": "2b06f09d2676f44aa9c3e449f8d9ee92b4f892a9",
+  "edition": 2744,
+  "date": 1780647799235,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Kill Billy Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

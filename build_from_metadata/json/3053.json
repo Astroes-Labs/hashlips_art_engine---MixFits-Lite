@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3053",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3053.png",
+  "dna": "ed81e10a06886783c051611e23d1c94a86fe5969",
+  "edition": 3053,
+  "date": 1780647821754,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

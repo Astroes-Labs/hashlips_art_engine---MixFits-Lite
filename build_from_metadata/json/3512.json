@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3512",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3512.png",
+  "dna": "65632ccec049055fe2df3e7ab27add630eecf75f",
+  "edition": 3512,
+  "date": 1780647853553,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

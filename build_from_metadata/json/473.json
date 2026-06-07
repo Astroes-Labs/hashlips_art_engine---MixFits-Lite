@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #473",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/473.png",
+  "dna": "72b26253fae699f6a195a90fc20332ab97ab4b81",
+  "edition": 473,
+  "date": 1780647641377,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Grand Mage Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #792",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/792.png",
+  "dna": "92f046cc7e33ae24df9b6d483d25810ba747e565",
+  "edition": 792,
+  "date": 1780685527853,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Grand Mage Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

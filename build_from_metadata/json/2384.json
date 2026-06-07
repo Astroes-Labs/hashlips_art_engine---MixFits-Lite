@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2384",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2384.png",
+  "dna": "4a258da525e0926c5fecfa89d948795f84fafba7",
+  "edition": 2384,
+  "date": 1780647773914,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

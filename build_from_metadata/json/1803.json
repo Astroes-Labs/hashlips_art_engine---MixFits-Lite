@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1803",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1803.png",
+  "dna": "58ec8cab6edb932375580688aabcb20407b28a45",
+  "edition": 1803,
+  "date": 1780647733840,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

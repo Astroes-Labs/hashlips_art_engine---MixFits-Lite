@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2694",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2694.png",
+  "dna": "1b6a55d2a5c82cc2880a15e64235e2efea143460",
+  "edition": 2694,
+  "date": 1780647795893,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

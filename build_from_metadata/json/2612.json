@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #2612",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2612.png",
+  "dna": "5b426ac5fb1b85b86022bbe2e260b46bfead4b3b",
+  "edition": 2612,
+  "date": 1780685527887,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Super Mutario Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

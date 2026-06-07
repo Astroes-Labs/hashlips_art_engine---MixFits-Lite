@@ -2,17 +2,37 @@
   "name": "Your Collection #59",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/59.png",
-  "dna": "6c0958a0b0143e3bcd5a0d866038b8a7cac236f8",
+  "dna": "a063223c73c5296e231762491d45df750b01a67b",
   "edition": 59,
-  "date": 1780640942603,
+  "date": 1780647610064,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Bluish Ghost"
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Kill Billy Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

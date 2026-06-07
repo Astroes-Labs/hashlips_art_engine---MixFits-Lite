@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2746",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2746.png",
+  "dna": "2b1fffce8ae3c7f462381ce154cde19faf20cd7f",
+  "edition": 2746,
+  "date": 1780647799351,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

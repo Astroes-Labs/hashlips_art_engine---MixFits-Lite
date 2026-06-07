@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2896",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2896.png",
+  "dna": "a92266b3f2f9acec3a485358ed454b1e2cd53861",
+  "edition": 2896,
+  "date": 1780647810444,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

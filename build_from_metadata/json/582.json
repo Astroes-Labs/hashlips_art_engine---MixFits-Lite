@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #582",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/582.png",
+  "dna": "c4935522758951c1d4aec6552843b0c9fb8cc6a3",
+  "edition": 582,
+  "date": 1780647648834,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Croc Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

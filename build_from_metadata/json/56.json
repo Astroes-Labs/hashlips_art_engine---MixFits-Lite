@@ -2,17 +2,37 @@
   "name": "Your Collection #56",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/56.png",
-  "dna": "6676ede2b6ac5694a07f5f98521ebf33b165e11d",
+  "dna": "92fc07c7737d7aba3cf53ba8dfc88d4984cfc842",
   "edition": 56,
-  "date": 1780640942448,
+  "date": 1780647609831,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Void Watcher"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
     }
   ],
   "compiler": "HashLips Art Engine"

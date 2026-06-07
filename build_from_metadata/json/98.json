@@ -2,17 +2,37 @@
   "name": "Your Collection #98",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/98.png",
-  "dna": "a1d8dd9bac9b81cd9cd2bbdac24df7a499976d3a",
+  "dna": "2b8499c4861092828eb53a779a39b56f0743a7e7",
   "edition": 98,
-  "date": 1780640944363,
+  "date": 1780647613027,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sky"
+      "value": "Void"
     },
     {
       "trait_type": "Body",
-      "value": "Ginger Werewolf"
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Joker Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
     }
   ],
   "compiler": "HashLips Art Engine"

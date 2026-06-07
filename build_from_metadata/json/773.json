@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #773",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/773.png",
+  "dna": "c926d525c25717e60551fbbcc5fc0140eadf7ce6",
+  "edition": 773,
+  "date": 1780647661942,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Black Suits"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

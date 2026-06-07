@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3671",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3671.png",
+  "dna": "491074249178afc8136ac13cfc744205a0ae1302",
+  "edition": 3671,
+  "date": 1780647864586,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

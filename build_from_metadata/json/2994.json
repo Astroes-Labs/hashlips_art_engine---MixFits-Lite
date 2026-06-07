@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2994",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2994.png",
+  "dna": "bb09dced941ba4bc7ede8635483fce32f97c4103",
+  "edition": 2994,
+  "date": 1780647817522,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Task Force Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

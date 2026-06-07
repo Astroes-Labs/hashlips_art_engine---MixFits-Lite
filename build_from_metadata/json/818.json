@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #818",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/818.png",
+  "dna": "4d4ad326020513fb964e8ca46c71ce990ea5f8a1",
+  "edition": 818,
+  "date": 1780647664894,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

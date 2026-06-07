@@ -2,25 +2,37 @@
   "name": "Your Collection #333",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/333.png",
-  "dna": "ab5aa10105df0fc3563617167e8049e5b019a0bd",
+  "dna": "762586b788842f5111be1a30ec17019d6b62b731",
   "edition": 333,
-  "date": 1780640964603,
+  "date": 1780647630687,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sky"
+      "value": "Light"
     },
     {
       "trait_type": "Body",
-      "value": "Pink Slime"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
     },
     {
       "trait_type": "Eyes",
-      "value": "Straight Face"
+      "value": "Pink Wraparound Sunglasses"
     },
     {
-      "trait_type": "Special",
-      "value": "Dog"
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

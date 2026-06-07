@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2073",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2073.png",
+  "dna": "6615ff2bd8ce792e211b89474f1f259c4352e79f",
+  "edition": 2073,
+  "date": 1780647752419,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

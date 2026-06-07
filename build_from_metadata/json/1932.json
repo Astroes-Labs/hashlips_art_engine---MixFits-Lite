@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1932",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1932.png",
+  "dna": "d18e1d067b6b26598984c2c3c9c99e5a370ef1e9",
+  "edition": 1932,
+  "date": 1780647742793,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

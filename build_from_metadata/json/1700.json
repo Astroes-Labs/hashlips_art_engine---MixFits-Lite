@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1700",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1700.png",
+  "dna": "525fb585bb03fb4bbc291a91e60ba073e0f5d242",
+  "edition": 1700,
+  "date": 1780647726812,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

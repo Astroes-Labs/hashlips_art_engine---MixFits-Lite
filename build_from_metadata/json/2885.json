@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2885",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2885.png",
+  "dna": "2d98002a54cd127fca272005891049a5931acecc",
+  "edition": 2885,
+  "date": 1780647809641,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

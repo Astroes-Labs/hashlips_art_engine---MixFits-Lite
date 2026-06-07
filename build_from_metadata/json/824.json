@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #824",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/824.png",
+  "dna": "bccf88489b3d5c0a2d2cb3446053e2336fc0cbc8",
+  "edition": 824,
+  "date": 1780647665290,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

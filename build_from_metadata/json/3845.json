@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3845",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3845.png",
+  "dna": "d3cd9f332cb1252803907dec68adb68533a922ca",
+  "edition": 3845,
+  "date": 1780647876794,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Dark Green Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

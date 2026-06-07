@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4293",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4293.png",
+  "dna": "a5f9f677adeae7da11a4b029d9789a2de57aed69",
+  "edition": 4293,
+  "date": 1780647908392,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

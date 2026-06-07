@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #3212",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3212.png",
+  "dna": "c0324dc666c46c9c5e8145a1ce3407239df39900",
+  "edition": 3212,
+  "date": 1780671944422,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Brown Trucker Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

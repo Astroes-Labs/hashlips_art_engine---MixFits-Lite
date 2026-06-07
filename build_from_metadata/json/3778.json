@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #3778",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3778.png",
+  "dna": "5b20fb253516934ea51530f3c361004b7d6dd3c9",
+  "edition": 3778,
+  "date": 1780685527895,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Space Gear Hood"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #716",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/716.png",
+  "dna": "eaf19a43fe77c773410ec616daa5da44f57cd95d",
+  "edition": 716,
+  "date": 1780647657790,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

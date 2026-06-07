@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1277",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1277.png",
+  "dna": "9d1264b3445a0e43b02de4e071b83af480c427ca",
+  "edition": 1277,
+  "date": 1780647695984,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

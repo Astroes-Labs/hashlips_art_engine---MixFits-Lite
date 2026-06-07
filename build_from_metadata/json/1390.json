@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1390",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1390.png",
+  "dna": "6689a9ebc3e2a33c3507be9c71df23cd25a12f55",
+  "edition": 1390,
+  "date": 1780647703883,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

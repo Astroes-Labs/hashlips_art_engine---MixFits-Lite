@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2209",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2209.png",
+  "dna": "8c73e6f02c1bb22073050de506ffb8574a762d94",
+  "edition": 2209,
+  "date": 1780647761717,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

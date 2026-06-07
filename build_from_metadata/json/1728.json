@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1728",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1728.png",
+  "dna": "707cfd45a0d972a0db31c1a9a03d46526575f502",
+  "edition": 1728,
+  "date": 1780647728730,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

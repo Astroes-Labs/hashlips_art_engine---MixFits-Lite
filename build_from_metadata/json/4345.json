@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4345",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4345.png",
+  "dna": "2670ee5dff792bdadc87141f48d262780282f2a2",
+  "edition": 4345,
+  "date": 1780647911999,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

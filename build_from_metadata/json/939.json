@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #939",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/939.png",
+  "dna": "f6fa01c3f3261d5a0de9da3c907ef7789ea6fe3d",
+  "edition": 939,
+  "date": 1780647673116,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

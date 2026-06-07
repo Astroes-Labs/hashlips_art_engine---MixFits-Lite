@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #948",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/948.png",
+  "dna": "6762f13f3408ce66f7a28b06bdaf2e98dd0f3523",
+  "edition": 948,
+  "date": 1780774597941,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Stoner"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

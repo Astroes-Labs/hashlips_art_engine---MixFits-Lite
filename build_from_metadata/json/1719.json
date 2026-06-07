@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #1719",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1719.png",
+  "dna": "0dafda56f2fef11474c5b219b9c46ae3620044e0",
+  "edition": 1719,
+  "date": 1780685527878,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Pirate Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

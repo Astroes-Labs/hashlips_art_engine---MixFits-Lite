@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #3525",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3525.png",
+  "dna": "c49818164df574b26694f2f86c3a96c280af5bf4",
+  "edition": 3525,
+  "date": 1780775050195,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Panda Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

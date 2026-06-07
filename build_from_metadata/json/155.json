@@ -2,25 +2,37 @@
   "name": "Your Collection #155",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/155.png",
-  "dna": "750c58cf5cbefdac11e2711c1f83286970d461ca",
+  "dna": "f5af1dcf726bf9722e95ac843f88d32c46638b71",
   "edition": 155,
-  "date": 1780640947965,
+  "date": 1780647617268,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark"
+      "value": "Void"
     },
     {
       "trait_type": "Body",
-      "value": "Green Slime"
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
     },
     {
       "trait_type": "Eyes",
-      "value": "Straight Face"
+      "value": "Blue Wraparound Sunglasses"
     },
     {
-      "trait_type": "Special",
-      "value": "Cheese"
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
     }
   ],
   "compiler": "HashLips Art Engine"

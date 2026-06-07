@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2312",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2312.png",
+  "dna": "339ba01a6758cd3a24f396d3024a59011d637a3b",
+  "edition": 2312,
+  "date": 1780685527883,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Turban"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

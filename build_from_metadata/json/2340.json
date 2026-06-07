@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #2340",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2340.png",
+  "dna": "8668e5027108ad9ccc196c66f63eb6c5f4786b2e",
+  "edition": 2340,
+  "date": 1780685527884,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Black Suits"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Orange Trucker Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

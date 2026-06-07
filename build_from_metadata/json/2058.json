@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #2058",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2058.png",
+  "dna": "262f427d427687eb6404440244f64c720acdaea6",
+  "edition": 2058,
+  "date": 1780685527881,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Tux"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "White Baseball Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

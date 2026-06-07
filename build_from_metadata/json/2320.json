@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2320",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2320.png",
+  "dna": "f7eebd868dfd17347aacc9d9aeaea143172efb4b",
+  "edition": 2320,
+  "date": 1780647769547,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

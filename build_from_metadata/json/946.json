@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #946",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/946.png",
+  "dna": "2c56e4a750d61afe767891adb076df0fc9c8856f",
+  "edition": 946,
+  "date": 1780685527856,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Orange Trucker Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

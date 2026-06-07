@@ -2,9 +2,9 @@
   "name": "Your Collection #108",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/108.png",
-  "dna": "43775ea7226aa4b8ca46f5686c7f38ab241858df",
+  "dna": "fdaf92910df0754c9816c2dc560145803b6622d6",
   "edition": 108,
-  "date": 1780640944862,
+  "date": 1780647613771,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,7 +12,27 @@
     },
     {
       "trait_type": "Body",
-      "value": "Unknown Mutant"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
     }
   ],
   "compiler": "HashLips Art Engine"

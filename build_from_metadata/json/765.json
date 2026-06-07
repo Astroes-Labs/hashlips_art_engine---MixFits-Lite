@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #765",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/765.png",
+  "dna": "6de811f3300811e0dbd39e028df1525b67049965",
+  "edition": 765,
+  "date": 1780647661399,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -2,21 +2,37 @@
   "name": "Your Collection #54",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/54.png",
-  "dna": "977f1584393bc8f26f26835c330ae7bd82438b94",
+  "dna": "66977bf750785e179a50327d3b21628ead975289",
   "edition": 54,
-  "date": 1780640942360,
+  "date": 1780647609705,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "King Slime"
+      "value": "Homo Sapien"
     },
     {
-      "trait_type": "Special",
-      "value": "Slime Crown"
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

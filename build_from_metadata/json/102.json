@@ -2,17 +2,25 @@
   "name": "Your Collection #102",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/102.png",
-  "dna": "c4145be22ff8e90c5aabd16b6469803517a3491a",
+  "dna": "c9d29a23d2a8bba131cb557814f060b4a0b9b8ca",
   "edition": 102,
-  "date": 1780640944538,
+  "date": 1780647613317,
   "attributes": [
     {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
       "trait_type": "Body",
-      "value": "Experiment Zero"
+      "value": "Pink Slime"
     },
     {
       "trait_type": "Eyes",
-      "value": "Blue Wraparound Sunglasses"
+      "value": "Straight Face"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Dog"
     }
   ],
   "compiler": "HashLips Art Engine"

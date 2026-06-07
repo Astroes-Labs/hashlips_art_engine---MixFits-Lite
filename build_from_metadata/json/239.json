@@ -2,9 +2,9 @@
   "name": "Your Collection #239",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/239.png",
-  "dna": "982c2ab37f8585556929ed9ee57892356f645784",
+  "dna": "6acebc3a8f6fd0f7616fca37e49392ee49769bfd",
   "edition": 239,
-  "date": 1780640954175,
+  "date": 1780647623712,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,7 +12,27 @@
     },
     {
       "trait_type": "Body",
-      "value": "Brain Box"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

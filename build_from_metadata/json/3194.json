@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3194",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3194.png",
+  "dna": "423e7fc13a4e8db0a8379dd90c9c865135b6a4d9",
+  "edition": 3194,
+  "date": 1780647831413,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

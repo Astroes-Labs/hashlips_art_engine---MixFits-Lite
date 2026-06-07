@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1523",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1523.png",
+  "dna": "328a4ab079b63698444433f189b2175ae8d7c08c",
+  "edition": 1523,
+  "date": 1780647713163,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #884",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/884.png",
+  "dna": "631fe98c74c320072e7c77ebaa75431f8c6eebd3",
+  "edition": 884,
+  "date": 1780647669314,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

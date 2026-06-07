@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4081",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4081.png",
+  "dna": "a9d4cd2d3e4d385abdd166b2abd254f4fefcca86",
+  "edition": 4081,
+  "date": 1780647893605,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

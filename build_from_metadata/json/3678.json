@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #3678",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3678.png",
+  "dna": "1f5b20b560afe8b9598ce6d6ea7735e9ae7317c7",
+  "edition": 3678,
+  "date": 1780647865020,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Stone Balor"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

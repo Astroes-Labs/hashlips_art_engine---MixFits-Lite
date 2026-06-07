@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #1938",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1938.png",
+  "dna": "2fd5320d599fa916c2e261221ace0f3783b90f54",
+  "edition": 1938,
+  "date": 1780685527880,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "White Trucker Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

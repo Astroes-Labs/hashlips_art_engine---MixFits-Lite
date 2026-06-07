@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4167",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4167.png",
+  "dna": "5c4216677cde46a0a35e3b956a257265a9490e3e",
+  "edition": 4167,
+  "date": 1780647899442,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brains"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Chef Outfit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

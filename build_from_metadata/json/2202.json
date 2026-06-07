@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2202",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2202.png",
+  "dna": "3f7bfafb3accdb4187c94a14e4ebbb1903e87985",
+  "edition": 2202,
+  "date": 1780647761254,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

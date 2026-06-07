@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #654",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/654.png",
+  "dna": "b6a10ae7a0fd9c5afd7a260b18a8555cae41fc7f",
+  "edition": 654,
+  "date": 1780685527850,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Space Gear Hood"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

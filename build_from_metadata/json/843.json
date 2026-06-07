@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #843",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/843.png",
+  "dna": "aafa6ad45c0ce467cfdb11ff68f1929004a1aec9",
+  "edition": 843,
+  "date": 1780775050187,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Croc Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

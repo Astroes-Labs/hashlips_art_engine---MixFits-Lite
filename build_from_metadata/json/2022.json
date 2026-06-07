@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2022",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2022.png",
+  "dna": "ca9a85b63433040539fba863feb312f62c64cfd0",
+  "edition": 2022,
+  "date": 1780647748756,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Kill Billy Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

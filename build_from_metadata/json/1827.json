@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1827",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1827.png",
+  "dna": "d9cee70c0a80b36b04370a3f08b95af7e31c7c87",
+  "edition": 1827,
+  "date": 1780647735482,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

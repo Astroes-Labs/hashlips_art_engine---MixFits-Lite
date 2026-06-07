@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3091",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3091.png",
+  "dna": "ed0692360c48c87c64cf694464088d2ddc3797df",
+  "edition": 3091,
+  "date": 1780647824334,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Task Force Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

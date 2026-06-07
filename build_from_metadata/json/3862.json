@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3862",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3862.png",
+  "dna": "405b57a3c4c0269c383cba0ab7f24c19042546af",
+  "edition": 3862,
+  "date": 1780647878124,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

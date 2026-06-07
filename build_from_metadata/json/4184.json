@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #4184",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4184.png",
+  "dna": "e224ceeb6afbcfefa7448b4d4c7406ae80387cdf",
+  "edition": 4184,
+  "date": 1780685527897,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Blue Baseball Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

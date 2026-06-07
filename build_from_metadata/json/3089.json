@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #3089",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3089.png",
+  "dna": "92eda3ba66721816e4b9e8e9140fbd1cf6730380",
+  "edition": 3089,
+  "date": 1780775050193,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Ninja Outfit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

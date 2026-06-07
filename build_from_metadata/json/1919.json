@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1919",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1919.png",
+  "dna": "3c564ea22039fa92007b61d33512db09c064e88d",
+  "edition": 1919,
+  "date": 1780647741878,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

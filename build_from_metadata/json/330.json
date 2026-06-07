@@ -2,17 +2,37 @@
   "name": "Your Collection #330",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/330.png",
-  "dna": "eb4ba0b508519173603e2377cf99a5ec897e1fa9",
+  "dna": "e8b45d671ef430115fa8255c2f42f60952d4bf21",
   "edition": 330,
-  "date": 1780640964344,
+  "date": 1780647630447,
   "attributes": [
     {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
       "trait_type": "Body",
-      "value": "Stoner"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
     },
     {
       "trait_type": "Eyes",
       "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Biker Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
     }
   ],
   "compiler": "HashLips Art Engine"

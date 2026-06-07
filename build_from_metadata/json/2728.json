@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #2728",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2728.png",
+  "dna": "0d21e8431c203a2d15ad77a87983a534f5b3957d",
+  "edition": 2728,
+  "date": 1780685527888,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Propeller Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

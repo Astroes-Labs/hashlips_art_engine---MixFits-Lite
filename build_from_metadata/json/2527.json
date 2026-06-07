@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2527",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2527.png",
+  "dna": "56e695bcee40c72904c5967e4b6fc5aa71a2286b",
+  "edition": 2527,
+  "date": 1780773419863,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Lucha Libre Mask"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #1592",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1592.png",
+  "dna": "1af0a7508a1f9c20cf64c61e5c33f033809afe06",
+  "edition": 1592,
+  "date": 1780647718086,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink Slime"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Straight Face"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Bomb"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

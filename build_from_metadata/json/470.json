@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #470",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/470.png",
+  "dna": "74d6ba2815307a1cdc8f2a901d7a1c861cf98c23",
+  "edition": 470,
+  "date": 1780647641184,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

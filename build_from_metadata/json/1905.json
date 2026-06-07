@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1905",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1905.png",
+  "dna": "daf7f7c287dca24d1b0fc51960ff9080d93e3c7e",
+  "edition": 1905,
+  "date": 1780647740928,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

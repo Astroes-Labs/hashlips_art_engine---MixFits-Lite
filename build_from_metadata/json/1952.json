@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1952",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1952.png",
+  "dna": "710521b044b0fccf67b4bea3537a138e13310af0",
+  "edition": 1952,
+  "date": 1780647744118,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

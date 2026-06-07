@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3496",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3496.png",
+  "dna": "211bb41e601fdf1a50479b2fb45d05942be72e99",
+  "edition": 3496,
+  "date": 1780647852503,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

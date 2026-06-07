@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1207",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1207.png",
+  "dna": "cac7c7371ad0845c7ba4d04c8b55c0c542e93ac7",
+  "edition": 1207,
+  "date": 1780647691236,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

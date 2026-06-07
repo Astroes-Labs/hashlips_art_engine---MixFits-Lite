@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3962",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3962.png",
+  "dna": "2dbdf3f64383effe8e34563aed2aa06d0bd05b14",
+  "edition": 3962,
+  "date": 1780647885079,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

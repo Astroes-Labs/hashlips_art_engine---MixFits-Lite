@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #4354",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4354.png",
+  "dna": "8809875cf85725f5c44d739216e1581fba520094",
+  "edition": 4354,
+  "date": 1780685629356,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Knight"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3409",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3409.png",
+  "dna": "5ead2e30a1467ccc0fa5477e0a4870bbe3e13cd2",
+  "edition": 3409,
+  "date": 1780647846254,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Chef Outfit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

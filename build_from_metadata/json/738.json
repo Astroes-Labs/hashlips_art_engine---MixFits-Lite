@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #738",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/738.png",
+  "dna": "bc241490cc353b3a01ffe68410414869fd742d08",
+  "edition": 738,
+  "date": 1780647659263,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Task Force Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

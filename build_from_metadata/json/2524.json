@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #2524",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2524.png",
+  "dna": "c3478ec074660c0a683f21d8cab8d7b054e46fd6",
+  "edition": 2524,
+  "date": 1780685527887,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Pizza Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

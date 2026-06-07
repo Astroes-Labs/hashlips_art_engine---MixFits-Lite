@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1114",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1114.png",
+  "dna": "18dd11ac026e9457f1d4c4ee164d669a4de01bb1",
+  "edition": 1114,
+  "date": 1780773419862,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Knight Helmet"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

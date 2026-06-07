@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #874",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/874.png",
+  "dna": "a0a7702020eafca9922533e83d60c8285bb0ed51",
+  "edition": 874,
+  "date": 1780647668651,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

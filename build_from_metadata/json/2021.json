@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #2021",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2021.png",
+  "dna": "4e8adc4cd881de397af3da0b350e98e65b99edcd",
+  "edition": 2021,
+  "date": 1780647748693,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Stone Balor"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

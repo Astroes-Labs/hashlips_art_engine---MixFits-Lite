@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #1596",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1596.png",
+  "dna": "b329bdd9067a873ebd37ba64707b372c3ac6aaa1",
+  "edition": 1596,
+  "date": 1780685527877,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Propeller Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

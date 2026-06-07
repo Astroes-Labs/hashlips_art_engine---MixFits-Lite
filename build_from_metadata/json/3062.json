@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #3062",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3062.png",
+  "dna": "cc860bde1c1913f92440b6b25b2f959a60fea011",
+  "edition": 3062,
+  "date": 1780685527889,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "White Baseball Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1080",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1080.png",
+  "dna": "27fee91407cba4009b23c8e6c63ebceffa67fa02",
+  "edition": 1080,
+  "date": 1780647682728,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

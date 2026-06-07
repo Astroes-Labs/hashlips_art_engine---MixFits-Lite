@@ -2,37 +2,37 @@
   "name": "Your Collection #325",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/325.png",
-  "dna": "80d81870ed87032e74befb7a6b7653fbfb4af743",
+  "dna": "a03894fe0c54ecd15b5ba1ab5075cf08234425b6",
   "edition": 325,
-  "date": 1780640963689,
+  "date": 1780647630072,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sky"
+      "value": "Void"
     },
     {
       "trait_type": "Body",
-      "value": "Stoner"
+      "value": "Zombie"
     },
     {
       "trait_type": "Hair",
-      "value": "Slick Afro"
+      "value": "Blonde Slicked Back"
     },
     {
       "trait_type": "Eyes",
-      "value": "Regular Visor"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Panda Suit"
+      "value": "Blue Wraparound Sunglasses"
     },
     {
       "trait_type": "Pants",
-      "value": "BBall Short"
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
     },
     {
       "trait_type": "Footwear",
-      "value": "Black Boots"
+      "value": "Brown Sandals"
     }
   ],
   "compiler": "HashLips Art Engine"

@@ -2,9 +2,9 @@
   "name": "Your Collection #327",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/327.png",
-  "dna": "b6d09640ca1dadaa11e3ecb0661f36b88ea136f6",
+  "dna": "fa2142bea9f445a79fb3ff1f46ca557de59aa039",
   "edition": 327,
-  "date": 1780640963986,
+  "date": 1780647630217,
   "attributes": [
     {
       "trait_type": "Background",
@@ -20,19 +20,19 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Pink Wraparound Sunglasses"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Knight"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Pants",
-      "value": "Jeans"
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Biker Jacket"
     },
     {
       "trait_type": "Footwear",
-      "value": "Combat Boots"
+      "value": "Black Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

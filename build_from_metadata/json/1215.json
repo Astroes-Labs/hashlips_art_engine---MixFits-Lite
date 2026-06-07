@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1215",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1215.png",
+  "dna": "272944229b253134408acb186bac647f0bf1cf8d",
+  "edition": 1215,
+  "date": 1780647691822,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Dark Green Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

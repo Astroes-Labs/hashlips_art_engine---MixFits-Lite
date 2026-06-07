@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2001",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2001.png",
+  "dna": "4b5d750dd18567c24e7d4da5828aca0dd8b144e9",
+  "edition": 2001,
+  "date": 1780647747389,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Joker Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

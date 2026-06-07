@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3620",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3620.png",
+  "dna": "69161235b672877f08f140d204ca362e455f4c50",
+  "edition": 3620,
+  "date": 1780647861149,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

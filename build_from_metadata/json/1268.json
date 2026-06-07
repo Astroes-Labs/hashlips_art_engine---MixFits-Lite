@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1268",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1268.png",
+  "dna": "7600dfc37d2a21985d63208ab7f099cfcfe6ff30",
+  "edition": 1268,
+  "date": 1780647695399,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Kill Billy Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

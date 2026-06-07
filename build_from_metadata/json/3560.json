@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3560",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3560.png",
+  "dna": "1caeef913e261b8d809ca7367b6b5137f28cda98",
+  "edition": 3560,
+  "date": 1780647856809,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

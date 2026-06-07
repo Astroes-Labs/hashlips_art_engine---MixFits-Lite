@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #991",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/991.png",
+  "dna": "332a39c89010625e864544d0e41a1db0c8fc5543",
+  "edition": 991,
+  "date": 1780647676746,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

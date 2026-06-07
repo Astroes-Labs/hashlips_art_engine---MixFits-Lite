@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #829",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/829.png",
+  "dna": "043377d4c4fcfd3cdc5fc1bf3bf9d9e91fac98be",
+  "edition": 829,
+  "date": 1780685527854,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Grand Mage Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

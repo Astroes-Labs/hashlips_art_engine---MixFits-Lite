@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #3422",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3422.png",
+  "dna": "9d24eec21a3c6b80a45e41bb4239f5b4095a0d34",
+  "edition": 3422,
+  "date": 1780775050194,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Panda Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

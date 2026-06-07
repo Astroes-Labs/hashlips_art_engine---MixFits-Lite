@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #4341",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4341.png",
+  "dna": "5b63aff5fab5d9ac36fbd2594c44336e94f92639",
+  "edition": 4341,
+  "date": 1780647911688,
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Experiment Zero"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

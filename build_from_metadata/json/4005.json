@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4005",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4005.png",
+  "dna": "122130d6e70d17e5efffc942ff2ff61ae9e1a3a1",
+  "edition": 4005,
+  "date": 1780647888352,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

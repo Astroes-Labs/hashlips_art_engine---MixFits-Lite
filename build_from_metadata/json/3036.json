@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #3036",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3036.png",
+  "dna": "79c8c6b58771384dffa4ac040b20e5f3fa349504",
+  "edition": 3036,
+  "date": 1780685527889,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Turban"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #627",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/627.png",
+  "dna": "f7b091f1f132fe4a0f44f759c9580ee390cf4b66",
+  "edition": 627,
+  "date": 1780647651796,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

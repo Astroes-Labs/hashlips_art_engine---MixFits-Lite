@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3505",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3505.png",
+  "dna": "6b48d4fa02d64df4c5aa8e3db3bc9cb35e6d88c4",
+  "edition": 3505,
+  "date": 1780647853083,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

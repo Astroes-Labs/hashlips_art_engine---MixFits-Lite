@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #3654",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3654.png",
+  "dna": "307b3710fb4bdc2a393bb3acf9e6567f623478e2",
+  "edition": 3654,
+  "date": 1780685527894,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Grand Mage Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -2,13 +2,13 @@
   "name": "Your Collection #248",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/248.png",
-  "dna": "30de022d96521a9892c0a61751958df07c456b34",
+  "dna": "f6d23551662b3850e59608aaf153f1d908c7d3f0",
   "edition": 248,
-  "date": 1780640954936,
+  "date": 1780647624328,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Void"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
@@ -20,7 +20,7 @@
     },
     {
       "trait_type": "Special",
-      "value": "Brain"
+      "value": "Bomb"
     }
   ],
   "compiler": "HashLips Art Engine"

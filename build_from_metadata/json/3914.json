@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3914",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3914.png",
+  "dna": "0824d7e0b6029b8011fa371d37ed2cfbdde4763d",
+  "edition": 3914,
+  "date": 1780647881865,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

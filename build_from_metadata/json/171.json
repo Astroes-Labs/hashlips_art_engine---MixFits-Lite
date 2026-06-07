@@ -2,33 +2,33 @@
   "name": "Your Collection #171",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/171.png",
-  "dna": "7c831766ce9d6ba213fc43257137f2a577fb0a45",
+  "dna": "2c7a5ec8f9bb122533d78b0de4893dc85f6a1a18",
   "edition": 171,
-  "date": 1780640949055,
+  "date": 1780647618521,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Void"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Zombie"
+      "value": "Homo Sapien"
     },
     {
       "trait_type": "Hair",
-      "value": "Brains"
+      "value": "Bowl Cut"
     },
     {
       "trait_type": "Eyes",
-      "value": "3D Glasses"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "France Accent Jersey"
+      "value": "Sunglasses"
     },
     {
       "trait_type": "Pants",
-      "value": "Task Force Pants"
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Kill Billy Jacket"
     },
     {
       "trait_type": "Footwear",

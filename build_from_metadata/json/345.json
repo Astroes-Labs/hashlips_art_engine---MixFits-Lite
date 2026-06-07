@@ -2,37 +2,37 @@
   "name": "Your Collection #345",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/345.png",
-  "dna": "8e9723fc1958cfe768df04e2f4981b530803dcee",
+  "dna": "2238a5c3d339399e59c16406e61e1a2797846203",
   "edition": 345,
-  "date": 1780640965689,
+  "date": 1780647631569,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Void"
+      "value": "Light"
     },
     {
       "trait_type": "Body",
-      "value": "Zombie"
+      "value": "Homo Sapien"
     },
     {
       "trait_type": "Hair",
-      "value": "Bowl Cut"
+      "value": "Fade"
     },
     {
       "trait_type": "Eyes",
-      "value": "Sunglasses"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Safety Vest"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Pants",
-      "value": "Tux Suit Pants"
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Varsity Jacket"
     },
     {
       "trait_type": "Footwear",
-      "value": "Kill Billy Boots"
+      "value": "Brown Sandals"
     }
   ],
   "compiler": "HashLips Art Engine"

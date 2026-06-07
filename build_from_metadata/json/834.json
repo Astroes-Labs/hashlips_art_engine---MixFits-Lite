@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #834",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/834.png",
+  "dna": "f9588a023e74c10083cfb7f6805e739db538029e",
+  "edition": 834,
+  "date": 1780773088585,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Croc Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3718",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3718.png",
+  "dna": "0d37d91f15441fa8a5b9088717363906b9e289d6",
+  "edition": 3718,
+  "date": 1780647867816,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

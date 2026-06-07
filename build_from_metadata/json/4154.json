@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4154",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4154.png",
+  "dna": "628f7c6438e5c8e371003b26322748daa8ad6e43",
+  "edition": 4154,
+  "date": 1780647898561,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Joker Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

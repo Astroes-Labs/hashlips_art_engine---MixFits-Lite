@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1714",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1714.png",
+  "dna": "1d4d5804a5d897ea76c98aef6a2d1f0d2abec79a",
+  "edition": 1714,
+  "date": 1780647727748,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Dark Green Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2335",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2335.png",
+  "dna": "0de09b15ec5e178d7cb1f841b1dc2c88de23b53d",
+  "edition": 2335,
+  "date": 1780647770616,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

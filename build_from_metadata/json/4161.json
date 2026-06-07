@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4161",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4161.png",
+  "dna": "bde93dd98b35eda799f6343d960a05e2ae74e953",
+  "edition": 4161,
+  "date": 1780647899036,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

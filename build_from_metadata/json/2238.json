@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2238",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2238.png",
+  "dna": "42fae314c818deef5d3f1a7d29d37c453963db76",
+  "edition": 2238,
+  "date": 1780647763844,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

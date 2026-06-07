@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #2297",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2297.png",
+  "dna": "1841080e881c01fd99322773989beabf1bc75341",
+  "edition": 2297,
+  "date": 1780685527883,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Space Gear Hood"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

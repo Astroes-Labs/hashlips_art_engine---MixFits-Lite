@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #1890",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1890.png",
+  "dna": "5c25543c25e8d52140e68b3185df76422c78e3ed",
+  "edition": 1890,
+  "date": 1780685527879,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Tux"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Pizza Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

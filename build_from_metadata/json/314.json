@@ -2,25 +2,37 @@
   "name": "Your Collection #314",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/314.png",
-  "dna": "b0ee52f8ad4d74e6b6f933ada742cacdb9869411",
+  "dna": "aa0587f7eae9c27029d31630d522b0b3fbcf0e6e",
   "edition": 314,
-  "date": 1780640961841,
+  "date": 1780647629165,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Pink Slime"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
     },
     {
       "trait_type": "Eyes",
-      "value": "Straight Face"
+      "value": "Sunglasses"
     },
     {
-      "trait_type": "Special",
-      "value": "Brain"
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Wizard Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
     }
   ],
   "compiler": "HashLips Art Engine"

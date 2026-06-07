@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #1527",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1527.png",
+  "dna": "8073feb5524cf69e98e94bcce346bcab32aa70c0",
+  "edition": 1527,
+  "date": 1780775050188,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Full Protective Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

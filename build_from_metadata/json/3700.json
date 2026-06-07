@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3700",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3700.png",
+  "dna": "c22e293358f5e1b40867e99d756e175de6baaba2",
+  "edition": 3700,
+  "date": 1780647866585,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Kill Billy Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

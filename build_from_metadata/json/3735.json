@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3735",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3735.png",
+  "dna": "108c76da2a98581ad94cb7ec2dac37f5c5b3368c",
+  "edition": 3735,
+  "date": 1780647868952,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

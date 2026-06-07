@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #4351",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4351.png",
+  "dna": "f47ea097cd40c7a57a6db02dc99d36c76258a0fd",
+  "edition": 4351,
+  "date": 1780685527897,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Kill Billy Boots"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "White Baseball Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

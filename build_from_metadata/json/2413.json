@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2413",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2413.png",
+  "dna": "9965a04b71abd615ce8aed61eb904cfa688957a3",
+  "edition": 2413,
+  "date": 1780647775864,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

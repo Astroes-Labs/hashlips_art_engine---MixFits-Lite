@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #1632",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1632.png",
+  "dna": "da477972599cfa492c3e094893f0df5c1b850520",
+  "edition": 1632,
+  "date": 1780773088588,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Ninja Outfit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

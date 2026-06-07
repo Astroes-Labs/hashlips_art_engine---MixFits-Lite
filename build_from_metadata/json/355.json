@@ -2,37 +2,37 @@
   "name": "Your Collection #355",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/355.png",
-  "dna": "04cff1fca5157f10d249b486353d465a3fd0e5f5",
+  "dna": "8b244d6320a137143cc19834d3cd3e2a91e065ba",
   "edition": 355,
-  "date": 1780640966462,
+  "date": 1780647632391,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Zombie"
+      "value": "Homo Sapien"
     },
     {
       "trait_type": "Hair",
-      "value": "Dirty Blonde Taper Fade"
+      "value": "Brains"
     },
     {
       "trait_type": "Eyes",
-      "value": "Classic Visor"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Protective Suit"
+      "value": "Regular Visor"
     },
     {
       "trait_type": "Pants",
-      "value": "Black Suit Pants"
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Lab Coat"
     },
     {
       "trait_type": "Footwear",
-      "value": "Black Combat Boots"
+      "value": "Brown Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

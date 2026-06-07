@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3410",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3410.png",
+  "dna": "666c6dd3621997b6af597659a29e35e782ff3afc",
+  "edition": 3410,
+  "date": 1780647846399,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

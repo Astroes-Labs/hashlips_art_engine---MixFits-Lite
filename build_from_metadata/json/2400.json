@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #2400",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2400.png",
+  "dna": "2bcb112e4ad13240c7441bb4c3a81fbda9a02be6",
+  "edition": 2400,
+  "date": 1780775050189,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Croc Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

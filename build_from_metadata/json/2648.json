@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2648",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2648.png",
+  "dna": "efb9343f0a8db588f7442147922ef318955df564",
+  "edition": 2648,
+  "date": 1780647792757,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

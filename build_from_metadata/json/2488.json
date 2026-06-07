@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #2488",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2488.png",
+  "dna": "c9d1fafd1342968cfe11ba50f1fe856c4ae3d3dc",
+  "edition": 2488,
+  "date": 1780647781472,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Greenish Ghost"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

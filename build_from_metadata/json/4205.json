@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #4205",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4205.png",
+  "dna": "6227de02129dfd5af80cca18bd76a2c7557c9304",
+  "edition": 4205,
+  "date": 1780685527897,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Space Gear Hood"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

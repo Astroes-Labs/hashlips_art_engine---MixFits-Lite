@@ -2,17 +2,37 @@
   "name": "Your Collection #192",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/192.png",
-  "dna": "10b96040954951b0507a2988956ab5da38e1c3a7",
+  "dna": "8ada995f4d3dba7397e515260ca131171fff2761",
   "edition": 192,
-  "date": 1780640950549,
+  "date": 1780647620170,
   "attributes": [
     {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
       "trait_type": "Body",
-      "value": "Experiment Zero"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
     },
     {
       "trait_type": "Eyes",
-      "value": "Regular Visor"
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Task Force Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
     }
   ],
   "compiler": "HashLips Art Engine"

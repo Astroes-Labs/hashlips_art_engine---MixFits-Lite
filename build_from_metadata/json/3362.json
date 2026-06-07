@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3362",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3362.png",
+  "dna": "11b5700fa48832058d4413b822605d655780859e",
+  "edition": 3362,
+  "date": 1780647843051,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

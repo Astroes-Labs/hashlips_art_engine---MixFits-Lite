@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2471",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2471.png",
+  "dna": "6204c07aac7d1446836bc0cfaddab75a9132c558",
+  "edition": 2471,
+  "date": 1780647780336,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

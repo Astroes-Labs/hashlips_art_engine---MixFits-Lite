@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2523",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2523.png",
+  "dna": "94d21632ed17aaa3823db973ffd89c8ccdf3cc70",
+  "edition": 2523,
+  "date": 1780773419863,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Lucha Libre Mask"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

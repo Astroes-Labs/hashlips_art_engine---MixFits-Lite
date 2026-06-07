@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #672",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/672.png",
+  "dna": "cbea00ff90ecb7fe0c98cd63a8b49667403019ce",
+  "edition": 672,
+  "date": 1780685527851,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Propeller Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

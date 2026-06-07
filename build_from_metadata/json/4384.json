@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #4384",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4384.png",
+  "dna": "c88d2febb15bd0bea75696db6d8cc1e0c56102ec",
+  "edition": 4384,
+  "date": 1780685527897,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Chef Outfit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "White Baseball Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

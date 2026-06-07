@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #913",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/913.png",
+  "dna": "c22641c44f2e347cddc99add6aa1cde70fc70202",
+  "edition": 913,
+  "date": 1780685527855,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Brown Trucker Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

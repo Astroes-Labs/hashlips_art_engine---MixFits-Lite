@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2638",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2638.png",
+  "dna": "e9dac5e0342993cefa3ebcaa39d314e3abab807d",
+  "edition": 2638,
+  "date": 1780647792099,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Kill Billy Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

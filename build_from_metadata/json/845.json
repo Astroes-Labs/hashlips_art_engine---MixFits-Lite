@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #845",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/845.png",
+  "dna": "d26864a794373b67a3b14fc29a9165d7f6002dfd",
+  "edition": 845,
+  "date": 1780685527854,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Pizza Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

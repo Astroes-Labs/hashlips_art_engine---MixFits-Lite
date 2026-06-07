@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #4110",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4110.png",
+  "dna": "9f450ee7aa6937d89a6b08a33b8abab5e8956cdb",
+  "edition": 4110,
+  "date": 1780685527896,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Blue Baseball Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

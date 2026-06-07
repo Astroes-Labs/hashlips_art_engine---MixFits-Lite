@@ -2,37 +2,37 @@
   "name": "Your Collection #379",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/379.png",
-  "dna": "226e710a3a87b186d7bf6128c2ebc4567ceb8b2e",
+  "dna": "d6d21c01d9872468dba20bd45aa09eb774eb24ad",
   "edition": 379,
-  "date": 1780640968225,
+  "date": 1780647634627,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Void"
+      "value": "Light"
     },
     {
       "trait_type": "Body",
-      "value": "Zombie"
+      "value": "Homo Sapien"
     },
     {
       "trait_type": "Hair",
-      "value": "Blonde Taper Fade"
+      "value": "Low Cut II"
     },
     {
       "trait_type": "Eyes",
-      "value": "Eye Patch"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Blue Varsity Jacket"
+      "value": "Pink Wraparound Sunglasses"
     },
     {
       "trait_type": "Pants",
-      "value": "Blue Suit Pants"
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Biker Jacket"
     },
     {
       "trait_type": "Footwear",
-      "value": "Red colorway Sneakers"
+      "value": "OffWhyt Sneakers"
     }
   ],
   "compiler": "HashLips Art Engine"

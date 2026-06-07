@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #1763",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1763.png",
+  "dna": "bc4a896cc6fe2f9273f61b7fb9b69b79051f09e2",
+  "edition": 1763,
+  "date": 1780671944403,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Task Force Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Wizard Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

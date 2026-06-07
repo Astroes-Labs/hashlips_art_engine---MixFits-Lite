@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1432",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1432.png",
+  "dna": "c01dd8cc1174e3d5a532fc10a73ffcad292713df",
+  "edition": 1432,
+  "date": 1780647706691,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

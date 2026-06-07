@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #544",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/544.png",
+  "dna": "c1db6d0d1426b755e9dcaaf1876bf183633b4a35",
+  "edition": 544,
+  "date": 1780647646074,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

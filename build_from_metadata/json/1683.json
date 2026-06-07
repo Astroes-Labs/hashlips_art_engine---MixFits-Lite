@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1683",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1683.png",
+  "dna": "81088b4cefbe349ed036aeac6ee059bfa737a21b",
+  "edition": 1683,
+  "date": 1780647725650,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Wizard Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #2288",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2288.png",
+  "dna": "2e56d244c0f582224577bd546e0608bba9d36b65",
+  "edition": 2288,
+  "date": 1780685527883,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Banana Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #922",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/922.png",
+  "dna": "dfede900bd06f6efc9a67f2256b61740fb9d27cf",
+  "edition": 922,
+  "date": 1780647672010,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

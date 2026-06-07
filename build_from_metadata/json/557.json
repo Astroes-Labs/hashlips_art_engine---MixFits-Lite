@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #557",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/557.png",
+  "dna": "e6bc1c82f25fb30856bfc01ab1a15928b2f907a4",
+  "edition": 557,
+  "date": 1780647646962,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

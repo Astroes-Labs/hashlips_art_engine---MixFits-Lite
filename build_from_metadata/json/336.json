@@ -2,9 +2,9 @@
   "name": "Your Collection #336",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/336.png",
-  "dna": "2572ed07e931dd918c1fabb8efdeffaf09582919",
+  "dna": "69979a449a44e9ff5944b9f5e92b930a7a2cfb29",
   "edition": 336,
-  "date": 1780640965020,
+  "date": 1780647630930,
   "attributes": [
     {
       "trait_type": "Background",
@@ -16,19 +16,19 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Brains"
+      "value": "Low Cut II"
     },
     {
       "trait_type": "Eyes",
-      "value": "Classic Visor"
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
     },
     {
       "trait_type": "Shirt",
       "value": "Snow Jacket"
-    },
-    {
-      "trait_type": "Pants",
-      "value": "BBall Short"
     },
     {
       "trait_type": "Footwear",

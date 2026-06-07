@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2749",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2749.png",
+  "dna": "bb4dd91be0afd36a5c22394d236a10ffee4b1860",
+  "edition": 2749,
+  "date": 1780647799592,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Task Force Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

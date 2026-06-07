@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4391",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4391.png",
+  "dna": "9749642830869720a34280e4d1e03f5b26530655",
+  "edition": 4391,
+  "date": 1780647915129,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

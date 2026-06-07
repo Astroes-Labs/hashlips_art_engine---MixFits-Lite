@@ -2,37 +2,25 @@
   "name": "Your Collection #389",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/389.png",
-  "dna": "a6978d1597ff79762e25639464b9041d238d0f6a",
+  "dna": "467ad07d86c6b8c552b6faef6cd6172e2f5b8892",
   "edition": 389,
-  "date": 1780640968924,
+  "date": 1780647635276,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Wine"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Homo Sapien"
-    },
-    {
-      "trait_type": "Hair",
-      "value": "Blonde Slicked Back"
+      "value": "Purple Slime"
     },
     {
       "trait_type": "Eyes",
-      "value": "Classic Visor"
+      "value": "Straight Face"
     },
     {
-      "trait_type": "Shirt",
-      "value": "Red Sweat Shirt"
-    },
-    {
-      "trait_type": "Pants",
-      "value": "Camo Pants"
-    },
-    {
-      "trait_type": "Footwear",
-      "value": "OffWhyt Sneakers"
+      "trait_type": "Special",
+      "value": "Bomb"
     }
   ],
   "compiler": "HashLips Art Engine"

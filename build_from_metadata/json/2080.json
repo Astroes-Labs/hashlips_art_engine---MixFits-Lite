@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2080",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2080.png",
+  "dna": "3551336ff2493be3a0d319b0b88d8cdce84d268b",
+  "edition": 2080,
+  "date": 1780647752884,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

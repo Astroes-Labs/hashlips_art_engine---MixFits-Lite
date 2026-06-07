@@ -2,17 +2,37 @@
   "name": "Your Collection #199",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/199.png",
-  "dna": "20469627d4679c9b6ce67b3cd1aad40b1553bf65",
+  "dna": "fcba99fbf14b0c3acbe89a2b61a25a1f91283476",
   "edition": 199,
-  "date": 1780640951104,
+  "date": 1780647620699,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Void"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Monitor Bot Y"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
     }
   ],
   "compiler": "HashLips Art Engine"

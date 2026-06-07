@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #665",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/665.png",
+  "dna": "8b5939a50360abe90a9263348ad45d8595c27c88",
+  "edition": 665,
+  "date": 1780685527851,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Pirate Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

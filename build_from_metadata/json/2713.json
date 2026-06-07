@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #2713",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2713.png",
+  "dna": "d631c3e7efe0984b57a9564754d7cdd9373216e4",
+  "edition": 2713,
+  "date": 1780685527888,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Banana Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

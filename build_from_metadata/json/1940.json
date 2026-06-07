@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1940",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1940.png",
+  "dna": "481cb05b4c756a43f6529696ed87d725dacd1c10",
+  "edition": 1940,
+  "date": 1780647743302,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1477",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1477.png",
+  "dna": "0c4b30aec4ef8d0a9b9a20e1b5af726e3da16bfb",
+  "edition": 1477,
+  "date": 1780778780578,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Task Force Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Not TMA Mask"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

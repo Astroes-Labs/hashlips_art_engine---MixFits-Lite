@@ -2,37 +2,37 @@
   "name": "Your Collection #190",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/190.png",
-  "dna": "3c5ae5e6183c97484dbcc48d2e00c757ce6765df",
+  "dna": "93a171fd65d87c3935923f103088dc7927e3a6de",
   "edition": 190,
-  "date": 1780640950378,
+  "date": 1780647620028,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light"
+      "value": "Void"
     },
     {
       "trait_type": "Body",
-      "value": "Zombie"
+      "value": "Homo Sapien"
     },
     {
       "trait_type": "Hair",
-      "value": "Ginger Bowl Cut"
+      "value": "Crew Cut"
     },
     {
       "trait_type": "Eyes",
-      "value": "Regular Visor"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Ninja Outfit"
+      "value": "3D Shades"
     },
     {
       "trait_type": "Pants",
-      "value": "Black Shorts"
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
     },
     {
       "trait_type": "Footwear",
-      "value": "Black Combat Boots"
+      "value": "Red colorway Sneakers"
     }
   ],
   "compiler": "HashLips Art Engine"

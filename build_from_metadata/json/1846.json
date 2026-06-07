@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #1846",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1846.png",
+  "dna": "f006219aa2f120ce351d2dc5d2f3f816c6c0930f",
+  "edition": 1846,
+  "date": 1780773088589,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Full Protective Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

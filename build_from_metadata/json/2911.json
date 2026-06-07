@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2911",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2911.png",
+  "dna": "c1176ebf1e9ed12158c07ae91e8d2e0142d77f3d",
+  "edition": 2911,
+  "date": 1780647811708,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

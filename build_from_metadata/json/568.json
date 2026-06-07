@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #568",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/568.png",
+  "dna": "b668c85c69069ec9e57ca73bef59d0cb511569d9",
+  "edition": 568,
+  "date": 1780647647818,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

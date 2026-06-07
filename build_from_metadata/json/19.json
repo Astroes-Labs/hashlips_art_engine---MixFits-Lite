@@ -2,17 +2,37 @@
   "name": "Your Collection #19",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/19.png",
-  "dna": "5276b4061bd252df7ae1a277a58940166343872f",
+  "dna": "19ef8d0493eb32d9a836d624e5e3d38098d9f300",
   "edition": 19,
-  "date": 1780640940589,
+  "date": 1780647606862,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Void"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Silver Skeleton"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
     }
   ],
   "compiler": "HashLips Art Engine"

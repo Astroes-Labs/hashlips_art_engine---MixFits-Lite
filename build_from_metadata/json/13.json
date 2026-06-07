@@ -2,17 +2,17 @@
   "name": "Your Collection #13",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/13.png",
-  "dna": "0c60834b60725316048e333996d28cc5bdb737e3",
+  "dna": "7072593e254baedd6971c7a5ac4f78ccaaee743e",
   "edition": 13,
-  "date": 1780640940203,
+  "date": 1780647606260,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Silver Skeleton"
+      "value": "Mutant C"
     }
   ],
   "compiler": "HashLips Art Engine"

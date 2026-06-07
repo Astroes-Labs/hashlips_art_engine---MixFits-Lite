@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4241",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4241.png",
+  "dna": "7936861757930a527c595abceac8b83ae3bcf943",
+  "edition": 4241,
+  "date": 1780647904794,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

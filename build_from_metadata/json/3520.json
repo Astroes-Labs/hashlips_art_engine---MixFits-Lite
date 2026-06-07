@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #3520",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3520.png",
+  "dna": "a01460325575a7c3292992e493101ddbf7385418",
+  "edition": 3520,
+  "date": 1780685527891,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Pirate Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

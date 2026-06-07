@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4153",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4153.png",
+  "dna": "6496a40b3d59d3e3d2d0df59d43241b38dca9159",
+  "edition": 4153,
+  "date": 1780647898496,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

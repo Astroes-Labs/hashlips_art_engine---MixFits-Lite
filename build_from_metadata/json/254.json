@@ -2,13 +2,13 @@
   "name": "Your Collection #254",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/254.png",
-  "dna": "fd2c4fad7c8482d26816ba833ac5df1c21790112",
+  "dna": "c438be661e3d4c272e0e858f22ccb4880397498a",
   "edition": 254,
-  "date": 1780640955494,
+  "date": 1780647624744,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Wine"
+      "value": "Void"
     },
     {
       "trait_type": "Body",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Brains"
+      "value": "Clean Shave"
     },
     {
       "trait_type": "Eyes",
-      "value": "Pink Wraparound Sunglasses"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Snow Jacket"
+      "value": "Blue Wraparound Sunglasses"
     },
     {
       "trait_type": "Pants",
-      "value": "BBall Short"
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Black Suits"
     },
     {
       "trait_type": "Footwear",
-      "value": "Brown Sandals"
+      "value": "Kill Billy Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

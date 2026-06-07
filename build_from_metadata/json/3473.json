@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3473",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3473.png",
+  "dna": "ad0b239f2230b65a0c73e8a65c5a2bbf2b42eb72",
+  "edition": 3473,
+  "date": 1780647850905,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

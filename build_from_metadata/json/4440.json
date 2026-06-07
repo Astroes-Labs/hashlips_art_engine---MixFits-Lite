@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4440",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4440.png",
+  "dna": "81daa573371dbff35c7bf4c41bbcf72c702ddc08",
+  "edition": 4440,
+  "date": 1780647919006,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3299",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3299.png",
+  "dna": "5786a99c249cff1d41cd29206d64ef5679f2a59a",
+  "edition": 3299,
+  "date": 1780647838640,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

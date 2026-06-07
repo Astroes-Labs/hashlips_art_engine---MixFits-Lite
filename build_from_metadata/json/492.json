@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #492",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/492.png",
+  "dna": "2cc197652d6d5cb4e3d1e4e3e51b60b84b42c47b",
+  "edition": 492,
+  "date": 1780647642600,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mummy"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

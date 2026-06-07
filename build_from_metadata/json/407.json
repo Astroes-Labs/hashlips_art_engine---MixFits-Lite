@@ -2,13 +2,13 @@
   "name": "Your Collection #407",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/407.png",
-  "dna": "00c3a3a2e2d4437413be1da004111b9dd31bd2fe",
+  "dna": "0329432ee5462dde892f038b8b34767ce14fd2f1",
   "edition": 407,
-  "date": 1780640970311,
+  "date": 1780647636540,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Wine"
+      "value": "Void"
     },
     {
       "trait_type": "Body",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Fade"
+      "value": "Brains"
     },
     {
       "trait_type": "Eyes",
-      "value": "Classic Visor"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Safety Vest"
+      "value": "3D Shades"
     },
     {
       "trait_type": "Pants",
-      "value": "Black Pants"
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
     },
     {
       "trait_type": "Footwear",
-      "value": "Kill Billy Boots"
+      "value": "OffWhyt Sneakers"
     }
   ],
   "compiler": "HashLips Art Engine"

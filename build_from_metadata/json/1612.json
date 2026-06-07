@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #1612",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1612.png",
+  "dna": "b8a3409ede6f58e2965101bbf92eeffcdd89d813",
+  "edition": 1612,
+  "date": 1780647719844,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bluish Ghost"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

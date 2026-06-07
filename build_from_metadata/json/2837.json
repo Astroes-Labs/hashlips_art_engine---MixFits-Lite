@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2837",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2837.png",
+  "dna": "758a4e78f3fe78709603167aa96823ebe933f56e",
+  "edition": 2837,
+  "date": 1780647806199,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

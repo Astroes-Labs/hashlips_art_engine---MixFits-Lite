@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #613",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/613.png",
+  "dna": "f4d7c07f4491bcd06e922d7e99b7798c82ffc8eb",
+  "edition": 613,
+  "date": 1780647650889,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #938",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/938.png",
+  "dna": "289ee22da0ce8e73f679138d9b7fcfa54a2f3a48",
+  "edition": 938,
+  "date": 1780685527856,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "White Trucker Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

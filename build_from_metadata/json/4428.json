@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4428",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4428.png",
+  "dna": "1550a6d26da2fd7a30de4bf4738a423a5e47ee93",
+  "edition": 4428,
+  "date": 1780647917883,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

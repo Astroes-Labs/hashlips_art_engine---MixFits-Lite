@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #520",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/520.png",
+  "dna": "0ad961448c4227a234c324d5b5511bb0e11840e2",
+  "edition": 520,
+  "date": 1780647644426,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Shark Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

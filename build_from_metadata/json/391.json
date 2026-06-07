@@ -2,13 +2,13 @@
   "name": "Your Collection #391",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/391.png",
-  "dna": "e414ce58e8fee7a02d9e8b6c53f75e5d69a1793b",
+  "dna": "790d0523fe3df5d831fee7488e0b33e285c5f824",
   "edition": 391,
-  "date": 1780640969110,
+  "date": 1780647635421,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sky"
+      "value": "Light"
     },
     {
       "trait_type": "Body",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Slick Afro"
+      "value": "Clean Shave"
     },
     {
       "trait_type": "Eyes",
-      "value": "Blue Wraparound Sunglasses"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Joker Suit"
+      "value": "Classic Visor"
     },
     {
       "trait_type": "Pants",
-      "value": "Grey Pants"
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
     },
     {
       "trait_type": "Footwear",
-      "value": "Ski Boots"
+      "value": "Black Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #4206",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4206.png",
+  "dna": "e7a8cb4703a1359000c4c766b73cc91984d726c2",
+  "edition": 4206,
+  "date": 1780685527897,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Police Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #640",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/640.png",
+  "dna": "852623e586ec7a2bb1b74186b65794eb81141800",
+  "edition": 640,
+  "date": 1780647652708,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

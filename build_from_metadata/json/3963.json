@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3963",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3963.png",
+  "dna": "3ac405320fb57e269bbcf8f702e1f6dd309cc3a3",
+  "edition": 3963,
+  "date": 1780647885145,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

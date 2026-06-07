@@ -2,17 +2,17 @@
   "name": "Your Collection #73",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/73.png",
-  "dna": "b9a02884415dc3cc3178369e44b28a5dfede9762",
+  "dna": "016257e0f6266a6621fa51116afbfc5ae10d5831",
   "edition": 73,
-  "date": 1780640943212,
+  "date": 1780647611190,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light"
+      "value": "Dark"
     },
     {
       "trait_type": "Body",
-      "value": "Mutant D"
+      "value": "Mutant B"
     }
   ],
   "compiler": "HashLips Art Engine"

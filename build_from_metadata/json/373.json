@@ -2,9 +2,9 @@
   "name": "Your Collection #373",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/373.png",
-  "dna": "f01f9c9716dcb61752061749fffe0b622cc268a7",
+  "dna": "6cd9f9a4a52ad4171b77b34dc29da58744cc602b",
   "edition": 373,
-  "date": 1780640967784,
+  "date": 1780647634211,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,27 +12,27 @@
     },
     {
       "trait_type": "Body",
-      "value": "Zombie"
+      "value": "Homo Sapien"
     },
     {
       "trait_type": "Hair",
-      "value": "Low Cut II"
+      "value": "Clean Shave"
     },
     {
       "trait_type": "Eyes",
-      "value": "3D Glasses"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Ninja Outfit"
+      "value": "Pink Wraparound Sunglasses"
     },
     {
       "trait_type": "Pants",
-      "value": "Tux Suit Pants"
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Lab Coat"
     },
     {
       "trait_type": "Footwear",
-      "value": "Black Combat Boots"
+      "value": "Pirate Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #745",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/745.png",
+  "dna": "6b7309ce48ca5ac90c41128781e72c9acb6fdcd0",
+  "edition": 745,
+  "date": 1780647659802,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

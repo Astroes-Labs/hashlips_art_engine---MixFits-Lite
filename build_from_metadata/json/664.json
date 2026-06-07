@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #664",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/664.png",
+  "dna": "65ce3767678c0f608ada59cd7d401f5c06fb454b",
+  "edition": 664,
+  "date": 1780647654224,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3403",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3403.png",
+  "dna": "3a0e768f2c3256f1ae896e49d50493b7a216fe1c",
+  "edition": 3403,
+  "date": 1780647845865,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

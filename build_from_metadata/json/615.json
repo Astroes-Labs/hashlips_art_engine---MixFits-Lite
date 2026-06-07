@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #615",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/615.png",
+  "dna": "69d9aa3c0311684fc426743a8f17b5cce9c6b46f",
+  "edition": 615,
+  "date": 1780647651000,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

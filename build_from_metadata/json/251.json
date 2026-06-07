@@ -2,33 +2,33 @@
   "name": "Your Collection #251",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/251.png",
-  "dna": "f7677223e055a5dc8ff0d20380519a0c6b6de4fe",
+  "dna": "d7c6255f7fc7ddb10258bf921a48ed0d80c35349",
   "edition": 251,
-  "date": 1780640955210,
+  "date": 1780647624542,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Wine"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Homo Sapien"
+      "value": "Zombie"
     },
     {
       "trait_type": "Hair",
-      "value": "Slick Afro"
+      "value": "Bowl Cut"
     },
     {
       "trait_type": "Eyes",
-      "value": "Pink Wraparound Sunglasses"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Wizard Robe"
+      "value": "3D Shades"
     },
     {
       "trait_type": "Pants",
-      "value": "Camo Pants"
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Dark Green Jacket"
     },
     {
       "trait_type": "Footwear",

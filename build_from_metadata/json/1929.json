@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1929",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1929.png",
+  "dna": "f8a7188352557ebce643ec63a207957a45316f02",
+  "edition": 1929,
+  "date": 1780647742601,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

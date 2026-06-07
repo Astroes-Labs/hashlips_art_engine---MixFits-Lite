@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1133",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1133.png",
+  "dna": "3e109d247710e4ffe25088785196bb5dd799a300",
+  "edition": 1133,
+  "date": 1780647686276,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

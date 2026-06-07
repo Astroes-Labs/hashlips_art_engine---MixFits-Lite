@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1889",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1889.png",
+  "dna": "23c0e8c092c8f361b4339bc2c16396c81188f190",
+  "edition": 1889,
+  "date": 1780647739868,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

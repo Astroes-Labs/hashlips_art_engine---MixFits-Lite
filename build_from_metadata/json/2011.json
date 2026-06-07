@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2011",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2011.png",
+  "dna": "27ca967890d5878ec6ee295a582b0cacf69a3a5b",
+  "edition": 2011,
+  "date": 1780647748032,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

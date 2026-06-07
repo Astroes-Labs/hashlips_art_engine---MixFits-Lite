@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #2267",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2267.png",
+  "dna": "9cea83896e2e57f6fb6c68f166f9940914877b85",
+  "edition": 2267,
+  "date": 1780685629349,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Knight"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

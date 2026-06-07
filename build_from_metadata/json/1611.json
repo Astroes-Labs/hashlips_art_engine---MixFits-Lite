@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #1611",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1611.png",
+  "dna": "b0b4d3f651586f7454bd9c6b307215248818dbdf",
+  "edition": 1611,
+  "date": 1780685527877,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Blue Baseball Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

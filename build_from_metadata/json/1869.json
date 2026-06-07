@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1869",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1869.png",
+  "dna": "0cdc4bdf5d484e2d2fa615dcd6ad931cb4a96329",
+  "edition": 1869,
+  "date": 1780647738496,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -2,17 +2,37 @@
   "name": "Your Collection #76",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/76.png",
-  "dna": "a94615f48770ddf71f358ebfebb2bba1e3d42925",
+  "dna": "3b8129bb3b7ec331c30121f7b269f3bff8850bee",
   "edition": 76,
-  "date": 1780640943335,
+  "date": 1780647611401,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sky"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Mutant A"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

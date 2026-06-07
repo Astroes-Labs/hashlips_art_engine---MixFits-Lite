@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #777",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/777.png",
+  "dna": "56fa54fa2d728df4e50520b8d6b1ac5a1f077ea2",
+  "edition": 777,
+  "date": 1780647662200,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

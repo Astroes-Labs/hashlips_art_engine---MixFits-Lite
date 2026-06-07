@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #688",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/688.png",
+  "dna": "7edc0fa5137e51fc70578793e881b34434162171",
+  "edition": 688,
+  "date": 1780647655817,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Slime"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Straight Face"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Bomb"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

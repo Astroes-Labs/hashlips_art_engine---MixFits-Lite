@@ -2,17 +2,37 @@
   "name": "Your Collection #9",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/9.png",
-  "dna": "83a9ccf7507277904bc78a1e20377981ab7ecae7",
+  "dna": "bdb25b6ae209be31fe04b0d9cc29a47595939881",
   "edition": 9,
-  "date": 1780640939899,
+  "date": 1780647605970,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sky"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Mutant B"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
     }
   ],
   "compiler": "HashLips Art Engine"

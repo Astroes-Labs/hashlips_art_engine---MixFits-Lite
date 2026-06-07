@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #2163",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2163.png",
+  "dna": "205e3a941db77c1f8a5f291c9da8b33883fe38de",
+  "edition": 2163,
+  "date": 1780685527882,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Dark Green Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Chef Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

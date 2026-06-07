@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4399",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4399.png",
+  "dna": "76aab7f97d50c5f2b3e1d5154a3ef908218c8d06",
+  "edition": 4399,
+  "date": 1780647915834,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

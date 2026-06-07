@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #3635",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3635.png",
+  "dna": "0993120cbc4cc2f30bb2b3bbcdc8159549c6fead",
+  "edition": 3635,
+  "date": 1780685527894,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Orange Trucker Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

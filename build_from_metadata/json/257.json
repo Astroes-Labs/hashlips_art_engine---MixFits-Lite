@@ -2,37 +2,37 @@
   "name": "Your Collection #257",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/257.png",
-  "dna": "eb0f59e689cb28df689f09dd2183354e3a952f5f",
+  "dna": "54a271cf12b67edec4a3a2f571679fc6e9a1b36f",
   "edition": 257,
-  "date": 1780640955712,
+  "date": 1780647624973,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sky"
+      "value": "Void"
     },
     {
       "trait_type": "Body",
-      "value": "Zombie"
+      "value": "Homo Sapien"
     },
     {
       "trait_type": "Hair",
-      "value": "Low Cut"
+      "value": "Clean Shave"
     },
     {
       "trait_type": "Eyes",
-      "value": "Eye Patch"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Space Hunter Gear"
+      "value": "Sunglasses"
     },
     {
       "trait_type": "Pants",
-      "value": "Black Shorts"
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Panda Suit"
     },
     {
       "trait_type": "Footwear",
-      "value": "Red colorway Sneakers"
+      "value": "Flip Flops"
     }
   ],
   "compiler": "HashLips Art Engine"

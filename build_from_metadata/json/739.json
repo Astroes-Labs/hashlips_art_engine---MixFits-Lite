@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #739",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/739.png",
+  "dna": "cfc08db0f34858abde5021416df5bb6566a11765",
+  "edition": 739,
+  "date": 1780647659325,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

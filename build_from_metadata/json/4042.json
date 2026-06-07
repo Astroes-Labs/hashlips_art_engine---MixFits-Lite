@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #4042",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4042.png",
+  "dna": "344bb1fda2e0d50fc40fd878af877bd5e8bb968b",
+  "edition": 4042,
+  "date": 1780685629356,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Knight"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4372",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4372.png",
+  "dna": "48c82534259f08e2dcc013e4f7c4bf40f7f25feb",
+  "edition": 4372,
+  "date": 1780773419870,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Knight Helmet"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

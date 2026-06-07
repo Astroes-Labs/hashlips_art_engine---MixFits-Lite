@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2627",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2627.png",
+  "dna": "4de837cc5cd6150984f65fdf90ffdd6995ca7109",
+  "edition": 2627,
+  "date": 1780647791332,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

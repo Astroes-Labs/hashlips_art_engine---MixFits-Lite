@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3116",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3116.png",
+  "dna": "aef28b296e804e2959f576dd5e455ec3f5f7c7f5",
+  "edition": 3116,
+  "date": 1780647825964,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

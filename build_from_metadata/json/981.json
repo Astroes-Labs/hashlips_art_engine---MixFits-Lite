@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #981",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/981.png",
+  "dna": "3756696df9716e88e6803b9a3bc035031cb133a4",
+  "edition": 981,
+  "date": 1780647676106,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

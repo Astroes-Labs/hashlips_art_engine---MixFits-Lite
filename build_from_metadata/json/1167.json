@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1167",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1167.png",
+  "dna": "1686684fe7762685c381aead9d160117d3ef6f04",
+  "edition": 1167,
+  "date": 1780647688563,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

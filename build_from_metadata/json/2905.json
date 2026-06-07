@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2905",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2905.png",
+  "dna": "012cd25b9b39e34c76d82fc900fa9689cdf223ef",
+  "edition": 2905,
+  "date": 1780647811302,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #574",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/574.png",
+  "dna": "530876c69c6fe521768ff516f791b7ed425ce9f8",
+  "edition": 574,
+  "date": 1780647648236,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

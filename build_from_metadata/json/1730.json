@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1730",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1730.png",
+  "dna": "058dd15208c4d2cc29fb70733b567f713113680d",
+  "edition": 1730,
+  "date": 1780647728865,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

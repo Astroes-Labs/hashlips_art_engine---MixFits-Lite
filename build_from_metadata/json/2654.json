@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2654",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2654.png",
+  "dna": "c05c2c5952a966b7e37a9beac7f14668c6dc2ba7",
+  "edition": 2654,
+  "date": 1780647793149,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

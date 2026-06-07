@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2586",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2586.png",
+  "dna": "082b8c2adb6f06d398103686e9fd15110e833545",
+  "edition": 2586,
+  "date": 1780647788268,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

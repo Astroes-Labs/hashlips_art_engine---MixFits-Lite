@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2034",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2034.png",
+  "dna": "44e914adabb2a61546ce08107862aeabe6df12b9",
+  "edition": 2034,
+  "date": 1780647749631,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

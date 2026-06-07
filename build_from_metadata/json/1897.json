@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1897",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1897.png",
+  "dna": "cd171d18195ebb16fb49775e8d5b93b9c10a36cf",
+  "edition": 1897,
+  "date": 1780647740403,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

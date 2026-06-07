@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1733",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1733.png",
+  "dna": "d6c458cf6628ec3efa9e7916d7f4b2f300b70e1f",
+  "edition": 1733,
+  "date": 1780647729076,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

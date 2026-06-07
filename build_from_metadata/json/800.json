@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #800",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/800.png",
+  "dna": "244e7a01d5bf7e4d572614a6fc29410b1a0b5857",
+  "edition": 800,
+  "date": 1780647663716,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3470",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3470.png",
+  "dna": "965198dd42a0e35fb2ae8e5ac27bb6d6e767d037",
+  "edition": 3470,
+  "date": 1780647850684,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brains"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #595",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/595.png",
+  "dna": "add63cb4502491e4963ad0f2bb4436d0351e5e08",
+  "edition": 595,
+  "date": 1780647649701,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

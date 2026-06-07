@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #1892",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1892.png",
+  "dna": "209a5d666f5edbb7e648408ca11294feddaa6536",
+  "edition": 1892,
+  "date": 1780685527879,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Task Force Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "White Trucker Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

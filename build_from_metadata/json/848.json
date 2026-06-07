@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #848",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/848.png",
+  "dna": "d1478a0973792d8a82c39da654dc6af1361ce4a7",
+  "edition": 848,
+  "date": 1780647666920,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

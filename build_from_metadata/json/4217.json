@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4217",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4217.png",
+  "dna": "791e027f643564c9d0189955eba31880f77ed0f7",
+  "edition": 4217,
+  "date": 1780647903188,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

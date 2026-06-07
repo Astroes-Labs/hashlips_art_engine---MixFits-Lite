@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4381",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4381.png",
+  "dna": "51bf5f24c94a89d5b80da440004ed0c81d482164",
+  "edition": 4381,
+  "date": 1780647914454,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -2,17 +2,25 @@
   "name": "Your Collection #123",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/123.png",
-  "dna": "bd6d366b7356cba657435d0a17a4bbaa51a06e24",
+  "dna": "ee89758feba5ae014d80117151e1bfe5073ba27b",
   "edition": 123,
-  "date": 1780640945700,
+  "date": 1780647614860,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Void"
+      "value": "Dark"
     },
     {
       "trait_type": "Body",
-      "value": "HellHound"
+      "value": "Green Slime"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Straight Face"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Dog"
     }
   ],
   "compiler": "HashLips Art Engine"

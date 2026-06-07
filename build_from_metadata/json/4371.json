@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4371",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4371.png",
+  "dna": "f9cdf16d25fb8d837e2b510fc918eece8f51564c",
+  "edition": 4371,
+  "date": 1780647913767,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

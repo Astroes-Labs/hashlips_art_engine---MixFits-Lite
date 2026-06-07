@@ -2,17 +2,37 @@
   "name": "Your Collection #143",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/143.png",
-  "dna": "b4e59c708209a937853d775a578576fa3ae9663b",
+  "dna": "e295a47667d70b52498aef34f6d2205195272ccc",
   "edition": 143,
-  "date": 1780640946630,
+  "date": 1780647616343,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Void"
+      "value": "Light"
     },
     {
       "trait_type": "Body",
-      "value": "Brown Werewolf"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Grand Mage Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

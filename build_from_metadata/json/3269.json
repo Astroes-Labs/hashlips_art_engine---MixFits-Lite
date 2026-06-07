@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3269",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3269.png",
+  "dna": "9ed625487706fea8ff1d36f930e596d9e78f165c",
+  "edition": 3269,
+  "date": 1780647836602,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -2,37 +2,17 @@
   "name": "Your Collection #344",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/344.png",
-  "dna": "3e93fdb08ae281d715ee8b9d422bb3582022dba9",
+  "dna": "17d9545a05b0ab2bb8b82e51cd50b58c082dbb08",
   "edition": 344,
-  "date": 1780640965606,
+  "date": 1780647631501,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Zombie"
-    },
-    {
-      "trait_type": "Hair",
-      "value": "Ginger Bowl Cut"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Pink Wraparound Sunglasses"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Red Varsity Jacket"
-    },
-    {
-      "trait_type": "Pants",
-      "value": "Shredded Jeans"
-    },
-    {
-      "trait_type": "Footwear",
-      "value": "Black Combat Boots"
+      "value": "Brain Box"
     }
   ],
   "compiler": "HashLips Art Engine"

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3404",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3404.png",
+  "dna": "6b602b1d74cf555157302755ce2dbfe19a701561",
+  "edition": 3404,
+  "date": 1780773419865,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Knight Helmet"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

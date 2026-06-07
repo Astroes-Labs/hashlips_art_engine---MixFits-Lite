@@ -2,17 +2,37 @@
   "name": "Your Collection #142",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/142.png",
-  "dna": "c3fed9021a6afd9868f911e3c3a7447387af09b9",
+  "dna": "7a118254d66ff2a90f6653d18e0777318622afc9",
   "edition": 142,
-  "date": 1780640946581,
+  "date": 1780647616270,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Wine"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Stone Balor"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Task Force Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

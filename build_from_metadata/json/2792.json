@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #2792",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2792.png",
+  "dna": "6888deb67d9de4993e7f1ee8be8054b9425d6336",
+  "edition": 2792,
+  "date": 1780775050192,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Ninja Outfit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

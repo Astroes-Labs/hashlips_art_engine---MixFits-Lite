@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2677",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2677.png",
+  "dna": "a5fb00e13e7fe07bbadb8011ba7171b3d42e0fa7",
+  "edition": 2677,
+  "date": 1780647794724,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Grand Mage Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

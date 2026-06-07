@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #1957",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1957.png",
+  "dna": "61dccb15f2be0ab1b554d03b44908b2b22a6e297",
+  "edition": 1957,
+  "date": 1780773088590,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Panda Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

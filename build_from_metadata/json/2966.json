@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #2966",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2966.png",
+  "dna": "eaf54fb24670363f45d82e97322e8b44dec8c6ed",
+  "edition": 2966,
+  "date": 1780685527889,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Dark Green Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "White Trucker Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

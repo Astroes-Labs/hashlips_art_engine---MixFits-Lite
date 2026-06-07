@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1521",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1521.png",
+  "dna": "62a3b3cc0210dcdea3864e6d06c32af28f88d2d2",
+  "edition": 1521,
+  "date": 1780647713036,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2741",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2741.png",
+  "dna": "540f5f2bcab9092d29499b4e0cfa5661cac5488d",
+  "edition": 2741,
+  "date": 1780647799051,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

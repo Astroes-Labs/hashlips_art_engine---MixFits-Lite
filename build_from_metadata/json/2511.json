@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2511",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2511.png",
+  "dna": "e82b7fbdfda11a879cc6a68894458979078e5a66",
+  "edition": 2511,
+  "date": 1780647783065,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

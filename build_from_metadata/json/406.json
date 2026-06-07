@@ -2,33 +2,33 @@
   "name": "Your Collection #406",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/406.png",
-  "dna": "9db8fbc46e8eb975dfd10deebaeed614f510bdb0",
+  "dna": "18ef540689ce65868a57906d44cb2aaedd256f69",
   "edition": 406,
-  "date": 1780640970238,
+  "date": 1780647636458,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Zombie"
+      "value": "Homo Sapien"
     },
     {
       "trait_type": "Hair",
-      "value": "Blonde Taper Fade"
+      "value": "Bowl Cut"
     },
     {
       "trait_type": "Eyes",
-      "value": "Blue Wraparound Sunglasses"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Grand Mage Robe"
+      "value": "Sunglasses"
     },
     {
       "trait_type": "Pants",
-      "value": "Camo Pants"
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
     },
     {
       "trait_type": "Footwear",

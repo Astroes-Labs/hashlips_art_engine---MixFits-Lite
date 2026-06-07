@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #1267",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1267.png",
+  "dna": "b1aa9582486513f33324189e262bae234af1fc77",
+  "edition": 1267,
+  "date": 1780647695335,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Slime"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Straight Face"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Bomb"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

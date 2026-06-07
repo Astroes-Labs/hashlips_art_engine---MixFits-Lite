@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2605",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2605.png",
+  "dna": "84ec4be75ef875ff4ad24272186a4ce3343b9114",
+  "edition": 2605,
+  "date": 1780647789597,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

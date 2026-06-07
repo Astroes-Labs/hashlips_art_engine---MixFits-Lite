@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3120",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3120.png",
+  "dna": "f360f66f8e642663f3ab8b91786d2ebdc93a14bf",
+  "edition": 3120,
+  "date": 1780647826247,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

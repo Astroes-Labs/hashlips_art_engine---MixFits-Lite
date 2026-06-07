@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2096",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2096.png",
+  "dna": "d018b80e959aa9b5f1cf3b82e3fec5dc16e237ac",
+  "edition": 2096,
+  "date": 1780647753933,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

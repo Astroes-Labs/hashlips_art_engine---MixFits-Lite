@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1043",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1043.png",
+  "dna": "ce198204244224b1aaccf32658fd20dae4d2ed43",
+  "edition": 1043,
+  "date": 1780647680275,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

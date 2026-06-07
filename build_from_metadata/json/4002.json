@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4002",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4002.png",
+  "dna": "1ee883c4504ab43f4f193f063f782b5ba2fd3400",
+  "edition": 4002,
+  "date": 1780647888147,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

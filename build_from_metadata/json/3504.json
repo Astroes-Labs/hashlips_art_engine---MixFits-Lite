@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #3504",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3504.png",
+  "dna": "71d910bf908e212063a284fad62ba619c7268554",
+  "edition": 3504,
+  "date": 1780685527891,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Turban"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

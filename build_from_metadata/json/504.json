@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #504",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/504.png",
+  "dna": "67554c698e47832f70fb5bdebff8d19affa8f1f4",
+  "edition": 504,
+  "date": 1780647643377,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

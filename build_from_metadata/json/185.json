@@ -2,25 +2,37 @@
   "name": "Your Collection #185",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/185.png",
-  "dna": "57cd411fd4548c50ca90abd7a822b246c67eb57b",
+  "dna": "0741284d42b10a3ed18e6a40b5cc3a28241381e3",
   "edition": 185,
-  "date": 1780640950006,
+  "date": 1780647619656,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Blue Slime"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
     },
     {
       "trait_type": "Eyes",
-      "value": "Straight Face"
+      "value": "Eye Patch"
     },
     {
-      "trait_type": "Special",
-      "value": "Bomb"
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Ninja Outfit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2704",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2704.png",
+  "dna": "e741d3afb60c425868de90e6239bd7d0541025f7",
+  "edition": 2704,
+  "date": 1780647796513,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Task Force Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

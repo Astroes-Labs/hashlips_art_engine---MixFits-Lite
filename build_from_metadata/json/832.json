@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #832",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/832.png",
+  "dna": "83d43f3372e892b9c8dccb25dbf297f10ca718c0",
+  "edition": 832,
+  "date": 1780647665803,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Slime"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Straight Face"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Cheese"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

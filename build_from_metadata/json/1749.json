@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1749",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1749.png",
+  "dna": "0785f8ca2dc1e0e68e6fb1c9054a9100d6b23306",
+  "edition": 1749,
+  "date": 1780647730216,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

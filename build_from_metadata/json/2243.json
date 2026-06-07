@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2243",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2243.png",
+  "dna": "47ffa8d699c7bf584dc0683b0d4181fbcb21bb4b",
+  "edition": 2243,
+  "date": 1780647764181,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

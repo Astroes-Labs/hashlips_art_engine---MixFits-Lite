@@ -2,37 +2,37 @@
   "name": "Your Collection #352",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/352.png",
-  "dna": "bb42be727d521bea8ea7447a4022bbf40c2d1522",
+  "dna": "1d7318ed876954b43d523baa0e6c9c16cb663c5e",
   "edition": 352,
-  "date": 1780640966274,
+  "date": 1780647632073,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Void"
+      "value": "Light"
     },
     {
       "trait_type": "Body",
-      "value": "Zombie"
+      "value": "Homo Sapien"
     },
     {
       "trait_type": "Hair",
-      "value": "Crew Cut"
+      "value": "Brunette Bun"
     },
     {
       "trait_type": "Eyes",
-      "value": "Regular Visor"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Dark Green Jacket"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Pants",
-      "value": "Khaki Shorts"
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Chef Outfit"
     },
     {
       "trait_type": "Footwear",
-      "value": "Ski Boots"
+      "value": "Combat Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

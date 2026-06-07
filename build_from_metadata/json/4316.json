@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #4316",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4316.png",
+  "dna": "9b7a6d837c197357b9bcf5cc68719ec13253144a",
+  "edition": 4316,
+  "date": 1780685527897,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Chef Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

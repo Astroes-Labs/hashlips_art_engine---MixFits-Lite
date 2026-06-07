@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1126",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1126.png",
+  "dna": "34991455213fe3b6659f58fb36b080a783519004",
+  "edition": 1126,
+  "date": 1780647685810,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

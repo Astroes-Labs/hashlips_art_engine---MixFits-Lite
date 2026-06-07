@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2075",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2075.png",
+  "dna": "f89ffb0c92a4d3dd3beb8783851ca77d4e9ff919",
+  "edition": 2075,
+  "date": 1780647752561,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Grand Mage Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

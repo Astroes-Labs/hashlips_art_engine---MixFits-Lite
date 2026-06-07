@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2599",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2599.png",
+  "dna": "3c0cc2b0fbefb5cca9df0a51b01967e73d037968",
+  "edition": 2599,
+  "date": 1780647789167,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Black Suits"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

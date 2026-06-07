@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #2696",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2696.png",
+  "dna": "dee47a06c9532738ddc5921afc1a3a1bb671a708",
+  "edition": 2696,
+  "date": 1780647796016,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Slime"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Straight Face"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Dog"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

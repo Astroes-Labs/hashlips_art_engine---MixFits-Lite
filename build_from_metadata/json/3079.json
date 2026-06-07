@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3079",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3079.png",
+  "dna": "9cbf43b78de2615569eb5ebbb94cef654047bf26",
+  "edition": 3079,
+  "date": 1780647823517,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1843",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1843.png",
+  "dna": "f9730989963aad36812def271f5a5d612659bb4a",
+  "edition": 1843,
+  "date": 1780647736729,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

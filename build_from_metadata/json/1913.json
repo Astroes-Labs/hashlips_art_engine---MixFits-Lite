@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #1913",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1913.png",
+  "dna": "0803abd25909530a88499fa370689eaac926e70a",
+  "edition": 1913,
+  "date": 1780685527879,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "King Crown"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

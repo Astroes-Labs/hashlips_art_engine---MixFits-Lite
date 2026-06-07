@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2846",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2846.png",
+  "dna": "8b815f30c6407d82aa8f3c5d7d82b37996f064fb",
+  "edition": 2846,
+  "date": 1780647806951,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

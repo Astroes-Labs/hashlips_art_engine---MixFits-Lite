@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #808",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/808.png",
+  "dna": "3eed0a3bb59bdc181c26a4adba3a04ce58f1c28d",
+  "edition": 808,
+  "date": 1780647664241,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

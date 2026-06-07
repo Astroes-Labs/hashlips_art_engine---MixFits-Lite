@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3043",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3043.png",
+  "dna": "97c64f26d20b45874da1ced10a24d17a70112d8e",
+  "edition": 3043,
+  "date": 1780647821079,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

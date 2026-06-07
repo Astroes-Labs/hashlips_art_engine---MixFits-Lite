@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #722",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/722.png",
+  "dna": "99281fd0d9195235307ad7d1bd9b4a2cef85af57",
+  "edition": 722,
+  "date": 1780685629347,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Knight"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

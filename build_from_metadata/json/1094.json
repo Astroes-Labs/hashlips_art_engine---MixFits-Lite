@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1094",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1094.png",
+  "dna": "e9e7664fcf53bc54ae67063a32fec1d9fbf47899",
+  "edition": 1094,
+  "date": 1780647683675,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

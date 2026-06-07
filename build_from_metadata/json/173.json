@@ -2,9 +2,9 @@
   "name": "Your Collection #173",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/173.png",
-  "dna": "d08fb4d9a5cec95e64d00228e18234abbfe29726",
+  "dna": "6ab47a8fd8d7677c4d4ea27db996aa57d9d36997",
   "edition": 173,
-  "date": 1780640949162,
+  "date": 1780647618663,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,7 +12,27 @@
     },
     {
       "trait_type": "Body",
-      "value": "Stone Balor"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Space Hunter Gear"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

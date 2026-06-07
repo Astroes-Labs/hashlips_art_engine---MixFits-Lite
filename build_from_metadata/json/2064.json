@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #2064",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2064.png",
+  "dna": "5b41638960c26d538328268bab4c266d30987f6b",
+  "edition": 2064,
+  "date": 1780685527881,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Kill Billy Boots"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Black Baseball Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

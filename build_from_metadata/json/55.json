@@ -2,13 +2,13 @@
   "name": "Your Collection #55",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/55.png",
-  "dna": "018836c61129b021d996029d36417308b6e6e3e7",
+  "dna": "164b77879b14c10e52c6f42ca42288798aa67ce9",
   "edition": 55,
-  "date": 1780640942409,
+  "date": 1780647609761,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light"
+      "value": "Dark"
     },
     {
       "trait_type": "Body",

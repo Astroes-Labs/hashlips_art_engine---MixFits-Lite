@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2656",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2656.png",
+  "dna": "4be36398efb3228e74846fbc02150886b5da6202",
+  "edition": 2656,
+  "date": 1780647793288,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brains"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #914",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/914.png",
+  "dna": "d50973a89703309e466f20e7541bfe5a401ed6d8",
+  "edition": 914,
+  "date": 1780647671475,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Kill Billy Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

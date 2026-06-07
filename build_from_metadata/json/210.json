@@ -2,9 +2,9 @@
   "name": "Your Collection #210",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/210.png",
-  "dna": "09c5e79afefa0a513c81acacbbdaff053d75374e",
+  "dna": "192aa37429e1bac92cf6473292bfc9f2b2c81ebd",
   "edition": 210,
-  "date": 1780640951925,
+  "date": 1780647621561,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,7 +12,27 @@
     },
     {
       "trait_type": "Body",
-      "value": "Stoner"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Monk Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Kill Billy Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

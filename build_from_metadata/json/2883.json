@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2883",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2883.png",
+  "dna": "26b74310dbea6ddcbfd02b0b56c18b5eeec88cb5",
+  "edition": 2883,
+  "date": 1780647809472,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

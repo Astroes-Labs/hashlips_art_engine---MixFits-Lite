@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3105",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3105.png",
+  "dna": "172de68112d0197f1da90699a0bce0d39f022fa5",
+  "edition": 3105,
+  "date": 1780647825272,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Biker Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

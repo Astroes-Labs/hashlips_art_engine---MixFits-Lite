@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3093",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3093.png",
+  "dna": "8b83b8f69c76a8222f237e3a3046b9453ada20bf",
+  "edition": 3093,
+  "date": 1780647824461,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Wizard Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

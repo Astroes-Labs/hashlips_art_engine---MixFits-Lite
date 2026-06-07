@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4165",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4165.png",
+  "dna": "db0d1842f70a0aa7f811eb5225d662597fc7d993",
+  "edition": 4165,
+  "date": 1780647899307,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Biker Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

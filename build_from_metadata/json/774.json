@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #774",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/774.png",
+  "dna": "c9fedb4cf52470e5003d6a0cfd4c6126834e3d58",
+  "edition": 774,
+  "date": 1780773419861,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Dark Green Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Knight Helmet"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

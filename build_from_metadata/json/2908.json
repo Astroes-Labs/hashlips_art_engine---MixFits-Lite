@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2908",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2908.png",
+  "dna": "a8a023b0683b9a1b5a453190c2f57866f18c2cab",
+  "edition": 2908,
+  "date": 1780647811513,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

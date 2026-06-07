@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4245",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4245.png",
+  "dna": "0accc45a6bb5eead08fb4b11641c0e9c441c9a73",
+  "edition": 4245,
+  "date": 1780647905102,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

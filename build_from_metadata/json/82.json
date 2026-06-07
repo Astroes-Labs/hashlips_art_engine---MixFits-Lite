@@ -2,17 +2,37 @@
   "name": "Your Collection #82",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/82.png",
-  "dna": "f54b4bde996d63aaf2957335f48fab1f98b797ae",
+  "dna": "6660109e0cf1cc97ac1610b5517649f23fd15387",
   "edition": 82,
-  "date": 1780640943650,
+  "date": 1780647611865,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sky"
+      "value": "Void"
     },
     {
       "trait_type": "Body",
-      "value": "Bluish Ghost"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

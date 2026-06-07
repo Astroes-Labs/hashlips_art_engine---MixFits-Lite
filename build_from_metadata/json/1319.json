@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1319",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1319.png",
+  "dna": "b5696705f72a8d48abf1fad1c9b0d0d33960c147",
+  "edition": 1319,
+  "date": 1780647698837,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

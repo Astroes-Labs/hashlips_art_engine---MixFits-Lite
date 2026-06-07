@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #872",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/872.png",
+  "dna": "4cf2406abd59f8895da62876e78c66a72d0c971a",
+  "edition": 872,
+  "date": 1780647668524,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

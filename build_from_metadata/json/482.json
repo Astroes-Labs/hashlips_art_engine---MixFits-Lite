@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #482",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/482.png",
+  "dna": "713f98fafc8e6ad6b5fecc25c9c1e5166d7600f6",
+  "edition": 482,
+  "date": 1780647641959,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #677",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/677.png",
+  "dna": "e82d8ea2fc95ce88049f19dcf267b0f4a1715aad",
+  "edition": 677,
+  "date": 1780647655118,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Biker Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -2,13 +2,13 @@
   "name": "Your Collection #393",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/393.png",
-  "dna": "a5a9e58a2a7ed0714965ebd8b096880b3b913076",
+  "dna": "9b0659975e65b36192bc6b2576c3753e8be10243",
   "edition": 393,
-  "date": 1780640969244,
+  "date": 1780647635556,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Void"
+      "value": "Light"
     },
     {
       "trait_type": "Body",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Blonde Taper Fade"
+      "value": "Bowl Cut"
     },
     {
       "trait_type": "Eyes",
-      "value": "Classic Visor"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Monk Robe"
+      "value": "Blue Wraparound Sunglasses"
     },
     {
       "trait_type": "Pants",
-      "value": "Task Force Pants"
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
     },
     {
       "trait_type": "Footwear",
-      "value": "Black Boots"
+      "value": "Flip Flops"
     }
   ],
   "compiler": "HashLips Art Engine"

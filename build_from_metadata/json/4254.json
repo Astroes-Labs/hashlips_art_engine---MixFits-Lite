@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4254",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4254.png",
+  "dna": "fbd68fa0004b2f9f05a5e0d6d607e701de1e0d43",
+  "edition": 4254,
+  "date": 1780647905735,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

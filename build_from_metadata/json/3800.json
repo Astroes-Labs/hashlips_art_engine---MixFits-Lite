@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3800",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3800.png",
+  "dna": "ba38093bea57008b20594eb22c44e36d60477645",
+  "edition": 3800,
+  "date": 1780647873407,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Chef Outfit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

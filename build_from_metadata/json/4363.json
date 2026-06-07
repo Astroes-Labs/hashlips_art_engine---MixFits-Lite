@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4363",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4363.png",
+  "dna": "a218f602f3f4c819da4f3dfaafe5eda0f53b7fdc",
+  "edition": 4363,
+  "date": 1780647913230,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

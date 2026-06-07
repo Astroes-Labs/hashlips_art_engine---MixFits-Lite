@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3500",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3500.png",
+  "dna": "f943a82cd4248b38d491e6b99622d2e2c293d5a6",
+  "edition": 3500,
+  "date": 1780647852749,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -2,17 +2,25 @@
   "name": "Your Collection #101",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/101.png",
-  "dna": "1b9e91dec92ea2c7e16a4f3543f90fa74d51f9d9",
+  "dna": "bb4affe43f88a8a490b54d0cab165a1e79bcdef8",
   "edition": 101,
-  "date": 1780640944496,
+  "date": 1780647613259,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sky"
+      "value": "Dark"
     },
     {
       "trait_type": "Body",
-      "value": "Mummy"
+      "value": "Green Slime"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Straight Face"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Cheese"
     }
   ],
   "compiler": "HashLips Art Engine"

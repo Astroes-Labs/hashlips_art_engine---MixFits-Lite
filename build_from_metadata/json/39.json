@@ -2,9 +2,9 @@
   "name": "Your Collection #39",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/39.png",
-  "dna": "6a1006dd58cb75f0a340201370d00ac15bd3848a",
+  "dna": "753d7ea518d2c9f4e5e25a8dd6ac72efdd97a2e4",
   "edition": 39,
-  "date": 1780640941642,
+  "date": 1780647608455,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,15 +12,15 @@
     },
     {
       "trait_type": "Body",
-      "value": "Stoner"
+      "value": "Blue Slime"
     },
     {
       "trait_type": "Eyes",
-      "value": "3D Glasses"
+      "value": "Straight Face"
     },
     {
       "trait_type": "Special",
-      "value": "Slime Crown"
+      "value": "Cheese"
     }
   ],
   "compiler": "HashLips Art Engine"

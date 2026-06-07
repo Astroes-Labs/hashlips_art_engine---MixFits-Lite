@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #997",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/997.png",
+  "dna": "d89437aa92b2ddfef6096226553221509f102d6b",
+  "edition": 997,
+  "date": 1780647677145,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

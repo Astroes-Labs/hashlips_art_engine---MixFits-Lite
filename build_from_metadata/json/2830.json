@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2830",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2830.png",
+  "dna": "b3927c157491df1231a5dd97ee322ae5bafbfbb2",
+  "edition": 2830,
+  "date": 1780647805515,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Biker Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

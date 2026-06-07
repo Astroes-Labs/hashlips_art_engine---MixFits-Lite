@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4085",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4085.png",
+  "dna": "7e0687ab4c28349232079760f22a9d222fe5bf5a",
+  "edition": 4085,
+  "date": 1780647893867,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Black Suits"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

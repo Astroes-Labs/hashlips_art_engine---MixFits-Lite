@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #600",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/600.png",
+  "dna": "0223282c7e7c2e33f3b3c842a473ccbcd221a88b",
+  "edition": 600,
+  "date": 1780647650017,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

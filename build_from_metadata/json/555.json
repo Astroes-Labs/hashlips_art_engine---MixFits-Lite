@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #555",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/555.png",
+  "dna": "3f4e9b76f3ce41b635a1c4e12819900d1fbf0831",
+  "edition": 555,
+  "date": 1780647646799,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Biker Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

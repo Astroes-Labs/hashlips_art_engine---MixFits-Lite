@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1836",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1836.png",
+  "dna": "1e8312e8c1dd38294a0fdecae247c1a0c7111110",
+  "edition": 1836,
+  "date": 1780647736258,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

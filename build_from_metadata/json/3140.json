@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #3140",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3140.png",
+  "dna": "6c70b7b49b52b0ca8c789530ee15edadfa5a9cec",
+  "edition": 3140,
+  "date": 1780685629351,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Knight"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

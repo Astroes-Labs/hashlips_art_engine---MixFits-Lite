@@ -2,25 +2,37 @@
   "name": "Your Collection #334",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/334.png",
-  "dna": "afb5a909bf346b827428d7425dd6b7d27a91683e",
+  "dna": "60cd9496c743e832dd87055b5f8cff0b8d5efef9",
   "edition": 334,
-  "date": 1780640964693,
+  "date": 1780647630763,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sky"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Purple Slime"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
     },
     {
       "trait_type": "Eyes",
-      "value": "Straight Face"
+      "value": "Classic Visor"
     },
     {
-      "trait_type": "Special",
-      "value": "Dog"
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
     }
   ],
   "compiler": "HashLips Art Engine"

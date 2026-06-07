@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2214",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2214.png",
+  "dna": "8e84ec127eef8a89b63296b9ec28b5ce17100c2b",
+  "edition": 2214,
+  "date": 1780647762038,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -2,13 +2,13 @@
   "name": "Your Collection #249",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/249.png",
-  "dna": "4d7f9313a9f591ec82f762c8f7c7265b6db67bec",
+  "dna": "d72fdaa0d863bb0de0ca2487be2ae561fa4f9a86",
   "edition": 249,
-  "date": 1780640955006,
+  "date": 1780647624399,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Crew Cut"
+      "value": "Blonde Taper Fade"
     },
     {
       "trait_type": "Eyes",
-      "value": "Regular Visor"
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
     },
     {
       "trait_type": "Shirt",
       "value": "Knight"
     },
     {
-      "trait_type": "Pants",
-      "value": "Joker Suit Pants"
-    },
-    {
       "trait_type": "Footwear",
-      "value": "Black Boots"
+      "value": "Flip Flops"
     }
   ],
   "compiler": "HashLips Art Engine"

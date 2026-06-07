@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1077",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1077.png",
+  "dna": "4ebd564461301376db2b766fe6a536adc7510ee9",
+  "edition": 1077,
+  "date": 1780647682535,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brains"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

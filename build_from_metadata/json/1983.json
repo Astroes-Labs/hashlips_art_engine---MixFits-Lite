@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1983",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1983.png",
+  "dna": "f4e5b175112a9793702d63f450550d06e4db80b2",
+  "edition": 1983,
+  "date": 1780647746134,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

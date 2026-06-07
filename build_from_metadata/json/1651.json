@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1651",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1651.png",
+  "dna": "2f4c8812f4886a90d3f583e53e3ebc858f6bc341",
+  "edition": 1651,
+  "date": 1780647723161,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

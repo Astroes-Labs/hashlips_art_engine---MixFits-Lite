@@ -2,37 +2,37 @@
   "name": "Your Collection #404",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/404.png",
-  "dna": "0b7cb5f9223181b85352bc55027f6937558df346",
+  "dna": "b1bbeadb193b3c9dbbff5e131f58eadd76d6a1be",
   "edition": 404,
-  "date": 1780640970087,
+  "date": 1780647636332,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Homo Sapien"
+      "value": "Zombie"
     },
     {
       "trait_type": "Hair",
-      "value": "Dirty Blonde Taper Fade"
+      "value": "Low Cut II"
     },
     {
       "trait_type": "Eyes",
-      "value": "Eye Patch"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "BBall Uni"
+      "value": "Sunglasses"
     },
     {
       "trait_type": "Pants",
-      "value": "Black Suit Pants"
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
     },
     {
       "trait_type": "Footwear",
-      "value": "OffWhyt Sneakers"
+      "value": "Brown Sandals"
     }
   ],
   "compiler": "HashLips Art Engine"

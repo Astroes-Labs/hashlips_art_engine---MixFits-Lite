@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3548",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3548.png",
+  "dna": "d9072e89b799c7e0cbd24f2582a7cc5332f22044",
+  "edition": 3548,
+  "date": 1780773419866,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Lucha Libre Mask"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

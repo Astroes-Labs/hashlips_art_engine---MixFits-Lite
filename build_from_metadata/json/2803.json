@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2803",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2803.png",
+  "dna": "a3640433f57ad55befea6b478938cae29caa055f",
+  "edition": 2803,
+  "date": 1780647803370,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Chef Outfit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2016",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2016.png",
+  "dna": "f49a690990897610c9d8d6cd549e1e7c937c34d9",
+  "edition": 2016,
+  "date": 1780647748364,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

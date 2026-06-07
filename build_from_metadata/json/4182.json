@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4182",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4182.png",
+  "dna": "1c0ee35564244379b8719365f6822b8af55cca14",
+  "edition": 4182,
+  "date": 1780647900586,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

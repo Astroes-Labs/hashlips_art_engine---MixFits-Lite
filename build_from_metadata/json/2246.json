@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2246",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2246.png",
+  "dna": "f8caaf5bc145c39f1eb46815607ab1aa3128fbf8",
+  "edition": 2246,
+  "date": 1780647764392,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Monk Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

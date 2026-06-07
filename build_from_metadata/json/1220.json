@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1220",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1220.png",
+  "dna": "a5ebe07181312e768a7dee9c302ceb241809ae3e",
+  "edition": 1220,
+  "date": 1780647692162,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Space Hunter Gear"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

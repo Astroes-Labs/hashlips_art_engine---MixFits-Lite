@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2211",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2211.png",
+  "dna": "ede2cf0322f1f1e73f69fab38b54be15f5e0d656",
+  "edition": 2211,
+  "date": 1780647761856,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1098",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1098.png",
+  "dna": "40192c5ecda89b966d3e6383491f14589428f870",
+  "edition": 1098,
+  "date": 1780647683930,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

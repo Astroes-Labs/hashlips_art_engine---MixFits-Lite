@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #2339",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2339.png",
+  "dna": "99922cd43d4c59696d4f645dc243cc8482dd4e97",
+  "edition": 2339,
+  "date": 1780671944410,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Police Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

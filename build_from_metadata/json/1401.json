@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1401",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1401.png",
+  "dna": "8aab9c82e15f84c8add882e0e500cbde806560e4",
+  "edition": 1401,
+  "date": 1780647704621,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

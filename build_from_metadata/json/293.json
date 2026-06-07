@@ -2,17 +2,17 @@
   "name": "Your Collection #293",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/293.png",
-  "dna": "13faa2ed7afb0021ab1a66739ae839efedcc9cf4",
+  "dna": "4eebb9476fcd790008286057ee595329b2238811",
   "edition": 293,
-  "date": 1780640958925,
+  "date": 1780647627596,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Wine"
+      "value": "Light"
     },
     {
       "trait_type": "Body",
-      "value": "Zombie"
+      "value": "Homo Sapien"
     },
     {
       "trait_type": "Hair",
@@ -20,19 +20,19 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Regular Visor"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Black Suits"
+      "value": "Laser"
     },
     {
       "trait_type": "Pants",
-      "value": "Grey Pants"
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
     },
     {
       "trait_type": "Footwear",
-      "value": "Ski Boots"
+      "value": "Flip Flops"
     }
   ],
   "compiler": "HashLips Art Engine"

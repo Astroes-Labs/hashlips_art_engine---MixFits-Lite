@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #3024",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3024.png",
+  "dna": "ff1dab336b4441638c2f31f38c07998bc9992f5f",
+  "edition": 3024,
+  "date": 1780685527889,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Chef Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

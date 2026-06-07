@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2680",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2680.png",
+  "dna": "140a283717d296bdf7bbc26a59e1e3e3ae11dfe5",
+  "edition": 2680,
+  "date": 1780773419863,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Lucha Libre Mask"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

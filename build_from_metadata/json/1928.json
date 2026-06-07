@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1928",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1928.png",
+  "dna": "fa5bd6a11e01278f7bb5127fcbccc34921c23c81",
+  "edition": 1928,
+  "date": 1780647742519,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

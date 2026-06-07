@@ -2,17 +2,37 @@
   "name": "Your Collection #15",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/15.png",
-  "dna": "9fc282ae0bf17deff26b03d51b060c8d270e6409",
+  "dna": "c7e746c2422f100a3c7efb5a55c2a5d5e1125620",
   "edition": 15,
-  "date": 1780640940314,
+  "date": 1780647606439,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark"
+      "value": "Void"
     },
     {
       "trait_type": "Body",
-      "value": "Mutant B"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

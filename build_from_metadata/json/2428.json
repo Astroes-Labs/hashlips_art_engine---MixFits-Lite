@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #2428",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2428.png",
+  "dna": "92987ae8005d5022c05ef2be18a0afdba434600e",
+  "edition": 2428,
+  "date": 1780685527886,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Propeller Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

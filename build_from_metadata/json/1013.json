@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1013",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1013.png",
+  "dna": "b00ba5e4f09c4deb471beff0b55661c1334ecb71",
+  "edition": 1013,
+  "date": 1780647678208,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

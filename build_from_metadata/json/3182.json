@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3182",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3182.png",
+  "dna": "55d2be393e6c380de78bc87dc21880b8be481b7b",
+  "edition": 3182,
+  "date": 1780647830558,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Tux"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

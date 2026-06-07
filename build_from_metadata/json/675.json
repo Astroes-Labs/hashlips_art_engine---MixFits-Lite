@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #675",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/675.png",
+  "dna": "6fcd21c20345244c86aef659b5f5836a5b0e828e",
+  "edition": 675,
+  "date": 1780647655009,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

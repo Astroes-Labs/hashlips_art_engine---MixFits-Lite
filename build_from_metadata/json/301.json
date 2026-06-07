@@ -2,25 +2,37 @@
   "name": "Your Collection #301",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/301.png",
-  "dna": "16f030c6a54060203cef7a792628ee0915b2fff8",
+  "dna": "520bb9f6d7826cc347ad36e1bbbb4b6e0288b182",
   "edition": 301,
-  "date": 1780640959943,
+  "date": 1780647628193,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Pink Slime"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
     },
     {
       "trait_type": "Eyes",
-      "value": "Straight Face"
+      "value": "3D Glasses"
     },
     {
-      "trait_type": "Special",
-      "value": "Dog"
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

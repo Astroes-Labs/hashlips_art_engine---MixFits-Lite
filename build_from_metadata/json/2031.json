@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #2031",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2031.png",
+  "dna": "0af966d289ec66a99c6cd9614350f101a913fc9c",
+  "edition": 2031,
+  "date": 1780659361977,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Panda Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

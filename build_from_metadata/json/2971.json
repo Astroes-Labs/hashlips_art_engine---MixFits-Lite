@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2971",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2971.png",
+  "dna": "2b80501fae210ab742858c6860ba4107b530dd8d",
+  "edition": 2971,
+  "date": 1780647815936,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

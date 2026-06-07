@@ -2,17 +2,37 @@
   "name": "Your Collection #41",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/41.png",
-  "dna": "d3c0932b53248c54d40315bd6dbf6b31f7cdfd3a",
+  "dna": "aeaae2443c3908856f326780d53a49d70fccf8e8",
   "edition": 41,
-  "date": 1780640941728,
+  "date": 1780647608604,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Void"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Brain Box"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

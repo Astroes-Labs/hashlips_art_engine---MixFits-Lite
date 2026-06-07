@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #1438",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1438.png",
+  "dna": "4dd8a5a99db2c9fe973f25f17542c7aabce025fe",
+  "edition": 1438,
+  "date": 1780685527867,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Police Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3904",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3904.png",
+  "dna": "0a6d6b45b540a8edebe26bb2cb0fbb7a4f080fe6",
+  "edition": 3904,
+  "date": 1780647881201,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

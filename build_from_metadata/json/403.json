@@ -2,37 +2,37 @@
   "name": "Your Collection #403",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/403.png",
-  "dna": "aee8e796efba4661b47cc4a68e0a71bde0680a16",
+  "dna": "76a81bf6e94fe076ea52897f19a4f87c853a9b0f",
   "edition": 403,
-  "date": 1780640969986,
+  "date": 1780647636266,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Zombie"
+      "value": "Homo Sapien"
     },
     {
       "trait_type": "Hair",
-      "value": "Crew Cut"
+      "value": "Brunette Bun"
     },
     {
       "trait_type": "Eyes",
       "value": "Eye Patch"
     },
     {
-      "trait_type": "Shirt",
-      "value": "Joker Suit"
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
     },
     {
-      "trait_type": "Pants",
-      "value": "Camo Pants"
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
     },
     {
       "trait_type": "Footwear",
-      "value": "Ash colorway Sneakers"
+      "value": "Black Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

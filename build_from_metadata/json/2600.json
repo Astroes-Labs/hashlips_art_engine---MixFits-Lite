@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2600",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2600.png",
+  "dna": "79130120521fcbd837b5060cda8577ff3706d510",
+  "edition": 2600,
+  "date": 1780647789245,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

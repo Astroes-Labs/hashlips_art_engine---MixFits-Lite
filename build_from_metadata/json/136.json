@@ -2,17 +2,37 @@
   "name": "Your Collection #136",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/136.png",
-  "dna": "048d06586b23f6de5af77ebef97fd6800da754aa",
+  "dna": "11442ebde9663338d15152ff9463eaae4bda04c3",
   "edition": 136,
-  "date": 1780640946306,
+  "date": 1780647615831,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sky"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Greenish Ghost"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

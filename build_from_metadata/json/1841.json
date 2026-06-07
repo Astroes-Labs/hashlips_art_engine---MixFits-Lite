@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1841",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1841.png",
+  "dna": "5a2953e7fa14bb4d87668a5f1e1277b19dad337a",
+  "edition": 1841,
+  "date": 1780647736595,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

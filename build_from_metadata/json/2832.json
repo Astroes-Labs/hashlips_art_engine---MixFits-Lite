@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2832",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2832.png",
+  "dna": "8b0e65444ab90861aec76c9ea4040fcda1699a07",
+  "edition": 2832,
+  "date": 1780647805711,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

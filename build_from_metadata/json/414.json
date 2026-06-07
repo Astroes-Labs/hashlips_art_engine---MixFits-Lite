@@ -2,37 +2,17 @@
   "name": "Your Collection #414",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/414.png",
-  "dna": "63cc643a019598c5f5e87d4704d9f2f443ae6f35",
+  "dna": "e9af321a2f89d3009d514341ce16f43c79021a9c",
   "edition": 414,
-  "date": 1780640970798,
+  "date": 1780647637035,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Void"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Homo Sapien"
-    },
-    {
-      "trait_type": "Hair",
-      "value": "Brains"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Laser"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Snow Jacket"
-    },
-    {
-      "trait_type": "Pants",
-      "value": "Black Shorts"
-    },
-    {
-      "trait_type": "Footwear",
-      "value": "Pirate Boots"
+      "value": "Mummy II"
     }
   ],
   "compiler": "HashLips Art Engine"

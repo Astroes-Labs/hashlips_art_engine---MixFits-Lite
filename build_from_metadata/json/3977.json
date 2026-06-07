@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3977",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3977.png",
+  "dna": "8856b7f76c6158998322c1edc35084ca6acb831c",
+  "edition": 3977,
+  "date": 1780647886086,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

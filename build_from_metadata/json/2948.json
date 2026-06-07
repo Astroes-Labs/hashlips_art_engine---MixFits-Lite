@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2948",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2948.png",
+  "dna": "061dc0a01e7cf23ac7764ca21a916da9d8c2930d",
+  "edition": 2948,
+  "date": 1780647814236,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Chef Outfit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

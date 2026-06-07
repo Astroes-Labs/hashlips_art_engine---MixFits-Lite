@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3096",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3096.png",
+  "dna": "8646ee9b620afd4bf849e8ce5fd498a1521de128",
+  "edition": 3096,
+  "date": 1780647824654,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Black Suits"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

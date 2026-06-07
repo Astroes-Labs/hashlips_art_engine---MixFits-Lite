@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #894",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/894.png",
+  "dna": "b3a072a9f1c4ea2f304c368e7df7d5b952b96ccf",
+  "edition": 894,
+  "date": 1780647670004,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

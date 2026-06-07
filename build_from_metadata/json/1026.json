@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1026",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1026.png",
+  "dna": "fba1f2c49312163053e4432f612cdadc8a909acc",
+  "edition": 1026,
+  "date": 1780647679082,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

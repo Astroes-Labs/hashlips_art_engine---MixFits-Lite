@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3241",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3241.png",
+  "dna": "64217ba33ffa9c166a88dcc3921ed9281cd16db3",
+  "edition": 3241,
+  "date": 1780773419865,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Knight Helmet"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

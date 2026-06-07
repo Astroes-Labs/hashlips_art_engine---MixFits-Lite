@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1512",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1512.png",
+  "dna": "4b37adaf7f8cc654cade7f3847db7bbf4327430d",
+  "edition": 1512,
+  "date": 1780647712282,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Grand Mage Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

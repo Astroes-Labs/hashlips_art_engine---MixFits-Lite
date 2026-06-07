@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2185",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2185.png",
+  "dna": "bde67f81269d42877384787a5a0de2cfab5d1206",
+  "edition": 2185,
+  "date": 1780647760056,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

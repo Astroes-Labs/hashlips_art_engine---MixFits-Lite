@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2513",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2513.png",
+  "dna": "5fa9dbadc838454f787139db4d0791e69f4a8298",
+  "edition": 2513,
+  "date": 1780647783208,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Kill Billy Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

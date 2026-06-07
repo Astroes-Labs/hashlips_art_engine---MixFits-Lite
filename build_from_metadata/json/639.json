@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #639",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/639.png",
+  "dna": "e64b564af2efd0c4b7a292fd857ccecf5ea740a8",
+  "edition": 639,
+  "date": 1780685527850,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Baby Propeller Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

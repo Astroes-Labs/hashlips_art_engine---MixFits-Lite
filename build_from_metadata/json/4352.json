@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4352",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4352.png",
+  "dna": "b664add8a1b74a2c2e93494f2c2707fdb977fbd7",
+  "edition": 4352,
+  "date": 1780647912488,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Wizard Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Kill Billy Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

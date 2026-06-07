@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #1012",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1012.png",
+  "dna": "a31dfa39022967d79d021842ec746e717dd04cf9",
+  "edition": 1012,
+  "date": 1780647678144,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Slime"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Straight Face"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Ring"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

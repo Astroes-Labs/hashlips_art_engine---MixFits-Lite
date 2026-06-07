@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4192",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4192.png",
+  "dna": "04a91e3ace61394698417cc33c69f418884d97f6",
+  "edition": 4192,
+  "date": 1780647901251,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

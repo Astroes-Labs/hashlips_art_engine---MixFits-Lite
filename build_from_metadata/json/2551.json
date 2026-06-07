@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2551",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2551.png",
+  "dna": "773c101b5bde78ac368d70d9bc88319e7c8c814f",
+  "edition": 2551,
+  "date": 1780647785924,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Kill Billy Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

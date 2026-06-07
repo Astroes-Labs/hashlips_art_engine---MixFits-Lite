@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4373",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4373.png",
+  "dna": "fe8f1c7f68dd741224317301a6db906cee84fed0",
+  "edition": 4373,
+  "date": 1780647913894,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3861",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3861.png",
+  "dna": "810225248d09c58de188cf3f3e1c8c6ccad5308f",
+  "edition": 3861,
+  "date": 1780647878051,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

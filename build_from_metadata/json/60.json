@@ -2,17 +2,37 @@
   "name": "Your Collection #60",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/60.png",
-  "dna": "555f19412a70205a25ec16752decc0cb23c433a6",
+  "dna": "fee44732bc6dba7a587122b5c6f7048997d3e17a",
   "edition": 60,
-  "date": 1780640942660,
+  "date": 1780647610138,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Void"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Mutant P"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
     }
   ],
   "compiler": "HashLips Art Engine"

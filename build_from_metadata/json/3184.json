@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3184",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3184.png",
+  "dna": "f64b823310adc767ea9f218b45e1422b7f76d3bc",
+  "edition": 3184,
+  "date": 1780647830709,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

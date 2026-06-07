@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #973",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/973.png",
+  "dna": "d24d7052ae109efe12cb547d232a7c49af8b848e",
+  "edition": 973,
+  "date": 1780647675580,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

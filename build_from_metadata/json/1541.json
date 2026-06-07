@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1541",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1541.png",
+  "dna": "dd0b05ae573272fe2e97b013f7b41dba0f15874e",
+  "edition": 1541,
+  "date": 1780647714365,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

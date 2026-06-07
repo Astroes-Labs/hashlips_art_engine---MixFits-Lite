@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #2795",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2795.png",
+  "dna": "0f72eae1774331709d277be0984fd262975cbe89",
+  "edition": 2795,
+  "date": 1780685527888,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Baby Propeller Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

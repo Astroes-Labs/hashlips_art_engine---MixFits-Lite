@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2451",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2451.png",
+  "dna": "a87f27bfd7c182304f7669307c1e2ef561c69f78",
+  "edition": 2451,
+  "date": 1780647778901,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

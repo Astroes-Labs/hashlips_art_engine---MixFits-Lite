@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2870",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2870.png",
+  "dna": "90042ca17c3e13a6ed6f13d494b4eba93e61fbb1",
+  "edition": 2870,
+  "date": 1780647808635,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

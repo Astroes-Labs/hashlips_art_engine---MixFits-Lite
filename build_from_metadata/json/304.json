@@ -2,13 +2,13 @@
   "name": "Your Collection #304",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/304.png",
-  "dna": "28c9f20fd2b1226bd3305ea30c8d7bec0a3bd807",
+  "dna": "5bef93dd6ebeb45f28865d117469c689dc64c11d",
   "edition": 304,
-  "date": 1780640960403,
+  "date": 1780647628398,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sky"
+      "value": "Void"
     },
     {
       "trait_type": "Body",
@@ -16,19 +16,19 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Crew Cut"
+      "value": "Clean Shave"
     },
     {
       "trait_type": "Eyes",
-      "value": "Pink Wraparound Sunglasses"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Blue Pirate Capt"
+      "value": "Regular Visor"
     },
     {
       "trait_type": "Pants",
       "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
     },
     {
       "trait_type": "Footwear",

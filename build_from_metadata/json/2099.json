@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2099",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2099.png",
+  "dna": "12d846d45e1082b6950647ae46ebd0d00046a34a",
+  "edition": 2099,
+  "date": 1780778780579,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Not TMA Mask"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

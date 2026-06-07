@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2154",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2154.png",
+  "dna": "67371322529c43f21e00de9324f31c76e03edd76",
+  "edition": 2154,
+  "date": 1780647757887,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Monk Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

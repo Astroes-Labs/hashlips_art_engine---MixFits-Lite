@@ -2,13 +2,13 @@
   "name": "Your Collection #443",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/443.png",
-  "dna": "075911579a2525028c74f1af2a67beba6772dcc0",
+  "dna": "e8b86f896af0977cc2988698bb23e67253a0d1ac",
   "edition": 443,
-  "date": 1780640973236,
+  "date": 1780647639104,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sky"
+      "value": "Light"
     },
     {
       "trait_type": "Body",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Blue Tinted Bun"
+      "value": "Fade"
     },
     {
       "trait_type": "Eyes",
-      "value": "Pink Wraparound Sunglasses"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Red Varsity Jacket"
+      "value": "Classic Visor"
     },
     {
       "trait_type": "Pants",
-      "value": "Tux Suit Pants"
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
     },
     {
       "trait_type": "Footwear",
-      "value": "Black Boots"
+      "value": "Brown Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #989",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/989.png",
+  "dna": "dae19ebb2094620ec3bdc8cfa3884c636944093d",
+  "edition": 989,
+  "date": 1780647676608,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

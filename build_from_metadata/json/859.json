@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #859",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/859.png",
+  "dna": "548bca68b7f14d5f38b71916c399c486bab9af9a",
+  "edition": 859,
+  "date": 1780647667634,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

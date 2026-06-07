@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2756",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2756.png",
+  "dna": "b6602d771ed671d39338b584bb46a9e7b7bfce85",
+  "edition": 2756,
+  "date": 1780647800106,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Grand Mage Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2299",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2299.png",
+  "dna": "42505cb8723691126b07590bc8d94a5befe9a244",
+  "edition": 2299,
+  "date": 1780647768089,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Black Suits"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4164",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4164.png",
+  "dna": "fd2478a8745c2a6be6d67c35d9e21a527575fa59",
+  "edition": 4164,
+  "date": 1780647899243,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Grand Mage Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

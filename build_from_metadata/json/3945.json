@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3945",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3945.png",
+  "dna": "0325d543b4c8871987f8169c705737f4d4e02175",
+  "edition": 3945,
+  "date": 1780647883907,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

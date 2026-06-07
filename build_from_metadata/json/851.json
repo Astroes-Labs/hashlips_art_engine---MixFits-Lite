@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #851",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/851.png",
+  "dna": "cfa14496e471de3f55f4282372c5755e2a9b893c",
+  "edition": 851,
+  "date": 1780647667098,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2251",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2251.png",
+  "dna": "aef461b247a021fe39e31a694864ee7ef2678348",
+  "edition": 2251,
+  "date": 1780647764720,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1322",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1322.png",
+  "dna": "8f9b8de085366fb5359428eed0bf3cbe822adeba",
+  "edition": 1322,
+  "date": 1780647699051,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Kill Billy Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

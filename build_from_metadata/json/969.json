@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #969",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/969.png",
+  "dna": "2c537748d61dfbb3df6e548133018b0d0e54350c",
+  "edition": 969,
+  "date": 1780647675316,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Kill Billy Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

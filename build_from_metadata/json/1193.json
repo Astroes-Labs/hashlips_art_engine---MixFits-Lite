@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #1193",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1193.png",
+  "dna": "ed7ac0de6ddf1a12abfaea489969f6d677faf85f",
+  "edition": 1193,
+  "date": 1780647690324,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Stone Balor"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

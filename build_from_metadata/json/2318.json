@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2318",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2318.png",
+  "dna": "1596fbc1290bd6c78b2e69bd7e723f5ab21263c1",
+  "edition": 2318,
+  "date": 1780647769384,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

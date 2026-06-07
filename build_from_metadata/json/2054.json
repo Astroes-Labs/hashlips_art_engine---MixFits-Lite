@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2054",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2054.png",
+  "dna": "d96d643f6702e8788b4d2321cf80f02d1e100300",
+  "edition": 2054,
+  "date": 1780647751139,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brains"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4334",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4334.png",
+  "dna": "f8af60c6defa631c14aafbcde12d22123a969e08",
+  "edition": 4334,
+  "date": 1780647911252,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

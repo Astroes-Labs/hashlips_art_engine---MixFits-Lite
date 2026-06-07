@@ -2,17 +2,37 @@
   "name": "Your Collection #51",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/51.png",
-  "dna": "22201ae2a5579bbf8f579010741d8a5740128e49",
+  "dna": "7ae34e1556e6e27363202879eeec350d11493106",
   "edition": 51,
-  "date": 1780640942236,
+  "date": 1780647609421,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Reddish Ghost"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

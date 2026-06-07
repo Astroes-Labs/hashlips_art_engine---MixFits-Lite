@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #911",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/911.png",
+  "dna": "1a7b269b71ffb7dc658384eef5600904295323b4",
+  "edition": 911,
+  "date": 1780647671287,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mutant D"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

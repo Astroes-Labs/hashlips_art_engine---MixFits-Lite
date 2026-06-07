@@ -2,13 +2,13 @@
   "name": "Your Collection #361",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/361.png",
-  "dna": "650db80c805169092bdcaac0d818ecbfd7bcb606",
+  "dna": "12991d985db5b10d3e04356ed3fbfa5ff84a5a3e",
   "edition": 361,
-  "date": 1780640966904,
+  "date": 1780647633123,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Wine"
+      "value": "Light"
     },
     {
       "trait_type": "Body",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Bowl Cut"
+      "value": "Fade"
     },
     {
       "trait_type": "Eyes",
-      "value": "Classic Visor"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Invisible Hoodie"
+      "value": "Sunglasses"
     },
     {
       "trait_type": "Pants",
-      "value": "Tux Suit Pants"
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
     },
     {
       "trait_type": "Footwear",
-      "value": "Boxers Boot"
+      "value": "Flip Flops"
     }
   ],
   "compiler": "HashLips Art Engine"

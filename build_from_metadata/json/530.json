@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #530",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/530.png",
+  "dna": "97919ca63e3049ce68bdd156289f326d8dbd1bc4",
+  "edition": 530,
+  "date": 1780647645113,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

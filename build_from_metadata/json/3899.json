@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3899",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3899.png",
+  "dna": "ec1f1c0b7b7e7c3176947a5178cb79ceac841ada",
+  "edition": 3899,
+  "date": 1780647880866,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

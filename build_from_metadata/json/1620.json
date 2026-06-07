@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1620",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1620.png",
+  "dna": "8b4451f0ba0a76c93918a659129c4d31a84bf40d",
+  "edition": 1620,
+  "date": 1780647720453,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

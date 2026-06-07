@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #916",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/916.png",
+  "dna": "018fa0198a529646edfebd1ac119c791fa010ba3",
+  "edition": 916,
+  "date": 1780647671620,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

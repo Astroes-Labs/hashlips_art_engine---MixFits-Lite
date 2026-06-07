@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1615",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1615.png",
+  "dna": "0de78d2c3e4d9feb88fb3211dd750aab573352fa",
+  "edition": 1615,
+  "date": 1780647720079,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

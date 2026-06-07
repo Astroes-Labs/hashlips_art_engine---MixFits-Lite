@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4202",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4202.png",
+  "dna": "cf92934cf1ce6c469718b39c6b9e306fad0d3255",
+  "edition": 4202,
+  "date": 1780647902095,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

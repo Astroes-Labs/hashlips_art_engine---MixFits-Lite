@@ -2,9 +2,9 @@
   "name": "Your Collection #405",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/405.png",
-  "dna": "b3b73d089e8dbdb2e5bfd38db6bff5a86bf7de24",
+  "dna": "7e9dd246474b6f77bb748a31268363cc551688d8",
   "edition": 405,
-  "date": 1780640970164,
+  "date": 1780647636397,
   "attributes": [
     {
       "trait_type": "Background",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Crew Cut"
+      "value": "Fade"
     },
     {
       "trait_type": "Eyes",
-      "value": "Pink Wraparound Sunglasses"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Dark Green Jacket"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Pants",
-      "value": "Black Suit Pants"
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
     },
     {
       "trait_type": "Footwear",
-      "value": "Black Combat Boots"
+      "value": "Combat Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

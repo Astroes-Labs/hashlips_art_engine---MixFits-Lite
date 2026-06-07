@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #737",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/737.png",
+  "dna": "39b6bf0404ba25946c6d8bb0d3924bcb2753c7a6",
+  "edition": 737,
+  "date": 1780647659200,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Black Suits"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

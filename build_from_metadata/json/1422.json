@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1422",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1422.png",
+  "dna": "af44cb912278413effe3d2b4ab3d0c1b339648f7",
+  "edition": 1422,
+  "date": 1780647706017,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

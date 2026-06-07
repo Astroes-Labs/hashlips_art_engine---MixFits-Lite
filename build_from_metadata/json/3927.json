@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3927",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3927.png",
+  "dna": "496b6be749df8fe7cb7d0ba78167beee89ab62e7",
+  "edition": 3927,
+  "date": 1780647882737,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1751",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1751.png",
+  "dna": "96e6a825d25fb53dd0fb8cb383ee8e19bcfc0a77",
+  "edition": 1751,
+  "date": 1780647730341,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Wizard Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

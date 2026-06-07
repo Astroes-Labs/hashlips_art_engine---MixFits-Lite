@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1761",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1761.png",
+  "dna": "a65d6d28dad7ccc366194d5f9f631e6b1c6ccb11",
+  "edition": 1761,
+  "date": 1780647731057,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

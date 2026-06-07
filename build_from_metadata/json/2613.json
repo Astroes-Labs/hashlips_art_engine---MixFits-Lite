@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2613",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2613.png",
+  "dna": "f4ef59e1d6c7e6f2f6747803338ccb589a02ff29",
+  "edition": 2613,
+  "date": 1780647790189,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1087",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1087.png",
+  "dna": "26f0d37a345bb01f849fe748d0bf43932b5d630c",
+  "edition": 1087,
+  "date": 1780647683192,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

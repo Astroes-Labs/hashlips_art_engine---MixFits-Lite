@@ -2,13 +2,13 @@
   "name": "Your Collection #271",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/271.png",
-  "dna": "4b769096918d388bd663eedcd01b1adaf1be18d2",
+  "dna": "2563ef8b35eda421b33d1580e59d12d265c258dc",
   "edition": 271,
-  "date": 1780640956657,
+  "date": 1780647625971,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Wine"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Ginger Bowl Cut"
+      "value": "Brains"
     },
     {
       "trait_type": "Eyes",
-      "value": "Eye Patch"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Snow Jacket"
+      "value": "Classic Visor"
     },
     {
       "trait_type": "Pants",
       "value": "Black Shorts"
     },
     {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
       "trait_type": "Footwear",
-      "value": "Ash colorway Sneakers"
+      "value": "Brown Sandals"
     }
   ],
   "compiler": "HashLips Art Engine"

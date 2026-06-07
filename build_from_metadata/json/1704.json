@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1704",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1704.png",
+  "dna": "0031c4ee8d1a03b1081250482eed463ed50d6baa",
+  "edition": 1704,
+  "date": 1780647727088,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

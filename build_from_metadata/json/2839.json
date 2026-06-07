@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2839",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2839.png",
+  "dna": "384500f38d7390824cdfbc9640570ebe7be8e3a0",
+  "edition": 2839,
+  "date": 1780647806379,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

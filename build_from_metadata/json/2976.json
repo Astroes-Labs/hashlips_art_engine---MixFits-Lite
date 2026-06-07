@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2976",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2976.png",
+  "dna": "126e4c2c9780e638d434c2898dbb5a89eddb5606",
+  "edition": 2976,
+  "date": 1780647816268,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

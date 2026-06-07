@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3071",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3071.png",
+  "dna": "a038c6abaa19aad0b9cf87af4e799248ebc176a4",
+  "edition": 3071,
+  "date": 1780647822964,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

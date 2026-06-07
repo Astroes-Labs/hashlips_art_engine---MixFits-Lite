@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1750",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1750.png",
+  "dna": "22dcac03fea7c224f7a291dc85a77ab237af036d",
+  "edition": 1750,
+  "date": 1780647730281,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Biker Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1991",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1991.png",
+  "dna": "08a54e369df052b9af6ef175bd4fdd498c41635f",
+  "edition": 1991,
+  "date": 1780647746655,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

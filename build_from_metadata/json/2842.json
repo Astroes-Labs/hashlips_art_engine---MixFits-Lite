@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2842",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2842.png",
+  "dna": "e069383114a518fb59c5a3bab3bf7cd979e27bb7",
+  "edition": 2842,
+  "date": 1780647806638,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Joker Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

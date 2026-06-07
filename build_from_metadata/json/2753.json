@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2753",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2753.png",
+  "dna": "78791f8b13fd6c7cf546fa76456ae3072c5ff9be",
+  "edition": 2753,
+  "date": 1780647799891,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

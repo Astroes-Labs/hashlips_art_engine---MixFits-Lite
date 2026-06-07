@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #735",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/735.png",
+  "dna": "23238c2bb83cd6527588aa9902202583125e1f0b",
+  "edition": 735,
+  "date": 1780647659049,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

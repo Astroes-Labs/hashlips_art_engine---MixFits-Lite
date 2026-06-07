@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3954",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3954.png",
+  "dna": "fa182c39e8e529230362acf98905dd7fad44ad3f",
+  "edition": 3954,
+  "date": 1780647884561,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

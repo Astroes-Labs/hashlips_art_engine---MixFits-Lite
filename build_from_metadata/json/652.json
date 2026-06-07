@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #652",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/652.png",
+  "dna": "fd488ee70342efab192e593edc143214e7868d40",
+  "edition": 652,
+  "date": 1780647653440,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

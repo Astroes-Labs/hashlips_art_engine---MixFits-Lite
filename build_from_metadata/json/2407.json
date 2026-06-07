@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2407",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2407.png",
+  "dna": "79b2db3ec9fa6cefde0cb066d886947fddf76f21",
+  "edition": 2407,
+  "date": 1780647775476,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Dark Green Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Kill Billy Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

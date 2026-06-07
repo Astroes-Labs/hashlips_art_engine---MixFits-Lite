@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #2700",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2700.png",
+  "dna": "3ae85b93e2871a9c41fa78b6fa41e64715dac7db",
+  "edition": 2700,
+  "date": 1780647796273,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink Slime"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Straight Face"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Bomb"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

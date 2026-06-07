@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #4009",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4009.png",
+  "dna": "80cc709eb618ab0ea66a130a381ba0fcdda54c91",
+  "edition": 4009,
+  "date": 1780647888597,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Monitor Bot Y"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

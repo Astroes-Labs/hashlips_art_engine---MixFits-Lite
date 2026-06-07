@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2061",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2061.png",
+  "dna": "f6d640e5e874cdd8b8f48e35eb01d75d806c98f1",
+  "edition": 2061,
+  "date": 1780647751630,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Chef Outfit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #918",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/918.png",
+  "dna": "5406ba2827064b0f9aa18a2259b93ca54f001ef8",
+  "edition": 918,
+  "date": 1780647671745,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

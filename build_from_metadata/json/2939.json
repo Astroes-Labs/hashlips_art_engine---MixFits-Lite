@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2939",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2939.png",
+  "dna": "7d0dc279b2a55a34d9ccdf2cfaa2cf5b3ba0f5da",
+  "edition": 2939,
+  "date": 1780647813633,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

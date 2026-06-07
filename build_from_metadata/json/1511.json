@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1511",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1511.png",
+  "dna": "343cf2b0538ccb9745d9f099c90da53d389038b6",
+  "edition": 1511,
+  "date": 1780647712212,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

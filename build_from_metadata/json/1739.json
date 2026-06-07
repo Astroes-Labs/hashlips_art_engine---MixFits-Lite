@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #1739",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1739.png",
+  "dna": "8eae9318b72ee6e5c79634d73dcca451fa57e3cc",
+  "edition": 1739,
+  "date": 1780777212893,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Ninja Outfit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

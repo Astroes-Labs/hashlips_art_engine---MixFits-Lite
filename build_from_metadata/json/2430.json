@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2430",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2430.png",
+  "dna": "126c8f24b49b3f878f59ae083ac404422d298d5f",
+  "edition": 2430,
+  "date": 1780647777444,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

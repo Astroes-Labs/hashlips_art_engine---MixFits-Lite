@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #474",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/474.png",
+  "dna": "1ee0c5eb87c948f0f958822deda456c42eccc5d2",
+  "edition": 474,
+  "date": 1780647641448,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

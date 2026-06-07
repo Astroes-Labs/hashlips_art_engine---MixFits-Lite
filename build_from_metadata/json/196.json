@@ -2,13 +2,13 @@
   "name": "Your Collection #196",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/196.png",
-  "dna": "44c445f277f348fba69bd38edb11ee84a717ce67",
+  "dna": "f3c344cd503a7afd3404b65456c4641014acabf3",
   "edition": 196,
-  "date": 1780640950872,
+  "date": 1780647620459,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Wine"
+      "value": "Void"
     },
     {
       "trait_type": "Body",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Messy"
+      "value": "Crew Cut"
     },
     {
       "trait_type": "Eyes",
       "value": "Regular Visor"
     },
     {
-      "trait_type": "Shirt",
-      "value": "Space Hunter Gear"
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
     },
     {
-      "trait_type": "Pants",
-      "value": "Boxer Trunks"
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
     },
     {
       "trait_type": "Footwear",
-      "value": "Boxers Boot"
+      "value": "Red colorway Sneakers"
     }
   ],
   "compiler": "HashLips Art Engine"

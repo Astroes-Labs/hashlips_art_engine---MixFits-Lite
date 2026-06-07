@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1496",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1496.png",
+  "dna": "d17541cfb5d0f22b3a462923ac2e6906314bc912",
+  "edition": 1496,
+  "date": 1780647711203,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

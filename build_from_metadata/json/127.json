@@ -2,9 +2,9 @@
   "name": "Your Collection #127",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/127.png",
-  "dna": "8246ef86a1d1a74428818f42d0c5a603afa7b299",
+  "dna": "82c88a601d7fb993adea5ed2d1ed0e93bb4893fd",
   "edition": 127,
-  "date": 1780640945878,
+  "date": 1780647615149,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,7 +12,27 @@
     },
     {
       "trait_type": "Body",
-      "value": "Mutant D"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
     }
   ],
   "compiler": "HashLips Art Engine"

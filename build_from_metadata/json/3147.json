@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3147",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3147.png",
+  "dna": "9d59ab9d5928bcb1418190c62f913cdc2a0ac7e1",
+  "edition": 3147,
+  "date": 1780685629351,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Knight"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Mummy Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2197",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2197.png",
+  "dna": "06d11f4d9635e66847cce0ed2b54e0d281ebbcc0",
+  "edition": 2197,
+  "date": 1780647760911,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Tux"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

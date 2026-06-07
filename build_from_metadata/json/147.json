@@ -2,17 +2,37 @@
   "name": "Your Collection #147",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/147.png",
-  "dna": "43885852f6b7888a43a818deebac2a6b9d996a6a",
+  "dna": "35cc602fcd37a91d3dadfff71202301ca90e7e08",
   "edition": 147,
-  "date": 1780640946838,
+  "date": 1780647616656,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Void"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Void Watcher"
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brains"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

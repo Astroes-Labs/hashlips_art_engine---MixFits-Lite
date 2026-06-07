@@ -2,17 +2,37 @@
   "name": "Your Collection #100",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/100.png",
-  "dna": "65339ef5126cdcef2f5a74df008b2525bf4eb958",
+  "dna": "396cf79d7b44c2bb7863c4be3b29c3d8328d2e5b",
   "edition": 100,
-  "date": 1780640944450,
+  "date": 1780647613195,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sky"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Mutant P"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Task Force Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

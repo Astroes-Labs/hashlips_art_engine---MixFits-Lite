@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3585",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3585.png",
+  "dna": "6537720f2b29df3bb889637777b980353f19bb41",
+  "edition": 3585,
+  "date": 1780647858487,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #2826",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2826.png",
+  "dna": "2669d3f16152dfb25ac949f4091d3c02be263ed0",
+  "edition": 2826,
+  "date": 1780647804999,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mighty Balor"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

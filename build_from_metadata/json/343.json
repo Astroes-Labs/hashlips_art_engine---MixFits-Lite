@@ -2,25 +2,37 @@
   "name": "Your Collection #343",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/343.png",
-  "dna": "8eedf402bed0a2b6ee6d3b099c37d2d1b87a5961",
+  "dna": "c3336cb60596af37a9f6e3c567eb4791d6d862e4",
   "edition": 343,
-  "date": 1780640965542,
+  "date": 1780647631451,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Void"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Green Slime"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
     },
     {
       "trait_type": "Eyes",
-      "value": "Straight Face"
+      "value": "Blue Wraparound Sunglasses"
     },
     {
-      "trait_type": "Special",
-      "value": "Dog"
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Tux"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
     }
   ],
   "compiler": "HashLips Art Engine"

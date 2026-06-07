@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #978",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/978.png",
+  "dna": "1028dcb70a26eb8ac3a2ab798fb2ceba1249c49b",
+  "edition": 978,
+  "date": 1780647675903,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

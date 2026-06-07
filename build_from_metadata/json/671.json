@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #671",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/671.png",
+  "dna": "779d20ef07ecc9bb9ea46ea83d478cb80999f7ba",
+  "edition": 671,
+  "date": 1780647654733,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink Slime"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Straight Face"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Brain"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

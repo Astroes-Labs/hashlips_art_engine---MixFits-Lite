@@ -2,17 +2,37 @@
   "name": "Your Collection #99",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/99.png",
-  "dna": "b1f4db979feb4c9e9735207d025e6a2203dbda5a",
+  "dna": "08429a6a4ae293a0b0dd3a764196d2d826bbeefe",
   "edition": 99,
-  "date": 1780640944402,
+  "date": 1780647613107,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Brown Werewolf"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Chef Outfit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

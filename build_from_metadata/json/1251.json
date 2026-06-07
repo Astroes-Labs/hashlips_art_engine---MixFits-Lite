@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1251",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1251.png",
+  "dna": "cf92a9683fd6ed0dfb82294218331f3acd663a5f",
+  "edition": 1251,
+  "date": 1780647694292,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Chef Outfit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

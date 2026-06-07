@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2028",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2028.png",
+  "dna": "ddf2fb59ca964a77790cc0aff1b10de56d6ca33d",
+  "edition": 2028,
+  "date": 1780647749152,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3052",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3052.png",
+  "dna": "a9bc89294132e188429eb6f8299bf934236d7a8e",
+  "edition": 3052,
+  "date": 1780647821685,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

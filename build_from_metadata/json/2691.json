@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2691",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2691.png",
+  "dna": "d4e66c4676deadcf7efd3e273384b290b7a1341e",
+  "edition": 2691,
+  "date": 1780647795666,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

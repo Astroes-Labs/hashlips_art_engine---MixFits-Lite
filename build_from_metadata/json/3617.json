@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #3617",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3617.png",
+  "dna": "e3882e4b3be453a6e8de329da4d260c787cf9135",
+  "edition": 3617,
+  "date": 1780775050196,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Croc Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

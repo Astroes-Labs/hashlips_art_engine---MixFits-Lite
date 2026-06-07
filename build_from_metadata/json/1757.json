@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1757",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1757.png",
+  "dna": "54fffac5bff9b9ff820425d0c8ef202fe00ab42b",
+  "edition": 1757,
+  "date": 1780647730745,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Space Hunter Gear"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2962",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2962.png",
+  "dna": "4162eec421ae6b35312e86b4a686eb9a4c0f7062",
+  "edition": 2962,
+  "date": 1780647815312,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

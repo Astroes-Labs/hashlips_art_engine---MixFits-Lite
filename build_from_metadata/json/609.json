@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #609",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/609.png",
+  "dna": "5c257ce1925168dca48cc8e03ad851a3ae4e728c",
+  "edition": 609,
+  "date": 1780647650633,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1912",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1912.png",
+  "dna": "430a067c4d2733b60f8520fa2e2e88728bd3bd3d",
+  "edition": 1912,
+  "date": 1780647741415,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1304",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1304.png",
+  "dna": "f9351ae66a9bebd97d31f6e55cf5bb5cdd54f2d7",
+  "edition": 1304,
+  "date": 1780647697814,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Space Hunter Gear"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

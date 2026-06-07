@@ -2,17 +2,37 @@
   "name": "Your Collection #95",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/95.png",
-  "dna": "2fb6184133e983ffc4cea0c57bd4c3c276534e3d",
+  "dna": "36a319030d9374c334f989067c3d4c582b4cc3bc",
   "edition": 95,
-  "date": 1780640944220,
+  "date": 1780647612818,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark"
+      "value": "Void"
     },
     {
       "trait_type": "Body",
-      "value": "Stone Balor"
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Wizard Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #1967",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1967.png",
+  "dna": "07ffb46624abbe56b703b8dbc4d212717f6914a5",
+  "edition": 1967,
+  "date": 1780647745101,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Slime"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Straight Face"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Dog"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

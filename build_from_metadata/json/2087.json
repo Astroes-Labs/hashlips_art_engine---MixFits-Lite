@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #2087",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2087.png",
+  "dna": "95c36eb60383c6ea2698c34e110b44bbf064d70e",
+  "edition": 2087,
+  "date": 1780647753331,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Slime"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Straight Face"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Brain"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

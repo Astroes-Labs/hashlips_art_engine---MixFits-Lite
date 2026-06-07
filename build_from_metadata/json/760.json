@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #760",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/760.png",
+  "dna": "92d843d8bbc8632197bb7cabad61c9867ca1b06e",
+  "edition": 760,
+  "date": 1780647661052,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

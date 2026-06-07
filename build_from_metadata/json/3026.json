@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3026",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3026.png",
+  "dna": "0bf6fe7ae4663bd0996772ed5e5de73d68362a5e",
+  "edition": 3026,
+  "date": 1780647819941,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

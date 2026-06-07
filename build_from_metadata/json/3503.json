@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3503",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3503.png",
+  "dna": "6cacc57a398331c63fc1be8f06b988b3ca256144",
+  "edition": 3503,
+  "date": 1780647852955,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

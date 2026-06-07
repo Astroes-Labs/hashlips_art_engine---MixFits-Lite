@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1822",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1822.png",
+  "dna": "9fd81ce69e2ee75036c4c91140ccc6de0a14056b",
+  "edition": 1822,
+  "date": 1780647735116,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

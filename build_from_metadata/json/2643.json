@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2643",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2643.png",
+  "dna": "94cb9f98ecfb6686cc374ed55184ac02acd2c7e3",
+  "edition": 2643,
+  "date": 1780647792438,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4187",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4187.png",
+  "dna": "a4cfbcfc7a34ae0a012df38b34fce4ff1be0beee",
+  "edition": 4187,
+  "date": 1780647900932,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

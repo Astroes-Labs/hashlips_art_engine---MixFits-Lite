@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1585",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1585.png",
+  "dna": "2a1d393e848d112b2d2e8e3d49ed164d62a830b1",
+  "edition": 1585,
+  "date": 1780647717594,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

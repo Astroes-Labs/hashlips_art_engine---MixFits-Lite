@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #1891",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1891.png",
+  "dna": "af7de32c7dd3c7826ca172894fde7373ed573328",
+  "edition": 1891,
+  "date": 1780685629348,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Knight"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #806",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/806.png",
+  "dna": "619c467b5ffc411ea4df4a85cebd2e7d400c34d6",
+  "edition": 806,
+  "date": 1780647664096,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

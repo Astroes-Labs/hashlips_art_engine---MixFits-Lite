@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #1526",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1526.png",
+  "dna": "824e18979697ff01c94ec6b844998cf870581f33",
+  "edition": 1526,
+  "date": 1780647713336,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Slime"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Straight Face"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Cheese"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

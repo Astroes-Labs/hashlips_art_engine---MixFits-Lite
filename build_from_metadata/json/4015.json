@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4015",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4015.png",
+  "dna": "c8d208ef3ee402d75c9fbf95639622cc64d4ec35",
+  "edition": 4015,
+  "date": 1780647889049,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

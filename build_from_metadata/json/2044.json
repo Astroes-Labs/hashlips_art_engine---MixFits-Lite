@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #2044",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2044.png",
+  "dna": "c91c7592ffc288975a4f2dee6ff163458909e905",
+  "edition": 2044,
+  "date": 1780647750492,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Void Watcher"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

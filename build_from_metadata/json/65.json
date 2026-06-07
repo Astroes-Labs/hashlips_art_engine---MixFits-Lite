@@ -2,9 +2,9 @@
   "name": "Your Collection #65",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/65.png",
-  "dna": "f55cf70e8492f3c5843a900e61f6d000d6578078",
+  "dna": "7c94131f6ed84c2bf9db7b2af5c8e02b590942f0",
   "edition": 65,
-  "date": 1780640942869,
+  "date": 1780647610528,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,7 +12,27 @@
     },
     {
       "trait_type": "Body",
-      "value": "Mutant C"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Black Suits"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
     }
   ],
   "compiler": "HashLips Art Engine"

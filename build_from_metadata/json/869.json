@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #869",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/869.png",
+  "dna": "aac70af8dcbcddb1ac722e45f3edb7b971989af0",
+  "edition": 869,
+  "date": 1780647668308,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

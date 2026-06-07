@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #1412",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1412.png",
+  "dna": "e84ea6e8a4ef9574bb2c73bf742ffb716c8186b3",
+  "edition": 1412,
+  "date": 1780775050187,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Full Protective Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

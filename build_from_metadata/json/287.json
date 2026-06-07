@@ -2,13 +2,13 @@
   "name": "Your Collection #287",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/287.png",
-  "dna": "364f39f33b23b6acdf6e5dca05c59c59f6edeac4",
+  "dna": "6ff94a31026599c80a62344310d6adcd280ac51c",
   "edition": 287,
-  "date": 1780640958368,
+  "date": 1780647627160,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Void"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Blonde Slicked Back"
+      "value": "Fade"
     },
     {
       "trait_type": "Eyes",
-      "value": "3D Shades"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Grand Mage Robe"
+      "value": "Pink Wraparound Sunglasses"
     },
     {
       "trait_type": "Pants",
-      "value": "Blue Suit Pants"
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Joker Suit"
     },
     {
       "trait_type": "Footwear",
-      "value": "Boxers Boot"
+      "value": "Black Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

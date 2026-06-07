@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1295",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1295.png",
+  "dna": "dc207f1298fd995615f0337e345e766a23aa194e",
+  "edition": 1295,
+  "date": 1780647697229,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -2,13 +2,13 @@
   "name": "Your Collection #7",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/7.png",
-  "dna": "dee7e96aabf4773d8b2fbe1c4704807e14bac49e",
+  "dna": "99c6e2eaf895508f9a178eb9691dcad5341e1af3",
   "edition": 7,
-  "date": 1780640939801,
+  "date": 1780647605817,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Void"
+      "value": "Light"
     },
     {
       "trait_type": "Body",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Blue Tinted Bun"
+      "value": "Bowl Cut"
     },
     {
       "trait_type": "Eyes",
-      "value": "Nerd Glasses"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Chef Outfit"
+      "value": "Sunglasses"
     },
     {
       "trait_type": "Pants",
-      "value": "Tux Suit Pants"
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
     },
     {
       "trait_type": "Footwear",
-      "value": "Brown Sandals"
+      "value": "Brown Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

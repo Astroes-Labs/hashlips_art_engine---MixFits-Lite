@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2576",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2576.png",
+  "dna": "e87da5b0a024a667db585f164b078d5896dd0422",
+  "edition": 2576,
+  "date": 1780647787627,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Black Suits"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

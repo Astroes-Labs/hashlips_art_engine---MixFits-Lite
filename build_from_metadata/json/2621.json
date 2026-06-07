@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #2621",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2621.png",
+  "dna": "5af06ccf85dc64316bedf68c3683a848065289ca",
+  "edition": 2621,
+  "date": 1780775050191,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Panda Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

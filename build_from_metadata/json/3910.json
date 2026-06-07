@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3910",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3910.png",
+  "dna": "5d37142b6a2ad826749bd23d1396efb3e870c77c",
+  "edition": 3910,
+  "date": 1780647881568,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

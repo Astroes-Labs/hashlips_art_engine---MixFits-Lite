@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3021",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3021.png",
+  "dna": "b91e6a163b4d02ac26b4a0cb2b9a5e7b8e31eb5c",
+  "edition": 3021,
+  "date": 1780647819546,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #944",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/944.png",
+  "dna": "cbc46ab52ebc10c668f6f987a5a352c6b66d3d66",
+  "edition": 944,
+  "date": 1780647673450,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

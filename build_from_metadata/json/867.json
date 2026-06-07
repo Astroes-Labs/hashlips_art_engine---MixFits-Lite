@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #867",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/867.png",
+  "dna": "153988999f43173959e52e9936b65f7c7f5ff022",
+  "edition": 867,
+  "date": 1780647668150,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Monk Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

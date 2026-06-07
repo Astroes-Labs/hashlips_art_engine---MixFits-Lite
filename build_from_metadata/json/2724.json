@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2724",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2724.png",
+  "dna": "5a296348d753942015f3f8e1ba4d9b41fbd567a7",
+  "edition": 2724,
+  "date": 1780647797885,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

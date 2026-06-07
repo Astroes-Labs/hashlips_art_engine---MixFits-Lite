@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2076",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2076.png",
+  "dna": "817b6ec508faf77026fc18c5db4a1f88b3c07a5b",
+  "edition": 2076,
+  "date": 1780647752623,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -2,9 +2,9 @@
   "name": "Your Collection #368",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/368.png",
-  "dna": "77160d745b067d3289619f74940753a668775c1c",
+  "dna": "1eea4c3fb479e57b4a9d8b1e66f0e9bd015dc608",
   "edition": 368,
-  "date": 1780640967439,
+  "date": 1780647633821,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,27 +12,27 @@
     },
     {
       "trait_type": "Body",
-      "value": "Zombie"
+      "value": "Homo Sapien"
     },
     {
       "trait_type": "Hair",
-      "value": "Blonde Taper Fade"
+      "value": "Messy"
     },
     {
       "trait_type": "Eyes",
-      "value": "Sunglasses"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Dark Green Jacket"
+      "value": "Regular Visor"
     },
     {
       "trait_type": "Pants",
-      "value": "Camo Pants"
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
     },
     {
       "trait_type": "Footwear",
-      "value": "OffWhyt Sneakers"
+      "value": "Flip Flops"
     }
   ],
   "compiler": "HashLips Art Engine"

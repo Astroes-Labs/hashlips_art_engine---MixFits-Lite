@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3060",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3060.png",
+  "dna": "a334b6ef191bc17e421d4435115eb9e8574c4b69",
+  "edition": 3060,
+  "date": 1780647822249,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

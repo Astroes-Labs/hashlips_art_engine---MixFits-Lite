@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #862",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/862.png",
+  "dna": "706cf2cbcf54a7c5da0f5e7ea2db559fc6f2b5a7",
+  "edition": 862,
+  "date": 1780647667822,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

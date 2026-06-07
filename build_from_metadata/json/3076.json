@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3076",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3076.png",
+  "dna": "26ed42dd8ea0de4c4daedb869ed52cfeb62a705e",
+  "edition": 3076,
+  "date": 1780647823303,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

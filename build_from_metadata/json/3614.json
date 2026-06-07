@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3614",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3614.png",
+  "dna": "4d5c2e79b3191251986d8666ebb2ec77f1011c86",
+  "edition": 3614,
+  "date": 1780773419866,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Task Force Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Lucha Libre Mask"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

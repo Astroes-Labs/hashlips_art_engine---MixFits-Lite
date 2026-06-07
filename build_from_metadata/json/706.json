@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #706",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/706.png",
+  "dna": "b436f942e1309e69c7d3778668e84cce8649afe9",
+  "edition": 706,
+  "date": 1780685527852,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Super Mutario Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

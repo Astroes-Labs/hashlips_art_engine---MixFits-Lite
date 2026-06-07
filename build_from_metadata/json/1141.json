@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1141",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1141.png",
+  "dna": "a506e1869213054c93023178c7cbf75cd1c09005",
+  "edition": 1141,
+  "date": 1780647686831,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

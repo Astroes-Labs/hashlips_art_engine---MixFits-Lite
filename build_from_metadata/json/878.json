@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #878",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/878.png",
+  "dna": "c1aafa7926ff661753daaeb4dbc13b617ee9811b",
+  "edition": 878,
+  "date": 1780647668920,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Chef Outfit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

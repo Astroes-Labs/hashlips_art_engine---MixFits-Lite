@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2806",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2806.png",
+  "dna": "d7fd43aef1b78cef2fe8e03f137ff6045a0d847f",
+  "edition": 2806,
+  "date": 1780647803542,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

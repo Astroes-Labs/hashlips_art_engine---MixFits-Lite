@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #635",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/635.png",
+  "dna": "30a2c1e181363a777ddc62c43422ca450c4ab18b",
+  "edition": 635,
+  "date": 1780685527850,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Wizard Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Brown Trucker Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

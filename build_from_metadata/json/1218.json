@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1218",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1218.png",
+  "dna": "a252eaabb3f10ff98e09e1b125f3fc0d077a2e0c",
+  "edition": 1218,
+  "date": 1780647692019,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

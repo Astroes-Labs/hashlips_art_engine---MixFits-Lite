@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #4338",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4338.png",
+  "dna": "f334a00b141b23192183da72b1d33c5b4f3da5d6",
+  "edition": 4338,
+  "date": 1780773088601,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Panda Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

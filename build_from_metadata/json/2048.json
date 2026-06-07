@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2048",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2048.png",
+  "dna": "004d44f2bd7c000c6338340df070f51419da5886",
+  "edition": 2048,
+  "date": 1780647750738,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Grand Mage Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3035",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3035.png",
+  "dna": "4bc1f4519c9d9ba9a55a97e7745b6520142b1cbc",
+  "edition": 3035,
+  "date": 1780647820545,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

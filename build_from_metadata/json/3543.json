@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3543",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3543.png",
+  "dna": "b88fac74a91fe46759ff04ff2f49f93b12ba9ed7",
+  "edition": 3543,
+  "date": 1780647855647,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Wizard Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

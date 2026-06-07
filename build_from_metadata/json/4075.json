@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4075",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4075.png",
+  "dna": "ce5e9c29438e0a19c7eb4dfe49be145a4c591712",
+  "edition": 4075,
+  "date": 1780647893160,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

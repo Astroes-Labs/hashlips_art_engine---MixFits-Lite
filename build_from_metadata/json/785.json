@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #785",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/785.png",
+  "dna": "915fba0aac81bb0569f227efa335439110f8cb1a",
+  "edition": 785,
+  "date": 1780647662711,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

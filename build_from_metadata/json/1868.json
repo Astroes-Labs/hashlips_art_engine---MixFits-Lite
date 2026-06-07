@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1868",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1868.png",
+  "dna": "92f67e4c88dc16c0c417896cea0220fe3887476c",
+  "edition": 1868,
+  "date": 1780647738431,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Task Force Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

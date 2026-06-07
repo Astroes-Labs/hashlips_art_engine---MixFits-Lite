@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #2926",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2926.png",
+  "dna": "b125936da568c56efd63b2932dc8b19f8917e77f",
+  "edition": 2926,
+  "date": 1780685527889,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Grand Mage Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4430",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4430.png",
+  "dna": "99321f167e944561acc9cf9217fdb2474a72eec0",
+  "edition": 4430,
+  "date": 1780647918009,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

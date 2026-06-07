@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1178",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1178.png",
+  "dna": "f056b040abbc2bc8a4f669f76bc3e30ae1777a4b",
+  "edition": 1178,
+  "date": 1780647689330,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

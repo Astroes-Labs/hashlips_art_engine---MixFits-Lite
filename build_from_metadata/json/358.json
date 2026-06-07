@@ -2,13 +2,13 @@
   "name": "Your Collection #358",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/358.png",
-  "dna": "ccde60d10cc0564e0ff2a079312a017fbed70e81",
+  "dna": "2362e126192e980c4fde2a7ab4162b9a5202beb0",
   "edition": 358,
-  "date": 1780640966701,
+  "date": 1780647632791,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Void"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Blue Tinted Bun"
+      "value": "Ginger Bowl Cut"
     },
     {
       "trait_type": "Eyes",
       "value": "3D Glasses"
     },
     {
-      "trait_type": "Shirt",
-      "value": "Invisible Hoodie"
+      "trait_type": "Pants",
+      "value": "Black Shorts"
     },
     {
-      "trait_type": "Pants",
-      "value": "Black Pants"
+      "trait_type": "Shirt",
+      "value": "Shark Suit"
     },
     {
       "trait_type": "Footwear",
-      "value": "Brown Sandals"
+      "value": "Red colorway Sneakers"
     }
   ],
   "compiler": "HashLips Art Engine"

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1880",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1880.png",
+  "dna": "e4386c3bf66ff1174fd0b6d666aba19d65b5f05b",
+  "edition": 1880,
+  "date": 1780647739209,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

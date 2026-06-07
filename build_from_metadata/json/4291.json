@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4291",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4291.png",
+  "dna": "1286134c403f8b45998b55187731f635c4c79956",
+  "edition": 4291,
+  "date": 1780647908257,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2603",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2603.png",
+  "dna": "a71efd975ba3763c6bd268321c6837853f64f171",
+  "edition": 2603,
+  "date": 1780647789440,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

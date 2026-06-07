@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #959",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/959.png",
+  "dna": "5109317aa7b94e07ee34edeb8ee8fa9084443095",
+  "edition": 959,
+  "date": 1780685629347,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Knight"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

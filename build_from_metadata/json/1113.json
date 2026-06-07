@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1113",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1113.png",
+  "dna": "1c8af56b76a8123d1d8b257d1868a9d7c7a53c83",
+  "edition": 1113,
+  "date": 1780647684951,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Monk Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

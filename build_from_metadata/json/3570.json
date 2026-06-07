@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3570",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3570.png",
+  "dna": "a28be881ddee1be6f2d7b680a57b78b40c2cd613",
+  "edition": 3570,
+  "date": 1780647857506,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

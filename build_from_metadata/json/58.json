@@ -2,17 +2,37 @@
   "name": "Your Collection #58",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/58.png",
-  "dna": "b099106af1d153a491f4a90c2d599a40874cc855",
+  "dna": "e8f813deb41933f7f98b08e775b3b14c7a7f0ace",
   "edition": 58,
-  "date": 1780640942550,
+  "date": 1780647609985,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Mutant A"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Grand Mage Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
     }
   ],
   "compiler": "HashLips Art Engine"

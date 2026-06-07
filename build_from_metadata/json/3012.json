@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3012",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3012.png",
+  "dna": "1c3059480347494265a6a8817434562ccb13ed71",
+  "edition": 3012,
+  "date": 1780647818738,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1807",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1807.png",
+  "dna": "1999ae33739c3755deb407253609ae4f1a5cff3f",
+  "edition": 1807,
+  "date": 1780647734114,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

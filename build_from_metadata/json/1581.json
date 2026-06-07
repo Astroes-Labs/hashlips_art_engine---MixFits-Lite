@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1581",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1581.png",
+  "dna": "974184ba839dc2552f6d49edbcca0d22f0d86b34",
+  "edition": 1581,
+  "date": 1780647717336,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

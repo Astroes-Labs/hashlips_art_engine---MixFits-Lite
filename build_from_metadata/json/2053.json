@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2053",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2053.png",
+  "dna": "19adae957496606f584bb8bf2c5f19f812d9c103",
+  "edition": 2053,
+  "date": 1780647751077,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

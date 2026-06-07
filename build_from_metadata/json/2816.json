@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2816",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2816.png",
+  "dna": "0de8bfc8e80b1341aa918e395cb5d28795f6b0d7",
+  "edition": 2816,
+  "date": 1780647804211,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

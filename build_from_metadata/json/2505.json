@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2505",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2505.png",
+  "dna": "a886537a2c9e5a573ac5819ba1de578d420ec0be",
+  "edition": 2505,
+  "date": 1780647782638,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #804",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/804.png",
+  "dna": "7b6efe1ee5b9604dd9f738f3d631815e0325a569",
+  "edition": 804,
+  "date": 1780647663984,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

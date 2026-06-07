@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1531",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1531.png",
+  "dna": "e9fe01de6aca3d4b7a5f3f7d5f7a1bc7d3f5b837",
+  "edition": 1531,
+  "date": 1780647713675,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

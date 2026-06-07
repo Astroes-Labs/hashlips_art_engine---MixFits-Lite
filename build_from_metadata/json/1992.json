@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1992",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1992.png",
+  "dna": "071c5cb1b10817ff3f609a272a36621404c90814",
+  "edition": 1992,
+  "date": 1780647746721,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Task Force Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3892",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3892.png",
+  "dna": "2c67c89e8eaf6f91d80aad1c4ca5578344516c6e",
+  "edition": 3892,
+  "date": 1780647880388,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Monk Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

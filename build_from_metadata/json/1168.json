@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #1168",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1168.png",
+  "dna": "3062ee1482d0ad842985c9a1b86ca96c3febe749",
+  "edition": 1168,
+  "date": 1780647688624,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Purple Slime"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Straight Face"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Ring"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4183",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4183.png",
+  "dna": "f359521b55cb7abbec9e5f564c2851543d3c73ae",
+  "edition": 4183,
+  "date": 1780647900651,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

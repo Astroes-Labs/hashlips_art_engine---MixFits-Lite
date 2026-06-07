@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2894",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2894.png",
+  "dna": "a9775550d20788376e54b7392336a45342f279b0",
+  "edition": 2894,
+  "date": 1780647810304,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #626",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/626.png",
+  "dna": "3247350dc83a8068d99ce8fc39f24566ee372393",
+  "edition": 626,
+  "date": 1780685527850,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "White Trucker Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

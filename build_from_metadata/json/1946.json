@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1946",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1946.png",
+  "dna": "00c56cd379e2d8ea90949902a2b1f1a33f168d4e",
+  "edition": 1946,
+  "date": 1780647743701,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

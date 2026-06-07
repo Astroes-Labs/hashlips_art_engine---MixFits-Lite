@@ -2,37 +2,37 @@
   "name": "Your Collection #433",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/433.png",
-  "dna": "7f7f1ee9748292d670a08b150e19eb7d095d65f1",
+  "dna": "701a96547f89b31b23f392606347c019230f4ed8",
   "edition": 433,
-  "date": 1780640972477,
+  "date": 1780647638298,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Void"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Homo Sapien"
+      "value": "Zombie"
     },
     {
       "trait_type": "Hair",
-      "value": "Clean Shave"
+      "value": "Brunette Bun"
     },
     {
       "trait_type": "Eyes",
-      "value": "Regular Visor"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Hawaii Beach Shirt"
+      "value": "Classic Visor"
     },
     {
       "trait_type": "Pants",
       "value": "Khaki Shorts"
     },
     {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
       "trait_type": "Footwear",
-      "value": "Kill Billy Boots"
+      "value": "Flip Flops"
     }
   ],
   "compiler": "HashLips Art Engine"

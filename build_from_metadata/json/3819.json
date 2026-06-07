@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3819",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3819.png",
+  "dna": "f96e87593ce7660f5813a6a777100069c88351b0",
+  "edition": 3819,
+  "date": 1780647874887,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

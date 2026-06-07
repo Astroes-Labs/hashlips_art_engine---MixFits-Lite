@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3303",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3303.png",
+  "dna": "d1f3afb1106b7d80896dfc03b2d51c36c434d800",
+  "edition": 3303,
+  "date": 1780647838919,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2067",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2067.png",
+  "dna": "f31f6c88b2e107015b677045be8f23f4565327fd",
+  "edition": 2067,
+  "date": 1780647752047,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Black Suits"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

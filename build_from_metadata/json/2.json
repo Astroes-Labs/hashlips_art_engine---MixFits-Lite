@@ -2,17 +2,37 @@
   "name": "Your Collection #2",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/2.png",
-  "dna": "61b74697528b47121954543b01044d197874d4d4",
+  "dna": "89dc1871d434c0b11b75cfe24747c22ad3d69c53",
   "edition": 2,
-  "date": 1780640939390,
+  "date": 1780647605297,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Ginger Werewolf"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
     }
   ],
   "compiler": "HashLips Art Engine"

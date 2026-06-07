@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3350",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3350.png",
+  "dna": "3b1d235e0de24b265225fa2b261defafca515e38",
+  "edition": 3350,
+  "date": 1780647842192,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2661",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2661.png",
+  "dna": "fbd8e7a95423be98dde3ada596a94f9742c3b3d9",
+  "edition": 2661,
+  "date": 1780647793668,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Grand Mage Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

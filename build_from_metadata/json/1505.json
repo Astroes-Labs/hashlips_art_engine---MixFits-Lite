@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #1505",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1505.png",
+  "dna": "afd50cf13ffc9935b4150ecb8e87261887ba065c",
+  "edition": 1505,
+  "date": 1780685527869,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Black Baseball Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

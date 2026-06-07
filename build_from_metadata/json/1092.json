@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1092",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1092.png",
+  "dna": "923ce140f911d10b9ad066c69fba642cfa7da439",
+  "edition": 1092,
+  "date": 1780647683523,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

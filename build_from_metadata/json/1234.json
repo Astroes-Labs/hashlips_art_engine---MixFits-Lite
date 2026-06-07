@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1234",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1234.png",
+  "dna": "f4fa65c901740fa7ec61d4f731e60a23b2e00610",
+  "edition": 1234,
+  "date": 1780647693069,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

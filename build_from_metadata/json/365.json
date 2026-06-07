@@ -2,33 +2,33 @@
   "name": "Your Collection #365",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/365.png",
-  "dna": "abdd109a4b4ae0fecd2514e98a1d2b60a83396bb",
+  "dna": "e20bc98319b35a5e49ce5459d0d3d62db1f43f70",
   "edition": 365,
-  "date": 1780640967202,
+  "date": 1780647633601,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sky"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Zombie"
+      "value": "Homo Sapien"
     },
     {
       "trait_type": "Hair",
-      "value": "Slick Afro"
+      "value": "Low Cut II"
     },
     {
       "trait_type": "Eyes",
-      "value": "Pink Wraparound Sunglasses"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Wizard Robe"
+      "value": "Blue Wraparound Sunglasses"
     },
     {
       "trait_type": "Pants",
-      "value": "Joker Suit Pants"
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Task Force Vest"
     },
     {
       "trait_type": "Footwear",

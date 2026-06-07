@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #811",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/811.png",
+  "dna": "7840af7e329338ea510aa0237f69f8e2c9a547ca",
+  "edition": 811,
+  "date": 1780647664441,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

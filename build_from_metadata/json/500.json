@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #500",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/500.png",
+  "dna": "5d0543531be5b4ea2624222c42cdc0b8c95ef057",
+  "edition": 500,
+  "date": 1780647643137,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

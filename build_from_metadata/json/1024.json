@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1024",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1024.png",
+  "dna": "c4440125dd235b3d21308b169c2f1ac4885d3ba3",
+  "edition": 1024,
+  "date": 1780647678954,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Wizard Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

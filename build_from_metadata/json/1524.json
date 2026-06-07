@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1524",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1524.png",
+  "dna": "25eaf47446274b4bda5113f489c35fe12e11ba72",
+  "edition": 1524,
+  "date": 1780647713240,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

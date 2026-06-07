@@ -2,17 +2,37 @@
   "name": "Your Collection #72",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/72.png",
-  "dna": "116aed7b670f4988afd0f1171b3edfacdbfee6b3",
+  "dna": "0cd1cb35ab015177e4ab2652358249a0cd06c930",
   "edition": 72,
-  "date": 1780640943169,
+  "date": 1780647611144,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Void"
+      "value": "Light"
     },
     {
       "trait_type": "Body",
-      "value": "Skeleton"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
     }
   ],
   "compiler": "HashLips Art Engine"

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1999",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1999.png",
+  "dna": "d25b4bd0f2d2a1a5dee20b24066a2b9521ecf721",
+  "edition": 1999,
+  "date": 1780647747245,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

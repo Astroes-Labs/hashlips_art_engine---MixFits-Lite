@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #3265",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3265.png",
+  "dna": "d047d9136ade1cd5c4cde2a7aae5b17fd1f8be4f",
+  "edition": 3265,
+  "date": 1780685527890,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Super Mutario Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

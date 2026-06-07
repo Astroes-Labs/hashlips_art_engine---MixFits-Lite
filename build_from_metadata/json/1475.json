@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1475",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1475.png",
+  "dna": "675c82e44f755c52f2fb049bfbfd6ba9fd1dee2d",
+  "edition": 1475,
+  "date": 1780647709784,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

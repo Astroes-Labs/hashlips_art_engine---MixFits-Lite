@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #3162",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3162.png",
+  "dna": "a7ab265497df53dda12df93b0e852ec9a22931fa",
+  "edition": 3162,
+  "date": 1780647829185,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Greenish Ghost"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

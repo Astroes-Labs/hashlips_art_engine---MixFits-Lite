@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2881",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2881.png",
+  "dna": "10368955151192e774fc8e06eeb24d22a0548e19",
+  "edition": 2881,
+  "date": 1780778780581,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Not TMA Mask"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

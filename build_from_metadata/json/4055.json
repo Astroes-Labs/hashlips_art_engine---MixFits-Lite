@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4055",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4055.png",
+  "dna": "1b51a392f44c7bba5bc4d6fda8ba4c949639c170",
+  "edition": 4055,
+  "date": 1780647891851,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Monk Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

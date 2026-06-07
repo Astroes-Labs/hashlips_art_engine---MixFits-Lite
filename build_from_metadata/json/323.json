@@ -2,9 +2,9 @@
   "name": "Your Collection #323",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/323.png",
-  "dna": "b3033835c15c35ba9da1c44f54eec32fad12c405",
+  "dna": "3bc537e03044922336a46bb638b815dbdda121ed",
   "edition": 323,
-  "date": 1780640963400,
+  "date": 1780647629897,
   "attributes": [
     {
       "trait_type": "Background",
@@ -20,15 +20,15 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Classic Visor"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Bloe Hoodie"
+      "value": "Blue Wraparound Sunglasses"
     },
     {
       "trait_type": "Pants",
       "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
     },
     {
       "trait_type": "Footwear",

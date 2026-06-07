@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1979",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1979.png",
+  "dna": "701b765b3d384875a4513857b4154b717f3c8c03",
+  "edition": 1979,
+  "date": 1780647745880,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

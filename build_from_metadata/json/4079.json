@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4079",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4079.png",
+  "dna": "9293d6382ccfdfcad6f4c1390ffb13c04fe51856",
+  "edition": 4079,
+  "date": 1780647893474,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

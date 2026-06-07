@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #4040",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4040.png",
+  "dna": "d2f0f110456e2fefdddef8945a2ebd29541f5673",
+  "edition": 4040,
+  "date": 1780647890763,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mutant B"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

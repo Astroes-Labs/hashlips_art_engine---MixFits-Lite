@@ -2,37 +2,17 @@
   "name": "Your Collection #388",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/388.png",
-  "dna": "126ded8d09424bc944c04285ac9796fc827d3fe0",
+  "dna": "b892ba39b9576882aff4c5ce115fc8642229aa11",
   "edition": 388,
-  "date": 1780640968857,
+  "date": 1780647635204,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sky"
+      "value": "Void"
     },
     {
       "trait_type": "Body",
-      "value": "Zombie"
-    },
-    {
-      "trait_type": "Hair",
-      "value": "Clean Shave"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "3D Glasses"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Shark Suit"
-    },
-    {
-      "trait_type": "Pants",
-      "value": "Blue Suit Pants"
-    },
-    {
-      "trait_type": "Footwear",
-      "value": "Black Boots"
+      "value": "Black Werewolf"
     }
   ],
   "compiler": "HashLips Art Engine"

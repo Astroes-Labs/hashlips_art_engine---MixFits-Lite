@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #3028",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3028.png",
+  "dna": "c35636b39c57a5c2281d44116b112dadd90fa976",
+  "edition": 3028,
+  "date": 1780685527889,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Super Mutario Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

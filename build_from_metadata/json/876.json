@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #876",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/876.png",
+  "dna": "e1a20c906a7d291cc441dde29499c82a5e03cc1d",
+  "edition": 876,
+  "date": 1780647668775,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

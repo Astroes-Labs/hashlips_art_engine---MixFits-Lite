@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3131",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3131.png",
+  "dna": "c06ded7883a7701396eddd08796936d1d32ef7ce",
+  "edition": 3131,
+  "date": 1780647826987,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Grand Mage Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

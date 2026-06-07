@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2331",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2331.png",
+  "dna": "7dfe453bad1076d8632404d126f29a4145751c8d",
+  "edition": 2331,
+  "date": 1780647770355,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Biker Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

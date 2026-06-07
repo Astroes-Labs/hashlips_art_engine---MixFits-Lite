@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3280",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3280.png",
+  "dna": "47f0ba73c729f2d78fcf12a76b703d9235fe15f4",
+  "edition": 3280,
+  "date": 1780647837350,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

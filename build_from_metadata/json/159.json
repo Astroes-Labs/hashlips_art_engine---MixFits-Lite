@@ -2,17 +2,37 @@
   "name": "Your Collection #159",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/159.png",
-  "dna": "b3cd19e7111eb720c55871f362a7dfa34728a962",
+  "dna": "231b35098006dfa225f2c3d7b1a42bdc6a2911d7",
   "edition": 159,
-  "date": 1780640948316,
+  "date": 1780647617580,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Wine"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Void Watcher"
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Croc Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

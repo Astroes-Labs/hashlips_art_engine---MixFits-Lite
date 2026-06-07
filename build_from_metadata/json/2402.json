@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2402",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2402.png",
+  "dna": "b8bd02031a37bc39c545d3f194bca901d12fbb05",
+  "edition": 2402,
+  "date": 1780775050189,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Croc Suit"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Propeller Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

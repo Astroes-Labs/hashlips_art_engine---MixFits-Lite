@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3193",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3193.png",
+  "dna": "86f749fdc9ed8b8428017a1f140e5511f7beacda",
+  "edition": 3193,
+  "date": 1780647831355,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

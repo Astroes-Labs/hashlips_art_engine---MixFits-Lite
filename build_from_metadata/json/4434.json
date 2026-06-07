@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4434",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4434.png",
+  "dna": "117287ae4b678a93a13aa7d6f276a2f7070f4897",
+  "edition": 4434,
+  "date": 1780647918553,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Chef Outfit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

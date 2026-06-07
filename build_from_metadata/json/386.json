@@ -2,37 +2,37 @@
   "name": "Your Collection #386",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/386.png",
-  "dna": "c6d94aeabf9e72c95a0f00051dbbf2861e43fe50",
+  "dna": "98b20681e7a4695fc7905efd6edd195d28fa510c",
   "edition": 386,
-  "date": 1780640968729,
+  "date": 1780647635083,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light"
+      "value": "Void"
     },
     {
       "trait_type": "Body",
-      "value": "Homo Sapien"
+      "value": "Zombie"
     },
     {
       "trait_type": "Hair",
-      "value": "Bowl Cut"
+      "value": "Messy"
     },
     {
       "trait_type": "Eyes",
-      "value": "Eye Patch"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Safety Vest"
+      "value": "Regular Visor"
     },
     {
       "trait_type": "Pants",
-      "value": "Shredded Jeans"
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Tux"
     },
     {
       "trait_type": "Footwear",
-      "value": "OffWhyt Sneakers"
+      "value": "Red colorway Sneakers"
     }
   ],
   "compiler": "HashLips Art Engine"

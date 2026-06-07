@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #2111",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2111.png",
+  "dna": "f8bca3a582b166772318ac2842599984c34e5b99",
+  "edition": 2111,
+  "date": 1780685527881,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Super Mutario Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

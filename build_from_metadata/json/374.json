@@ -2,9 +2,9 @@
   "name": "Your Collection #374",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/374.png",
-  "dna": "b80fe592339cc109fdafc1a7bf3e7c4dd6a27aea",
+  "dna": "ca36b6542aae0b772a423fc480f35c3356ac473c",
   "edition": 374,
-  "date": 1780640967847,
+  "date": 1780647634281,
   "attributes": [
     {
       "trait_type": "Background",
@@ -20,19 +20,19 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "3D Shades"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Red Varsity Jacket"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Pants",
-      "value": "Shredded Jeans"
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
     },
     {
       "trait_type": "Footwear",
-      "value": "Red colorway Sneakers"
+      "value": "Flip Flops"
     }
   ],
   "compiler": "HashLips Art Engine"

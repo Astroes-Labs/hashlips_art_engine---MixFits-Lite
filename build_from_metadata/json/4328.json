@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4328",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4328.png",
+  "dna": "d7f023de8a6eea5b611324dc0f6e2fc522e9cec2",
+  "edition": 4328,
+  "date": 1780647910852,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

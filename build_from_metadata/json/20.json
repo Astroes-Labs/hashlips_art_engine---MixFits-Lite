@@ -2,17 +2,37 @@
   "name": "Your Collection #20",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/20.png",
-  "dna": "9acbf34357134c96e1ec5c8332303bba803e5d25",
+  "dna": "1287efd63240c9e910c5894ea31f54951ee4dcfe",
   "edition": 20,
-  "date": 1780640940655,
+  "date": 1780647606971,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sky"
+      "value": "Light"
     },
     {
       "trait_type": "Body",
-      "value": "Void Executioner"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Task Force Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

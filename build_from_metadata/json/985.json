@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #985",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/985.png",
+  "dna": "feadac1c11e4d5432236cd2ab7f4aec9925af06b",
+  "edition": 985,
+  "date": 1780647676354,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

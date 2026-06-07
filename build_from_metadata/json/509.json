@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #509",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/509.png",
+  "dna": "4b070cdff09637f5bc5b00eb9293a50ba07fb9b1",
+  "edition": 509,
+  "date": 1780647643700,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Black Suits"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

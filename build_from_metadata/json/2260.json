@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #2260",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2260.png",
+  "dna": "9be9f2edb2bd3f1ee687ae58a8d17f13a7211084",
+  "edition": 2260,
+  "date": 1780685629349,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Knight"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

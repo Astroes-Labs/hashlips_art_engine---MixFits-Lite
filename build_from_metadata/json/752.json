@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #752",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/752.png",
+  "dna": "77926d38b1b7b844d156459a906a3ee533e09405",
+  "edition": 752,
+  "date": 1780647660284,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Joker Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

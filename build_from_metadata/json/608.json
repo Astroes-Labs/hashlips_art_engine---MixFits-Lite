@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #608",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/608.png",
+  "dna": "e5dd4de3273438893ba0d0e988fabb2b93b4f6ed",
+  "edition": 608,
+  "date": 1780647650552,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

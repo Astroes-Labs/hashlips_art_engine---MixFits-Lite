@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1765",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1765.png",
+  "dna": "7b719e0e240c83151401cf8e8f330161fe359b67",
+  "edition": 1765,
+  "date": 1780647731321,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Kill Billy Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

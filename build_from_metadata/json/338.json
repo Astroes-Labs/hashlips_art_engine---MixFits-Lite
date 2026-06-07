@@ -2,13 +2,13 @@
   "name": "Your Collection #338",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/338.png",
-  "dna": "12dce2a2a094716d46482344f2fc7505aec73670",
+  "dna": "d0d77abc289a57edf29ee9d9fe0a8baeb4e75dce",
   "edition": 338,
-  "date": 1780640965214,
+  "date": 1780647631071,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Void"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Blonde Slicked Back"
+      "value": "Bowl Cut"
     },
     {
       "trait_type": "Eyes",
-      "value": "Laser"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Grand Mage Robe"
+      "value": "Pink Wraparound Sunglasses"
     },
     {
       "trait_type": "Pants",
-      "value": "Joker Suit Pants"
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Biker Jacket"
     },
     {
       "trait_type": "Footwear",
-      "value": "Pirate Boots"
+      "value": "Brown Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

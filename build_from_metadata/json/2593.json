@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2593",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2593.png",
+  "dna": "b0d22ff3baf6bc13309f084f5c154158393948f6",
+  "edition": 2593,
+  "date": 1780647788753,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

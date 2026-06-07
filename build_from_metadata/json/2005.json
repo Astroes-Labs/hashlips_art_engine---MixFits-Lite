@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2005",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2005.png",
+  "dna": "446bf62df0b856fe6507e2fb08f58614c6df646a",
+  "edition": 2005,
+  "date": 1780647747641,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

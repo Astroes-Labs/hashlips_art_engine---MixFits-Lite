@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2493",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2493.png",
+  "dna": "80a985bee17e6556af8fc05dd480db1228f61bd6",
+  "edition": 2493,
+  "date": 1780647781798,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

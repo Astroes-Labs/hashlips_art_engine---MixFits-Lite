@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3619",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3619.png",
+  "dna": "f3501189226fb53d3072b2827336fd5721aafea3",
+  "edition": 3619,
+  "date": 1780647861088,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

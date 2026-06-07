@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #563",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/563.png",
+  "dna": "9bcb247ea1eb4ad56414cf3a26a792eb0659ab6e",
+  "edition": 563,
+  "date": 1780647647483,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

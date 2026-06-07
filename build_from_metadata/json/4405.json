@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4405",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4405.png",
+  "dna": "a035e4d115aa8af058ca5f2223c5371791981695",
+  "edition": 4405,
+  "date": 1780647916247,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

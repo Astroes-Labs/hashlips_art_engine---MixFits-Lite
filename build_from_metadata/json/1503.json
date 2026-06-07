@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1503",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1503.png",
+  "dna": "a5ee5228dfa75e43921f787b653bb93d02958a74",
+  "edition": 1503,
+  "date": 1780647711642,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Dark Green Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

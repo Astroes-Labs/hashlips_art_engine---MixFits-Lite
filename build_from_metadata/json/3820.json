@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3820",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3820.png",
+  "dna": "bc43bb7a51786c9c8392cd8c0f3206cc9e0b3b0c",
+  "edition": 3820,
+  "date": 1780647874986,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Joker Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

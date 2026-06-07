@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3207",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3207.png",
+  "dna": "19161c10ae54e0c0d3b46936f956e15082487ec9",
+  "edition": 3207,
+  "date": 1780647832275,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #4325",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4325.png",
+  "dna": "322ff0622a9dbcfdb59a36f48a46dbe53c1f7a1f",
+  "edition": 4325,
+  "date": 1780685527897,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Turban"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

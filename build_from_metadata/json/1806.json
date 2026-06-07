@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1806",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1806.png",
+  "dna": "e71dc355885aa3cc8b44998dacf45884ba66e6f4",
+  "edition": 1806,
+  "date": 1780647734043,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2410",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2410.png",
+  "dna": "fd7c96605860db256a0af5d28014ef4e0dfce444",
+  "edition": 2410,
+  "date": 1780647775658,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

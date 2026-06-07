@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2404",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2404.png",
+  "dna": "f2fbe71b26b1e778b8c299ed86c6b798aa3f413c",
+  "edition": 2404,
+  "date": 1780647775266,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

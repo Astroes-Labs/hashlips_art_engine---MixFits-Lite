@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4013",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4013.png",
+  "dna": "a3c56ef54dfd4e6e01670de20f1f2f75d39e127d",
+  "edition": 4013,
+  "date": 1780647888916,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

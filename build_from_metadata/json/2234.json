@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2234",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2234.png",
+  "dna": "5d951d24ae75d1c6a44b49c0b5a0d23210c19689",
+  "edition": 2234,
+  "date": 1780647763588,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

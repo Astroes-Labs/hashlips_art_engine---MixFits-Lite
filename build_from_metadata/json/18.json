@@ -2,9 +2,9 @@
   "name": "Your Collection #18",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/18.png",
-  "dna": "1d7450347f13e591efe8c7bfc381068e4d775c9b",
+  "dna": "c453747482c9589c5c3d1df7835eaa4ed28be3aa",
   "edition": 18,
-  "date": 1780640940537,
+  "date": 1780647606758,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,7 +12,27 @@
     },
     {
       "trait_type": "Body",
-      "value": "Greenish Ghost"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
     }
   ],
   "compiler": "HashLips Art Engine"

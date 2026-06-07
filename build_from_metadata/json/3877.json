@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3877",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3877.png",
+  "dna": "19616db65816a55f4d4cf0e2e2e4aeb1f69fe1bd",
+  "edition": 3877,
+  "date": 1780647879185,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

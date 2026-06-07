@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1486",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1486.png",
+  "dna": "3ebea4bc9e698c71b563b81a4b3083b3e72c426d",
+  "edition": 1486,
+  "date": 1780647710526,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Grand Mage Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

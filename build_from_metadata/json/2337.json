@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2337",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2337.png",
+  "dna": "24549dfb555cf64ba74f6f623fba8b17be1bc36b",
+  "edition": 2337,
+  "date": 1780647770746,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

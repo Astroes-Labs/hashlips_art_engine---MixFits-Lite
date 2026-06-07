@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2711",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2711.png",
+  "dna": "3fcba0cfa5e39f18d3103f84c250b457b37f1ec8",
+  "edition": 2711,
+  "date": 1780647797007,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Dark Green Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

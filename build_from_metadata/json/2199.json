@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2199",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2199.png",
+  "dna": "b82d3884809f4e179b08ae102950837f30ca90a5",
+  "edition": 2199,
+  "date": 1780647761060,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

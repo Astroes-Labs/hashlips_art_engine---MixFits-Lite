@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3033",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3033.png",
+  "dna": "f9d3c8d55e21e29ab30c3b248e47822083cebdb2",
+  "edition": 3033,
+  "date": 1780773419864,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Knight Helmet"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

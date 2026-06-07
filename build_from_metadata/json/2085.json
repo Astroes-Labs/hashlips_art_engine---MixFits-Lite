@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2085",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2085.png",
+  "dna": "c93bb96093570ba6543a93521bc69ab257e35374",
+  "edition": 2085,
+  "date": 1780647753219,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

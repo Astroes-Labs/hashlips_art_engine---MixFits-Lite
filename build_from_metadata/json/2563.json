@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2563",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2563.png",
+  "dna": "b288516c965fdca8deef52153a848998f256ffe4",
+  "edition": 2563,
+  "date": 1780647786759,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

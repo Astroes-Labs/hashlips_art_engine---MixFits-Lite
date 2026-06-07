@@ -2,25 +2,37 @@
   "name": "Your Collection #307",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/307.png",
-  "dna": "1aace17ef9b4125f806633aae58b77b716610ca8",
+  "dna": "efa5208076d8125fa9a4b5987a5a0121258042a0",
   "edition": 307,
-  "date": 1780640960973,
+  "date": 1780647628627,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sky"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Pink Slime"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
     },
     {
       "trait_type": "Eyes",
-      "value": "Straight Face"
+      "value": "Pink Wraparound Sunglasses"
     },
     {
-      "trait_type": "Special",
-      "value": "Bomb"
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

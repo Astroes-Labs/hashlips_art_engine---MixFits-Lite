@@ -2,9 +2,9 @@
   "name": "Your Collection #339",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/339.png",
-  "dna": "fc9ca966f73f3d30137b2b76681630be9f0a7eb0",
+  "dna": "c298ed5f7fbe319a23a36d01362ec5e41bb39422",
   "edition": 339,
-  "date": 1780640965286,
+  "date": 1780647631142,
   "attributes": [
     {
       "trait_type": "Background",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Messy"
+      "value": "Low Cut"
     },
     {
       "trait_type": "Eyes",
-      "value": "Sunglasses"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "High Priest"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Pants",
-      "value": "Black Suit Pants"
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
     },
     {
       "trait_type": "Footwear",
-      "value": "Combat Boots"
+      "value": "Brown Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

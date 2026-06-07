@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1801",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1801.png",
+  "dna": "80087e43e3a220f992365ae524a1646f925ce89a",
+  "edition": 1801,
+  "date": 1780647733719,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Wizard Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

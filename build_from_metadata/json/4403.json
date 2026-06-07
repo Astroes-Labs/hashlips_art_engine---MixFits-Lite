@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4403",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4403.png",
+  "dna": "12513e04e3750f49fa5a5ead16c2a33162e5b401",
+  "edition": 4403,
+  "date": 1780647916114,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Dark Green Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

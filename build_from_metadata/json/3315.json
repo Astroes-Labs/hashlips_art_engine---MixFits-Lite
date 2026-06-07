@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #3315",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3315.png",
+  "dna": "3f9e6870b9a2052656c14d89ff1b76c474f867c3",
+  "edition": 3315,
+  "date": 1780777212894,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Ninja Outfit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

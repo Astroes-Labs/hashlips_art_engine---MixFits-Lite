@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #749",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/749.png",
+  "dna": "7a963f0de7f3176d6f59693f1a5513e2b661a6b9",
+  "edition": 749,
+  "date": 1780647660098,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

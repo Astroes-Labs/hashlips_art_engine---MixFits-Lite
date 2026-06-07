@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3348",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3348.png",
+  "dna": "2a8c45f697a1e1201024e2f871be3e685e93f0f2",
+  "edition": 3348,
+  "date": 1780647842047,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

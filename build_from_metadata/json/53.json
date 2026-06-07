@@ -2,9 +2,9 @@
   "name": "Your Collection #53",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/53.png",
-  "dna": "e8e7e36155106326d95e0ecfeb93e0a49e5fb059",
+  "dna": "3bbcbdf57bf4eaec15c6f106c03cc4cb46345240",
   "edition": 53,
-  "date": 1780640942315,
+  "date": 1780647609624,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,7 +12,27 @@
     },
     {
       "trait_type": "Body",
-      "value": "HellHound"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
     }
   ],
   "compiler": "HashLips Art Engine"

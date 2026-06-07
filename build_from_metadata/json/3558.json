@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3558",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3558.png",
+  "dna": "1869a72d8226f1499f7c5b201e6cc01dd59ef4f6",
+  "edition": 3558,
+  "date": 1780647856687,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Grand Mage Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Grand Mage Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1022",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1022.png",
+  "dna": "33eb1c579611dd00f7e3cf751a1d1ba9e8aaee05",
+  "edition": 1022,
+  "date": 1780647678809,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Chef Outfit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

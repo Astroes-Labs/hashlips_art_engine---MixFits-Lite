@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #570",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/570.png",
+  "dna": "0b37af9bd1b9cfb88e4e945d071697315d69e645",
+  "edition": 570,
+  "date": 1780647647968,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

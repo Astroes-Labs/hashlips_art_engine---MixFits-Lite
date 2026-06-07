@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #603",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/603.png",
+  "dna": "63314c0a4d5d1fd4499d709b9a782d30fa5f3ce4",
+  "edition": 603,
+  "date": 1780647650221,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

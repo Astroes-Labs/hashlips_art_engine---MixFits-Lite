@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2653",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2653.png",
+  "dna": "b627870be2748b8fe43e4c72a767d2bd2c29817d",
+  "edition": 2653,
+  "date": 1780647793082,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Tux"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

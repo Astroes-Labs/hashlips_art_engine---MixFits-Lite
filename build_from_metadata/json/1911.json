@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1911",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1911.png",
+  "dna": "69487fa2514472ec3c4a2669676a8fcdbb425380",
+  "edition": 1911,
+  "date": 1780647741348,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

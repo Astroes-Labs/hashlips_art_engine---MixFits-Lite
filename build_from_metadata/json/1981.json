@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1981",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1981.png",
+  "dna": "03611b9d177446efc116496847928b2afdb572bc",
+  "edition": 1981,
+  "date": 1780647746024,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

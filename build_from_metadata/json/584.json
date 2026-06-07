@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #584",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/584.png",
+  "dna": "ec22bbcc4f0b4c0a2f73442b19806b7a9f0b4b78",
+  "edition": 584,
+  "date": 1780647648957,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

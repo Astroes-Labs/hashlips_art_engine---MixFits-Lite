@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4094",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4094.png",
+  "dna": "04e4a32116ee13b8b3214958cd1423f4660fce3a",
+  "edition": 4094,
+  "date": 1780647894467,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

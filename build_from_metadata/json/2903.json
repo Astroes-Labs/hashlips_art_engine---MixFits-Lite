@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2903",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2903.png",
+  "dna": "2514c26d04e287acb6752ed2e47d66e666c4c4b7",
+  "edition": 2903,
+  "date": 1780647811023,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Monk Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

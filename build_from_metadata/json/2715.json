@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2715",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2715.png",
+  "dna": "7666775262281bdf74867a183f05d43ca806cb59",
+  "edition": 2715,
+  "date": 1780647797275,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

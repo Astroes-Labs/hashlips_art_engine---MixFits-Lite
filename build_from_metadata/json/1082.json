@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #1082",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1082.png",
+  "dna": "592c4f94c867ace72f4d25d369756d5b3a837f6e",
+  "edition": 1082,
+  "date": 1780685527859,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Grand Mage Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

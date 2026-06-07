@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4246",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4246.png",
+  "dna": "4b702c91f682ba2842ff672c4175cbf326d63eeb",
+  "edition": 4246,
+  "date": 1780647905185,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

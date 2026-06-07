@@ -2,37 +2,17 @@
   "name": "Your Collection #436",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/436.png",
-  "dna": "0eeb1a65c587e84edb184f22c8ce470b65213460",
+  "dna": "52765b75928766cc69bc422cb456adc52555fb3a",
   "edition": 436,
-  "date": 1780640972712,
+  "date": 1780647638540,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Wine"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Zombie"
-    },
-    {
-      "trait_type": "Hair",
-      "value": "Bowl Cut"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Sunglasses"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Chef Outfit"
-    },
-    {
-      "trait_type": "Pants",
-      "value": "Camo Pants"
-    },
-    {
-      "trait_type": "Footwear",
-      "value": "Pirate Boots"
+      "value": "Gold Skeleton"
     }
   ],
   "compiler": "HashLips Art Engine"

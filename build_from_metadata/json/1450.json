@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1450",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1450.png",
+  "dna": "9e3253e5626ea06a8d51f4c063e55039aae761e8",
+  "edition": 1450,
+  "date": 1780647708048,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Joker Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

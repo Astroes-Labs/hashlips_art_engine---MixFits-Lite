@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4408",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4408.png",
+  "dna": "ae7f7bc13dcbda1173d882a06ff5ec6710dd0e28",
+  "edition": 4408,
+  "date": 1780647916461,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

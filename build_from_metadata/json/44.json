@@ -2,17 +2,37 @@
   "name": "Your Collection #44",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/44.png",
-  "dna": "2835ba869c0e9d419b9a1b0f5d338424491e5b4e",
+  "dna": "ef7daeebf419648a0e6784e7cf3fcb6c51a4a696",
   "edition": 44,
-  "date": 1780640941871,
+  "date": 1780647608836,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Bluish Ghost"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Tux"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1972",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1972.png",
+  "dna": "7e07fa82cd94e39ea9a803a24788b9ee37bccd1f",
+  "edition": 1972,
+  "date": 1780647745452,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

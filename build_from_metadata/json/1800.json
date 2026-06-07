@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1800",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1800.png",
+  "dna": "b2444d2f6b0c456f1af165e6325123528be3268a",
+  "edition": 1800,
+  "date": 1780647733657,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

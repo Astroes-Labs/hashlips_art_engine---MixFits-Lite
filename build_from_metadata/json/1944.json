@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #1944",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1944.png",
+  "dna": "cb11fa14e4c6155b8d7f928b203e0c9cc46df245",
+  "edition": 1944,
+  "date": 1780685629349,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Knight"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

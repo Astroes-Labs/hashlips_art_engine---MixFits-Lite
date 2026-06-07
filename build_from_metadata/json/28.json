@@ -2,17 +2,37 @@
   "name": "Your Collection #28",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/28.png",
-  "dna": "ccee3292456aa42426a6c318d56e8e7c519883e0",
+  "dna": "3b9ab192031e7ea0764b0b4d45aef0c43b0a17a1",
   "edition": 28,
-  "date": 1780640941098,
+  "date": 1780647607633,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Wine"
+      "value": "Light"
     },
     {
       "trait_type": "Body",
-      "value": "Black Werewolf"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
     }
   ],
   "compiler": "HashLips Art Engine"

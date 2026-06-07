@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #2303",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2303.png",
+  "dna": "f3fec27748a72056d8c6667c8f5753c0ebfa31ef",
+  "edition": 2303,
+  "date": 1780647768370,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink Slime"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Straight Face"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Cheese"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

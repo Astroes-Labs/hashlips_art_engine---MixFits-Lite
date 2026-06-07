@@ -2,17 +2,37 @@
   "name": "Your Collection #212",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/212.png",
-  "dna": "fcb89176c7f17d3b861b19922040be009ab4ad1d",
+  "dna": "51655bc75b8444204541b89c604e0d5aea54ff3b",
   "edition": 212,
-  "date": 1780640952073,
+  "date": 1780647621718,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Monitor Bot X"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Knight"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
     }
   ],
   "compiler": "HashLips Art Engine"

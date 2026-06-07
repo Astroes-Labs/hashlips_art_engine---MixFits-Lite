@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2248",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2248.png",
+  "dna": "3090ed87cfeba4cd1fe3f39594a1147e609fd050",
+  "edition": 2248,
+  "date": 1780647764524,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

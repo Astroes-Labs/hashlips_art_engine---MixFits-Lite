@@ -2,17 +2,37 @@
   "name": "Your Collection #37",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/37.png",
-  "dna": "188a9bada01a5adb9dc77cd024d3dd37f627a489",
+  "dna": "5a2d40a73f46459cb8dbb0874204b532c3d0b428",
   "edition": 37,
-  "date": 1780640941539,
+  "date": 1780647608307,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Void"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Mighty Balor"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

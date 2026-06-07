@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1381",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1381.png",
+  "dna": "eba8aa8ea8afd43ed30bba0d36aadf0d62c7a4dd",
+  "edition": 1381,
+  "date": 1780778780577,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Not TMA Mask"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

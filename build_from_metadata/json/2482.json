@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2482",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2482.png",
+  "dna": "e98b2c5c8dda738ed13845254db42478cd2b837d",
+  "edition": 2482,
+  "date": 1780647781095,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

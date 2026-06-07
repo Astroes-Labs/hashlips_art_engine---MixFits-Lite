@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1814",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1814.png",
+  "dna": "43e589c3547e2a99f2b3921c8c6f94a37cae9c2d",
+  "edition": 1814,
+  "date": 1780647734580,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Grand Mage Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

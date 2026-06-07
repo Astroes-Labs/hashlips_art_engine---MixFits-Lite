@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #3115",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3115.png",
+  "dna": "99ecf654900221bd49fb622880a5d9d621f725f2",
+  "edition": 3115,
+  "date": 1780647825887,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Monitor Bot Y"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

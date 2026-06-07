@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #1017",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1017.png",
+  "dna": "74f61e8ebdf46fc932fc6ea6cf299e4ab80d74b0",
+  "edition": 1017,
+  "date": 1780685629347,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Knight"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1070",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1070.png",
+  "dna": "1a6bee29cfdcf36802c9cd21cb59a9114c9a96f2",
+  "edition": 1070,
+  "date": 1780647682085,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Chef Outfit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

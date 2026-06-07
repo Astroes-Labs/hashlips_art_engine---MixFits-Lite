@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3253",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3253.png",
+  "dna": "3095f511938745d0c8f1dc0b142257dc743377c9",
+  "edition": 3253,
+  "date": 1780647835510,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Grand Mage Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

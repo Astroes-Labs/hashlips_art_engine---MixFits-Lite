@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #704",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/704.png",
+  "dna": "2be2b6884046a8adba2a4bfedb88d7d9a329175f",
+  "edition": 704,
+  "date": 1780647656906,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

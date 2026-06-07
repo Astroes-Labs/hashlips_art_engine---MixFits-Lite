@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #633",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/633.png",
+  "dna": "9827409bd02dcb5c157ee9e453285173afd444f7",
+  "edition": 633,
+  "date": 1780647652227,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Wizard Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

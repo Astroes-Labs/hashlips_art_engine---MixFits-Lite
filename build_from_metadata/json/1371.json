@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1371",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1371.png",
+  "dna": "17a00ca79d2dce891c701a58f21357de6ed3f80e",
+  "edition": 1371,
+  "date": 1780647702596,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Kill Billy Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

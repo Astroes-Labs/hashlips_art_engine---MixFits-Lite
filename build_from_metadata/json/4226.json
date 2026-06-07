@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4226",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4226.png",
+  "dna": "7dc0716ba0253cfc7a00abb486cced30ce376204",
+  "edition": 4226,
+  "date": 1780647903801,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

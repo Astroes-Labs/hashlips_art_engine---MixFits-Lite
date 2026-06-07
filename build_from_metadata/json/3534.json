@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3534",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3534.png",
+  "dna": "3fe645d71959dddea8fcdb89e2b45d78c392bdb1",
+  "edition": 3534,
+  "date": 1780647855088,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

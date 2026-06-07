@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2024",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2024.png",
+  "dna": "2185375951e4026266c87532a471a66695639d4b",
+  "edition": 2024,
+  "date": 1780647748887,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

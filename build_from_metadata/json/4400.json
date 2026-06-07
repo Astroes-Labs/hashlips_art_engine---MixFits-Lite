@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4400",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4400.png",
+  "dna": "eae325a50f3a7550450ae62bb3edd5a9a3e28cbc",
+  "edition": 4400,
+  "date": 1780647915918,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Kill Billy Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

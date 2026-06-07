@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2424",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2424.png",
+  "dna": "c39f769077753dfc4416a16bf23458bc5cfcd517",
+  "edition": 2424,
+  "date": 1780647776765,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

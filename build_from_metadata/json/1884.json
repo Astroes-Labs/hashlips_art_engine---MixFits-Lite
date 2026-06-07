@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1884",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1884.png",
+  "dna": "7aa8902668c6ca2ff18979855cb6323c34ce1db0",
+  "edition": 1884,
+  "date": 1780647739459,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

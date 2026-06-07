@@ -2,13 +2,13 @@
   "name": "Your Collection #289",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/289.png",
-  "dna": "9b5791a1a7bb45c3d7ed76dfede158f3ec2f1840",
+  "dna": "146a2a2b10397891a01a35f795dfd06576c69456",
   "edition": 289,
-  "date": 1780640958553,
+  "date": 1780647627304,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Wine"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
@@ -16,19 +16,19 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Bowl Cut"
+      "value": "Blonde Slicked Back"
     },
     {
       "trait_type": "Eyes",
-      "value": "Classic Visor"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Hawaii Beach Shirt"
+      "value": "Blue Wraparound Sunglasses"
     },
     {
       "trait_type": "Pants",
-      "value": "Black Suit Pants"
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Pirate Capt"
     },
     {
       "trait_type": "Footwear",

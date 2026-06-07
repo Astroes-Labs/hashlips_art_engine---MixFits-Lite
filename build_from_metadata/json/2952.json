@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2952",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2952.png",
+  "dna": "ff0908362e832406bd4e13b38276a9811b917bf3",
+  "edition": 2952,
+  "date": 1780647814605,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

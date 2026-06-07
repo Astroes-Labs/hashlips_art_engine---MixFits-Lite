@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #649",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/649.png",
+  "dna": "13e69057a7b93af3b9a10dfb874c5d296009eecd",
+  "edition": 649,
+  "date": 1780647653268,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

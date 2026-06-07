@@ -2,37 +2,17 @@
   "name": "Your Collection #241",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/241.png",
-  "dna": "6fd9ec92e90d0962d0e813fc5eca1feb7d9e0b1f",
+  "dna": "7f151c03533ed8641c035301578b2dde6aea98b8",
   "edition": 241,
-  "date": 1780640954352,
+  "date": 1780647623822,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Homo Sapien"
-    },
-    {
-      "trait_type": "Hair",
-      "value": "Blue Tinted Bun"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Laser"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "BBall Uni"
-    },
-    {
-      "trait_type": "Pants",
-      "value": "Black Suit Pants"
-    },
-    {
-      "trait_type": "Footwear",
-      "value": "Flip Flops"
+      "value": "Brown Werewolf II"
     }
   ],
   "compiler": "HashLips Art Engine"

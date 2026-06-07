@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #1987",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1987.png",
+  "dna": "ed5029453417852f02775d78b06b74b4b4fd8d4d",
+  "edition": 1987,
+  "date": 1780685527880,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "King Crown"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

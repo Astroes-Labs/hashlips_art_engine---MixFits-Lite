@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1545",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1545.png",
+  "dna": "eaaa796f832a3e2c11cc6a95c47b62285b5c1a2d",
+  "edition": 1545,
+  "date": 1780647714751,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Tux"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

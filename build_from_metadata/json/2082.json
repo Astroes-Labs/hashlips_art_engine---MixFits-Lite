@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2082",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2082.png",
+  "dna": "48fab3f1e1ca62280dcd5448729a0684af31bf8d",
+  "edition": 2082,
+  "date": 1780647753028,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

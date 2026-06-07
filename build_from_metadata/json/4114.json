@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4114",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4114.png",
+  "dna": "a7ef27df99f86d3f6f1bcebed970f30f6fce2730",
+  "edition": 4114,
+  "date": 1780647895856,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Black Suits"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #1995",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1995.png",
+  "dna": "543685307adadabc4e3041096443cb38c6bcca12",
+  "edition": 1995,
+  "date": 1780775050188,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Full Protective Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

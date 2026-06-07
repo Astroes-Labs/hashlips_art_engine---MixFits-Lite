@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #726",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/726.png",
+  "dna": "d64eca42e1faf7d1adb0f842c2dd6dc242fe396f",
+  "edition": 726,
+  "date": 1780647658435,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Chef Outfit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

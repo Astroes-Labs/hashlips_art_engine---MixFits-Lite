@@ -2,25 +2,37 @@
   "name": "Your Collection #255",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/255.png",
-  "dna": "4927dc388069ec579b1772db5c156acb9a04fbe0",
+  "dna": "9c865b703b6cb379fc04aba78680e9931cddadb9",
   "edition": 255,
-  "date": 1780640955548,
+  "date": 1780647624814,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Void"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Green Slime"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
     },
     {
       "trait_type": "Eyes",
-      "value": "Straight Face"
+      "value": "3D Shades"
     },
     {
-      "trait_type": "Special",
-      "value": "Brain"
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

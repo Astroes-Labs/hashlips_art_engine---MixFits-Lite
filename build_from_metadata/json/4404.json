@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4404",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4404.png",
+  "dna": "30b0f9bc941a6176a62b820070409b7d97459291",
+  "edition": 4404,
+  "date": 1780647916179,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

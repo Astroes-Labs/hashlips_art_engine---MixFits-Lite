@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #3804",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3804.png",
+  "dna": "f9799ee87de90749418b0c8306e8d811b8b697ae",
+  "edition": 3804,
+  "date": 1780773088599,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Full Protective Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

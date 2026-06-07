@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #776",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/776.png",
+  "dna": "c722c5cf62102994addaa18f01b86b41fc941a83",
+  "edition": 776,
+  "date": 1780685629347,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Knight"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

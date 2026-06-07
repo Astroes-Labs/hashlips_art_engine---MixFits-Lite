@@ -2,17 +2,37 @@
   "name": "Your Collection #130",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/130.png",
-  "dna": "1471e5cc15aeee353d4e76f1d43317a133b40439",
+  "dna": "de21aecc9ac0e01f90a9bf800e9e8a8cc7b240f5",
   "edition": 130,
-  "date": 1780640946043,
+  "date": 1780647615345,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Wine"
+      "value": "Void"
     },
     {
       "trait_type": "Body",
-      "value": "Silver Skeleton"
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
     }
   ],
   "compiler": "HashLips Art Engine"

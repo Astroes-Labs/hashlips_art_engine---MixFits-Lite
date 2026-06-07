@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2501",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2501.png",
+  "dna": "05d9af002768f8515fb3ed1920562990ef5e58cc",
+  "edition": 2501,
+  "date": 1780647782377,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

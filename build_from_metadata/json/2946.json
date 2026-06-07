@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2946",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2946.png",
+  "dna": "c85a7184956704bcbc5385f12fcc2ffc4c813260",
+  "edition": 2946,
+  "date": 1780647814104,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Grand Mage Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

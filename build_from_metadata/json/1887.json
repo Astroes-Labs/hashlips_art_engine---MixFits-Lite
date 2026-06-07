@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1887",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1887.png",
+  "dna": "302a9d1de9ccec71572a891b4d9dfe298077112d",
+  "edition": 1887,
+  "date": 1780647739732,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

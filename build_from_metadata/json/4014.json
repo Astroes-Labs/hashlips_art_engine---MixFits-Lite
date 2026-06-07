@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4014",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4014.png",
+  "dna": "958e764a66a6e4c8eb750062e03b47983cfc9f75",
+  "edition": 4014,
+  "date": 1780647888984,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

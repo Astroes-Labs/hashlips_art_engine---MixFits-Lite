@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4148",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4148.png",
+  "dna": "07ecf5b4cc0265de7b3cfada8ec22126ee06ec55",
+  "edition": 4148,
+  "date": 1780773419869,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Knight Helmet"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

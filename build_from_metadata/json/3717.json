@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3717",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3717.png",
+  "dna": "57f8ad068baf4a07ed3d138832eed0155e4a040d",
+  "edition": 3717,
+  "date": 1780647867734,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Joker Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

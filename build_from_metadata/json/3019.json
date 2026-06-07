@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3019",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3019.png",
+  "dna": "ec731d3c33301581ee7d90397c665dcc8402c561",
+  "edition": 3019,
+  "date": 1780647819401,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

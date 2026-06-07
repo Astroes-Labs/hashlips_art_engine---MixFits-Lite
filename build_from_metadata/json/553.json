@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #553",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/553.png",
+  "dna": "4ce5df4426aea606dfdb7958c71f364c6501405e",
+  "edition": 553,
+  "date": 1780647646661,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

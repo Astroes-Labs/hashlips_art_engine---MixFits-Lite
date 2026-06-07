@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1923",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1923.png",
+  "dna": "f1415860430404e0a55af21429855c284f232f22",
+  "edition": 1923,
+  "date": 1780647742157,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

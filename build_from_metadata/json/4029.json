@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4029",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4029.png",
+  "dna": "393a7a52036b4000adfdfc1943247b7ed6f30d4c",
+  "edition": 4029,
+  "date": 1780647890036,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Kill Billy Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

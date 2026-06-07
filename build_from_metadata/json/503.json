@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #503",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/503.png",
+  "dna": "d04e61bbd5fdf11a0c3863c87b8fd310170601b3",
+  "edition": 503,
+  "date": 1780647643319,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Dark Green Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

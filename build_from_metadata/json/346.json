@@ -2,13 +2,13 @@
   "name": "Your Collection #346",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/346.png",
-  "dna": "b4b4478b6915d1fd94fdbd536ea20320f64dc24e",
+  "dna": "fad861928981521058969c18631c5b85aadf7e93",
   "edition": 346,
-  "date": 1780640965756,
+  "date": 1780647631639,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Wine"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Messy"
+      "value": "Blonde Taper Fade"
     },
     {
       "trait_type": "Eyes",
       "value": "3D Shades"
     },
     {
-      "trait_type": "Shirt",
-      "value": "Monk Robe"
+      "trait_type": "Pants",
+      "value": "BBall Short"
     },
     {
-      "trait_type": "Pants",
-      "value": "Tux Suit Pants"
+      "trait_type": "Shirt",
+      "value": "High Priest"
     },
     {
       "trait_type": "Footwear",
-      "value": "Kill Billy Boots"
+      "value": "Brown Sandals"
     }
   ],
   "compiler": "HashLips Art Engine"

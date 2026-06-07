@@ -2,17 +2,37 @@
   "name": "Your Collection #64",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/64.png",
-  "dna": "e6ca75ff253e8cdb762870c7be4888ff0b8cfa84",
+  "dna": "9690456dc1b2768ff73bdd1dc4a7f53d46755403",
   "edition": 64,
-  "date": 1780640942829,
+  "date": 1780647610439,
   "attributes": [
     {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
       "trait_type": "Body",
-      "value": "Experiment Zero"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
     },
     {
       "trait_type": "Eyes",
       "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
     }
   ],
   "compiler": "HashLips Art Engine"

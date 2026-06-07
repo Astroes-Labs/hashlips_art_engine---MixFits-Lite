@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #2239",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2239.png",
+  "dna": "aa9feeead169f9c872651d1db7a4c78440545457",
+  "edition": 2239,
+  "date": 1780685527883,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Baby Propeller Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

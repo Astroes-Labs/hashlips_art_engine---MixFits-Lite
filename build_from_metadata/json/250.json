@@ -2,25 +2,37 @@
   "name": "Your Collection #250",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/250.png",
-  "dna": "b916128cfad5250d092f02b73b46e7f76d281441",
+  "dna": "50672f9a84e87e05079ac63eb8d15a71b1eecac7",
   "edition": 250,
-  "date": 1780640955093,
+  "date": 1780647624467,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Void"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Purple Slime"
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
     },
     {
       "trait_type": "Eyes",
-      "value": "Straight Face"
+      "value": "Regular Visor"
     },
     {
-      "trait_type": "Special",
-      "value": "Bomb"
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

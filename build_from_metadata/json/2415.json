@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2415",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2415.png",
+  "dna": "f2d7f967d139a52be589fceb706987f526b13668",
+  "edition": 2415,
+  "date": 1780647775998,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Grand Mage Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

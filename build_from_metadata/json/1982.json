@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #1982",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1982.png",
+  "dna": "bbe0e0be6e50fe3cb2cb8aa457d3cb9e52d89d4f",
+  "edition": 1982,
+  "date": 1780647746068,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Werewolf"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

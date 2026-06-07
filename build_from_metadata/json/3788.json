@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3788",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3788.png",
+  "dna": "4feb7e627eaefa1697246a352c62e8c054e664e6",
+  "edition": 3788,
+  "date": 1780647872625,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

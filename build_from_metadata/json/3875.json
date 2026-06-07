@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3875",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3875.png",
+  "dna": "076895da7213fbb196a3aae70b6c350ef86686d0",
+  "edition": 3875,
+  "date": 1780647879057,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Joker Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

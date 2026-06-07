@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2263",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2263.png",
+  "dna": "4382a588b6425d7e6c8dd9370c075e80d54688c0",
+  "edition": 2263,
+  "date": 1780647765514,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

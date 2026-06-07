@@ -2,25 +2,37 @@
   "name": "Your Collection #203",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/203.png",
-  "dna": "bb35c1bbe99c9539c39f6168187c4ff4623cf397",
+  "dna": "77719d0d6f6e8f8d25bb2ebf10aa6c41a249aec3",
   "edition": 203,
-  "date": 1780640951363,
+  "date": 1780647621016,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Green Slime"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
     },
     {
       "trait_type": "Eyes",
-      "value": "Straight Face"
+      "value": "Classic Visor"
     },
     {
-      "trait_type": "Special",
-      "value": "Dog"
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

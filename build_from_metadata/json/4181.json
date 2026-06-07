@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4181",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4181.png",
+  "dna": "978db3a4c232bf29cb40fbb15cfdaf76e66fd8b0",
+  "edition": 4181,
+  "date": 1780647900511,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Dark Green Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

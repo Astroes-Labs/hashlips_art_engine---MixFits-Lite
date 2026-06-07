@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4409",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4409.png",
+  "dna": "bd49b59575dcae708ddec962c2cf65e70b39e50e",
+  "edition": 4409,
+  "date": 1780647916552,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

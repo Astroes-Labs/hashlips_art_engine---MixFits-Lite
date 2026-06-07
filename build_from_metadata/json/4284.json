@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #4284",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4284.png",
+  "dna": "8fa4f672d9e6c4cf823c5716a58eba493d907b6c",
+  "edition": 4284,
+  "date": 1780773088600,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Panda Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1441",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1441.png",
+  "dna": "1d927788b6755566e36abf2f467b4c065b2dc6e2",
+  "edition": 1441,
+  "date": 1780647707381,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

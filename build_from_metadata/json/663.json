@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #663",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/663.png",
+  "dna": "bc96cfa3f7e6d8f2bef2a9a2905e6183f61ef231",
+  "edition": 663,
+  "date": 1780647654162,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Dark Green Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

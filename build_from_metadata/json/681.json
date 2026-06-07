@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #681",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/681.png",
+  "dna": "6aa997e7bfd42c4920c2a42b5c23c7b8dac57e04",
+  "edition": 681,
+  "date": 1780773419861,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Knight Helmet"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

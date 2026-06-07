@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #446",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/446.png",
+  "dna": "177a35ff464bfe1db9ca4ee3c154b90d71ba9659",
+  "edition": 446,
+  "date": 1780647639342,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

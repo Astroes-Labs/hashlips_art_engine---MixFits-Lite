@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4012",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4012.png",
+  "dna": "2517272ea6965d1d1770d30733641bc84abdde5d",
+  "edition": 4012,
+  "date": 1780647888848,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Wizard Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

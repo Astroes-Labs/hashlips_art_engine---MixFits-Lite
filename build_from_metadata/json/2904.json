@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2904",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2904.png",
+  "dna": "cabf6effe1607ba2d1065269f426b9135efb0518",
+  "edition": 2904,
+  "date": 1780647811192,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

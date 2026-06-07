@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1543",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1543.png",
+  "dna": "d7f12dbff31a6e4458a069ba597dafb4171a1b0a",
+  "edition": 1543,
+  "date": 1780647714571,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Task Force Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

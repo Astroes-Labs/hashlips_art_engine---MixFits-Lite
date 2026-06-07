@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3027",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3027.png",
+  "dna": "48685659ed390843722fcf9f32cab467af6bcd30",
+  "edition": 3027,
+  "date": 1780647820010,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

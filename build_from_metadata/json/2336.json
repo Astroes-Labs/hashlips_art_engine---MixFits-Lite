@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2336",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2336.png",
+  "dna": "9ffb14a1cfcab23266450d154fe902a54d14126f",
+  "edition": 2336,
+  "date": 1780647770684,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

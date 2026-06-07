@@ -2,9 +2,9 @@
   "name": "Your Collection #180",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/180.png",
-  "dna": "4991b839209d4eba0485261ef3e46bd00b0b2231",
+  "dna": "e855bb9fcc84cd0fcb5a69e535ab520d485b2bf5",
   "edition": 180,
-  "date": 1780640949654,
+  "date": 1780647619191,
   "attributes": [
     {
       "trait_type": "Background",
@@ -23,16 +23,16 @@
       "value": "Regular Visor"
     },
     {
-      "trait_type": "Shirt",
-      "value": "Blue Varsity Jacket"
+      "trait_type": "Pants",
+      "value": "Jeans"
     },
     {
-      "trait_type": "Pants",
-      "value": "Black Shorts"
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
     },
     {
       "trait_type": "Footwear",
-      "value": "Black Boots"
+      "value": "OffWhyt Sneakers"
     }
   ],
   "compiler": "HashLips Art Engine"

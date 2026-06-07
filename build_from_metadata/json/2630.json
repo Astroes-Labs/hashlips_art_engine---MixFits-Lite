@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2630",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2630.png",
+  "dna": "2b24508cc3b4fb7bc9c54329f9fa47223f98fe6e",
+  "edition": 2630,
+  "date": 1780647791544,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

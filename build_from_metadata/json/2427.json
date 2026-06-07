@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #2427",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2427.png",
+  "dna": "d0f12e1afc8677c2bd6003815cbd2222809d3a9b",
+  "edition": 2427,
+  "date": 1780775050189,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Ninja Outfit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

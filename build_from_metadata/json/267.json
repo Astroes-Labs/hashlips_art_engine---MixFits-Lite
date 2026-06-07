@@ -2,13 +2,13 @@
   "name": "Your Collection #267",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/267.png",
-  "dna": "d191a0f90998a28eb6c830952790f1f3dcc9d814",
+  "dna": "e81311900ba74607f10f968cfffeef0ee8039ee0",
   "edition": 267,
-  "date": 1780640956376,
+  "date": 1780647625679,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Void"
+      "value": "Light"
     },
     {
       "trait_type": "Body",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Blue Tinted Bun"
+      "value": "Blonde Slicked Back"
     },
     {
       "trait_type": "Eyes",
-      "value": "Eye Patch"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Shark Suit"
+      "value": "Sunglasses"
     },
     {
       "trait_type": "Pants",
-      "value": "Camo Pants"
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
     },
     {
       "trait_type": "Footwear",
-      "value": "Black Boots"
+      "value": "Brown Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

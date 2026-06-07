@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3623",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3623.png",
+  "dna": "85922c0346659f20289654de670e317efa92b02a",
+  "edition": 3623,
+  "date": 1780647861343,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Space Hunter Gear"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4215",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4215.png",
+  "dna": "7c366e61295bf8d807c094e7c2e4b079ce893710",
+  "edition": 4215,
+  "date": 1780647903049,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

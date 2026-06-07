@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4198",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4198.png",
+  "dna": "d8cf1e5050fa77de651b159ff83664571740cfa5",
+  "edition": 4198,
+  "date": 1780647901668,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Black Suits"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

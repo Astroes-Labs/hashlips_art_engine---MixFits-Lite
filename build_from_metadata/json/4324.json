@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4324",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4324.png",
+  "dna": "47fc370f30cab858d66d3e7837254ae5df789934",
+  "edition": 4324,
+  "date": 1780647910556,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

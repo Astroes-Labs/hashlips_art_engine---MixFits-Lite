@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #3342",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3342.png",
+  "dna": "3513f46f62d7f0ab379ab5390d73fea0ec6208d8",
+  "edition": 3342,
+  "date": 1780775050194,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Croc Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

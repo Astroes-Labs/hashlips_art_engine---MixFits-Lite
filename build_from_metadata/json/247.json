@@ -2,13 +2,13 @@
   "name": "Your Collection #247",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/247.png",
-  "dna": "2f5c578e27dcf26242a3589a9e9360f62d9f4319",
+  "dna": "cf66fc62543252cdf570eccde6666210a64268d0",
   "edition": 247,
-  "date": 1780640954872,
+  "date": 1780647624274,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Void"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Brunette Bun"
+      "value": "Dirty Blonde Taper Fade"
     },
     {
       "trait_type": "Eyes",
-      "value": "Blue Wraparound Sunglasses"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Full Protective Suit"
+      "value": "Sunglasses"
     },
     {
       "trait_type": "Pants",
-      "value": "Shredded Jeans"
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Chef Outfit"
     },
     {
       "trait_type": "Footwear",
-      "value": "Flip Flops"
+      "value": "Pirate Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4225",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4225.png",
+  "dna": "742df8f964e75f22cbad0626c7d17a4d81498bb2",
+  "edition": 4225,
+  "date": 1780647903737,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Kill Billy Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

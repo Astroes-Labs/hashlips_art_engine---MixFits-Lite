@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4276",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4276.png",
+  "dna": "6813ecd1f42c4791594e3d8e3534fcfbb5ae21a0",
+  "edition": 4276,
+  "date": 1780647907244,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

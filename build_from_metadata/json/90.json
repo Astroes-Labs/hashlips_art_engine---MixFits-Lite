@@ -2,17 +2,37 @@
   "name": "Your Collection #90",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/90.png",
-  "dna": "99e50b216e75b2b2bb735bd600bcd06e838384eb",
+  "dna": "b07ae3140f44d5af0efdaa592c8826ea8518fc35",
   "edition": 90,
-  "date": 1780640943986,
+  "date": 1780647612446,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sky"
+      "value": "Void"
     },
     {
       "trait_type": "Body",
-      "value": "Mutant D"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Grand Mage Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

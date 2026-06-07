@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #2520",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2520.png",
+  "dna": "cd205db037706653f1221ebf27e321e44e4e3d9e",
+  "edition": 2520,
+  "date": 1780647783672,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mighty Balor"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

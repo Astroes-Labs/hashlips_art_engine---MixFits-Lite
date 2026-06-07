@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2350",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2350.png",
+  "dna": "a5642883146b917220a0da6e7730bd3934f7163f",
+  "edition": 2350,
+  "date": 1780647771582,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #521",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/521.png",
+  "dna": "aef738832c0bb0882804f231de8351e8b1c77a70",
+  "edition": 521,
+  "date": 1780647644494,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

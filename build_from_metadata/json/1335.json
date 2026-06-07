@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1335",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1335.png",
+  "dna": "4dd1cea12d02232d88403902566a134c8d246e13",
+  "edition": 1335,
+  "date": 1780647700168,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

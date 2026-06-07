@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #4204",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4204.png",
+  "dna": "c93046fd2f30d6ac32bd5c6bdaf0b8ad8bf51e5d",
+  "edition": 4204,
+  "date": 1780685629356,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Knight"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

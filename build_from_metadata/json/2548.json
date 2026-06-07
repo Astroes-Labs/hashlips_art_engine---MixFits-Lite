@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2548",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2548.png",
+  "dna": "ec6f5b8cdc9041c3db6de2b43bb72197ec31b4ee",
+  "edition": 2548,
+  "date": 1780647785714,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

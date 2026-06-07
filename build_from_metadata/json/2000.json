@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2000",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2000.png",
+  "dna": "5df2d70a773dda2a7730c030013670bf48b2e46f",
+  "edition": 2000,
+  "date": 1780647747324,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2969",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2969.png",
+  "dna": "35e52f2417caf2e7de298b0afec25010ace44684",
+  "edition": 2969,
+  "date": 1780647815809,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

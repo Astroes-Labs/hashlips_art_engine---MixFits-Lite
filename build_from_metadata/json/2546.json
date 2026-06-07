@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2546",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2546.png",
+  "dna": "7f174ef7e492198b2c1651935ef9ab898d36ea1e",
+  "edition": 2546,
+  "date": 1780647785587,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Grand Mage Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

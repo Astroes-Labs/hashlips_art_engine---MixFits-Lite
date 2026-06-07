@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #2555",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2555.png",
+  "dna": "2e1fa338877ac02a20abd1f2c54c4e6dd7beaa9c",
+  "edition": 2555,
+  "date": 1780685527887,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "King Crown"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

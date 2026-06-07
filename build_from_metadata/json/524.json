@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #524",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/524.png",
+  "dna": "98e61cef3d93435d9d4bf9d5e702bcd0e8ce261c",
+  "edition": 524,
+  "date": 1780647644687,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

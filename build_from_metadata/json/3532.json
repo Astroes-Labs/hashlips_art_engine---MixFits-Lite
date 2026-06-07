@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3532",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3532.png",
+  "dna": "a57166066668c963a6e3c5ba4f61a26a789e3296",
+  "edition": 3532,
+  "date": 1780647854953,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #974",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/974.png",
+  "dna": "63b17f543d27de30cefd652ab270507739c31f1f",
+  "edition": 974,
+  "date": 1780647675656,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

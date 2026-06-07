@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #604",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/604.png",
+  "dna": "924bfb43570dda138becb8814d8ece551bddd125",
+  "edition": 604,
+  "date": 1780647650289,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

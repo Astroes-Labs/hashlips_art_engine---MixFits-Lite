@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1049",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1049.png",
+  "dna": "c2280203bd2bf28e73e8d9e51be6dc1475c096c4",
+  "edition": 1049,
+  "date": 1780647680686,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

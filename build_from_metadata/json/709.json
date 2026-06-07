@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #709",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/709.png",
+  "dna": "5e30729638aa01eb7802df3f9addab54cddb884e",
+  "edition": 709,
+  "date": 1780647657261,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

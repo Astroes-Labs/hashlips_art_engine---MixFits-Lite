@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3894",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3894.png",
+  "dna": "2b1736c5cb9aeb25fb387c9e8f4571e5fc939eb6",
+  "edition": 3894,
+  "date": 1780647880515,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Kill Billy Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #880",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/880.png",
+  "dna": "b282592cd3950edc44e41cb8aecc31278be5689e",
+  "edition": 880,
+  "date": 1780647669050,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -2,9 +2,9 @@
   "name": "Your Collection #259",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/259.png",
-  "dna": "e0912e559320704613f854f601700b2af4ad8c7b",
+  "dna": "759555beae8a638bcd321e7001e29cd13fead4f1",
   "edition": 259,
-  "date": 1780640955850,
+  "date": 1780647625133,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,15 +12,27 @@
     },
     {
       "trait_type": "Body",
-      "value": "Green Slime"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
     },
     {
       "trait_type": "Eyes",
-      "value": "Straight Face"
+      "value": "Regular Visor"
     },
     {
-      "trait_type": "Special",
-      "value": "Bomb"
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Wizard Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2732",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2732.png",
+  "dna": "38a375c3a264e8c0315c73b51ff755142b8b54ba",
+  "edition": 2732,
+  "date": 1780647798459,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

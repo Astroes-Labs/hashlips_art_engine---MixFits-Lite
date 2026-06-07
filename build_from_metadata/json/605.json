@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #605",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/605.png",
+  "dna": "53f7d2be3f79ab4aea2996cfd779106befee936e",
+  "edition": 605,
+  "date": 1780647650352,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

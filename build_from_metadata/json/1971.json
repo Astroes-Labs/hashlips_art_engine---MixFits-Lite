@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1971",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1971.png",
+  "dna": "7e73dd9b8baa270f465945c68125a7b6860cbd40",
+  "edition": 1971,
+  "date": 1780647745385,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

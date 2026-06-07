@@ -2,17 +2,37 @@
   "name": "Your Collection #105",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/105.png",
-  "dna": "7a8efb79ac84d71df405a821d83e8a774d2764f4",
+  "dna": "5811d74d22da804ffff40ea04711a6a104a88745",
   "edition": 105,
-  "date": 1780640944690,
+  "date": 1780647613566,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark"
+      "value": "Light"
     },
     {
       "trait_type": "Body",
-      "value": "Mutant D"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
     }
   ],
   "compiler": "HashLips Art Engine"

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1723",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1723.png",
+  "dna": "640a1096489408cdd1b091064562c0b29a06a3d4",
+  "edition": 1723,
+  "date": 1780647728349,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #2875",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2875.png",
+  "dna": "6b2387a3587c5120bdb8b808d4d3f1b770460e0f",
+  "edition": 2875,
+  "date": 1780647808943,
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Experiment Zero"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

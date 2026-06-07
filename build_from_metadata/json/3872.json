@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3872",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3872.png",
+  "dna": "eb1b701dbb7d216890820f54f997774d1e5f257d",
+  "edition": 3872,
+  "date": 1780647878836,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

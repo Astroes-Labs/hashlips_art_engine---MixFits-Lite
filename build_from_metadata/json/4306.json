@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4306",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4306.png",
+  "dna": "f6782448f1404bdb0b08086e48975473a9e1e751",
+  "edition": 4306,
+  "date": 1780685629356,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Knight"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Mummy Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

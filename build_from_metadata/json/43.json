@@ -2,17 +2,37 @@
   "name": "Your Collection #43",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/43.png",
-  "dna": "027f9a73dc1cd7038d324f156757a684da1fd848",
+  "dna": "afbc7c639be0755479c704565ee687cc31b128ed",
   "edition": 43,
-  "date": 1780640941829,
+  "date": 1780647608756,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Wine"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Reddish Ghost"
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
     }
   ],
   "compiler": "HashLips Art Engine"

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1961",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1961.png",
+  "dna": "98c03261172ec240d0094dad7f2248095d815d65",
+  "edition": 1961,
+  "date": 1780647744746,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2416",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2416.png",
+  "dna": "5ebbaae89dbbd77a3c81bfb7bad7f67094ceb2bf",
+  "edition": 2416,
+  "date": 1780647776096,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

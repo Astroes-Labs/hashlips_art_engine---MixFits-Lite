@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1100",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1100.png",
+  "dna": "e7f6ff503385cc8626f39372136e875c38509650",
+  "edition": 1100,
+  "date": 1780647684074,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Black Suits"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

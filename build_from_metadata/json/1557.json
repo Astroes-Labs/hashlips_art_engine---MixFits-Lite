@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1557",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1557.png",
+  "dna": "10fc70a94e1276e0953ed6a3d325953517f43f76",
+  "edition": 1557,
+  "date": 1780647715654,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Wizard Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -2,17 +2,37 @@
   "name": "Your Collection #157",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/157.png",
-  "dna": "16f0e4a530835245b95d505fdd24461d69bb61c0",
+  "dna": "f76b42780f2bf01a878538c867d440fe552cf91d",
   "edition": 157,
-  "date": 1780640948200,
+  "date": 1780647617419,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "HellHound"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
     }
   ],
   "compiler": "HashLips Art Engine"

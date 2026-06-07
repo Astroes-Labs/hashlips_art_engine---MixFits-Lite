@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #870",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/870.png",
+  "dna": "faafa0af46c9f0d3d0a7f3702cc180f6b13c23c6",
+  "edition": 870,
+  "date": 1780647668372,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

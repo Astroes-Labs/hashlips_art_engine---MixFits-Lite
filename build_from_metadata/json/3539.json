@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #3539",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3539.png",
+  "dna": "da73b0016beb7b7aeb3ed7e65675d4aae9af12f0",
+  "edition": 3539,
+  "date": 1780647855386,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bluish Ghost"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

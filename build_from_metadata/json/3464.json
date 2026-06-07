@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3464",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3464.png",
+  "dna": "3d2da9766f5832aaf19b856560873b421d969428",
+  "edition": 3464,
+  "date": 1780647850280,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Dark Green Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

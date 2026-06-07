@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2057",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2057.png",
+  "dna": "42293d0e8c9bfcf2a932242384da5749cfa06bcf",
+  "edition": 2057,
+  "date": 1780647751341,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

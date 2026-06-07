@@ -2,9 +2,9 @@
   "name": "Your Collection #97",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/97.png",
-  "dna": "6e7d5d17cc80db0fb7c557b699d3beaa1aa0304b",
+  "dna": "6dcbb9b33b3669140113d66fadbca509d63648be",
   "edition": 97,
-  "date": 1780640944316,
+  "date": 1780647612944,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,7 +12,27 @@
     },
     {
       "trait_type": "Body",
-      "value": "Silver Back Werewolf"
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
     }
   ],
   "compiler": "HashLips Art Engine"

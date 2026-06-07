@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3710",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3710.png",
+  "dna": "f258e0fb3d92a52ba145f991b4e0efd12b297ebb",
+  "edition": 3710,
+  "date": 1780647867291,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

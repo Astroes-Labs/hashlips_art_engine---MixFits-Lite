@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #803",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/803.png",
+  "dna": "51e838584d496b04cb0008201eb2492b1f548895",
+  "edition": 803,
+  "date": 1780647663920,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

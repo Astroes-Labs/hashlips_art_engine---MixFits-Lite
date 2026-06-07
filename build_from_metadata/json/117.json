@@ -2,25 +2,37 @@
   "name": "Your Collection #117",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/117.png",
-  "dna": "cfd755e9d2e3f585472b57be275c1d4e96501371",
+  "dna": "61d78e945a94aa62d6fa5ff286804dc6ea5932f3",
   "edition": 117,
-  "date": 1780640945390,
+  "date": 1780647614420,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Wine"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Stoner"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
     },
     {
       "trait_type": "Eyes",
-      "value": "3D Shades"
+      "value": "Eye Patch"
     },
     {
-      "trait_type": "Special",
-      "value": "Brain"
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Monk Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

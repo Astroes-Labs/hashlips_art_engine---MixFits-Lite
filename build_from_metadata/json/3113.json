@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3113",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3113.png",
+  "dna": "6dc37fefc84bbb900ac0f676ebac8aa1c04afa88",
+  "edition": 3113,
+  "date": 1780647825779,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Dark Green Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

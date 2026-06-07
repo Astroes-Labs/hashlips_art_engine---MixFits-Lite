@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1427",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1427.png",
+  "dna": "ec5a6a8a5cd2539dff6f802b5c9406d52919b0d4",
+  "edition": 1427,
+  "date": 1780647706355,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

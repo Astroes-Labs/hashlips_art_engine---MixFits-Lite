@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #953",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/953.png",
+  "dna": "1d1b35a6108ed29017d22ba53eab32afd2c4b77a",
+  "edition": 953,
+  "date": 1780647674014,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Wizard Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

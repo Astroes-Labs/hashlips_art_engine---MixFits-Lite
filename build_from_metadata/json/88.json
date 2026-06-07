@@ -2,17 +2,37 @@
   "name": "Your Collection #88",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/88.png",
-  "dna": "21f29f0527bead9084f95fc704fdf263a70de762",
+  "dna": "5fb584611e6645b28894c6a67a65065ba9619bca",
   "edition": 88,
-  "date": 1780640943903,
+  "date": 1780647612301,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Unknown Mutant"
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Knight"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
     }
   ],
   "compiler": "HashLips Art Engine"

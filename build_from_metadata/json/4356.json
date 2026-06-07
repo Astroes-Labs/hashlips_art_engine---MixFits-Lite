@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4356",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4356.png",
+  "dna": "4907bbfbc8d58bcae3582faabae1a94798e210db",
+  "edition": 4356,
+  "date": 1780647912733,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

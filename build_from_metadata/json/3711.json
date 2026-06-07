@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3711",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3711.png",
+  "dna": "c2d38c16caa876a3021d99a0f6f8f7be0687b407",
+  "edition": 3711,
+  "date": 1780647867352,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3746",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3746.png",
+  "dna": "1c432709454afa7bf7e26adf23efb51030aa55b5",
+  "edition": 3746,
+  "date": 1780647869730,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

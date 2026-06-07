@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4045",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4045.png",
+  "dna": "a3cd30dae0485d2b135bcc29b321e682f8890fe1",
+  "edition": 4045,
+  "date": 1780647891144,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

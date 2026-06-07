@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2841",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2841.png",
+  "dna": "5dd2746779ae7407425cb7c5f0a4dd0c6ef6d7b1",
+  "edition": 2841,
+  "date": 1780647806570,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

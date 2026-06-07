@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3793",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3793.png",
+  "dna": "68c6127ef53b5b0021015d40cf1ba5cc03e68a96",
+  "edition": 3793,
+  "date": 1780647872960,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #2620",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2620.png",
+  "dna": "547babde2c3366b152894e205be700890887b3f1",
+  "edition": 2620,
+  "date": 1780775050191,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Full Protective Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

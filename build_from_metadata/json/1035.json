@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1035",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1035.png",
+  "dna": "277740a37fe99c17bc6439174296bc284a96e607",
+  "edition": 1035,
+  "date": 1780647679775,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

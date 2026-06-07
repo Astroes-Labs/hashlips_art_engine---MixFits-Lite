@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #962",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/962.png",
+  "dna": "cd6f18b85cee8518193c4be2fcd9a95decd4b68f",
+  "edition": 962,
+  "date": 1780647674612,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #1183",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1183.png",
+  "dna": "04d3f3aac7b1486bff5035d1ed34b7f8d19524c0",
+  "edition": 1183,
+  "date": 1780647689708,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mutant D"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

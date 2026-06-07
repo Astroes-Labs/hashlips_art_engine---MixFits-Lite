@@ -2,17 +2,25 @@
   "name": "Your Collection #31",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/31.png",
-  "dna": "55aa4da806ee1ecc12b36c9ca45f8b5ab34e7230",
+  "dna": "ad74ff3593c1d40673c76a813d744b8fcad74a75",
   "edition": 31,
-  "date": 1780640941251,
+  "date": 1780647607845,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Mutant C"
+      "value": "Green Slime"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Straight Face"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Dog"
     }
   ],
   "compiler": "HashLips Art Engine"

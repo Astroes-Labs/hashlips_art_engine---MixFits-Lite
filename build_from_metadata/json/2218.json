@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2218",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2218.png",
+  "dna": "72f0b95281b9e64836417b56e340b829d1a0838a",
+  "edition": 2218,
+  "date": 1780647762330,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

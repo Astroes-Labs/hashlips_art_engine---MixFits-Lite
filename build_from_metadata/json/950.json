@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #950",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/950.png",
+  "dna": "1d7900795d91cd39e22ca4bd3cbff32bdd639ddb",
+  "edition": 950,
+  "date": 1780647673810,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

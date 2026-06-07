@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1398",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1398.png",
+  "dna": "bb8c15a35f96f80d8f2077c3734c238d73a81208",
+  "edition": 1398,
+  "date": 1780647704416,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

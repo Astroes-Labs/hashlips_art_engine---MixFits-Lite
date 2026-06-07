@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3561",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3561.png",
+  "dna": "29c27c43b5c4a653592bc260e756f428af16c919",
+  "edition": 3561,
+  "date": 1780647856872,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

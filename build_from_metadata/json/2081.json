@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2081",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2081.png",
+  "dna": "dc895d72bdf9ad7688b440dfd91ecfe8b0e73726",
+  "edition": 2081,
+  "date": 1780647752963,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

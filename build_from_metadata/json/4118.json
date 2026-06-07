@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4118",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4118.png",
+  "dna": "0149f6f7a5db84742cf6900ceca4d94bc06770b7",
+  "edition": 4118,
+  "date": 1780773419869,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Lucha Libre Mask"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3621",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3621.png",
+  "dna": "cdf65db7c0cb7df5e57b858a7f9b6f18e5e82dfd",
+  "edition": 3621,
+  "date": 1780647861213,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

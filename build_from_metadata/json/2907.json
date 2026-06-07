@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2907",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2907.png",
+  "dna": "14f9fef0b80fa8b65b6592ef0eac1f4b8a90c72b",
+  "edition": 2907,
+  "date": 1780647811448,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #3301",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3301.png",
+  "dna": "712ce2f43d92cd0c7dddbe17e7d9ec24a011540a",
+  "edition": 3301,
+  "date": 1780685629351,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Knight"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

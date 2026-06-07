@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2230",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2230.png",
+  "dna": "1e88377cb47bcd1ac6e1be1a07e4f81ffe943ce9",
+  "edition": 2230,
+  "date": 1780647763133,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Grand Mage Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

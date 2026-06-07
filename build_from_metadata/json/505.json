@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #505",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/505.png",
+  "dna": "b40beb9bd28d1a519ae32b98f2433fb33c4e9052",
+  "edition": 505,
+  "date": 1780647643443,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Task Force Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3803",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3803.png",
+  "dna": "37e506af7fa5750060fa9507cc000186dee1f7c0",
+  "edition": 3803,
+  "date": 1780647873615,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #551",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/551.png",
+  "dna": "e72373b51fe71351fa87a20e789d0f281272d219",
+  "edition": 551,
+  "date": 1780647646533,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

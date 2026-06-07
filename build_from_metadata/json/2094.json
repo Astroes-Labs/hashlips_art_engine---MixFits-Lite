@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2094",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2094.png",
+  "dna": "f85d3e6edb8a9dec81e7cf1b95a99a9992e2c205",
+  "edition": 2094,
+  "date": 1780647753770,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Kill Billy Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #771",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/771.png",
+  "dna": "0adb6daff72a9300f75c7e44a0615be700f03bfc",
+  "edition": 771,
+  "date": 1780647661806,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Task Force Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

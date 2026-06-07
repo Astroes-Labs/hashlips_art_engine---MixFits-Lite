@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3372",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3372.png",
+  "dna": "3e454d40cf9f37714e899a6ab361c5c1e480e330",
+  "edition": 3372,
+  "date": 1780647843689,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

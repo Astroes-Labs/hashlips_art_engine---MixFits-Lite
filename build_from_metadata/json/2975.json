@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2975",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2975.png",
+  "dna": "ceea0266620eafdd74efb50f6b8c0289eb80c9be",
+  "edition": 2975,
+  "date": 1780647816210,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

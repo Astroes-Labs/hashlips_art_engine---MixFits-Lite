@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4156",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4156.png",
+  "dna": "63ab3017a439538fd81688db7ab20a13b56cb803",
+  "edition": 4156,
+  "date": 1780647898708,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

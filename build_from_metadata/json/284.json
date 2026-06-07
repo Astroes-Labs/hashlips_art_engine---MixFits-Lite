@@ -2,9 +2,9 @@
   "name": "Your Collection #284",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/284.png",
-  "dna": "2bc7ca71d29d8f01f1ca35cf1f1d87547c860bbb",
+  "dna": "e2913b017063b7e64f965d2250d23638a6420f59",
   "edition": 284,
-  "date": 1780640957922,
+  "date": 1780647626927,
   "attributes": [
     {
       "trait_type": "Background",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Clean Shave"
+      "value": "Blonde Slicked Back"
     },
     {
       "trait_type": "Eyes",
-      "value": "Eye Patch"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "High Priest"
+      "value": "Blue Wraparound Sunglasses"
     },
     {
       "trait_type": "Pants",
-      "value": "Black Pants"
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
     },
     {
       "trait_type": "Footwear",
-      "value": "Ash colorway Sneakers"
+      "value": "Combat Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #935",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/935.png",
+  "dna": "3bef95e7944b2a20a91592eaacdbc0f2e5d6eda1",
+  "edition": 935,
+  "date": 1780647672853,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brains"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

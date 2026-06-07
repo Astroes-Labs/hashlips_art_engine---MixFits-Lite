@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #2647",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2647.png",
+  "dna": "c44650df3bff36309648aa7a1727f5fff13420be",
+  "edition": 2647,
+  "date": 1780775050191,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Panda Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

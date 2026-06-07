@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3957",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3957.png",
+  "dna": "b6d1e5e564fc4dc28fae12396ffa8a3f9a1d6851",
+  "edition": 3957,
+  "date": 1780647884749,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

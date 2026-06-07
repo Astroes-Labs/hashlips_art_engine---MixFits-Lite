@@ -2,17 +2,37 @@
   "name": "Your Collection #206",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/206.png",
-  "dna": "13f3deee8c651a4421c73586859aa630254be2b3",
+  "dna": "2cfe2de9b588c1338e7dd8f208786bb8ea806ef7",
   "edition": 206,
-  "date": 1780640951548,
+  "date": 1780647621253,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Void"
+      "value": "Light"
     },
     {
       "trait_type": "Body",
-      "value": "Mutant A"
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
     }
   ],
   "compiler": "HashLips Art Engine"

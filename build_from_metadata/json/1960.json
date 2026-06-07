@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1960",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1960.png",
+  "dna": "b8766670cb1717621d7c28a99c4cf9170dab5fae",
+  "edition": 1960,
+  "date": 1780647744648,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

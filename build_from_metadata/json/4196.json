@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4196",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4196.png",
+  "dna": "aa9e15870aff0dad8e5df1e1c742cbc444d1a2e5",
+  "edition": 4196,
+  "date": 1780647901532,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Kill Billy Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

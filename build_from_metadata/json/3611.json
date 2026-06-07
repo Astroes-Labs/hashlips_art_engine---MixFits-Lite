@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3611",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3611.png",
+  "dna": "44d37f1b1e65aaad2a2fd55f6448f1035a94c012",
+  "edition": 3611,
+  "date": 1780647860489,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

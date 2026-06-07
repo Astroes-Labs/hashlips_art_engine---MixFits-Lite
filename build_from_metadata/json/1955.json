@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1955",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1955.png",
+  "dna": "55a38aa0542fff69ea6be70471993e8738c8a9ce",
+  "edition": 1955,
+  "date": 1780647744324,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

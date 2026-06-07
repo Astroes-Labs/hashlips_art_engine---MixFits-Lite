@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4132",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4132.png",
+  "dna": "4dfb7278614d38e6b3ac38314db41063d65cb5ad",
+  "edition": 4132,
+  "date": 1780647897068,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

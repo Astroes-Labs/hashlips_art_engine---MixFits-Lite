@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1071",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1071.png",
+  "dna": "6b9530f110a4f2c2eaea0145168fa53cb1500d66",
+  "edition": 1071,
+  "date": 1780647682166,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

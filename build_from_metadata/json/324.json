@@ -2,13 +2,13 @@
   "name": "Your Collection #324",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/324.png",
-  "dna": "a86cd4afea677b267c92fbcd1585e075c4f83154",
+  "dna": "ef1c3db64aa39cf743200b8c39a80fc1e21b6f46",
   "edition": 324,
-  "date": 1780640963533,
+  "date": 1780647629989,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Wine"
+      "value": "Light"
     },
     {
       "trait_type": "Body",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Slick Afro"
+      "value": "Crew Cut"
     },
     {
       "trait_type": "Eyes",
-      "value": "Blue Wraparound Sunglasses"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Red Varsity Jacket"
+      "value": "Regular Visor"
     },
     {
       "trait_type": "Pants",
-      "value": "BBall Short"
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
     },
     {
       "trait_type": "Footwear",
-      "value": "Boxers Boot"
+      "value": "Flip Flops"
     }
   ],
   "compiler": "HashLips Art Engine"

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4032",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4032.png",
+  "dna": "e7efc98ff600e3ca92e843a366f2f1867c0f57e3",
+  "edition": 4032,
+  "date": 1780647890226,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

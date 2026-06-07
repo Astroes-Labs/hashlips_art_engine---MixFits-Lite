@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3849",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3849.png",
+  "dna": "cbac5203433915b21acddf6be415a948fac47918",
+  "edition": 3849,
+  "date": 1780647877145,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Kill Billy Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

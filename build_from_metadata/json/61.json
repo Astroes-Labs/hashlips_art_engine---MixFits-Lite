@@ -2,17 +2,17 @@
   "name": "Your Collection #61",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/61.png",
-  "dna": "4ba6f32bad5f1b5a5ef4a0193df9ff0a08c28e79",
+  "dna": "692f00f34376e5f9199812a73aa0af1b696f0df6",
   "edition": 61,
-  "date": 1780640942702,
+  "date": 1780647610207,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Silver Skeleton"
+      "value": "Bluish Ghost"
     }
   ],
   "compiler": "HashLips Art Engine"

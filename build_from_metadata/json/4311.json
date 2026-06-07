@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4311",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4311.png",
+  "dna": "0eec817f841dff01015df19c6b0b55f54ba1eed3",
+  "edition": 4311,
+  "date": 1780647909631,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

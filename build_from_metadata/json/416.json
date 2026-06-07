@@ -2,25 +2,21 @@
   "name": "Your Collection #416",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/416.png",
-  "dna": "c947b08c176e2434c49b703c090b8378eff13ed3",
+  "dna": "02dd4f7c30c97e4e6cdcb5ab05fe49325ea72a91",
   "edition": 416,
-  "date": 1780640970917,
+  "date": 1780647637144,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Blue Slime"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Straight Face"
+      "value": "King Slime"
     },
     {
       "trait_type": "Special",
-      "value": "Ring"
+      "value": "Slime Crown"
     }
   ],
   "compiler": "HashLips Art Engine"

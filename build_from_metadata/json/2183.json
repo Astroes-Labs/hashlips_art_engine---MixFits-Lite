@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2183",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2183.png",
+  "dna": "91cce782b2a1f54af1db4885b783c747337e1387",
+  "edition": 2183,
+  "date": 1780647759928,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

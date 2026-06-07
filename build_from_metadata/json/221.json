@@ -2,33 +2,33 @@
   "name": "Your Collection #221",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/221.png",
-  "dna": "2dc53e45d3d8e8599023068fbd8017466754f058",
+  "dna": "aaa4f0c4748e33282e08bebdfe1151398d8be11e",
   "edition": 221,
-  "date": 1780640952734,
+  "date": 1780647622406,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Homo Sapien"
+      "value": "Zombie"
     },
     {
       "trait_type": "Hair",
-      "value": "Brunette Bun"
+      "value": "Blue Tinted Bun"
     },
     {
       "trait_type": "Eyes",
       "value": "Nerd Glasses"
     },
     {
-      "trait_type": "Shirt",
-      "value": "Invisible Hoodie"
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
     },
     {
-      "trait_type": "Pants",
-      "value": "Black Pants"
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
     },
     {
       "trait_type": "Footwear",

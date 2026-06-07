@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3729",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3729.png",
+  "dna": "19ea3195f6c8dd3bd08a512b34b2fa7f0610f20c",
+  "edition": 3729,
+  "date": 1780647868568,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Biker Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

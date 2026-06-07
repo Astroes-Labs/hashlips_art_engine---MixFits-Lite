@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1084",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1084.png",
+  "dna": "1f688779c614b39c89e5184987567f3254103ae2",
+  "edition": 1084,
+  "date": 1780647682999,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Monk Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

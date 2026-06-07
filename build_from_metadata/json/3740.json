@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3740",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3740.png",
+  "dna": "14a1ff8676565ecaab703c1e864b345d622e00ad",
+  "edition": 3740,
+  "date": 1780647869285,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Tux"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

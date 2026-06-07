@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2237",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2237.png",
+  "dna": "2afb8c968434f1941c10764046b8ba930d23bb53",
+  "edition": 2237,
+  "date": 1780647763783,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1144",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1144.png",
+  "dna": "61b51c9a5b38524a3b29077de9cc75e236cf73f3",
+  "edition": 1144,
+  "date": 1780647687067,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Kill Billy Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

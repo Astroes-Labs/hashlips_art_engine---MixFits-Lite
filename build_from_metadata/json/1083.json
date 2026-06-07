@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1083",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1083.png",
+  "dna": "17909bc6c4792ffee4f634d21875ab3958b689d0",
+  "edition": 1083,
+  "date": 1780647682933,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Dark Green Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

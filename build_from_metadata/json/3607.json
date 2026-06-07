@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #3607",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3607.png",
+  "dna": "1bacffffa6417539a6ee9a30dad5360bc359a83a",
+  "edition": 3607,
+  "date": 1780647860090,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver Skeleton"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

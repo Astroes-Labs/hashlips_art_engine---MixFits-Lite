@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1160",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1160.png",
+  "dna": "4250c1a996bc131657ca48e8eb9d279a8bbb5208",
+  "edition": 1160,
+  "date": 1780647688113,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

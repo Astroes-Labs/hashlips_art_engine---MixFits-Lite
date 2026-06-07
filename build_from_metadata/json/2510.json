@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2510",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2510.png",
+  "dna": "58cadad54db36819edf166c9e5ed5f7d7c1222d8",
+  "edition": 2510,
+  "date": 1780647782995,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

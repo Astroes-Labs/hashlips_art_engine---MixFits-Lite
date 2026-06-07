@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2289",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2289.png",
+  "dna": "a8a7e4aa605c89b90e1e1145dc95aaeba9e3af43",
+  "edition": 2289,
+  "date": 1780647767392,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

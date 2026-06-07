@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3238",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3238.png",
+  "dna": "34fc9dc4bd5c8300e52b65756b72160ec8887f68",
+  "edition": 3238,
+  "date": 1780647834492,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

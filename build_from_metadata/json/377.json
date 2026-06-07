@@ -2,9 +2,9 @@
   "name": "Your Collection #377",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/377.png",
-  "dna": "03eee6445132392d655ddf6feae84f2004743d51",
+  "dna": "5c8ca466342693b983cbe702f7949991511c3cb5",
   "edition": 377,
-  "date": 1780640968075,
+  "date": 1780647634499,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,27 +12,27 @@
     },
     {
       "trait_type": "Body",
-      "value": "Stoner"
+      "value": "Homo Sapien"
     },
     {
       "trait_type": "Hair",
-      "value": "Low Cut"
+      "value": "Brunette Bun"
     },
     {
       "trait_type": "Eyes",
-      "value": "3D Glasses"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Red Varsity Jacket"
+      "value": "Pink Wraparound Sunglasses"
     },
     {
       "trait_type": "Pants",
-      "value": "Black Pants"
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
     },
     {
       "trait_type": "Footwear",
-      "value": "Boxers Boot"
+      "value": "Brown Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

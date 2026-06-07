@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4346",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4346.png",
+  "dna": "853f88be7ec5f72aa74cbac492fe4c9e614e3ae2",
+  "edition": 4346,
+  "date": 1780647912076,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

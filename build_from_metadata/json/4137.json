@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4137",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4137.png",
+  "dna": "24e05a625f66fc79df8801c52520ff6d414aec73",
+  "edition": 4137,
+  "date": 1780647897402,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #508",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/508.png",
+  "dna": "74b1cf2ac44e8241ed83fbc208a74211a7757083",
+  "edition": 508,
+  "date": 1780647643628,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Kill Billy Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

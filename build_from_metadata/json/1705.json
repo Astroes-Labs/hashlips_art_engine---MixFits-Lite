@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1705",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1705.png",
+  "dna": "fa0b00a1243cd18b724005fa38a1c7c36b0f1385",
+  "edition": 1705,
+  "date": 1780647727152,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

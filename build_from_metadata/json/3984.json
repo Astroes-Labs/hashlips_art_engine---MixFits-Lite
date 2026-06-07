@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3984",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3984.png",
+  "dna": "959e5e8fa34e5369297b665bacee24864c69eed4",
+  "edition": 3984,
+  "date": 1780647886591,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

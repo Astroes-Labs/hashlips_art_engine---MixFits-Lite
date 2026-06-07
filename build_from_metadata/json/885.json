@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #885",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/885.png",
+  "dna": "ef7a4c8bb0772e3038d908abbac220318d1c00a5",
+  "edition": 885,
+  "date": 1780647669375,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

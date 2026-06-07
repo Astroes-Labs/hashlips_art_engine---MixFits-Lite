@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3629",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3629.png",
+  "dna": "af6f9d22569c25515d20fae4386ee8e54bb1ae56",
+  "edition": 3629,
+  "date": 1780647861740,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

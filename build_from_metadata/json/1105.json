@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #1105",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1105.png",
+  "dna": "28c3140bb8e2426b1213ebae556a639084de495d",
+  "edition": 1105,
+  "date": 1780685629347,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Knight"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

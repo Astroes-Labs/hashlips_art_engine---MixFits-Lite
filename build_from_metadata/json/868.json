@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #868",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/868.png",
+  "dna": "e96f8ea8f550eb726565bfa0b0c43030e3ac57de",
+  "edition": 868,
+  "date": 1780647668237,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

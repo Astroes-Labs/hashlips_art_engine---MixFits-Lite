@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4229",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4229.png",
+  "dna": "03a49ab29b203bd2ecb8955fb1e75bdc7fe7ca50",
+  "edition": 4229,
+  "date": 1780778780582,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Not TMA Mask"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

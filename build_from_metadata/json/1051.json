@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1051",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1051.png",
+  "dna": "c9055400aaacc703375bade88d63b90f7b8aed61",
+  "edition": 1051,
+  "date": 1780647680808,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

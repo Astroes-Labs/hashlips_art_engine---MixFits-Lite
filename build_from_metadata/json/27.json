@@ -2,9 +2,9 @@
   "name": "Your Collection #27",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/27.png",
-  "dna": "496799b2d3b24cf4a1d79934158784829a5f97ac",
+  "dna": "493433e7df90934ccfe60c538b68271c556eb579",
   "edition": 27,
-  "date": 1780640941060,
+  "date": 1780647607558,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,15 +12,27 @@
     },
     {
       "trait_type": "Body",
-      "value": "Blue Slime"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
     },
     {
       "trait_type": "Eyes",
-      "value": "Straight Face"
+      "value": "Nerd Glasses"
     },
     {
-      "trait_type": "Special",
-      "value": "Ring"
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
     }
   ],
   "compiler": "HashLips Art Engine"

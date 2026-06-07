@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2101",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2101.png",
+  "dna": "e4dbfc10fc799ddd10216e21796661675b17f54f",
+  "edition": 2101,
+  "date": 1780647754303,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

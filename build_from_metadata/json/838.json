@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #838",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/838.png",
+  "dna": "dc71838958b903e88e0cd433a0b82e500b2e154d",
+  "edition": 838,
+  "date": 1780647666257,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

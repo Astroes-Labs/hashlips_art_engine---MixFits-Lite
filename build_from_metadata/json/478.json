@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #478",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/478.png",
+  "dna": "96570115ec200a895988a7929bee0393e219b641",
+  "edition": 478,
+  "date": 1780647641686,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

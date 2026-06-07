@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4243",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4243.png",
+  "dna": "b07a8eaf5a04efc19331c3c5ff499d828e4870f0",
+  "edition": 4243,
+  "date": 1780647904958,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

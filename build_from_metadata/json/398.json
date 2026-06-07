@@ -2,13 +2,13 @@
   "name": "Your Collection #398",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/398.png",
-  "dna": "36f1fefe4f09ff77450db0440b361f527d3cd088",
+  "dna": "ed0846e3f8b86cdfd70ae689f178e0d0f4a1c8c5",
   "edition": 398,
-  "date": 1780640969608,
+  "date": 1780647635931,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sky"
+      "value": "Light"
     },
     {
       "trait_type": "Body",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Dirty Blonde Taper Fade"
+      "value": "Low Cut"
     },
     {
       "trait_type": "Eyes",
-      "value": "Laser"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Knight"
+      "value": "Regular Visor"
     },
     {
       "trait_type": "Pants",
-      "value": "Task Force Pants"
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
     },
     {
       "trait_type": "Footwear",
-      "value": "Combat Boots"
+      "value": "Brown Sandals"
     }
   ],
   "compiler": "HashLips Art Engine"

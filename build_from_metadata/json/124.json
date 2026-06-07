@@ -2,25 +2,17 @@
   "name": "Your Collection #124",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/124.png",
-  "dna": "5be31610448a60fbbb2323886d727b8826efbf6d",
+  "dna": "74c0ae641966e92a7809fa78bea901f2794d3b8c",
   "edition": 124,
-  "date": 1780640945749,
+  "date": 1780647614913,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark"
+      "value": "Void"
     },
     {
       "trait_type": "Body",
-      "value": "Purple Slime"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Straight Face"
-    },
-    {
-      "trait_type": "Special",
-      "value": "Dog"
+      "value": "Brown Werewolf II"
     }
   ],
   "compiler": "HashLips Art Engine"

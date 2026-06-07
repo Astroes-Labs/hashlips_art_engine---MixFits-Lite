@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1732",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1732.png",
+  "dna": "4a2823e12091fe0104d0c0a71aceaf8a45ebf2bd",
+  "edition": 1732,
+  "date": 1780647729009,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Kill Billy Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

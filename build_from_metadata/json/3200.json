@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3200",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3200.png",
+  "dna": "8a55f5f78e02f0f37e2b4b8ea3c336d43eb66533",
+  "edition": 3200,
+  "date": 1780647831816,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -2,9 +2,9 @@
   "name": "Your Collection #399",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/399.png",
-  "dna": "5b58bb4277976d63765c98a17ce5b8d412403319",
+  "dna": "0add2c8423f08b6fae9fce491d26c991a8a99374",
   "edition": 399,
-  "date": 1780640969696,
+  "date": 1780647635993,
   "attributes": [
     {
       "trait_type": "Background",
@@ -16,19 +16,19 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Low Cut"
+      "value": "Blue Tinted Bun"
     },
     {
       "trait_type": "Eyes",
-      "value": "Regular Visor"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Safety Vest"
+      "value": "Sunglasses"
     },
     {
       "trait_type": "Pants",
-      "value": "Joker Suit Pants"
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
     },
     {
       "trait_type": "Footwear",

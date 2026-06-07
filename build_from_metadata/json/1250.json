@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1250",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1250.png",
+  "dna": "43e5a4c64c8dd4e4bb3f5c7f1e5972c2aea33a53",
+  "edition": 1250,
+  "date": 1780647694226,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

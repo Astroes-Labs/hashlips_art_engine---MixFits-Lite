@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1873",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1873.png",
+  "dna": "fe6659ad306b3144c0f5e6a41ef70ab0cc4245f6",
+  "edition": 1873,
+  "date": 1780647738743,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

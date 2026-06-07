@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #775",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/775.png",
+  "dna": "71fe8988f515a1ca2dfeeea4b7b9536c02c6ce5b",
+  "edition": 775,
+  "date": 1780647662073,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

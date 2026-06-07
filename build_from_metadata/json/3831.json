@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3831",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3831.png",
+  "dna": "b90e4c9241e8fc0a9b3962fef44ab2771482514c",
+  "edition": 3831,
+  "date": 1780647875740,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

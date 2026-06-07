@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2812",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2812.png",
+  "dna": "805858141a8ba1fdddd331074ef2829fb7ac2126",
+  "edition": 2812,
+  "date": 1780647803939,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

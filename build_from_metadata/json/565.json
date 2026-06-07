@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #565",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/565.png",
+  "dna": "63964f9abcb43382833f3a33d71cf36ad1c9bce1",
+  "edition": 565,
+  "date": 1780647647622,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Chef Outfit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

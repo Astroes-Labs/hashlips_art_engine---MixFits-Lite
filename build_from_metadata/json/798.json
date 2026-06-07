@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #798",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/798.png",
+  "dna": "d755a13fa0e8539a85add4d259e3a2ac993fab6d",
+  "edition": 798,
+  "date": 1780647663530,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Slime"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Straight Face"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Bomb"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

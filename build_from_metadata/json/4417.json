@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4417",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4417.png",
+  "dna": "61a432ba892d6d6ec0b64737111b69576cfc03cd",
+  "edition": 4417,
+  "date": 1780647917131,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Wizard Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

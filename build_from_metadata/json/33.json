@@ -2,17 +2,37 @@
   "name": "Your Collection #33",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/33.png",
-  "dna": "eae99e30f626e2d8daaca9ddc5b96f6c77c93fac",
+  "dna": "a10bb42e98025d49f6e53b596d8451e94b34aad2",
   "edition": 33,
-  "date": 1780640941336,
+  "date": 1780647608007,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sky"
+      "value": "Void"
     },
     {
       "trait_type": "Body",
-      "value": "Brown Werewolf II"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Ninja Outfit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

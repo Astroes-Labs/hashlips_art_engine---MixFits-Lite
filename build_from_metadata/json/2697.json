@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2697",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2697.png",
+  "dna": "15945aa47194e9d4656819890efce96f8adb11b8",
+  "edition": 2697,
+  "date": 1780647796085,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

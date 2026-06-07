@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3262",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3262.png",
+  "dna": "5bb05fcc427e6ab3bc9f46b8777cf7b7aa370825",
+  "edition": 3262,
+  "date": 1780647836139,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

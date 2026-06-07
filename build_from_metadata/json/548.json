@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #548",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/548.png",
+  "dna": "8ccc47dc52bcddddc9b193d370d7970f5fc9ab7b",
+  "edition": 548,
+  "date": 1780647646329,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

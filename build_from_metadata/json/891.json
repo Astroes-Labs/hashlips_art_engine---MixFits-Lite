@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #891",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/891.png",
+  "dna": "5efeb386cb352cefe78176de8a289e08cd3a91db",
+  "edition": 891,
+  "date": 1780647669814,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #748",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/748.png",
+  "dna": "0f7cb364ef15ac427e3f3ba8cc25b3e0adbec09d",
+  "edition": 748,
+  "date": 1780647660021,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

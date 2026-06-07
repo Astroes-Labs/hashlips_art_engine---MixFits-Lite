@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2591",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2591.png",
+  "dna": "186fecbc33a258a088fd467daf9967215dcb9c6a",
+  "edition": 2591,
+  "date": 1780647788613,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

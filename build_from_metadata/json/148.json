@@ -2,17 +2,37 @@
   "name": "Your Collection #148",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/148.png",
-  "dna": "54f7515ccddf0531249dfe8e8fa9cc62c30843d2",
+  "dna": "1b532a26b681d2010f24689631a1e6c13c61ab7f",
   "edition": 148,
-  "date": 1780640946883,
+  "date": 1780647616725,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Void"
+      "value": "Light"
     },
     {
       "trait_type": "Body",
-      "value": "Mutant B"
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

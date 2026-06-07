@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #742",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/742.png",
+  "dna": "aa4fec918a9241725c6e30dd12e216f6e16b9923",
+  "edition": 742,
+  "date": 1780647659572,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

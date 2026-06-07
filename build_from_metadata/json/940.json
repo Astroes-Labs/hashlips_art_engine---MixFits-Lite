@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #940",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/940.png",
+  "dna": "ef5a17be3ddd120c3a10448f7b0cb2392913017e",
+  "edition": 940,
+  "date": 1780647673179,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

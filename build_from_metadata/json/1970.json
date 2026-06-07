@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1970",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1970.png",
+  "dna": "709da80cdd2cd38ec925e17774fc268d201f4858",
+  "edition": 1970,
+  "date": 1780647745318,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

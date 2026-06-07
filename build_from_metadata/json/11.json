@@ -2,17 +2,37 @@
   "name": "Your Collection #11",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/11.png",
-  "dna": "089e8719849e9607ec2317690a73812f932adaa6",
+  "dna": "2ee301e7b2202ad56c7943ee87bc0951d4025a1f",
   "edition": 11,
-  "date": 1780640940033,
+  "date": 1780647606131,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Void"
+      "value": "Light"
     },
     {
       "trait_type": "Body",
-      "value": "Void Executioner"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
     }
   ],
   "compiler": "HashLips Art Engine"

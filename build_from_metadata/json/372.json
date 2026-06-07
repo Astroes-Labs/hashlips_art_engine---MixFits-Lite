@@ -2,9 +2,9 @@
   "name": "Your Collection #372",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/372.png",
-  "dna": "d6b6728338bfec2188794cf03208bc7dd11cefd2",
+  "dna": "55a6d5bb5759b6a6002a08a3d04c804150319134",
   "edition": 372,
-  "date": 1780640967708,
+  "date": 1780647634143,
   "attributes": [
     {
       "trait_type": "Background",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Dirty Blonde Taper Fade"
+      "value": "Clean Shave"
     },
     {
       "trait_type": "Eyes",
-      "value": "3D Shades"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Knight"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Pants",
-      "value": "Blue Suit Pants"
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
     },
     {
       "trait_type": "Footwear",
-      "value": "Red colorway Sneakers"
+      "value": "Black Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

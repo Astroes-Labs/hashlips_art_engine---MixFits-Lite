@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1054",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1054.png",
+  "dna": "31a851205d5c1056887adc8705397b347f9a708e",
+  "edition": 1054,
+  "date": 1780647681002,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Dark Green Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

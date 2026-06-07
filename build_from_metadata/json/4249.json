@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4249",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4249.png",
+  "dna": "0d23c35186d518859f7ac14a88b7fe037cf945bd",
+  "edition": 4249,
+  "date": 1780647905406,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

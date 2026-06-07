@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #1119",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1119.png",
+  "dna": "df3d5db06d35e4e496d09cc3dcd86bdfc28bbe9c",
+  "edition": 1119,
+  "date": 1780685527860,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Grand Mage Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Turban"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

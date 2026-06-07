@@ -2,9 +2,9 @@
   "name": "Your Collection #270",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/270.png",
-  "dna": "40c5e525c8fd9872624868090617a3380871b3c0",
+  "dna": "0474c29c8b920f2315eea7e2acfb12cd860003a5",
   "edition": 270,
-  "date": 1780640956583,
+  "date": 1780647625895,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,15 +12,27 @@
     },
     {
       "trait_type": "Body",
-      "value": "Pink Slime"
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
     },
     {
       "trait_type": "Eyes",
-      "value": "Straight Face"
+      "value": "3D Glasses"
     },
     {
-      "trait_type": "Special",
-      "value": "Bomb"
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
     }
   ],
   "compiler": "HashLips Art Engine"

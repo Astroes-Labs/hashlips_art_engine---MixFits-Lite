@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #562",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/562.png",
+  "dna": "0e99a21eeaca94a58c9e096cb0b72c380d7ccb35",
+  "edition": 562,
+  "date": 1780647647374,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

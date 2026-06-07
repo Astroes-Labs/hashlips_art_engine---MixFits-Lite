@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2287",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2287.png",
+  "dna": "078a0314fec78c6c55fdb25ce5026297f73f1d99",
+  "edition": 2287,
+  "date": 1780647767194,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

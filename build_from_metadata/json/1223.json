@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1223",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1223.png",
+  "dna": "248eea7c83f2f684f30f28fc458b12e6f3f29241",
+  "edition": 1223,
+  "date": 1780647692330,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

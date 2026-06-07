@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2017",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2017.png",
+  "dna": "161b704fb57b0e92d007678be7b812a4286ab445",
+  "edition": 2017,
+  "date": 1780647748433,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

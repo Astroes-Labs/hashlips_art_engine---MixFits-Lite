@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3054",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3054.png",
+  "dna": "ce83f665aa2e09c84db56625d9fe6247e4f60f7c",
+  "edition": 3054,
+  "date": 1780647821833,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

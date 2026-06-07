@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1734",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1734.png",
+  "dna": "34cf7a6b71224244bdbee7ef312b4b14fd9cefc6",
+  "edition": 1734,
+  "date": 1780647729135,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

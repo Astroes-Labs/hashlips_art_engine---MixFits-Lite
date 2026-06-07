@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3964",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3964.png",
+  "dna": "a318650447d40368e7577c292aa0b1928507b91f",
+  "edition": 3964,
+  "date": 1780647885210,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

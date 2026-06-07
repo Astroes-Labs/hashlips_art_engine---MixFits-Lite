@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #2663",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2663.png",
+  "dna": "f5ced182a2f4f42ba1d54c852bf389e6cfce69a5",
+  "edition": 2663,
+  "date": 1780647793785,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Purple Slime"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Straight Face"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Cheese"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

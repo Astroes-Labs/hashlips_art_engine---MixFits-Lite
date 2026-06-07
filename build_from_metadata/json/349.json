@@ -2,13 +2,13 @@
   "name": "Your Collection #349",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/349.png",
-  "dna": "dfa049c0fb3cc19f044fc2e5b732b1995b3134e6",
+  "dna": "8757c5fa5ddacf131fbfe95c5694da3d51bf2376",
   "edition": 349,
-  "date": 1780640965995,
+  "date": 1780647631849,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
@@ -16,19 +16,19 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Clean Shave"
+      "value": "Blonde Taper Fade"
     },
     {
       "trait_type": "Eyes",
       "value": "Nerd Glasses"
     },
     {
-      "trait_type": "Shirt",
-      "value": "High Priest"
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
     },
     {
-      "trait_type": "Pants",
-      "value": "Black Shorts"
+      "trait_type": "Shirt",
+      "value": "Wizard Robe"
     },
     {
       "trait_type": "Footwear",

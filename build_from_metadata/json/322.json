@@ -2,37 +2,37 @@
   "name": "Your Collection #322",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/322.png",
-  "dna": "6314c2a1914f96bc1d979e483fd00b26cc6636dc",
+  "dna": "5a0de688fafe375d06521ecd5012d4d00b4d1389",
   "edition": 322,
-  "date": 1780640963237,
+  "date": 1780647629827,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light"
+      "value": "Void"
     },
     {
       "trait_type": "Body",
-      "value": "Zombie"
+      "value": "Homo Sapien"
     },
     {
       "trait_type": "Hair",
-      "value": "Blonde Taper Fade"
+      "value": "Ginger Bowl Cut"
     },
     {
       "trait_type": "Eyes",
-      "value": "3D Shades"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Joker Suit"
+      "value": "Pink Wraparound Sunglasses"
     },
     {
       "trait_type": "Pants",
-      "value": "Tux Suit Pants"
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
     },
     {
       "trait_type": "Footwear",
-      "value": "Boxers Boot"
+      "value": "Ash colorway Sneakers"
     }
   ],
   "compiler": "HashLips Art Engine"

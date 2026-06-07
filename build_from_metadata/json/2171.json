@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #2171",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2171.png",
+  "dna": "7803db0e2908eaff4e6482c65064846d9abc67d2",
+  "edition": 2171,
+  "date": 1780685629349,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Knight"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

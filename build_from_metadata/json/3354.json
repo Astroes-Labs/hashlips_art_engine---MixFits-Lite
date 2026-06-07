@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3354",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3354.png",
+  "dna": "5c84e7911b73a479db47307b293334b82f009772",
+  "edition": 3354,
+  "date": 1780647842506,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Tux"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

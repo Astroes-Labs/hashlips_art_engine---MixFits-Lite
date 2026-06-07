@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #1622",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1622.png",
+  "dna": "81c8e34cbc8fd35e8db16ccdade70732b4855350",
+  "edition": 1622,
+  "date": 1780647720567,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver Back Werewolf"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4296",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4296.png",
+  "dna": "99a3abbe9b08f62e6d2c8071fe1cb1c120e186f3",
+  "edition": 4296,
+  "date": 1780647908597,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

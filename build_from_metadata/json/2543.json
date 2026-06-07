@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2543",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2543.png",
+  "dna": "e25cc624f1b5314b9479a3be7f0ab5a3d6566dcd",
+  "edition": 2543,
+  "date": 1780647785392,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

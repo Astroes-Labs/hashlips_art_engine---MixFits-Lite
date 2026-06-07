@@ -2,17 +2,17 @@
   "name": "Your Collection #195",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/195.png",
-  "dna": "734138de18709b535eaec6a6984e7629da4af145",
+  "dna": "89880b46aa171f61158dcd43081fb66ca574a7ec",
   "edition": 195,
-  "date": 1780640950783,
+  "date": 1780647620390,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Void"
+      "value": "Dark"
     },
     {
       "trait_type": "Body",
-      "value": "Mummy II"
+      "value": "Skeleton"
     }
   ],
   "compiler": "HashLips Art Engine"

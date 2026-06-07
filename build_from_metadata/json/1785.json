@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1785",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1785.png",
+  "dna": "e583adbeb0fc2eff9d69d0d0a3e2199f08219aae",
+  "edition": 1785,
+  "date": 1780647732609,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

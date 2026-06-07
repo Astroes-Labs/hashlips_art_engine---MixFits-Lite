@@ -2,13 +2,13 @@
   "name": "Your Collection #179",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/179.png",
-  "dna": "6109c95994cdbbe3554c7e1a1333cdead13bf703",
+  "dna": "f46382e7644b1c0aea8f3bfbc363d3a742a73d93",
   "edition": 179,
-  "date": 1780640949569,
+  "date": 1780647619123,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Void"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Slick Afro"
+      "value": "Blonde Taper Fade"
     },
     {
       "trait_type": "Eyes",
-      "value": "Nerd Glasses"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Safety Vest"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Pants",
-      "value": "Joker Suit Pants"
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Pirate Capt"
     },
     {
       "trait_type": "Footwear",
-      "value": "Brown Sandals"
+      "value": "Red colorway Sneakers"
     }
   ],
   "compiler": "HashLips Art Engine"

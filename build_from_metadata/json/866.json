@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #866",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/866.png",
+  "dna": "b7695d1790865ead433bed6803f7e899ad43820e",
+  "edition": 866,
+  "date": 1780647668079,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Slime"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Straight Face"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Brain"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

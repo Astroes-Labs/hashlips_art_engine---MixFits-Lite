@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4176",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4176.png",
+  "dna": "7ab84c521cb675fa03aaa83b493ac323f99d6d27",
+  "edition": 4176,
+  "date": 1780647900116,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

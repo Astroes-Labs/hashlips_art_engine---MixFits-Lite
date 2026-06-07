@@ -2,25 +2,37 @@
   "name": "Your Collection #80",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/80.png",
-  "dna": "6fd7ab629913448d6816359a0859c98994437f27",
+  "dna": "b162d9fb0cab6d5880f01d31b1bff30920b4ae92",
   "edition": 80,
-  "date": 1780640943562,
+  "date": 1780647611718,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sky"
+      "value": "Light"
     },
     {
       "trait_type": "Body",
-      "value": "Stoner"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
     },
     {
       "trait_type": "Eyes",
-      "value": "Straight Face"
+      "value": "Sunglasses"
     },
     {
-      "trait_type": "Special",
-      "value": "Cigratte"
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

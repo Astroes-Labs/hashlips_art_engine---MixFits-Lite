@@ -2,9 +2,9 @@
   "name": "Your Collection #351",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/351.png",
-  "dna": "9cff3ef2a5d661858ae4e8133bb8ca33ffb7b881",
+  "dna": "445603d4d5a8e01485128ce41e9f980335f957ec",
   "edition": 351,
-  "date": 1780640966197,
+  "date": 1780647632004,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,27 +12,27 @@
     },
     {
       "trait_type": "Body",
-      "value": "Zombie"
+      "value": "Homo Sapien"
     },
     {
       "trait_type": "Hair",
-      "value": "Brains"
+      "value": "Fade"
     },
     {
       "trait_type": "Eyes",
-      "value": "Pink Wraparound Sunglasses"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Wizard Robe"
+      "value": "Classic Visor"
     },
     {
       "trait_type": "Pants",
-      "value": "Task Force Pants"
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
     },
     {
       "trait_type": "Footwear",
-      "value": "Black Boots"
+      "value": "Brown Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

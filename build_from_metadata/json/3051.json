@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3051",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3051.png",
+  "dna": "dc2c03f0c6333a2e65ca47a1394258c9c561f782",
+  "edition": 3051,
+  "date": 1780647821623,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Kill Billy Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3599",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3599.png",
+  "dna": "e3bec36fd24eee3815f12415619d9bec9e526731",
+  "edition": 3599,
+  "date": 1780647859468,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

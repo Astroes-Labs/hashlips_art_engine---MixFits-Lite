@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #789",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/789.png",
+  "dna": "032ecec3750011f02ad0e4073dcec0f676e522ac",
+  "edition": 789,
+  "date": 1780773419861,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Knight Helmet"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4302",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4302.png",
+  "dna": "b0358a419799c7f8c579308e8a65a5296e841964",
+  "edition": 4302,
+  "date": 1780778780582,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Not TMA Mask"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3976",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3976.png",
+  "dna": "9a0c1f59cb2a2cac9de0e7f65405a85c8a0f28f4",
+  "edition": 3976,
+  "date": 1780647886013,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Grand Mage Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

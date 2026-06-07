@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2531",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2531.png",
+  "dna": "c7e2e4e47bd9c4bd0d74dd9431d067f64fe9e645",
+  "edition": 2531,
+  "date": 1780647784588,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

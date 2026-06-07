@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4340",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4340.png",
+  "dna": "2a5618d01602553c1408c5a169f891c89610b769",
+  "edition": 4340,
+  "date": 1780647911648,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

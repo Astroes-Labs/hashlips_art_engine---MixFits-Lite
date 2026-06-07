@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2206",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2206.png",
+  "dna": "35a50a4dc7f5fd2e26f913d2ab9bfd170ab7d09d",
+  "edition": 2206,
+  "date": 1780647761519,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

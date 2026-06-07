@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3961",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3961.png",
+  "dna": "1ac6b14c5fe0ea097aeb9c28934170c980735c2f",
+  "edition": 3961,
+  "date": 1780647885015,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Joker Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

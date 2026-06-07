@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3232",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3232.png",
+  "dna": "470f346e086b4ddbd231c0483e0c4cf03022f410",
+  "edition": 3232,
+  "date": 1780647834095,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Kill Billy Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

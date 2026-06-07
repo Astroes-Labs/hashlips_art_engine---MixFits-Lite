@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4208",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4208.png",
+  "dna": "85624fa9f6c1416a694b8d99177e6219c8eceb5f",
+  "edition": 4208,
+  "date": 1780647902510,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

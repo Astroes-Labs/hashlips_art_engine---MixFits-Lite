@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2405",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2405.png",
+  "dna": "8c4ff61f01e247a0d97180b31754eed5934b097a",
+  "edition": 2405,
+  "date": 1780773419863,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Knight Helmet"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

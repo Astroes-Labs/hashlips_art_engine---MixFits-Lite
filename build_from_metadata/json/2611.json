@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #2611",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2611.png",
+  "dna": "472bfa57842f7bdd8aba1c100f41cd37d1af9e0d",
+  "edition": 2611,
+  "date": 1780775050190,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Ninja Outfit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

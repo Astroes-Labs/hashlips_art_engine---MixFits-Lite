@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #4266",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4266.png",
+  "dna": "ddedc04af9b9637e4ad2a4468b65dcf2826c7577",
+  "edition": 4266,
+  "date": 1780773088600,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Panda Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

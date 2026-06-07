@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #871",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/871.png",
+  "dna": "9cf39f7cd064c94cd9ad7e65a8291f4b875aa5d1",
+  "edition": 871,
+  "date": 1780647668456,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #833",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/833.png",
+  "dna": "dc2d8d0b8337da772368d255caf944cfe6a9956a",
+  "edition": 833,
+  "date": 1780773419861,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Lucha Libre Mask"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

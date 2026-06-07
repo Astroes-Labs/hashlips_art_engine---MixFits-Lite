@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3038",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3038.png",
+  "dna": "638eee522684dd3da3b6f2c7e8ea80f4175699c8",
+  "edition": 3038,
+  "date": 1780647820745,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

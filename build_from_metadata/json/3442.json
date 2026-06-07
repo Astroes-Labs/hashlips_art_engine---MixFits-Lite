@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3442",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3442.png",
+  "dna": "b3293d6070e085e2fb3dc4bb7d46cdf81337aa89",
+  "edition": 3442,
+  "date": 1780647848695,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

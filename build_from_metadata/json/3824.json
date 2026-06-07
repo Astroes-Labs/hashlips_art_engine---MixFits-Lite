@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3824",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3824.png",
+  "dna": "6ff191b8a24abe1b460be04952919acaea356503",
+  "edition": 3824,
+  "date": 1780647875269,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Joker Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

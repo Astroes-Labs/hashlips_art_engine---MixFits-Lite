@@ -2,17 +2,17 @@
   "name": "Your Collection #266",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/266.png",
-  "dna": "f7d334a2b4660e7a053a2c86cdb7b21b3c73317a",
+  "dna": "ff8a1d56d6aa9f450a6a79a3926312b24483598a",
   "edition": 266,
-  "date": 1780640956306,
+  "date": 1780647625596,
   "attributes": [
     {
-      "trait_type": "Body",
-      "value": "Experiment Zero"
+      "trait_type": "Background",
+      "value": "Dark"
     },
     {
-      "trait_type": "Eyes",
-      "value": "Straight Face"
+      "trait_type": "Body",
+      "value": "Mutant A"
     }
   ],
   "compiler": "HashLips Art Engine"

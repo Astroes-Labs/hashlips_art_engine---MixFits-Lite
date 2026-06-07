@@ -2,17 +2,37 @@
   "name": "Your Collection #16",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/16.png",
-  "dna": "85bf714c8becc3d3180649713a8963e92fb59895",
+  "dna": "80e6c07b181de38a7dd1d0998b20d81b19aef339",
   "edition": 16,
-  "date": 1780640940380,
+  "date": 1780647606559,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Skeleton"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Kill Billy Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

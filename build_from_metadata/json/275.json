@@ -2,17 +2,17 @@
   "name": "Your Collection #275",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/275.png",
-  "dna": "12085315f3b258352bc05fe0b0a5fa52607a8d14",
+  "dna": "f75ec056185b79b8e120c2b9e13da33001531d99",
   "edition": 275,
-  "date": 1780640956911,
+  "date": 1780647626252,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Wine"
+      "value": "Void"
     },
     {
       "trait_type": "Body",
-      "value": "Purple Slime"
+      "value": "Green Slime"
     },
     {
       "trait_type": "Eyes",
@@ -20,7 +20,7 @@
     },
     {
       "trait_type": "Special",
-      "value": "Brain"
+      "value": "Dog"
     }
   ],
   "compiler": "HashLips Art Engine"

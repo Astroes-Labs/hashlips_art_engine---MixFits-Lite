@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1811",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1811.png",
+  "dna": "36a8192482bfeeeb1d5a40a3175287788d1b72d9",
+  "edition": 1811,
+  "date": 1780647734387,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Tux"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

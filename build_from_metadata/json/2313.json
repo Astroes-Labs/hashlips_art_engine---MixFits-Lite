@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2313",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2313.png",
+  "dna": "c07536fbc1b48cb0f3b98be2e81794c9e6cde98b",
+  "edition": 2313,
+  "date": 1780778780580,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Not TMA Mask"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

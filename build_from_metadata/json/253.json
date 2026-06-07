@@ -2,37 +2,25 @@
   "name": "Your Collection #253",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/253.png",
-  "dna": "75fb331e5a03898c4a506387479a574a4432f462",
+  "dna": "3897d1c8429d483c65cf4bbddc6bef5443758b50",
   "edition": 253,
-  "date": 1780640955423,
+  "date": 1780647624673,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Wine"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Zombie"
-    },
-    {
-      "trait_type": "Hair",
-      "value": "Ginger Bowl Cut"
+      "value": "Purple Slime"
     },
     {
       "trait_type": "Eyes",
-      "value": "Eye Patch"
+      "value": "Straight Face"
     },
     {
-      "trait_type": "Shirt",
-      "value": "Red Varsity Jacket"
-    },
-    {
-      "trait_type": "Pants",
-      "value": "Boxer Trunks"
-    },
-    {
-      "trait_type": "Footwear",
-      "value": "Pirate Boots"
+      "trait_type": "Special",
+      "value": "Brain"
     }
   ],
   "compiler": "HashLips Art Engine"

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #799",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/799.png",
+  "dna": "2fd832c722094e8e22b6dd6d20f540658644914f",
+  "edition": 799,
+  "date": 1780647663622,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

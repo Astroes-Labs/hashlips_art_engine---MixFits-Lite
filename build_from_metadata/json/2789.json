@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2789",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2789.png",
+  "dna": "c5a620b485b1d30d260939c43accdcb12e93f199",
+  "edition": 2789,
+  "date": 1780647802376,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

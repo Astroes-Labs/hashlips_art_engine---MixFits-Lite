@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1241",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1241.png",
+  "dna": "b794868c068949bf360c69c8feff79d0d3c5d123",
+  "edition": 1241,
+  "date": 1780647693530,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

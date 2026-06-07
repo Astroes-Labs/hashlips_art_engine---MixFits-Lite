@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #531",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/531.png",
+  "dna": "efd41d2d39046a84ea853bb4da2df9e9eb167dc3",
+  "edition": 531,
+  "date": 1780647645184,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Joker Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

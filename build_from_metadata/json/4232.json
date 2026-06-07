@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4232",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4232.png",
+  "dna": "59a23d3ed682064ba40382615f485f47c79a12be",
+  "edition": 4232,
+  "date": 1780647904204,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

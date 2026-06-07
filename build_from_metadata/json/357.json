@@ -2,37 +2,25 @@
   "name": "Your Collection #357",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/357.png",
-  "dna": "c0cf527d90f63969946fa082893920f210c78960",
+  "dna": "9d2387ee2fb13b10547c6fc0ea404fd10a139145",
   "edition": 357,
-  "date": 1780640966605,
+  "date": 1780647632567,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Void"
+      "value": "Dark"
     },
     {
       "trait_type": "Body",
-      "value": "Zombie"
-    },
-    {
-      "trait_type": "Hair",
-      "value": "Low Cut"
+      "value": "Pink Slime"
     },
     {
       "trait_type": "Eyes",
-      "value": "Blue Wraparound Sunglasses"
+      "value": "Straight Face"
     },
     {
-      "trait_type": "Shirt",
-      "value": "High Priest"
-    },
-    {
-      "trait_type": "Pants",
-      "value": "Tux Suit Pants"
-    },
-    {
-      "trait_type": "Footwear",
-      "value": "Ski Boots"
+      "trait_type": "Special",
+      "value": "Cheese"
     }
   ],
   "compiler": "HashLips Art Engine"

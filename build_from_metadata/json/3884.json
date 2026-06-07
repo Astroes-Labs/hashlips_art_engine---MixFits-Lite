@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3884",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3884.png",
+  "dna": "93fef4d84cdae5a9da99d5caa9facc62d5423514",
+  "edition": 3884,
+  "date": 1780647879810,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Boxing Gloves"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Kill Billy Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

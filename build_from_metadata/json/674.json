@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #674",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/674.png",
+  "dna": "e5585035aac0059f689394a07ae40e0767653769",
+  "edition": 674,
+  "date": 1780647654933,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

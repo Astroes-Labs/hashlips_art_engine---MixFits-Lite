@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4158",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4158.png",
+  "dna": "0e3267611d37b7c92fd51701ea87906fe5e72e11",
+  "edition": 4158,
+  "date": 1780647898835,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

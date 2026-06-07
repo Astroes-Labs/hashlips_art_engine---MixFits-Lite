@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2909",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2909.png",
+  "dna": "7a223d22d52eab68df162431246038db1e259fc3",
+  "edition": 2909,
+  "date": 1780647811579,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Dark Green Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

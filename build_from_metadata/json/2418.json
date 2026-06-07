@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2418",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2418.png",
+  "dna": "9866fd2ba83d9d42206ac9bbe864efe6ba36e775",
+  "edition": 2418,
+  "date": 1780647776271,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

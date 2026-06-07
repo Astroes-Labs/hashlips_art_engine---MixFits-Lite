@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3273",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3273.png",
+  "dna": "d511845e1a2792908270ba8ece261aa9fac70463",
+  "edition": 3273,
+  "date": 1780647836877,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Chef Outfit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

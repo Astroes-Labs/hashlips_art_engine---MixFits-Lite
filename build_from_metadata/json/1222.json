@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #1222",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1222.png",
+  "dna": "1c7d25c2dca97aa9075830ac9c9de56bffb4606b",
+  "edition": 1222,
+  "date": 1780647692267,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mutant A"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

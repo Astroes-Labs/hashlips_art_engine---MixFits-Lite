@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3741",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3741.png",
+  "dna": "7f025c490067f9bbb216ec8f2b80723e87abde4f",
+  "edition": 3741,
+  "date": 1780647869355,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Grand Mage Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Grand Mage Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2869",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2869.png",
+  "dna": "be01498c3b8496ea6e755113e83f1ad9f3a8dff7",
+  "edition": 2869,
+  "date": 1780647808554,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Chef Outfit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

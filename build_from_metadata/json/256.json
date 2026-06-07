@@ -2,13 +2,13 @@
   "name": "Your Collection #256",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/256.png",
-  "dna": "3e2984193adb27e27782ea4a58c8045a9550ecba",
+  "dna": "0118372733cd73378c1a01461a957ddf9ec1414a",
   "edition": 256,
-  "date": 1780640955610,
+  "date": 1780647624900,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sky"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Brains"
+      "value": "Crew Cut"
     },
     {
       "trait_type": "Eyes",
-      "value": "Regular Visor"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Red Pirate Capt"
+      "value": "Blue Wraparound Sunglasses"
     },
     {
       "trait_type": "Pants",
-      "value": "Jeans"
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
     },
     {
       "trait_type": "Footwear",
-      "value": "Boxers Boot"
+      "value": "Flip Flops"
     }
   ],
   "compiler": "HashLips Art Engine"

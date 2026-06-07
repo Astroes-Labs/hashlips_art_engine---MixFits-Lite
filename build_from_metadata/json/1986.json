@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1986",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1986.png",
+  "dna": "9f6f78b6a6dfe17b072db06f4e3c70757b90ebbc",
+  "edition": 1986,
+  "date": 1780647746317,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

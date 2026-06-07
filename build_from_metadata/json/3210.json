@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #3210",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3210.png",
+  "dna": "a2f9071e3d02d03f5801ad19f41bbda3d8e854b3",
+  "edition": 3210,
+  "date": 1780647832461,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brain Box"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1403",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1403.png",
+  "dna": "0176bac3b61f86d6ee8e61a1c9b219214111103d",
+  "edition": 1403,
+  "date": 1780647704747,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

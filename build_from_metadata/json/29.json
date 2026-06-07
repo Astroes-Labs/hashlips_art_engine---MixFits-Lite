@@ -2,25 +2,37 @@
   "name": "Your Collection #29",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/29.png",
-  "dna": "62f0447c52f589c27c2b104499bc310dac90d144",
+  "dna": "8e72f9cf075197fd3208e67b0c8bc29b8acda6a3",
   "edition": 29,
-  "date": 1780640941145,
+  "date": 1780647607704,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Wine"
+      "value": "Light"
     },
     {
       "trait_type": "Body",
-      "value": "Blue Slime"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
     },
     {
       "trait_type": "Eyes",
-      "value": "Straight Face"
+      "value": "Blue Wraparound Sunglasses"
     },
     {
-      "trait_type": "Special",
-      "value": "Cheese"
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
     }
   ],
   "compiler": "HashLips Art Engine"

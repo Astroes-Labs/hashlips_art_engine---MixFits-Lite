@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #768",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/768.png",
+  "dna": "b5b2ada657387d79962474b11224093db03137be",
+  "edition": 768,
+  "date": 1780647661608,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

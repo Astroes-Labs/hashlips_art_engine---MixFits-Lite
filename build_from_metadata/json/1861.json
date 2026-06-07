@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1861",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1861.png",
+  "dna": "e8bfeb353cfe6ee302586854145152c3ffcedce7",
+  "edition": 1861,
+  "date": 1780647737962,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Tux"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

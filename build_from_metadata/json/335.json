@@ -2,13 +2,13 @@
   "name": "Your Collection #335",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/335.png",
-  "dna": "87855a4c7f856e0037f68e8de3321ad4a5a1f364",
+  "dna": "3e815ea8e91c537cb0db12b0194d15af4c523568",
   "edition": 335,
-  "date": 1780640964892,
+  "date": 1780647630845,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
@@ -23,16 +23,16 @@
       "value": "Classic Visor"
     },
     {
-      "trait_type": "Shirt",
-      "value": "Lab Coat"
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
     },
     {
-      "trait_type": "Pants",
-      "value": "Camo Pants"
+      "trait_type": "Shirt",
+      "value": "High Priest"
     },
     {
       "trait_type": "Footwear",
-      "value": "OffWhyt Sneakers"
+      "value": "Combat Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

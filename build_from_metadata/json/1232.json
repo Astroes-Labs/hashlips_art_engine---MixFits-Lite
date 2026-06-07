@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #1232",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1232.png",
+  "dna": "067d0969734d803a2eb7415663bac6578ce7ac80",
+  "edition": 1232,
+  "date": 1780685629348,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Knight"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #3907",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3907.png",
+  "dna": "0605b01f2a3b2b891535ff8eb4b3da262337a59c",
+  "edition": 3907,
+  "date": 1780647881367,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mutant P"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

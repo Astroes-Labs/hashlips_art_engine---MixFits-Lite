@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #846",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/846.png",
+  "dna": "76e618e1fb15ff3b800e507c057f04737482ff63",
+  "edition": 846,
+  "date": 1780647666775,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

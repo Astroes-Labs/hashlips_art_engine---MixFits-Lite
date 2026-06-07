@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #660",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/660.png",
+  "dna": "3e221955e498e7c44ff9ad096438f6698c93dccd",
+  "edition": 660,
+  "date": 1780647653951,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

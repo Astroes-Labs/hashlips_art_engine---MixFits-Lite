@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #463",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/463.png",
+  "dna": "171266249db97530cb0deb0611320563e8ba489e",
+  "edition": 463,
+  "date": 1780647640727,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

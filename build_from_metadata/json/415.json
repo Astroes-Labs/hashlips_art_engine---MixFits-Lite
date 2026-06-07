@@ -2,13 +2,13 @@
   "name": "Your Collection #415",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/415.png",
-  "dna": "91664651faa4cb8f39becc46ffd16daeaaeb3b68",
+  "dna": "3c9b17396ff628695216982b80d5549c224b8081",
   "edition": 415,
-  "date": 1780640970863,
+  "date": 1780647637100,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sky"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Ginger Bowl Cut"
+      "value": "Low Cut"
     },
     {
       "trait_type": "Eyes",
-      "value": "Nerd Glasses"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Wizard Robe"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Pants",
-      "value": "Grey Pants"
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Protective Suit"
     },
     {
       "trait_type": "Footwear",
-      "value": "Red colorway Sneakers"
+      "value": "Brown Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

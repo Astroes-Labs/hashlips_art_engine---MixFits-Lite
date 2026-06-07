@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2216",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2216.png",
+  "dna": "5d796779cad0f01009f8de3d1a49fb53565c051f",
+  "edition": 2216,
+  "date": 1780647762179,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

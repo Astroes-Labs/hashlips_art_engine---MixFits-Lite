@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1145",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1145.png",
+  "dna": "42969ce592cb67463cdaa548c230fc371f01999c",
+  "edition": 1145,
+  "date": 1780647687130,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Monk Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

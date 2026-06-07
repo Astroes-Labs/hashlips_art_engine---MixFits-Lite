@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #510",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/510.png",
+  "dna": "bf232a94ba35c9b2aff337b0c84e5c4401cfeffb",
+  "edition": 510,
+  "date": 1780647643764,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

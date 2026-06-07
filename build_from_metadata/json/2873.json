@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2873",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2873.png",
+  "dna": "8661b7bfe890b3a7c6a5a40f97562070b0d62870",
+  "edition": 2873,
+  "date": 1780647808833,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

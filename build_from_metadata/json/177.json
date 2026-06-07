@@ -2,13 +2,13 @@
   "name": "Your Collection #177",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/177.png",
-  "dna": "c4f9b0d7c10b96c8a58ce836d2b6aad67addad08",
+  "dna": "ea3d109c0de9b3892f9aca3488a19d7447ba0045",
   "edition": 177,
-  "date": 1780640949408,
+  "date": 1780647618982,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Wine"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Low Cut"
+      "value": "Bowl Cut"
     },
     {
       "trait_type": "Eyes",
-      "value": "Laser"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Kill Billy Jacket"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Pants",
-      "value": "Faded Jeans"
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
     },
     {
       "trait_type": "Footwear",
-      "value": "Pirate Boots"
+      "value": "Flip Flops"
     }
   ],
   "compiler": "HashLips Art Engine"

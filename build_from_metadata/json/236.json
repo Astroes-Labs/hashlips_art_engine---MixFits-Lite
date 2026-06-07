@@ -2,25 +2,37 @@
   "name": "Your Collection #236",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/236.png",
-  "dna": "2b380a15de29f312286f36c08c2500444881471e",
+  "dna": "a9900cf6f88b67a81f637fdfcd7ea1eac03672fd",
   "edition": 236,
-  "date": 1780640953984,
+  "date": 1780647623508,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light"
+      "value": "Void"
     },
     {
       "trait_type": "Body",
-      "value": "Purple Slime"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
     },
     {
       "trait_type": "Eyes",
-      "value": "Straight Face"
+      "value": "3D Glasses"
     },
     {
-      "trait_type": "Special",
-      "value": "Brain"
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
     }
   ],
   "compiler": "HashLips Art Engine"

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #907",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/907.png",
+  "dna": "04533fedc404433b7562104b3300d658ba4f05ce",
+  "edition": 907,
+  "date": 1780647671047,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

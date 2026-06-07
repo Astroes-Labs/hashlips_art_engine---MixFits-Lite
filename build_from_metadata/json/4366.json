@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4366",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4366.png",
+  "dna": "8f6f60f9c0e523a5d89759b3c0dd1903ad450693",
+  "edition": 4366,
+  "date": 1780647913424,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Chef Outfit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4386",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4386.png",
+  "dna": "2ad7d14b7f5f5083f3f6122e2fc4b665d360802c",
+  "edition": 4386,
+  "date": 1780647914787,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Black Suits"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2536",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2536.png",
+  "dna": "9dc6bb70abe82fd72000685c472165f11a43440c",
+  "edition": 2536,
+  "date": 1780647784903,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

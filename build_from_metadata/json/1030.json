@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1030",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1030.png",
+  "dna": "561103bc116117e65a741cf75dba3225bfc3ba20",
+  "edition": 1030,
+  "date": 1780647679351,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

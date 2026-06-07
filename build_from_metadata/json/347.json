@@ -2,37 +2,37 @@
   "name": "Your Collection #347",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/347.png",
-  "dna": "a3cd28aa26085f3dc6b43b2de5c0ca3636a439f6",
+  "dna": "286c61f91b4d67ec27a7c59a0c9bbd89667262c1",
   "edition": 347,
-  "date": 1780640965821,
+  "date": 1780647631714,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sky"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Zombie"
+      "value": "Homo Sapien"
     },
     {
       "trait_type": "Hair",
-      "value": "Brains"
+      "value": "Slick Afro"
     },
     {
       "trait_type": "Eyes",
-      "value": "3D Shades"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Task Force Vest"
+      "value": "Classic Visor"
     },
     {
       "trait_type": "Pants",
-      "value": "Black Suit Pants"
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Dark Green Jacket"
     },
     {
       "trait_type": "Footwear",
-      "value": "Flip Flops"
+      "value": "Red colorway Sneakers"
     }
   ],
   "compiler": "HashLips Art Engine"

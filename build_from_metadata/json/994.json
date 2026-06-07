@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #994",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/994.png",
+  "dna": "4eb6c076c3738b74461927ce650cf0ccb3cbb0fb",
+  "edition": 994,
+  "date": 1780647676947,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #715",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/715.png",
+  "dna": "9f176ae73f47ccc98ae6aae4f73e7e3d25980b64",
+  "edition": 715,
+  "date": 1780647657706,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

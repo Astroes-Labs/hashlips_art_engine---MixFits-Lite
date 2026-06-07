@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4129",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4129.png",
+  "dna": "3304ea7a4d7fbb59e8fc96da4208ebc221e3d84d",
+  "edition": 4129,
+  "date": 1780647896845,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Space Hunter Gear"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

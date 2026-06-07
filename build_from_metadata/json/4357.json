@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4357",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4357.png",
+  "dna": "98ea75fa8f926f8981bfea1cc6e44f1ba654e197",
+  "edition": 4357,
+  "date": 1780647912801,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

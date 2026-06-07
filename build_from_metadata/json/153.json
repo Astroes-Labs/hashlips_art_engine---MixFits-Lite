@@ -2,9 +2,9 @@
   "name": "Your Collection #153",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/153.png",
-  "dna": "a3d94e38c3e1f95fb4cb8df7075aeacac1c97d1e",
+  "dna": "97ee7a4a836d1a52644a40558fdd906cda55a1d1",
   "edition": 153,
-  "date": 1780640947226,
+  "date": 1780647617121,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,7 +12,27 @@
     },
     {
       "trait_type": "Body",
-      "value": "Mighty Balor"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #2334",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2334.png",
+  "dna": "05c38fdd20015bfb170cdfd498f26cdedd343bb0",
+  "edition": 2334,
+  "date": 1780647770554,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Slime"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Straight Face"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Ring"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

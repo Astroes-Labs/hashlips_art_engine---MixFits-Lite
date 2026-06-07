@@ -2,17 +2,37 @@
   "name": "Your Collection #52",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/52.png",
-  "dna": "263846be3342e8821718f878e2098fc529790885",
+  "dna": "497210055aac9446e3df5414938b4783db645b52",
   "edition": 52,
-  "date": 1780640942277,
+  "date": 1780647609524,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Mutant P"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
     }
   ],
   "compiler": "HashLips Art Engine"

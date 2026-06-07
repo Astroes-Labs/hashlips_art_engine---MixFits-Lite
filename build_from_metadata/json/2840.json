@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2840",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2840.png",
+  "dna": "e6aca55852130f565a785febf350dd8bb71f7430",
+  "edition": 2840,
+  "date": 1780647806494,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

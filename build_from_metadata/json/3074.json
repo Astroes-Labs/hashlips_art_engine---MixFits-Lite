@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3074",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3074.png",
+  "dna": "dd9a826cb65cb18533063273f4f8af39c5f9aceb",
+  "edition": 3074,
+  "date": 1780647823176,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

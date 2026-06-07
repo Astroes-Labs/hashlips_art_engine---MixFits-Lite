@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2304",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2304.png",
+  "dna": "95c913b14e0ebaf5de6125008f8556cea825d866",
+  "edition": 2304,
+  "date": 1780647768443,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

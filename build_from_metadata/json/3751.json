@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3751",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3751.png",
+  "dna": "c2933babd19d75317a1e6f81ac6682e8161a940e",
+  "edition": 3751,
+  "date": 1780647870116,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

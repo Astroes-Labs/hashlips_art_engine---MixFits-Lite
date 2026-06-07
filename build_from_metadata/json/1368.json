@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1368",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1368.png",
+  "dna": "1548e99f9bdfdbb7befd219188c5fe299ad0703c",
+  "edition": 1368,
+  "date": 1780647702387,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

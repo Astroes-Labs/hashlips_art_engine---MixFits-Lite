@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #853",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/853.png",
+  "dna": "9e432bad38bb55dfaf096e97d74e721d6bdde2d4",
+  "edition": 853,
+  "date": 1780647667238,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

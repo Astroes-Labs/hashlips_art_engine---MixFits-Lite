@@ -2,37 +2,37 @@
   "name": "Your Collection #276",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/276.png",
-  "dna": "eb15551dffb79379e1b37f3ebfc421f3bffb0d1f",
+  "dna": "656e2b64adb0d6a2eb0df8e7e0a9cb4d7a532486",
   "edition": 276,
-  "date": 1780640956991,
+  "date": 1780647626322,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Void"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Zombie"
+      "value": "Homo Sapien"
     },
     {
       "trait_type": "Hair",
-      "value": "Low Cut II"
+      "value": "Fade"
     },
     {
       "trait_type": "Eyes",
-      "value": "Pink Wraparound Sunglasses"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Croc Suit"
+      "value": "3D Shades"
     },
     {
       "trait_type": "Pants",
-      "value": "Black Suit Pants"
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Tux"
     },
     {
       "trait_type": "Footwear",
-      "value": "Black Shoes"
+      "value": "Ash colorway Sneakers"
     }
   ],
   "compiler": "HashLips Art Engine"

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4411",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4411.png",
+  "dna": "ae89fddeb4c9f2731075d165489c8dc2af0b7fb2",
+  "edition": 4411,
+  "date": 1780647916695,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

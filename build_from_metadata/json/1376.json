@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1376",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1376.png",
+  "dna": "f0e57eeb119575dd7d17f2babc8e4603a8326e81",
+  "edition": 1376,
+  "date": 1780647702953,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

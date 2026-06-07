@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2828",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2828.png",
+  "dna": "52731e58a26a192be9c994546d8706a9d6e1b58b",
+  "edition": 2828,
+  "date": 1780647805328,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

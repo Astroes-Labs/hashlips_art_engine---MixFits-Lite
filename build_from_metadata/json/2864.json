@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #2864",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2864.png",
+  "dna": "3c79e0884ff14a65ee8615a7e7e5518b27711602",
+  "edition": 2864,
+  "date": 1780774597942,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Stoner"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

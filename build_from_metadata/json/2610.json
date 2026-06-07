@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2610",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2610.png",
+  "dna": "7cb2461d019f6b2de3963a9a08e50730dd5c281e",
+  "edition": 2610,
+  "date": 1780647789976,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

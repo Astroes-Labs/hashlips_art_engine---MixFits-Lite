@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1161",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1161.png",
+  "dna": "83cc619cb85d7c9947c00c1e7354b7f64b7be177",
+  "edition": 1161,
+  "date": 1780647688191,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -2,21 +2,37 @@
   "name": "Your Collection #400",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/400.png",
-  "dna": "79e75e46fac9ff2e8ffa4d671e8baf7d35a66dd4",
+  "dna": "b99c66b2b75c3bc5e3d8ab9b66b78b92192dc990",
   "edition": 400,
-  "date": 1780640969759,
+  "date": 1780647636058,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Stoner"
+      "value": "Zombie"
     },
     {
-      "trait_type": "Special",
-      "value": "Boxing Gloves"
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
     }
   ],
   "compiler": "HashLips Art Engine"

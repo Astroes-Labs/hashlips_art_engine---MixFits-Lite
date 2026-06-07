@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #572",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/572.png",
+  "dna": "a0cd122aacb27ceb23c3b6c6288f3700a4cc3a76",
+  "edition": 572,
+  "date": 1780647648099,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #4088",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4088.png",
+  "dna": "74989c1f04a86135f965c9a5851d8fd69fdfad28",
+  "edition": 4088,
+  "date": 1780685527896,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Black Baseball Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

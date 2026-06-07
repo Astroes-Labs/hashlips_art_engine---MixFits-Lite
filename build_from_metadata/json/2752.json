@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #2752",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2752.png",
+  "dna": "e4fa9a11c1bd002d73597aa44740b4c2f27ae778",
+  "edition": 2752,
+  "date": 1780775050192,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Full Protective Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

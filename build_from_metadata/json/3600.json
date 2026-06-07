@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3600",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3600.png",
+  "dna": "1fc61b0023a98360544fcb4d0b99dfdc2b175564",
+  "edition": 3600,
+  "date": 1780647859549,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

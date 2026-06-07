@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3903",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3903.png",
+  "dna": "edeab05f5e6965be463eb9ee7f0d4e6eda629919",
+  "edition": 3903,
+  "date": 1780647881120,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

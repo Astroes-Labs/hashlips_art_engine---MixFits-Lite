@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #586",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/586.png",
+  "dna": "7945f75cc499dc74ad6fcf9e9fa540b7abbc97fe",
+  "edition": 586,
+  "date": 1780647649082,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

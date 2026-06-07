@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2805",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2805.png",
+  "dna": "db847e3bff29dbd70a39e0566433700adc97e532",
+  "edition": 2805,
+  "date": 1780647803477,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

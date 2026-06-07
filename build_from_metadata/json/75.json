@@ -2,17 +2,37 @@
   "name": "Your Collection #75",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/75.png",
-  "dna": "0f59dba445a914e5fc09c1e739ca335a5031a854",
+  "dna": "15a550ae377f862888f4a488bf5afd4f8f823c67",
   "edition": 75,
-  "date": 1780640943293,
+  "date": 1780647611334,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Black Werewolf"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Tux"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

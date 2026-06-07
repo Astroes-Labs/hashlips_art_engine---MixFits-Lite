@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4262",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4262.png",
+  "dna": "010db74226a41b0f5e34da8f0adb5731ee1081c9",
+  "edition": 4262,
+  "date": 1780647906274,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

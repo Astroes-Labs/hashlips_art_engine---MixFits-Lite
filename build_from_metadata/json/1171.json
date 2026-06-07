@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1171",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1171.png",
+  "dna": "a10f5e464d2e340b0ea31fc0cef89770b104ced8",
+  "edition": 1171,
+  "date": 1780647688829,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

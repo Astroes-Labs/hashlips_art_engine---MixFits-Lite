@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1516",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1516.png",
+  "dna": "a54984ffc68aeb2293b737cf6a545659047eeb2f",
+  "edition": 1516,
+  "date": 1780647712545,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Task Force Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Kill Billy Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #2534",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2534.png",
+  "dna": "d1a93b69a869c48531d95cc3e43a74025da81f2a",
+  "edition": 2534,
+  "date": 1780775050190,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Croc Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #3912",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3912.png",
+  "dna": "3e15dab7f2315ff7929f035db4e2ae6dcec8efc9",
+  "edition": 3912,
+  "date": 1780775050196,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Croc Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

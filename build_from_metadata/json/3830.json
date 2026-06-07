@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3830",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3830.png",
+  "dna": "dcc0e1554acb44ab8552d6b90fc3fb6ef54932c7",
+  "edition": 3830,
+  "date": 1780647875663,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

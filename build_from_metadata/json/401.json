@@ -2,13 +2,13 @@
   "name": "Your Collection #401",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/401.png",
-  "dna": "d12ffe9cb88daa65880699c1a90fa87ae82810e4",
+  "dna": "ce10d48db4f8fa725aada19a7030d616206e60de",
   "edition": 401,
-  "date": 1780640969828,
+  "date": 1780647636137,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Low Cut II"
+      "value": "Ginger Bowl Cut"
     },
     {
       "trait_type": "Eyes",
-      "value": "Laser"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Chef Outfit"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Pants",
-      "value": "Joker Suit Pants"
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
     },
     {
       "trait_type": "Footwear",
-      "value": "Boxers Boot"
+      "value": "Black Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

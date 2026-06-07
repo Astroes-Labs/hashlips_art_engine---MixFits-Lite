@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #988",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/988.png",
+  "dna": "45816c0a76a88da8b3d73492603fa21154fbc403",
+  "edition": 988,
+  "date": 1780647676547,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

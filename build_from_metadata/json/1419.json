@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1419",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1419.png",
+  "dna": "0d0e55f41eefd931d4d8f3275caa67494ba1dce5",
+  "edition": 1419,
+  "date": 1780647705823,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

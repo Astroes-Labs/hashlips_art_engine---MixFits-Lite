@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3447",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3447.png",
+  "dna": "efb3b4493236fc49e8aaf6945013ceda82634509",
+  "edition": 3447,
+  "date": 1780647849019,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

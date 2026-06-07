@@ -2,9 +2,9 @@
   "name": "Your Collection #141",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/141.png",
-  "dna": "ce6fb05d1561cc861aacd37dbb76b2ed4b3e6d4f",
+  "dna": "832d43e727034a8848108d59e9d773868de3ba94",
   "edition": 141,
-  "date": 1780640946532,
+  "date": 1780647616199,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,7 +12,27 @@
     },
     {
       "trait_type": "Body",
-      "value": "Reddish Ghost"
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Ninja Outfit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2226",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2226.png",
+  "dna": "78654b2de4b70e53d5a741f5399911392673f10f",
+  "edition": 2226,
+  "date": 1780647762854,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Grand Mage Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

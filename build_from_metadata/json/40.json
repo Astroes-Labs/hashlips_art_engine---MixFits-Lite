@@ -2,9 +2,9 @@
   "name": "Your Collection #40",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/40.png",
-  "dna": "6e042ee47d42cd72dad82c06dfe561ea8e8861f7",
+  "dna": "8b31d6b6b2e181c0a6c597611c07d48c610f89dd",
   "edition": 40,
-  "date": 1780640941686,
+  "date": 1780647608536,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,7 +12,27 @@
     },
     {
       "trait_type": "Body",
-      "value": "Stone Balor"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

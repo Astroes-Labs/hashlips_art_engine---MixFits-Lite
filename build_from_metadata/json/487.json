@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #487",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/487.png",
+  "dna": "ac713c9d3ce54a67fd5908d1db430936e19fec95",
+  "edition": 487,
+  "date": 1780647642306,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

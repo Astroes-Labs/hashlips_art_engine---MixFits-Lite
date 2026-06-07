@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2181",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2181.png",
+  "dna": "d76bfc16017ab210fe06d7c198c788dfd1644c96",
+  "edition": 2181,
+  "date": 1780647759799,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

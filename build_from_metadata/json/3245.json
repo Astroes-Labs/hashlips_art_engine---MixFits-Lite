@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3245",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3245.png",
+  "dna": "6f7ed097fe0d946f6564fd496068d4dfbc881685",
+  "edition": 3245,
+  "date": 1780647834937,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

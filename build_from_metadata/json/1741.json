@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1741",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1741.png",
+  "dna": "03059fb6ffa482d63f027b4a0886976e59514bb6",
+  "edition": 1741,
+  "date": 1780647729661,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

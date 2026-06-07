@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1190",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1190.png",
+  "dna": "ebfacc9425eb3964d62048effe38ff28e20199e4",
+  "edition": 1190,
+  "date": 1780647690157,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1069",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1069.png",
+  "dna": "ce47e97a3246a13f4a222a03ef1c5d86de28bd8b",
+  "edition": 1069,
+  "date": 1780647681982,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

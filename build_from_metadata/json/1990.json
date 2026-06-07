@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1990",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1990.png",
+  "dna": "f21b2e9c119fd53edae3cf0045b5998a4d70334d",
+  "edition": 1990,
+  "date": 1780647746594,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

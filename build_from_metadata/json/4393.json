@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4393",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4393.png",
+  "dna": "fdde15ea1b4790a72944298689d92169f463ea58",
+  "edition": 4393,
+  "date": 1780647915268,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

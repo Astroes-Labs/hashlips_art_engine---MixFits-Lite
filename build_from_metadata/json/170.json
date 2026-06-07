@@ -2,17 +2,37 @@
   "name": "Your Collection #170",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/170.png",
-  "dna": "8338fcf66ad52b579feaa717fb908cb189350041",
+  "dna": "d3f81643b405b8729ab95c098db26dad7584d68c",
   "edition": 170,
-  "date": 1780640948984,
+  "date": 1780647618444,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Wine"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Monitor Bot Y"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

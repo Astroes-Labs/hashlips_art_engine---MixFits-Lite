@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #906",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/906.png",
+  "dna": "04e0845b6512fa518f750662476f8be8db8c1719",
+  "edition": 906,
+  "date": 1780647670982,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

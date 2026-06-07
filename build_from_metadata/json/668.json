@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #668",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/668.png",
+  "dna": "157027e129979ea84435122050c113f8ac7461d2",
+  "edition": 668,
+  "date": 1780647654490,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Monitor Bot X"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

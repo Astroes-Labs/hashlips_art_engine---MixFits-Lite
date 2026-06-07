@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #467",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/467.png",
+  "dna": "04ccb8a199b86824b7466849871663a704611f43",
+  "edition": 467,
+  "date": 1780647640969,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Slime"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Straight Face"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Brain"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

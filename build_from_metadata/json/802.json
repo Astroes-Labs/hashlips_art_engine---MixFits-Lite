@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #802",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/802.png",
+  "dna": "5fa28cd195cb57ed8717cd0a8496c1f57b99ce5f",
+  "edition": 802,
+  "date": 1780647663855,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brains"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

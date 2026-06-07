@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2228",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2228.png",
+  "dna": "3c3c969e95192e3d96fd8ed5dff65e469c769347",
+  "edition": 2228,
+  "date": 1780647762987,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

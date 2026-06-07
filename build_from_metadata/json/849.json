@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #849",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/849.png",
+  "dna": "181e9cfc0610adda9c6998ff37204664d1d7baf5",
+  "edition": 849,
+  "date": 1780647666962,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver Back Werewolf"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

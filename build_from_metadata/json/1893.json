@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #1893",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1893.png",
+  "dna": "2137ca3b3cb1e7ac006c8e5848980fae229b955d",
+  "edition": 1893,
+  "date": 1780647740161,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink Slime"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Straight Face"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Ring"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

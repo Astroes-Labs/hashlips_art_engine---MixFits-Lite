@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #648",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/648.png",
+  "dna": "3caa219d2ee11031f2e0b69285c623bb82e1624d",
+  "edition": 648,
+  "date": 1780647653204,
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Experiment Zero"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

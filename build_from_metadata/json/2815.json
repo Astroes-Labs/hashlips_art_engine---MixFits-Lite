@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #2815",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2815.png",
+  "dna": "445865de6d1a0b45d87c52b289c539b9f014edf1",
+  "edition": 2815,
+  "date": 1780685629350,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Knight"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

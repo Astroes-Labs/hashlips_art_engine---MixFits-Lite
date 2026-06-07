@@ -2,17 +2,37 @@
   "name": "Your Collection #245",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/245.png",
-  "dna": "3d2987b39dfd4540c6a41e11aa3d818dfc49d27b",
+  "dna": "f84dcc41c9a93d859820b292e54183823c29610e",
   "edition": 245,
-  "date": 1780640954620,
+  "date": 1780647624114,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark"
+      "value": "Light"
     },
     {
       "trait_type": "Body",
-      "value": "Mummy II"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
     }
   ],
   "compiler": "HashLips Art Engine"

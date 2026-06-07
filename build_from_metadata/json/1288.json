@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1288",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1288.png",
+  "dna": "048c33d81cae7d5e23f06871142022e9ee0f8067",
+  "edition": 1288,
+  "date": 1780647696745,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

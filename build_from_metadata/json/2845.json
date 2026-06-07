@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2845",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2845.png",
+  "dna": "006041755b14261b3fd3c61a479bceca02d9daba",
+  "edition": 2845,
+  "date": 1780647806848,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

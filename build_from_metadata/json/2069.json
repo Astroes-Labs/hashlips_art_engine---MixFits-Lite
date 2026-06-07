@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #2069",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2069.png",
+  "dna": "04a0da6f135106c347762a16b13112c553e18a80",
+  "edition": 2069,
+  "date": 1780647752167,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Werewolf II"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

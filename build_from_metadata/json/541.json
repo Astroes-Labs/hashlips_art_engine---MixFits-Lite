@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #541",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/541.png",
+  "dna": "47db0cd8774e14cbfbcb23a6ad8117f55c010079",
+  "edition": 541,
+  "date": 1780647645874,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

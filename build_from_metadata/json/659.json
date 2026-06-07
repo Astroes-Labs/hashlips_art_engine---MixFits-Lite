@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #659",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/659.png",
+  "dna": "51ca103ded55a171c9a9fc8bf0b144f73ce06f2d",
+  "edition": 659,
+  "date": 1780647653885,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Skeleton"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

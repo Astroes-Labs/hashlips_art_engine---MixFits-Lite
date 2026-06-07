@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #490",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/490.png",
+  "dna": "6b180b9a1babb987bdacdd0232b49385c025fa39",
+  "edition": 490,
+  "date": 1780647642491,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Biker Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

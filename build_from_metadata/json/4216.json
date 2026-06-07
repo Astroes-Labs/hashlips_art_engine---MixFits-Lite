@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4216",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4216.png",
+  "dna": "18b7ec2f499c4206208bd0a9571356fdf3ed8afe",
+  "edition": 4216,
+  "date": 1780647903118,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

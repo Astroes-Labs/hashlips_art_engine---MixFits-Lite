@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1451",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1451.png",
+  "dna": "1c747da07f34c3edc7b695dd502341794138f449",
+  "edition": 1451,
+  "date": 1780647708112,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

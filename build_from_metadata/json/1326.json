@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1326",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1326.png",
+  "dna": "eede36f7f45f08f00f707db490986bd5e4682892",
+  "edition": 1326,
+  "date": 1780647699294,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

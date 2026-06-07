@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #1886",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1886.png",
+  "dna": "288ecc341f2b0b6b2e796f4ef3b0373a9e5a90be",
+  "edition": 1886,
+  "date": 1780685629348,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Knight"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

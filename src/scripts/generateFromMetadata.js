@@ -1,9 +1,19 @@
+// src/generateFromMetadata.js
+
 const fs = require("fs");
 const path = require("path");
 const { createCanvas, loadImage } = require("canvas");
 
-const WIDTH = 1000;
-const HEIGHT = 1000;
+const {
+  format,
+  layerConfigurations,
+  namePrefix,
+  description,
+  baseUri,
+} = require("./../config");
+
+const WIDTH = format.width;
+const HEIGHT = format.height;
 
 const ROOT_DIR = process.cwd();
 
@@ -34,6 +44,20 @@ const JSON_DIR = path.join(
   "json"
 );
 
+const LAYER_ORDER =
+  layerConfigurations[0].layersOrder.map(
+    (layer) => layer.name
+  );
+
+const VALID_LAYERS = new Set(
+  LAYER_ORDER
+);
+
+const LAYER_ALIASES = {
+  Hat: "Hats",
+  Hats: "Hats",
+};
+
 const canvas = createCanvas(
   WIDTH,
   HEIGHT
@@ -57,13 +81,15 @@ function setup() {
 }
 
 function cleanTraitName(filename) {
-  const name = path.parse(filename).name;
+  let name = path.parse(filename).name;
 
   if (name.includes("#")) {
-    return name.split("#")[0].trim();
+    name = name.split("#")[0];
   }
 
-  return name.trim();
+  return name
+    .replace(/\s+/g, " ")
+    .trim();
 }
 
 function findTraitFile(layer, trait) {
@@ -78,13 +104,32 @@ function findTraitFile(layer, trait) {
     );
   }
 
+  const normalizedTrait = trait
+    .replace(/\s+/g, " ")
+    .trim()
+    .toLowerCase();
+
   const files = fs.readdirSync(layerPath);
 
   const match = files.find((file) => {
-    return cleanTraitName(file) === trait;
+    return (
+      cleanTraitName(file)
+        .toLowerCase() ===
+      normalizedTrait
+    );
   });
 
   if (!match) {
+    console.log(
+      `\nMissing Trait`
+    );
+    console.log(
+      `Layer: ${layer}`
+    );
+    console.log(
+      `Trait: "${trait}"`
+    );
+
     throw new Error(
       `Trait not found: ${layer} -> ${trait}`
     );
@@ -104,12 +149,35 @@ async function drawNFT(nft) {
     HEIGHT
   );
 
-  for (const attribute of nft.attributes) {
+  const orderedAttributes =
+    LAYER_ORDER.map((layer) =>
+      nft.attributes.find((attr) => {
+        const attrLayer =
+          LAYER_ALIASES[
+            attr.trait_type
+          ] || attr.trait_type;
+
+        return attrLayer === layer;
+      })
+    ).filter(Boolean);
+
+  for (const attribute of orderedAttributes) {
     const layerName =
-      attribute.trait_type;
+      LAYER_ALIASES[
+        attribute.trait_type
+      ] || attribute.trait_type;
 
     const traitName =
       attribute.value;
+
+    if (
+      !VALID_LAYERS.has(layerName)
+    ) {
+      console.warn(
+        `Unknown layer "${layerName}" in edition ${nft.edition}`
+      );
+      continue;
+    }
 
     const imagePath =
       findTraitFile(
@@ -140,13 +208,20 @@ async function drawNFT(nft) {
     imageBuffer
   );
 
+  const outputMetadata = {
+    ...nft,
+    name: `${namePrefix} #${nft.edition}`,
+    description,
+    image: `${baseUri}/${nft.edition}.png`,
+  };
+
   fs.writeFileSync(
     path.join(
       JSON_DIR,
       `${nft.edition}.json`
     ),
     JSON.stringify(
-      nft,
+      outputMetadata,
       null,
       2
     )
@@ -172,21 +247,40 @@ async function generate() {
     await drawNFT(nft);
   }
 
+  const finalMetadata =
+    metadata.map((nft) => ({
+      ...nft,
+      name: `${namePrefix} #${nft.edition}`,
+      description,
+      image: `${baseUri}/${nft.edition}.png`,
+    }));
+
   fs.writeFileSync(
     path.join(
       JSON_DIR,
       "_metadata.json"
     ),
     JSON.stringify(
-      metadata,
+      finalMetadata,
       null,
       2
     )
   );
 
   console.log(
-    `Finished ${metadata.length} NFTs`
+    `\nFinished generating ${metadata.length} NFTs`
+  );
+
+  console.log(
+    `Images: ${IMAGES_DIR}`
+  );
+
+  console.log(
+    `Metadata: ${JSON_DIR}`
   );
 }
 
-generate().catch(console.error);
+generate().catch((error) => {
+  console.error(error);
+  process.exit(1);
+});

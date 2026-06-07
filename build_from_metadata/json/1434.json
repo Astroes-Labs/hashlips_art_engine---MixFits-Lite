@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1434",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1434.png",
+  "dna": "3573b9b683526483eae0361ba4e4d6f438f4116d",
+  "edition": 1434,
+  "date": 1780647706826,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brains"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Task Force Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

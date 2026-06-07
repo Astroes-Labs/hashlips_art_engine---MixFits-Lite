@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2104",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2104.png",
+  "dna": "62fca0c2efa1780b697acdd5feaee3f53a6c8b5f",
+  "edition": 2104,
+  "date": 1780647754508,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

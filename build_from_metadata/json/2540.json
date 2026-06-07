@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2540",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2540.png",
+  "dna": "45dddb6b2bae22bf7ed26a51588c5f208cbd7c1c",
+  "edition": 2540,
+  "date": 1780647785177,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Kill Billy Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

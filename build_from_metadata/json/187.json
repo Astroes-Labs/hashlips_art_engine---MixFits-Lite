@@ -2,9 +2,9 @@
   "name": "Your Collection #187",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/187.png",
-  "dna": "aa9efa9829af48a245c2d87c9d2ba568f4b88f25",
+  "dna": "ceceacd2c09e034ee0f7e923e2a8b941fac37f80",
   "edition": 187,
-  "date": 1780640950115,
+  "date": 1780647619824,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,7 +12,27 @@
     },
     {
       "trait_type": "Body",
-      "value": "Mighty Balor"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

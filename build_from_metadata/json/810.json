@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #810",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/810.png",
+  "dna": "f449d5ca48f1f3e433628775df292acad1be8f60",
+  "edition": 810,
+  "date": 1780647664378,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Joker Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

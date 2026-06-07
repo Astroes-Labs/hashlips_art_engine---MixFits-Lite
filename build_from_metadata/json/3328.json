@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3328",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3328.png",
+  "dna": "a6dda9873ebf7f28d0f31883829b8addb2523898",
+  "edition": 3328,
+  "date": 1780647840691,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1894",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1894.png",
+  "dna": "638958b262e9780b19219eebb9ff5a73bbb38db8",
+  "edition": 1894,
+  "date": 1780647740227,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3257",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3257.png",
+  "dna": "a0f0d14b912fc26c92cf640ee16b4ae859aaf02f",
+  "edition": 3257,
+  "date": 1780647835795,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

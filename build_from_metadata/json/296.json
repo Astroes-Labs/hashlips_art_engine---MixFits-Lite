@@ -2,25 +2,37 @@
   "name": "Your Collection #296",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/296.png",
-  "dna": "bb477db98560387f11f75d71681ab596d685afe1",
+  "dna": "eba531bb448c52c27b138df02fa4d3f8961fb8e8",
   "edition": 296,
-  "date": 1780640959336,
+  "date": 1780647627804,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sky"
+      "value": "Void"
     },
     {
       "trait_type": "Body",
-      "value": "Pink Slime"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brains"
     },
     {
       "trait_type": "Eyes",
-      "value": "Straight Face"
+      "value": "Eye Patch"
     },
     {
-      "trait_type": "Special",
-      "value": "Ring"
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Grand Mage Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
     }
   ],
   "compiler": "HashLips Art Engine"

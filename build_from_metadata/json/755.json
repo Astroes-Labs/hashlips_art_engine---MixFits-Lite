@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #755",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/755.png",
+  "dna": "3559ca7411726860bd75e8187ab35df3d651bb64",
+  "edition": 755,
+  "date": 1780647660503,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Dark Green Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

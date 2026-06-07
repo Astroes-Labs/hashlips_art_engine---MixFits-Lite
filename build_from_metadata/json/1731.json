@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1731",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1731.png",
+  "dna": "0c33665e5ec8f8c845630602f33f8820d40b837a",
+  "edition": 1731,
+  "date": 1780647728937,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Chef Outfit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

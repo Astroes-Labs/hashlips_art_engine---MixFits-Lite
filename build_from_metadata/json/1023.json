@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1023",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1023.png",
+  "dna": "7091fbbe6f4532ad085ba0df82390b58eecee79a",
+  "edition": 1023,
+  "date": 1780647678887,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

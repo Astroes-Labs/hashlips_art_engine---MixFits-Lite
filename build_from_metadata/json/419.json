@@ -2,13 +2,13 @@
   "name": "Your Collection #419",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/419.png",
-  "dna": "28a11ca8b420391a2bede3c173590cb62b6014f0",
+  "dna": "fd929376233fa33bdebf7913567a760f21ef82ba",
   "edition": 419,
-  "date": 1780640971152,
+  "date": 1780647637339,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light"
+      "value": "Void"
     },
     {
       "trait_type": "Body",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Slick Afro"
+      "value": "Low Cut II"
     },
     {
       "trait_type": "Eyes",
-      "value": "Blue Wraparound Sunglasses"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Black Suits"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Pants",
-      "value": "Faded Jeans"
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
     },
     {
       "trait_type": "Footwear",
-      "value": "Combat Boots"
+      "value": "Brown Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

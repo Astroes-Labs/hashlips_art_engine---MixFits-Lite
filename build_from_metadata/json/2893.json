@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2893",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2893.png",
+  "dna": "89259abdfb46f9a3ad0a67771c0dc86af52d2767",
+  "edition": 2893,
+  "date": 1780647810241,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

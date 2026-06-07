@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4194",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4194.png",
+  "dna": "df7c486c003fdad46970a4d87e4557fd350ae6d7",
+  "edition": 4194,
+  "date": 1780647901398,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

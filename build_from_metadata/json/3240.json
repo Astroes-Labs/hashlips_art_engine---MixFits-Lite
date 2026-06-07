@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #3240",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3240.png",
+  "dna": "35901a3a5db15c6a3317215a4a5c041b5a17a409",
+  "edition": 3240,
+  "date": 1780647834597,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mutant A"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

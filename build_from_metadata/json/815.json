@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #815",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/815.png",
+  "dna": "55de573f4fce9b9e3778106c9d79199edf1e16bb",
+  "edition": 815,
+  "date": 1780775050186,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Shark Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

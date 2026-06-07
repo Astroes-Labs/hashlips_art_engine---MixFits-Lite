@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #676",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/676.png",
+  "dna": "a6d262e5066c2793fd3bd01ed0d002110a5fef23",
+  "edition": 676,
+  "date": 1780647655055,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mutant A"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

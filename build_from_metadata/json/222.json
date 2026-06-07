@@ -2,33 +2,33 @@
   "name": "Your Collection #222",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/222.png",
-  "dna": "3ea07e842e146686e7dc6ed7b2de6d2edcdac640",
+  "dna": "8cbb0cf1c2f90d50061ad08bb4a9992aea025ca5",
   "edition": 222,
-  "date": 1780640952839,
+  "date": 1780647622479,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Wine"
+      "value": "Void"
     },
     {
       "trait_type": "Body",
-      "value": "Zombie"
+      "value": "Homo Sapien"
     },
     {
       "trait_type": "Hair",
-      "value": "Clean Shave"
+      "value": "Brunette Bun"
     },
     {
       "trait_type": "Eyes",
-      "value": "Nerd Glasses"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Lab Coat"
+      "value": "Laser"
     },
     {
       "trait_type": "Pants",
-      "value": "Tux Suit Pants"
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Monk Robe"
     },
     {
       "trait_type": "Footwear",

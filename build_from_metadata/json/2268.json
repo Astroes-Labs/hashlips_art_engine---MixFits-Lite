@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2268",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2268.png",
+  "dna": "43621a6b352d5f9b0e48e96261c4f0a5437a9d9f",
+  "edition": 2268,
+  "date": 1780647765899,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

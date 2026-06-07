@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2077",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2077.png",
+  "dna": "5dde5d4568388b2c12fdc74006dc73342de9aefe",
+  "edition": 2077,
+  "date": 1780647752690,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

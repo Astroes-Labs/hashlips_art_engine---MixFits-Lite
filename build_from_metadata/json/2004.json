@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2004",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2004.png",
+  "dna": "2564d369f0fa96d11646f0fb5f554367155f0615",
+  "edition": 2004,
+  "date": 1780647747581,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

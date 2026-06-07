@@ -2,17 +2,37 @@
   "name": "Your Collection #122",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/122.png",
-  "dna": "169701a1d5ec162272463e2df7d743cdfadf713c",
+  "dna": "23d308100cfc599d1a5d73526deb3c096150a777",
   "edition": 122,
-  "date": 1780640945652,
+  "date": 1780647614797,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Brown Werewolf"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

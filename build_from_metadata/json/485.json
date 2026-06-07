@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #485",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/485.png",
+  "dna": "ec5c3fdf40c1c47fbaeb0d10de615ed030d96cf5",
+  "edition": 485,
+  "date": 1780647642152,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Black Suits"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

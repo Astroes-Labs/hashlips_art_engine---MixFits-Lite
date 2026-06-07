@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #931",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/931.png",
+  "dna": "5f158d656e0715c78223f4f3d7d730cbe55853c2",
+  "edition": 931,
+  "date": 1780647672566,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

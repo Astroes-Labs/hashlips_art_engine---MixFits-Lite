@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4173",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4173.png",
+  "dna": "026a76885ac2d651cdeb1782fb8b30155a071303",
+  "edition": 4173,
+  "date": 1780647899903,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

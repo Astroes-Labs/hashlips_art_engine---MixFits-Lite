@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #791",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/791.png",
+  "dna": "7fcc9d0ecfaa525101eb415a178172813635f868",
+  "edition": 791,
+  "date": 1780647663094,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Purple Slime"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Straight Face"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Cheese"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

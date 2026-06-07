@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4304",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4304.png",
+  "dna": "870615938eefa24d2836553a8147097d79617ba7",
+  "edition": 4304,
+  "date": 1780647909101,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Wizard Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

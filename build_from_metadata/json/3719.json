@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3719",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3719.png",
+  "dna": "4ac67e52fbfe38459b72e5ca23cb92f03850db47",
+  "edition": 3719,
+  "date": 1780647867889,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

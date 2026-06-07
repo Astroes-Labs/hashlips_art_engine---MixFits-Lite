@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2831",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2831.png",
+  "dna": "3595c8e1b5d10fa385225fd7bf8c1e98905f1378",
+  "edition": 2831,
+  "date": 1780647805616,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

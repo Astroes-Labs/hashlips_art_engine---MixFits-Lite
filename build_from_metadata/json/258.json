@@ -2,13 +2,13 @@
   "name": "Your Collection #258",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/258.png",
-  "dna": "214f6e06daffb964bf5edb38db53e6d2b2b23846",
+  "dna": "5ba51aba19c8be0e92beadc29886b242352a1a5a",
   "edition": 258,
-  "date": 1780640955782,
+  "date": 1780647625043,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light"
+      "value": "Void"
     },
     {
       "trait_type": "Body",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Low Cut II"
+      "value": "Messy"
     },
     {
       "trait_type": "Eyes",
-      "value": "Laser"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Knight"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Pants",
-      "value": "Jeans"
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Varsity Jacket"
     },
     {
       "trait_type": "Footwear",
-      "value": "Red colorway Sneakers"
+      "value": "Kill Billy Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

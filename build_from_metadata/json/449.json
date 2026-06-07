@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #449",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/449.png",
+  "dna": "ff46f0acc28f69888a9e2fd28d040201e72f9ca0",
+  "edition": 449,
+  "date": 1780647639610,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2162",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2162.png",
+  "dna": "db135097fb34d4fe712cfc32f75ee4f3ad8a23d2",
+  "edition": 2162,
+  "date": 1780647758423,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

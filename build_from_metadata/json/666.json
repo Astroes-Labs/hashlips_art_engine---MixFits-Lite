@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #666",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/666.png",
+  "dna": "9ca5c82126e351819968d61cb4b5de8b43f264f5",
+  "edition": 666,
+  "date": 1780647654377,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Biker Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

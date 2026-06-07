@@ -2,25 +2,37 @@
   "name": "Your Collection #409",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/409.png",
-  "dna": "9db7e202cfd0b66c957da024e21d3003cbf2dcea",
+  "dna": "40ff9e161088d2d32190fc14ad71d7399b0b338c",
   "edition": 409,
-  "date": 1780640970433,
+  "date": 1780647636691,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Green Slime"
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
     },
     {
       "trait_type": "Eyes",
-      "value": "Straight Face"
+      "value": "Regular Visor"
     },
     {
-      "trait_type": "Special",
-      "value": "Bomb"
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
     }
   ],
   "compiler": "HashLips Art Engine"

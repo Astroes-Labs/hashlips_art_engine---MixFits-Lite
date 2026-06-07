@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4111",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4111.png",
+  "dna": "0d68bc1348e446a697ee389d04333718a3587d84",
+  "edition": 4111,
+  "date": 1780647895633,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

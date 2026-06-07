@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3007",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3007.png",
+  "dna": "8c7ba3cd0a01623585a72b406ecfed55f47863b8",
+  "edition": 3007,
+  "date": 1780647818384,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Task Force Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

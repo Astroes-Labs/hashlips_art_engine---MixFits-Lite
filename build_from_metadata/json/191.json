@@ -2,17 +2,37 @@
   "name": "Your Collection #191",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/191.png",
-  "dna": "0b1a8d08b68290f63b72982947f61be733b95ffa",
+  "dna": "0221afa2917bfddda1bb81083539aa567cad5c11",
   "edition": 191,
-  "date": 1780640950476,
+  "date": 1780647620103,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark"
+      "value": "Void"
     },
     {
       "trait_type": "Body",
-      "value": "Skeleton"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Grand Mage Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
     }
   ],
   "compiler": "HashLips Art Engine"

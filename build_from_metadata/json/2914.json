@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2914",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2914.png",
+  "dna": "8a5f10ba34749fd93f46c68f81268465245d9d03",
+  "edition": 2914,
+  "date": 1780647811909,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

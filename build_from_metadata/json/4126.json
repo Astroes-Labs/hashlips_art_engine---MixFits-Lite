@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4126",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4126.png",
+  "dna": "069983126ed65a12c4697d5ff2d3f88dbb462211",
+  "edition": 4126,
+  "date": 1780647896657,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Monk Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

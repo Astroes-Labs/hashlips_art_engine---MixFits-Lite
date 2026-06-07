@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2259",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2259.png",
+  "dna": "3f63f29f5fd34a86594390cde098bcd0e5da23bb",
+  "edition": 2259,
+  "date": 1780647765260,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Joker Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

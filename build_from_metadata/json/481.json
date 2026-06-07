@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #481",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/481.png",
+  "dna": "39789e249932c5a1adbfb3c0a4a17446e27c07f9",
+  "edition": 481,
+  "date": 1780647641893,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3764",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3764.png",
+  "dna": "d841c9a878b3838de76d6a205860ed35aee18974",
+  "edition": 3764,
+  "date": 1780647870990,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4035",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4035.png",
+  "dna": "b2da8944c9de08fc7e2759a5fca6b87bcc0c6fec",
+  "edition": 4035,
+  "date": 1780647890435,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

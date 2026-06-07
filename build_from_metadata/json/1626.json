@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1626",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1626.png",
+  "dna": "e94b3f6ed5fb7d498e7994d69bac4df7d3be0251",
+  "edition": 1626,
+  "date": 1780773419862,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Knight Helmet"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

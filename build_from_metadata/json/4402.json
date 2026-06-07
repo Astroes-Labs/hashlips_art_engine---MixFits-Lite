@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4402",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4402.png",
+  "dna": "52a9ad09798196b06858f24fa9661d7b3b76c1cb",
+  "edition": 4402,
+  "date": 1780647916045,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

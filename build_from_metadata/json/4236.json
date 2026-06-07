@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4236",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4236.png",
+  "dna": "fbdd1e8654842cb0945da8cb9b54f138b7ddf6d6",
+  "edition": 4236,
+  "date": 1780647904454,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

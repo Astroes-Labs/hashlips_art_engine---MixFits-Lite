@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4130",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4130.png",
+  "dna": "45cd08b480457c3a9bbc9036951d265014d8ddf5",
+  "edition": 4130,
+  "date": 1780647896909,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

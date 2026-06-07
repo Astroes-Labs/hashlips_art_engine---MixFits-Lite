@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1275",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1275.png",
+  "dna": "e6e4883ec9b959e37b9d82a780bb4db4466445d3",
+  "edition": 1275,
+  "date": 1780647695837,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

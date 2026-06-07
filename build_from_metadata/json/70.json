@@ -2,17 +2,37 @@
   "name": "Your Collection #70",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/70.png",
-  "dna": "d6f8b5e334127213457e6be633f9d9df3e5cc93d",
+  "dna": "041b3b3f66133968755dda0a4128b42a4e8ebe3d",
   "edition": 70,
-  "date": 1780640943086,
+  "date": 1780647610975,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Greenish Ghost"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
     }
   ],
   "compiler": "HashLips Art Engine"

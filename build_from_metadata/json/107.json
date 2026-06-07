@@ -2,9 +2,9 @@
   "name": "Your Collection #107",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/107.png",
-  "dna": "e04d284425c4a89a5fe97d3807919172469fa44b",
+  "dna": "2408729c6c212f70bded225efebda3b9f5cb4c89",
   "edition": 107,
-  "date": 1780640944787,
+  "date": 1780647613698,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,7 +12,27 @@
     },
     {
       "trait_type": "Body",
-      "value": "Stoner"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

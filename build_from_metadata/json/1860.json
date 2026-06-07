@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1860",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1860.png",
+  "dna": "063f60d66c2de99923142611c67934d8ee912c45",
+  "edition": 1860,
+  "date": 1780647737896,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

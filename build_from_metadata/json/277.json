@@ -2,25 +2,37 @@
   "name": "Your Collection #277",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/277.png",
-  "dna": "0ea3362e157cba00440600168bd2ca68fc570885",
+  "dna": "9629bc0da3441c5a50b64831da6c24b6d07b1229",
   "edition": 277,
-  "date": 1780640957044,
+  "date": 1780647626399,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Void"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Green Slime"
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
     },
     {
       "trait_type": "Eyes",
-      "value": "Straight Face"
+      "value": "Classic Visor"
     },
     {
-      "trait_type": "Special",
-      "value": "Ring"
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

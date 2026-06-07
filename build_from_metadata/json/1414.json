@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1414",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1414.png",
+  "dna": "e11c284a7d55cb9f88ab538d404a5de569b4b15b",
+  "edition": 1414,
+  "date": 1780647705486,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4273",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4273.png",
+  "dna": "abc046f6d76b7a1aebdda8571d09bf71c0a09f29",
+  "edition": 4273,
+  "date": 1780647907028,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

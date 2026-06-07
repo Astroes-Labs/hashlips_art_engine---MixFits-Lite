@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1699",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1699.png",
+  "dna": "a4652b83d002e6817e031d15e0bdc92fdf4f2e18",
+  "edition": 1699,
+  "date": 1780647726734,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Dark Green Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

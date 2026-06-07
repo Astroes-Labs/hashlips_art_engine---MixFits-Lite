@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #511",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/511.png",
+  "dna": "5e2ed3a6bbc78ae5e080882c9c04032c89007e01",
+  "edition": 511,
+  "date": 1780647643826,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1111",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1111.png",
+  "dna": "3c3cac1fb8bcc2b4e277fd8e36c5e1f710d347bf",
+  "edition": 1111,
+  "date": 1780647684812,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

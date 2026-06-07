@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #908",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/908.png",
+  "dna": "6f0a9139b17c4f1562cad56e20e9f71a8dc1392b",
+  "edition": 908,
+  "date": 1780647671113,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #730",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/730.png",
+  "dna": "653d9de85363343e1c2c182310b3f7c304fa829d",
+  "edition": 730,
+  "date": 1780647658699,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

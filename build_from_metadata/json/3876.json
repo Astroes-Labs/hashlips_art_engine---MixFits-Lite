@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3876",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3876.png",
+  "dna": "484b9190e577bd87013c6632e0f20695e95d54cb",
+  "edition": 3876,
+  "date": 1780647879120,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Boxing Gloves"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

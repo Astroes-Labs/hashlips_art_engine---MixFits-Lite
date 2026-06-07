@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1582",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1582.png",
+  "dna": "f995254d389d1d3bef5c4272677d3722a09fd860",
+  "edition": 1582,
+  "date": 1780647717398,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brains"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

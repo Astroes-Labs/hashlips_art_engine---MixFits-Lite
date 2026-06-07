@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #731",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/731.png",
+  "dna": "3bd9a2d16ffa146d2466f84f1eaad50d9f247b41",
+  "edition": 731,
+  "date": 1780647658763,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

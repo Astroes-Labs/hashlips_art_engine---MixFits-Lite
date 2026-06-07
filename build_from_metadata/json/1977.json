@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1977",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1977.png",
+  "dna": "39d728edbb8f9c9111f1248fcee03caf28e3ea8b",
+  "edition": 1977,
+  "date": 1780647745748,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

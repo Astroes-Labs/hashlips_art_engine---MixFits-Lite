@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1238",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1238.png",
+  "dna": "a68f1ff4a97d68eeec243d706b6a486bc65b3092",
+  "edition": 1238,
+  "date": 1780647693333,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

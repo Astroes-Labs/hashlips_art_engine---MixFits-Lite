@@ -2,25 +2,37 @@
   "name": "Your Collection #68",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/68.png",
-  "dna": "b6762c1e1a0f54ab6b8d6091576c6cc750cb99a7",
+  "dna": "7bf56e71c183e1b4343a077820871ec56ee66c22",
   "edition": 68,
-  "date": 1780640943006,
+  "date": 1780647610807,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light"
+      "value": "Void"
     },
     {
       "trait_type": "Body",
-      "value": "Pink Slime"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
     },
     {
       "trait_type": "Eyes",
-      "value": "Straight Face"
+      "value": "Eye Patch"
     },
     {
-      "trait_type": "Special",
-      "value": "Dog"
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

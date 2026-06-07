@@ -2,17 +2,37 @@
   "name": "Your Collection #137",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/137.png",
-  "dna": "0352596281eb1d16b180fe0da573f0745b8595f2",
+  "dna": "180d764c69eea330286382564eda47b9925b1bb1",
   "edition": 137,
-  "date": 1780640946348,
+  "date": 1780647615900,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Black Werewolf"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Task Force Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

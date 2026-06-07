@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1430",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1430.png",
+  "dna": "71ba9aac384c231b64ab7776b43fc29a1f0efdfa",
+  "edition": 1430,
+  "date": 1780647706550,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

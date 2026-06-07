@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1415",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1415.png",
+  "dna": "67bfc2fe2475b9e55058128ef77cc96cb3932eab",
+  "edition": 1415,
+  "date": 1780647705546,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Dark Green Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

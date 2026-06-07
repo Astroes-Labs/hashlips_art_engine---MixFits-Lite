@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1544",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1544.png",
+  "dna": "c7d58ed5ed31b740597baffaa22f933576d2d72d",
+  "edition": 1544,
+  "date": 1780647714658,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

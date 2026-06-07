@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2079",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2079.png",
+  "dna": "cf11ae5d8e4a69224b24ee664536bab13474c9cb",
+  "edition": 2079,
+  "date": 1780647752823,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Wizard Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

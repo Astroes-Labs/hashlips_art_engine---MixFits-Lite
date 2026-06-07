@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1951",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1951.png",
+  "dna": "dc81680e95785f51c9813165684ab7d6faa25dfa",
+  "edition": 1951,
+  "date": 1780647744047,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #3521",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3521.png",
+  "dna": "b16f88676e9baa61a1553c5d97d8be5e829ff452",
+  "edition": 3521,
+  "date": 1780775050195,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Panda Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

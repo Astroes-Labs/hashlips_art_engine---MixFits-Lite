@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4375",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4375.png",
+  "dna": "535364195a601849049ce2a4fe0e1d319446d0d4",
+  "edition": 4375,
+  "date": 1780647914037,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #554",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/554.png",
+  "dna": "6f7b24f4120a10d3fb13cd72a4a3730b63d0c1ae",
+  "edition": 554,
+  "date": 1780647646736,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Joker Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

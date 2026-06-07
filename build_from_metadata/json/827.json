@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #827",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/827.png",
+  "dna": "ce114f425f9c463ded90ba7365dff7b69c4bfd2d",
+  "edition": 827,
+  "date": 1780647665489,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

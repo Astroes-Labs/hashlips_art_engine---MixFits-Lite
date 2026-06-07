@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4078",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4078.png",
+  "dna": "d9a7a3edbae94bda6224c33ed55cf0f9d6297aca",
+  "edition": 4078,
+  "date": 1780647893391,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

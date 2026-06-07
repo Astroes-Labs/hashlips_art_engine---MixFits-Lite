@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2729",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2729.png",
+  "dna": "22139366c2e72fdfaca64333c46aa85535517f59",
+  "edition": 2729,
+  "date": 1780647798247,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Kill Billy Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

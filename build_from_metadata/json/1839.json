@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #1839",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1839.png",
+  "dna": "b876764f14052ca9fa670ebdb357c86b5345da51",
+  "edition": 1839,
+  "date": 1780775050188,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Full Protective Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

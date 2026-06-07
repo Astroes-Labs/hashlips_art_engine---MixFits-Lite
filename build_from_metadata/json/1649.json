@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #1649",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1649.png",
+  "dna": "aef0398339fdc01296e71474cd6bd23971a5f036",
+  "edition": 1649,
+  "date": 1780647722982,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink Slime"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Straight Face"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Brain"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

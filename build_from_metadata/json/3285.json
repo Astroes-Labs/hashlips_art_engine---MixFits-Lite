@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3285",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3285.png",
+  "dna": "57f323a62a19c1d57c9ee65890186f59376d27ad",
+  "edition": 3285,
+  "date": 1780647837695,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

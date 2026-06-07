@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2984",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2984.png",
+  "dna": "3b26c2c0b31d7b178a7274e6fc751989b1de419a",
+  "edition": 2984,
+  "date": 1780773419864,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Knight Helmet"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

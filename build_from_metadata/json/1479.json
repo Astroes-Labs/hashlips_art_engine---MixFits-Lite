@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1479",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1479.png",
+  "dna": "1908ffe130937893d96511a03ebda1b0af88c2da",
+  "edition": 1479,
+  "date": 1780647710071,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Monk Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

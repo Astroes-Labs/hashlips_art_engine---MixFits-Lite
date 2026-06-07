@@ -2,37 +2,37 @@
   "name": "Your Collection #115",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/115.png",
-  "dna": "d260338545a86b96cafae9086e39dc13db4439c6",
+  "dna": "bc5916a7f7f744f081b0135f9c865de85173582a",
   "edition": 115,
-  "date": 1780640945280,
+  "date": 1780647614273,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sky"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Zombie"
+      "value": "Homo Sapien"
     },
     {
       "trait_type": "Hair",
-      "value": "Low Cut II"
+      "value": "Blonde Taper Fade"
     },
     {
       "trait_type": "Eyes",
-      "value": "Nerd Glasses"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Shark Suit"
+      "value": "Regular Visor"
     },
     {
       "trait_type": "Pants",
-      "value": "Tux Suit Pants"
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Lab Coat"
     },
     {
       "trait_type": "Footwear",
-      "value": "Combat Boots"
+      "value": "Ash colorway Sneakers"
     }
   ],
   "compiler": "HashLips Art Engine"

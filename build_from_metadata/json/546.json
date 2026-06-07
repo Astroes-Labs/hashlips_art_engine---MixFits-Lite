@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #546",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/546.png",
+  "dna": "567e9458e605d8c8db05a793706e240552538f07",
+  "edition": 546,
+  "date": 1780647646222,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

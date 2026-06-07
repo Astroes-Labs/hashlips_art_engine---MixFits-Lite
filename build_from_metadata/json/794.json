@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #794",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/794.png",
+  "dna": "e0e0651a9fe1f382662faa6c52b4af6120ac2da7",
+  "edition": 794,
+  "date": 1780647663297,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

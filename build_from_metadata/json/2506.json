@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #2506",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2506.png",
+  "dna": "f77d32444ae207b53cda792018fd24a45d7ea756",
+  "edition": 2506,
+  "date": 1780775050189,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Full Protective Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1645",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1645.png",
+  "dna": "e36108c1148e2dbdd2cef2635bbee58ddc695f8c",
+  "edition": 1645,
+  "date": 1780773419862,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Lucha Libre Mask"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

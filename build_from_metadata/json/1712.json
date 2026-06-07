@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1712",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1712.png",
+  "dna": "c945ed6d418c96436285588f87b693cf0bdd02ba",
+  "edition": 1712,
+  "date": 1780647727622,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

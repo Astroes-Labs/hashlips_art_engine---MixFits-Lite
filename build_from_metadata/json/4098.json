@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4098",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4098.png",
+  "dna": "8d9c6bfd106a54577b7202c118b4d9a880a12ac1",
+  "edition": 4098,
+  "date": 1780647894742,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

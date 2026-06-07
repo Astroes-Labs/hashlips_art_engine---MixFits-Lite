@@ -2,25 +2,37 @@
   "name": "Your Collection #369",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/369.png",
-  "dna": "cb5874391658f1e1a7c9fc0cad9ead391562eeb1",
+  "dna": "19d3a66163cb4ddc02635b7d93feb70762765f03",
   "edition": 369,
-  "date": 1780640967487,
+  "date": 1780647633923,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light"
+      "value": "Void"
     },
     {
       "trait_type": "Body",
-      "value": "Green Slime"
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
     },
     {
       "trait_type": "Eyes",
-      "value": "Straight Face"
+      "value": "Eye Patch"
     },
     {
-      "trait_type": "Special",
-      "value": "Bomb"
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

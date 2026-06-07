@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1259",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1259.png",
+  "dna": "b1e37b43d61120e34d8d0e29ad6b44c78caa01cc",
+  "edition": 1259,
+  "date": 1780647694810,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

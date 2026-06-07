@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4213",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4213.png",
+  "dna": "a6e798b4a703aee3ecb966863f2a034b1aae0022",
+  "edition": 4213,
+  "date": 1780647902899,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

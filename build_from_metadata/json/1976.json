@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #1976",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1976.png",
+  "dna": "a68375b254960e7f739489081115d9e4240a863f",
+  "edition": 1976,
+  "date": 1780647745681,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reddish Ghost"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3101",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3101.png",
+  "dna": "2842e06249df48399a80e1d3ba52df6e6f5a1487",
+  "edition": 3101,
+  "date": 1780647824994,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Grand Mage Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

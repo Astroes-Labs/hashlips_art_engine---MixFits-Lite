@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1442",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1442.png",
+  "dna": "65c5ef14784c2382feee416620a4679c90e0eb80",
+  "edition": 1442,
+  "date": 1780647707463,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

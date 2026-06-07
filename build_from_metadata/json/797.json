@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #797",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/797.png",
+  "dna": "82d03e7669aee064447444326430d9f7dcb17473",
+  "edition": 797,
+  "date": 1780647663473,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

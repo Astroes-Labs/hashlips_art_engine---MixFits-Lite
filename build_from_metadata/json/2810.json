@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2810",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2810.png",
+  "dna": "8f90b6dac55876803a1eb98aef4fdb0bcbd24e62",
+  "edition": 2810,
+  "date": 1780647803816,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

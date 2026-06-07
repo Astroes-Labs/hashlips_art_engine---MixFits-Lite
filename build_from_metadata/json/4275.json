@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4275",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4275.png",
+  "dna": "cb1c237c6c0c256b57ceaf0c272293a90eaeea2c",
+  "edition": 4275,
+  "date": 1780647907165,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

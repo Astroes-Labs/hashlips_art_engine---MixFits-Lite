@@ -2,17 +2,37 @@
   "name": "Your Collection #140",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/140.png",
-  "dna": "0b724e3c1ac9d61b15a40f4b52be6d63d99f6225",
+  "dna": "a6c3fe99f192fc4767af499041df2fd211e5a004",
   "edition": 140,
-  "date": 1780640946489,
+  "date": 1780647616127,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark"
+      "value": "Void"
     },
     {
       "trait_type": "Body",
-      "value": "Silver Back Werewolf"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

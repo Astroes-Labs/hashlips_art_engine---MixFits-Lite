@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #786",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/786.png",
+  "dna": "4b72636d48856665afe860317ba12184eb5087bc",
+  "edition": 786,
+  "date": 1780647662788,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

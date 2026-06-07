@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1703",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1703.png",
+  "dna": "d08e3f487caf27974367fed3def73c7ba2fc0f64",
+  "edition": 1703,
+  "date": 1780647727007,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brains"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

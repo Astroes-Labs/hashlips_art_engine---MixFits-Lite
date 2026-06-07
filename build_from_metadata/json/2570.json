@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2570",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2570.png",
+  "dna": "766f5f5a8e286170c9b1df48e319fedad9f8ae0a",
+  "edition": 2570,
+  "date": 1780647787245,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

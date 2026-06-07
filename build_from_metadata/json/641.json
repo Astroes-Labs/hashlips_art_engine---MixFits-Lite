@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #641",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/641.png",
+  "dna": "cddf5f56895f6d76f02e768b9f9e7a85bdf5f156",
+  "edition": 641,
+  "date": 1780773419861,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Knight Helmet"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

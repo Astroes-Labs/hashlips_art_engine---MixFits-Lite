@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1997",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1997.png",
+  "dna": "32093d072458cd50a6348009466dbc4310ba7583",
+  "edition": 1997,
+  "date": 1780647747113,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

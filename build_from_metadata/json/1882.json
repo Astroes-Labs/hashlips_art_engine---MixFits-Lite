@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1882",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1882.png",
+  "dna": "23d15e46517ef8ad8fab9942b4069d3c1af164f4",
+  "edition": 1882,
+  "date": 1780647739331,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

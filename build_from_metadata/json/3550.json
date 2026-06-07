@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3550",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3550.png",
+  "dna": "564504ae64bc57d53c0ef1b385eadbdd7236a97c",
+  "edition": 3550,
+  "date": 1780647856106,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

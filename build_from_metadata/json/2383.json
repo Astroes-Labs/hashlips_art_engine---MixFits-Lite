@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2383",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2383.png",
+  "dna": "bf56ae238d2b0759ce97e3a624c257e60170a4df",
+  "edition": 2383,
+  "date": 1780647773852,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

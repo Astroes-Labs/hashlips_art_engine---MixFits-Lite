@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2972",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2972.png",
+  "dna": "dbfa1d64ed54c4da75efcd95f5870c01bb933331",
+  "edition": 2972,
+  "date": 1780647816004,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

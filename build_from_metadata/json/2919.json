@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2919",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2919.png",
+  "dna": "1320b30e9bb5b19a4b1baf00a3c6569af07e8446",
+  "edition": 2919,
+  "date": 1780647812289,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Task Force Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

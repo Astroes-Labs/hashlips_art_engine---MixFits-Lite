@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2308",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2308.png",
+  "dna": "78ec543a6631c27a6cd2e57077b8b3f6e9e53d16",
+  "edition": 2308,
+  "date": 1780647768732,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

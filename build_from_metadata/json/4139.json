@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4139",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4139.png",
+  "dna": "1b21b217eab55d059ac73e6e9595d0153aabafa3",
+  "edition": 4139,
+  "date": 1780647897526,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

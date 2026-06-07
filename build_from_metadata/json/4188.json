@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4188",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4188.png",
+  "dna": "354a2198a47d959a423876b49c7636b5e212b853",
+  "edition": 4188,
+  "date": 1780647900993,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

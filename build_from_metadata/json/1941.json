@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1941",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1941.png",
+  "dna": "97a471720f58cef5fcfa09712c75a0489ef4b815",
+  "edition": 1941,
+  "date": 1780647743364,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

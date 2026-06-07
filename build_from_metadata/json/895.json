@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #895",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/895.png",
+  "dna": "beeaa62efbe227ecf206369743ef7a4d047e7f8c",
+  "edition": 895,
+  "date": 1780647670071,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

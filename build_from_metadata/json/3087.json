@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3087",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3087.png",
+  "dna": "6abb1a253aafda8c2bd32fa9cc07939fb34c00b1",
+  "edition": 3087,
+  "date": 1780647824055,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

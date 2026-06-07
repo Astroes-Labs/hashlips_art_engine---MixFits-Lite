@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #1724",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1724.png",
+  "dna": "bbe019ed53a76dbaf7a3d8adfb36abf484d93826",
+  "edition": 1724,
+  "date": 1780774597941,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Stoner"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -2,17 +2,37 @@
   "name": "Your Collection #156",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/156.png",
-  "dna": "a7da0dc174115cea1c4c94dd770b07ef92c07413",
+  "dna": "c1f11bb77f8ea54cbc928dc71b9cd963a8a9eea5",
   "edition": 156,
-  "date": 1780640948068,
+  "date": 1780647617338,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Wine"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Mutant B"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Biker Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

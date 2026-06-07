@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2309",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2309.png",
+  "dna": "f482be28ecfbf3a176e644dc4c9572660d55338f",
+  "edition": 2309,
+  "date": 1780647768798,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Dark Green Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

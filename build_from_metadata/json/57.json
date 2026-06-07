@@ -2,17 +2,37 @@
   "name": "Your Collection #57",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/57.png",
-  "dna": "ef9cf2e5d127db7631a89ecec76d786cbd14e46e",
+  "dna": "a81a4bc4ca45d9369a6a80954c3350cba26216a9",
   "edition": 57,
-  "date": 1780640942499,
+  "date": 1780647609902,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Wine"
+      "value": "Void"
     },
     {
       "trait_type": "Body",
-      "value": "Ginger Werewolf"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

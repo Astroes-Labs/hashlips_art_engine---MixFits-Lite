@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1679",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1679.png",
+  "dna": "bb78ea84b170e4caf140eb26efaead1e90d61044",
+  "edition": 1679,
+  "date": 1780647725374,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

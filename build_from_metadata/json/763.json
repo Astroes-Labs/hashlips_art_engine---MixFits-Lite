@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #763",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/763.png",
+  "dna": "9020aa4cf4340274d95d713739b0a3565e00cc7e",
+  "edition": 763,
+  "date": 1780647661240,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

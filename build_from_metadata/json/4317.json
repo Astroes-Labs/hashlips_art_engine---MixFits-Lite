@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4317",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4317.png",
+  "dna": "b057c67ca5d17511cdb1555339815a5970efbb3c",
+  "edition": 4317,
+  "date": 1780647910082,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

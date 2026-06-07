@@ -2,25 +2,37 @@
   "name": "Your Collection #118",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/118.png",
-  "dna": "c1a6ff2fad98575911765959a868b61ad43f29d9",
+  "dna": "a5fa7951b73dfcd7c2b87f8f34bcf962c6efed77",
   "edition": 118,
-  "date": 1780640945450,
+  "date": 1780647614497,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Pink Slime"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
     },
     {
       "trait_type": "Eyes",
-      "value": "Straight Face"
+      "value": "Blue Wraparound Sunglasses"
     },
     {
-      "trait_type": "Special",
-      "value": "Cheese"
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

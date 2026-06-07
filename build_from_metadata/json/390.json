@@ -2,13 +2,13 @@
   "name": "Your Collection #390",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/390.png",
-  "dna": "981605c94ac2a8a85adc358eef33da60297ac18b",
+  "dna": "f495a613d3e53c6eda85954015e5caabeffdbd18",
   "edition": 390,
-  "date": 1780640969035,
+  "date": 1780647635349,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
@@ -20,19 +20,19 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Laser"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Dark Green Jacket"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Pants",
-      "value": "Black Suit Pants"
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Shark Suit"
     },
     {
       "trait_type": "Footwear",
-      "value": "Ski Boots"
+      "value": "Black Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

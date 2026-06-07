@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1455",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1455.png",
+  "dna": "acc13eb19d7e3dfec44ef392cd0bb38853cf56f6",
+  "edition": 1455,
+  "date": 1780647708408,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Dark Green Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Kill Billy Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

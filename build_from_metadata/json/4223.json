@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4223",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4223.png",
+  "dna": "98f90c9b5ea1c0926f02e37541f666b7463f3cbc",
+  "edition": 4223,
+  "date": 1780647903591,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Dark Green Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

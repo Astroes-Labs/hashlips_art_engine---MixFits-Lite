@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1102",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1102.png",
+  "dna": "707f0659cae5a8e71871e3f344d36ec4a3ee6a90",
+  "edition": 1102,
+  "date": 1780647684206,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Wizard Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

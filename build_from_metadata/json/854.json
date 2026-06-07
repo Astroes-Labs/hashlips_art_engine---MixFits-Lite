@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #854",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/854.png",
+  "dna": "cc7975f3a9d8e03c29465fbf281d51168ed8eec5",
+  "edition": 854,
+  "date": 1780647667306,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

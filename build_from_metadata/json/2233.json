@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2233",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2233.png",
+  "dna": "51a55a4d207034571aa107997279207d8551e6a8",
+  "edition": 2233,
+  "date": 1780647763419,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

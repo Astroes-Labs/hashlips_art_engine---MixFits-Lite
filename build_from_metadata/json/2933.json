@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2933",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2933.png",
+  "dna": "996d21c4db8db6f046221e04e6321a8fa8c4b99f",
+  "edition": 2933,
+  "date": 1780647813231,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

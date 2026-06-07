@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2002",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2002.png",
+  "dna": "f9e7fd6a9d267c9b384c89bf1376d732aedd2f9b",
+  "edition": 2002,
+  "date": 1780647747453,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

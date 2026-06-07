@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4295",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4295.png",
+  "dna": "88c4556950d7a6a6eee316bbcdc9a242600c84b3",
+  "edition": 4295,
+  "date": 1780647908534,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

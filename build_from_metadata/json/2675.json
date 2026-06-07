@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2675",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2675.png",
+  "dna": "f29f7d3d3e974ba3e2d8fec0d0d5aa9a4b7e1def",
+  "edition": 2675,
+  "date": 1780647794596,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Joker Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

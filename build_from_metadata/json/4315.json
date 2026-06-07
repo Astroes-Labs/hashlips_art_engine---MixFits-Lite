@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4315",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4315.png",
+  "dna": "b56c1d10b586bb876e2c34806ebf4c786b782a30",
+  "edition": 4315,
+  "date": 1780647909947,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

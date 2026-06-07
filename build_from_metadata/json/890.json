@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #890",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/890.png",
+  "dna": "1f699b66d045e6d072c4f7c5047abf7a211204df",
+  "edition": 890,
+  "date": 1780647669739,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink Slime"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Straight Face"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Ring"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

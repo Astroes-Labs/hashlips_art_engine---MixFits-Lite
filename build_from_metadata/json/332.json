@@ -2,25 +2,37 @@
   "name": "Your Collection #332",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/332.png",
-  "dna": "9a06fa8b82ba0f6a3409e3e6503f5d26fc3c43d9",
+  "dna": "ca10d09e79747a0d46ec514843c063677b45d6d7",
   "edition": 332,
-  "date": 1780640964549,
+  "date": 1780647630603,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Wine"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Green Slime"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
     },
     {
       "trait_type": "Eyes",
-      "value": "Straight Face"
+      "value": "Classic Visor"
     },
     {
-      "trait_type": "Special",
-      "value": "Brain"
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
     }
   ],
   "compiler": "HashLips Art Engine"

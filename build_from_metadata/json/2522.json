@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2522",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2522.png",
+  "dna": "763615ba7ffe55713b5b9680bbb5100feb6c6107",
+  "edition": 2522,
+  "date": 1780647783847,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Wizard Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3796",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3796.png",
+  "dna": "6de32f76c50ae0fad0e60e9c7ed45e8070a862ef",
+  "edition": 3796,
+  "date": 1780647873160,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

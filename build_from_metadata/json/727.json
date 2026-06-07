@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #727",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/727.png",
+  "dna": "41378e7908a632b182af7883ca8fa31aeb67ba4e",
+  "edition": 727,
+  "date": 1780647658501,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

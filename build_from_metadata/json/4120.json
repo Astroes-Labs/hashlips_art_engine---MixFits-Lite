@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4120",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4120.png",
+  "dna": "95071ce699ceb2b2195b676385ede63d6acf2a81",
+  "edition": 4120,
+  "date": 1780647896257,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

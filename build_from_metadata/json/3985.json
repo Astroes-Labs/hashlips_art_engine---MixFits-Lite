@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #3985",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3985.png",
+  "dna": "c8b9f8984095f8a4f441942fde23e9385da25b74",
+  "edition": 3985,
+  "date": 1780775050196,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Full Protective Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

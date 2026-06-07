@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1584",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1584.png",
+  "dna": "e49909575fa15d4b449e0dd29f468583920b84da",
+  "edition": 1584,
+  "date": 1780647717527,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

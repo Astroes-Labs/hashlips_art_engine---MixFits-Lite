@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4238",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4238.png",
+  "dna": "fb501e3a7047f49c9c191623b60fd4a5f4a71576",
+  "edition": 4238,
+  "date": 1780647904586,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

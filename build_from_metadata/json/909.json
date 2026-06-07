@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #909",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/909.png",
+  "dna": "92cbceffec54bba103057eb0738acdfe8ca3f67d",
+  "edition": 909,
+  "date": 1780647671190,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

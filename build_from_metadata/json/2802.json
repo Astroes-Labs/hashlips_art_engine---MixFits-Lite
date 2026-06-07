@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2802",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2802.png",
+  "dna": "0d9edbdf88e52c7e737bbf73fddfdad2d2f91034",
+  "edition": 2802,
+  "date": 1780647803305,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

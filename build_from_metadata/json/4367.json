@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4367",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4367.png",
+  "dna": "cb1a575bbe6085a2ea8d8f3197178dda8d810905",
+  "edition": 4367,
+  "date": 1780647913487,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Wizard Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4420",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4420.png",
+  "dna": "f8c3d91fd2fbf3c60ffa431fcc4e8939cd4ad11a",
+  "edition": 4420,
+  "date": 1780647917340,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Grand Mage Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1064",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1064.png",
+  "dna": "fd1283562394e042947b6e573a67d1d052a39b19",
+  "edition": 1064,
+  "date": 1780647681648,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Space Hunter Gear"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

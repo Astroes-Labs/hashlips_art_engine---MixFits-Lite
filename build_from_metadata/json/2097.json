@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2097",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2097.png",
+  "dna": "8a3b193da770c6f3e0aeef6798531ba3d19bf43a",
+  "edition": 2097,
+  "date": 1780647754009,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

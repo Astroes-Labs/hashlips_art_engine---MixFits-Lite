@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1973",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1973.png",
+  "dna": "cefa59fbbe42ba8fc3aa66ef289bdb73ee9c6014",
+  "edition": 1973,
+  "date": 1780647745520,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Tux"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

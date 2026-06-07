@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1956",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1956.png",
+  "dna": "ada598b29a4afdf9665e996853346b788fcbe998",
+  "edition": 1956,
+  "date": 1780647744388,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

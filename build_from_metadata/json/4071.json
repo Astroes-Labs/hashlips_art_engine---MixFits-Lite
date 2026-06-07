@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4071",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4071.png",
+  "dna": "1de1e3e87a85fceb9b443884562d11e311d86f4e",
+  "edition": 4071,
+  "date": 1780647892896,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2068",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2068.png",
+  "dna": "61f343a613b823f45a82c3368b032a4c671322f5",
+  "edition": 2068,
+  "date": 1780647752113,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Grand Mage Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Kill Billy Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

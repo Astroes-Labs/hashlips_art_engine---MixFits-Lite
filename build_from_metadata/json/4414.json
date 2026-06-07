@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4414",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4414.png",
+  "dna": "efe213ae814ae861a152c62a6ae953d72f2ddcc1",
+  "edition": 4414,
+  "date": 1780647916909,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

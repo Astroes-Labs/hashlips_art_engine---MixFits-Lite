@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1307",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1307.png",
+  "dna": "a724b417e2e3e236cdc87842b0d51bb58fcd0f18",
+  "edition": 1307,
+  "date": 1780647698020,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

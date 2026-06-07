@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3928",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3928.png",
+  "dna": "cd67dccb96f705abb4a4a1311988ccd6288af7b6",
+  "edition": 3928,
+  "date": 1780647882799,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Monk Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

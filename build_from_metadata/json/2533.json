@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2533",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2533.png",
+  "dna": "27d953370543d4c8171aec2749b2dde63f6e48f6",
+  "edition": 2533,
+  "date": 1780647784714,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Grand Mage Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

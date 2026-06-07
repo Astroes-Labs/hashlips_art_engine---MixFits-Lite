@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4326",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4326.png",
+  "dna": "804ff28c29862bb26612368eb909c716341084c8",
+  "edition": 4326,
+  "date": 1780647910687,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

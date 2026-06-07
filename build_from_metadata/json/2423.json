@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2423",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2423.png",
+  "dna": "09c4f944fd69ad34d870efe894d9060c41f55493",
+  "edition": 2423,
+  "date": 1780647776693,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

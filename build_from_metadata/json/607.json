@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #607",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/607.png",
+  "dna": "913752c4fcb96d87f75e43bf88531a77a0d07c80",
+  "edition": 607,
+  "date": 1780647650485,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Wizard Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

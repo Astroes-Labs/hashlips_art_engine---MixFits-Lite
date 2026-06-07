@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3042",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3042.png",
+  "dna": "35f01ed26a72dec1f50ccf223569c16414df31c5",
+  "edition": 3042,
+  "date": 1780647821018,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Monk Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

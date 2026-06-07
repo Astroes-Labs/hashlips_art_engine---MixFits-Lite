@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3791",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3791.png",
+  "dna": "7cac9c5891e0422c27f381e5f54c411c45556dc1",
+  "edition": 3791,
+  "date": 1780647872834,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

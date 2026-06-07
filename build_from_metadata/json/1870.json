@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1870",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1870.png",
+  "dna": "7349528c358f3b233f34eb87587ae5163788f239",
+  "edition": 1870,
+  "date": 1780647738560,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

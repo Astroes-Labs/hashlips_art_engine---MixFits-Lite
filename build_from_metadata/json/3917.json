@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3917",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3917.png",
+  "dna": "de395cbdba209b2cba6373d75e3766570d933d16",
+  "edition": 3917,
+  "date": 1780647882080,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Biker Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

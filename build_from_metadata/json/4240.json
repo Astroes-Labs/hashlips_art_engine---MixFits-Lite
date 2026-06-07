@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4240",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4240.png",
+  "dna": "448f5f3dedc595a768969fe7cb66b868c236ac8f",
+  "edition": 4240,
+  "date": 1780647904727,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

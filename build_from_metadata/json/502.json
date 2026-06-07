@@ -1,0 +1,23 @@
+{
+  "name": "Your Collection #502",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/502.png",
+  "dna": "3efcdaa1cb6c82e83fb40b8397fa22e5db0fbb8c",
+  "edition": 502,
+  "date": 1780647643246,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "King Slime"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Slime Crown"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

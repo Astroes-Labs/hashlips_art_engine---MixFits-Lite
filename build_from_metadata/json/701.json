@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #701",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/701.png",
+  "dna": "622215c34f987b4c88926dc7b8f7f783e09d8724",
+  "edition": 701,
+  "date": 1780647656687,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

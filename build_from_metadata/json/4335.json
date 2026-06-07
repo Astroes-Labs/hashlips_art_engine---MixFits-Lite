@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4335",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4335.png",
+  "dna": "52ef448a8fbcc69c8a31032f25499d445a37a98c",
+  "edition": 4335,
+  "date": 1780647911317,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3695",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3695.png",
+  "dna": "35f75741bc53e9d9b5c646271fd6662e4961780d",
+  "edition": 3695,
+  "date": 1780647866221,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3761",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3761.png",
+  "dna": "5d2619ddd556c877432b77cc3bb4f33d6f304f96",
+  "edition": 3761,
+  "date": 1780647870807,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Monk Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -2,25 +2,37 @@
   "name": "Your Collection #342",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/342.png",
-  "dna": "0dffc13f190e297324708310064689e0abc86010",
+  "dna": "37b38270a079cb2babcab6dde12461c01ed8bfc3",
   "edition": 342,
-  "date": 1780640965465,
+  "date": 1780647631378,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Wine"
+      "value": "Light"
     },
     {
       "trait_type": "Body",
-      "value": "Purple Slime"
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
     },
     {
       "trait_type": "Eyes",
-      "value": "Straight Face"
+      "value": "Nerd Glasses"
     },
     {
-      "trait_type": "Special",
-      "value": "Cheese"
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
     }
   ],
   "compiler": "HashLips Art Engine"

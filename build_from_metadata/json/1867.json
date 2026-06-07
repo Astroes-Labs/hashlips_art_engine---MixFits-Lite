@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #1867",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1867.png",
+  "dna": "e87309f6e30377d0bc8a4ffc43fcab851b9704e2",
+  "edition": 1867,
+  "date": 1780685629348,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Knight"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2249",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2249.png",
+  "dna": "c65e3579a8f9ccb1eb56c22ae236388bde8a855a",
+  "edition": 2249,
+  "date": 1780647764590,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Task Force Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #558",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/558.png",
+  "dna": "fd14a2dfea660a4e6ceb7bddfcf8f15aa4962958",
+  "edition": 558,
+  "date": 1780647647031,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

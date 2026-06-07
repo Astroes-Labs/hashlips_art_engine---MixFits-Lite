@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #2046",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2046.png",
+  "dna": "3bd975c26604c2d5c16eac19f239e7a6b3656f9a",
+  "edition": 2046,
+  "date": 1780647750606,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Purple Slime"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Straight Face"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Brain"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1966",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1966.png",
+  "dna": "1bfcf0bf4f685951ab23acdc28a5d20a37926391",
+  "edition": 1966,
+  "date": 1780647745054,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Wizard Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

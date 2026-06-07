@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3293",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3293.png",
+  "dna": "ae13a55d5e1318ff0375ff006eb23e401348d17d",
+  "edition": 3293,
+  "date": 1780647838244,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

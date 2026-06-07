@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1852",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1852.png",
+  "dna": "d4be28f6adb73a8512e60276fa6f98de75e31a7e",
+  "edition": 1852,
+  "date": 1780647737336,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

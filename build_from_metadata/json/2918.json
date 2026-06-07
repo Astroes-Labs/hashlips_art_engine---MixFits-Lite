@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2918",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2918.png",
+  "dna": "c5e933cfd2886c13158e5092f0b9074f0b824c3a",
+  "edition": 2918,
+  "date": 1780647812185,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Biker Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

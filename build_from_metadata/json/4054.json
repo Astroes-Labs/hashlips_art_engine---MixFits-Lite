@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4054",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4054.png",
+  "dna": "1a2b70bf3dccf415167ad96e6d0f71caa2e09831",
+  "edition": 4054,
+  "date": 1780647891783,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

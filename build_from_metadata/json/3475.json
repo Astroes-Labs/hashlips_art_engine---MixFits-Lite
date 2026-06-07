@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3475",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3475.png",
+  "dna": "ad03074365f10dabd417cb28d484ea8e9e5d2c48",
+  "edition": 3475,
+  "date": 1780647851035,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

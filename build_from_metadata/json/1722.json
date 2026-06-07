@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1722",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1722.png",
+  "dna": "19644b45e689ac67f90f6c8534d9628f61bd72e7",
+  "edition": 1722,
+  "date": 1780647728281,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Kill Billy Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

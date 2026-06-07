@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #4084",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4084.png",
+  "dna": "7edd8ad5577a7626a6ad7b49d277ca6c76ea1596",
+  "edition": 4084,
+  "date": 1780775050197,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Full Protective Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

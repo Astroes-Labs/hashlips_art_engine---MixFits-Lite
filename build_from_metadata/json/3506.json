@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3506",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3506.png",
+  "dna": "214a51dea64f6fc0a6f8bd1d4b94c321ba7eea27",
+  "edition": 3506,
+  "date": 1780773419866,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Black Suits"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Lucha Libre Mask"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

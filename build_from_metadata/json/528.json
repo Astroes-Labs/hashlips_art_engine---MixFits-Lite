@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #528",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/528.png",
+  "dna": "3babe68715dfa66e5aa6a7c89bbe099e81cc8ee4",
+  "edition": 528,
+  "date": 1780647644949,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

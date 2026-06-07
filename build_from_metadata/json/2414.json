@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2414",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2414.png",
+  "dna": "edd29f8ff5e6d1d0b1ec5fb0799f3cb7d5e1531e",
+  "edition": 2414,
+  "date": 1780647775932,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -2,17 +2,37 @@
   "name": "Your Collection #83",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/83.png",
-  "dna": "2e0e54c845e43b8fa088202a6b3d7f8dc6415b1d",
+  "dna": "ae265d6364a685ac7a9e2a271f243e27cf9f1a4e",
   "edition": 83,
-  "date": 1780640943691,
+  "date": 1780647611949,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sky"
+      "value": "Void"
     },
     {
       "trait_type": "Body",
-      "value": "Monitor Bot Y"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2721",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2721.png",
+  "dna": "37de243c4c6279a047985046e6d4a4e111a3f9a5",
+  "edition": 2721,
+  "date": 1780647797681,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

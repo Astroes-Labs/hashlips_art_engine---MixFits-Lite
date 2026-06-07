@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #2003",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2003.png",
+  "dna": "59cb6273a9886dacfd5c169c09a91fea20b99f02",
+  "edition": 2003,
+  "date": 1780775050188,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Ninja Outfit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

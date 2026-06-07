@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2012",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2012.png",
+  "dna": "d9070911b4e595be8e4957d7a8f0ee5f4adc6c8a",
+  "edition": 2012,
+  "date": 1780647748110,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Biker Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

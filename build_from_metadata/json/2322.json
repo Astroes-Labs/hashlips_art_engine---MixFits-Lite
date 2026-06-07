@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2322",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2322.png",
+  "dna": "9b3e9811ffb8a5d368d736f396a4b237db684b0e",
+  "edition": 2322,
+  "date": 1780647769718,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

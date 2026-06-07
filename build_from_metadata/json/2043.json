@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2043",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2043.png",
+  "dna": "356984be425a346d23f50f3e66e9cfa329233f1c",
+  "edition": 2043,
+  "date": 1780647750452,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

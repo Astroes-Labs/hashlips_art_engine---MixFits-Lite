@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #4149",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4149.png",
+  "dna": "eb9a8a21953d67c8cabe0888a93d8fed2a714052",
+  "edition": 4149,
+  "date": 1780685629356,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Knight"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

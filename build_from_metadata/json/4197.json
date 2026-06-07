@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4197",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4197.png",
+  "dna": "2f4555bf389d7cd16d05db82be672b1a661d8204",
+  "edition": 4197,
+  "date": 1780647901592,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

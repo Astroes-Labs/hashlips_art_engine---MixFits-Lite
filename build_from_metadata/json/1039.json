@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #1039",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1039.png",
+  "dna": "2889391ee071be0e7ff059083c7a3378185f00d3",
+  "edition": 1039,
+  "date": 1780647679997,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mummy II"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

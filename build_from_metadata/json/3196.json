@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3196",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3196.png",
+  "dna": "0974ed270b7a92abb1129cd1bf4d9db936311c1e",
+  "edition": 3196,
+  "date": 1780647831537,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

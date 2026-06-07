@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1522",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1522.png",
+  "dna": "8d9cbc007c2b45759e10fcecb45241e3df2f7498",
+  "edition": 1522,
+  "date": 1780647713100,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

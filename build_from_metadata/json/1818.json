@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1818",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1818.png",
+  "dna": "5d8206eb12a0961174d5a809cbb3521c38ecc35a",
+  "edition": 1818,
+  "date": 1780647734863,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

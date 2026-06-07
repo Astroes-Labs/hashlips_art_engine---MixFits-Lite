@@ -2,17 +2,37 @@
   "name": "Your Collection #121",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/121.png",
-  "dna": "c9030ec030b273680946ec4a6a4c5cd6040486df",
+  "dna": "cbe47d0c59388fdf997c0ab69f1cfed611fbde86",
   "edition": 121,
-  "date": 1780640945603,
+  "date": 1780647614729,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Wine"
+      "value": "Light"
     },
     {
       "trait_type": "Body",
-      "value": "Mutant P"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Knight"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
     }
   ],
   "compiler": "HashLips Art Engine"

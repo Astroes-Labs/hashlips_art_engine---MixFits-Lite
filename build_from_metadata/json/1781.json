@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1781",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1781.png",
+  "dna": "97e686eb9269b125e839ccd9b87dab6c5c57b0dc",
+  "edition": 1781,
+  "date": 1780647732352,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

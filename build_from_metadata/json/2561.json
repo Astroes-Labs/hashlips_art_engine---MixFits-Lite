@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2561",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2561.png",
+  "dna": "056b8d6baa189a5de68444c0f2f35d49758227ce",
+  "edition": 2561,
+  "date": 1780647786614,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #705",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/705.png",
+  "dna": "0bbd64895f528ba1f6df22bc665f76854a1c9279",
+  "edition": 705,
+  "date": 1780647656982,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Wizard Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

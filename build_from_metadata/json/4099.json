@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4099",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4099.png",
+  "dna": "789d5db25495a2b479161eab032ec0c2db0605c9",
+  "edition": 4099,
+  "date": 1780647894808,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

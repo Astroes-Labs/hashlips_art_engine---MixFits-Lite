@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #778",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/778.png",
+  "dna": "b06524e78c56f212b98ec344465600a92fa6e41c",
+  "edition": 778,
+  "date": 1780647662266,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -2,17 +2,37 @@
   "name": "Your Collection #94",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/94.png",
-  "dna": "1a844c6e4f2406e0d5caae1fcc4c440d4955955a",
+  "dna": "bc637360da7fe0a40970613a870983fc394230c4",
   "edition": 94,
-  "date": 1780640944163,
+  "date": 1780647612749,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Void"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Bluish Ghost"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3799",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3799.png",
+  "dna": "43bbd5aa857cda11313b94284124479836486751",
+  "edition": 3799,
+  "date": 1780647873345,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

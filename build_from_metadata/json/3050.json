@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3050",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3050.png",
+  "dna": "042a07fd591164928ec39b83e13b527c491ba082",
+  "edition": 3050,
+  "date": 1780647821546,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

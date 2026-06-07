@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1091",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1091.png",
+  "dna": "73ac70c29fcd4f0259d02af363526bdb2e8c7879",
+  "edition": 1091,
+  "date": 1780647683456,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Kill Billy Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

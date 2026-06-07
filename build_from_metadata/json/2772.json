@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2772",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2772.png",
+  "dna": "38eb86b22c1fba9b94fdefaf1c619004398d4846",
+  "edition": 2772,
+  "date": 1780647801240,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Chef Outfit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

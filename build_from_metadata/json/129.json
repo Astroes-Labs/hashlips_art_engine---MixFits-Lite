@@ -2,37 +2,25 @@
   "name": "Your Collection #129",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/129.png",
-  "dna": "4640ecba5a84a933d1b6cb86a607837b21be1720",
+  "dna": "7088629cecdea2ffc4e70a014925f05dad4c466b",
   "edition": 129,
-  "date": 1780640945999,
+  "date": 1780647615275,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Wine"
+      "value": "Light"
     },
     {
       "trait_type": "Body",
-      "value": "Homo Sapien"
-    },
-    {
-      "trait_type": "Hair",
-      "value": "Fade"
+      "value": "Green Slime"
     },
     {
       "trait_type": "Eyes",
-      "value": "Regular Visor"
+      "value": "Straight Face"
     },
     {
-      "trait_type": "Shirt",
-      "value": "Snow Jacket"
-    },
-    {
-      "trait_type": "Pants",
-      "value": "Blue Suit Pants"
-    },
-    {
-      "trait_type": "Footwear",
-      "value": "Black Combat Boots"
+      "trait_type": "Special",
+      "value": "Dog"
     }
   ],
   "compiler": "HashLips Art Engine"

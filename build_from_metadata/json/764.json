@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #764",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/764.png",
+  "dna": "929677ddecb14b35346db81a4c351d191da51b5c",
+  "edition": 764,
+  "date": 1780647661328,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Monk Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

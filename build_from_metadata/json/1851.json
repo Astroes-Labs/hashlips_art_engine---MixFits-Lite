@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1851",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1851.png",
+  "dna": "2b7fcaf05e994e476aa9c4bc11350b98f1e1d012",
+  "edition": 1851,
+  "date": 1780647737267,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

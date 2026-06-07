@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4252",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4252.png",
+  "dna": "7c6556c27c8a1acd76e579a5804fb6df8a2237be",
+  "edition": 4252,
+  "date": 1780647905605,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

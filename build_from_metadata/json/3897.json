@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3897",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3897.png",
+  "dna": "07fc9c12473ba9267aa1a19f6888d588ec6a0f51",
+  "edition": 3897,
+  "date": 1780647880709,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

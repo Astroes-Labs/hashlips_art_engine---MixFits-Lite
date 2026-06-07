@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2071",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2071.png",
+  "dna": "b5dca693486f2f1335ed4d4c8531cd1fed6d1f6e",
+  "edition": 2071,
+  "date": 1780647752291,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

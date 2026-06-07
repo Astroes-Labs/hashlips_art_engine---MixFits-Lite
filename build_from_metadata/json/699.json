@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #699",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/699.png",
+  "dna": "4f4caee0353a6a81f0e727c55bf30b509e72b0d4",
+  "edition": 699,
+  "date": 1780647656529,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Tux"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

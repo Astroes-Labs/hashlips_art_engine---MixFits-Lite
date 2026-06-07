@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4353",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4353.png",
+  "dna": "475e2d649f0731b3d6cdcf7ee910ff8801d41323",
+  "edition": 4353,
+  "date": 1780647912552,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

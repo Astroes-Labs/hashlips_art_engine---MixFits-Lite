@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2941",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2941.png",
+  "dna": "59c0ab3481ce491c3b55ce847498e4077523ff2c",
+  "edition": 2941,
+  "date": 1780647813765,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

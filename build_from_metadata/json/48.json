@@ -2,17 +2,37 @@
   "name": "Your Collection #48",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/48.png",
-  "dna": "2df450bc9a95a7c412821755a7d985a7a65ab235",
+  "dna": "97ea4b24ee9ae3c7849a62bb2e25f32ddbc8b12e",
   "edition": 48,
-  "date": 1780640942098,
+  "date": 1780647609162,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Wine"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Mutant C"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

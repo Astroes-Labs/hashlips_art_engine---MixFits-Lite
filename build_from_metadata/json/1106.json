@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1106",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1106.png",
+  "dna": "6bd3fe03a757e95e3aff5d22a57947fa9a56f638",
+  "edition": 1106,
+  "date": 1780647684509,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Kill Billy Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #882",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/882.png",
+  "dna": "90344ded4f71f929aa1b49816b580f3e26057a95",
+  "edition": 882,
+  "date": 1780647669176,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -2,37 +2,37 @@
   "name": "Your Collection #223",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/223.png",
-  "dna": "80bc1f58fb23a438c4d9f14bf19a72bf21b5f132",
+  "dna": "4b2d1467a9743cdc5dab1a4796999f150f2e2ae9",
   "edition": 223,
-  "date": 1780640952939,
+  "date": 1780647622555,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Void"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Zombie"
+      "value": "Homo Sapien"
     },
     {
       "trait_type": "Hair",
-      "value": "Messy"
+      "value": "Low Cut"
     },
     {
       "trait_type": "Eyes",
-      "value": "Classic Visor"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Grand Mage Robe"
+      "value": "Sunglasses"
     },
     {
       "trait_type": "Pants",
-      "value": "Blue Suit Pants"
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
     },
     {
       "trait_type": "Footwear",
-      "value": "Brown Sandals"
+      "value": "Black Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

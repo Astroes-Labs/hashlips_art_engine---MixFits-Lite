@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4443",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4443.png",
+  "dna": "ea4b53e2021244c1e0701bf388fd3d391dd9195a",
+  "edition": 4443,
+  "date": 1780647919215,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

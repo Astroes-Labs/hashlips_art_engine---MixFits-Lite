@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #594",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/594.png",
+  "dna": "f7a8bb6f4ae0b578041612617e3a4beda617229a",
+  "edition": 594,
+  "date": 1780647649597,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

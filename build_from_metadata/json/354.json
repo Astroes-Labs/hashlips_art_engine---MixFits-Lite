@@ -2,25 +2,37 @@
   "name": "Your Collection #354",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/354.png",
-  "dna": "3cde677e3722227404812b5b2354e4d33a921e4f",
+  "dna": "d86b6e7187be819bfda354264595c69f9141b763",
   "edition": 354,
-  "date": 1780640966399,
+  "date": 1780647632231,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Purple Slime"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
     },
     {
       "trait_type": "Eyes",
-      "value": "Straight Face"
+      "value": "Eye Patch"
     },
     {
-      "trait_type": "Special",
-      "value": "Bomb"
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Kill Billy Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

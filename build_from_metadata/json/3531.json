@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3531",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3531.png",
+  "dna": "be248d4075364c16511b03113fa17b5623acc9cb",
+  "edition": 3531,
+  "date": 1780647854887,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

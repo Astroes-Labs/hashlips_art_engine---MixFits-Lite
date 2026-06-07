@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #1316",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1316.png",
+  "dna": "eb3e01fddad786f927be06138a9fa3dbd1c0f83f",
+  "edition": 1316,
+  "date": 1780775050187,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Croc Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

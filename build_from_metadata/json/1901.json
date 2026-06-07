@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #1901",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1901.png",
+  "dna": "321df25f7da74e342a52c587c196255a56246c3b",
+  "edition": 1901,
+  "date": 1780773088590,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Ninja Outfit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

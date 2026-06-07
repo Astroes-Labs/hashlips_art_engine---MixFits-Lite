@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #3274",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3274.png",
+  "dna": "f5d2d1c83643013ed0c47774c9687fe0d30dc7a0",
+  "edition": 3274,
+  "date": 1780773088596,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Panda Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

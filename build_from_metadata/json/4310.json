@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4310",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4310.png",
+  "dna": "b7f900bad41403cde7b7b777965f910554a5a483",
+  "edition": 4310,
+  "date": 1780647909532,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

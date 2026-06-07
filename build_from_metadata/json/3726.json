@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3726",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3726.png",
+  "dna": "ca096a238678b355c817e12eb02b565b8ec5fd77",
+  "edition": 3726,
+  "date": 1780647868354,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

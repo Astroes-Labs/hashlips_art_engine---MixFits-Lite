@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2722",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2722.png",
+  "dna": "5ebc1579005d559d5e44bd3213b9734c007676f9",
+  "edition": 2722,
+  "date": 1780647797742,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

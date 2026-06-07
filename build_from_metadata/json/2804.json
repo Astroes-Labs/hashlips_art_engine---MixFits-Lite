@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #2804",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2804.png",
+  "dna": "36cca6293d1423731bc8e40a1c88bd4d4a5cb0d3",
+  "edition": 2804,
+  "date": 1780647803414,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Greenish Ghost"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

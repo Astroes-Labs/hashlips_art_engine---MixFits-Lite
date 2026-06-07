@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3684",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3684.png",
+  "dna": "513ac7dc6d23a8d47373e08e4290d1f8036f9152",
+  "edition": 3684,
+  "date": 1780647865433,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

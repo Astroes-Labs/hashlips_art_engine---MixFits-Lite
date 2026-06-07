@@ -2,37 +2,37 @@
   "name": "Your Collection #200",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/200.png",
-  "dna": "45cd39ba024f0f25c979d49a0125dacc474037b2",
+  "dna": "f24c123c121f04c0ea753412f2fb087c243a25b6",
   "edition": 200,
-  "date": 1780640951176,
+  "date": 1780647620772,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sky"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Zombie"
+      "value": "Homo Sapien"
     },
     {
       "trait_type": "Hair",
-      "value": "Blue Tinted Bun"
+      "value": "Clean Shave"
     },
     {
       "trait_type": "Eyes",
-      "value": "3D Shades"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Protective Suit"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Pants",
-      "value": "Grey Pants"
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
     },
     {
       "trait_type": "Footwear",
-      "value": "Flip Flops"
+      "value": "Brown Sandals"
     }
   ],
   "compiler": "HashLips Art Engine"

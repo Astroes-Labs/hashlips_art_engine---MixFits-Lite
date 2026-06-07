@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2807",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2807.png",
+  "dna": "2275c9deab699894822fb5e4334f9ec30db2836f",
+  "edition": 2807,
+  "date": 1780647803607,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

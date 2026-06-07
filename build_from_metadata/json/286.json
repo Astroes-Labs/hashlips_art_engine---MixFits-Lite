@@ -2,37 +2,37 @@
   "name": "Your Collection #286",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/286.png",
-  "dna": "3c325a62b3e0649835d0e227e166bd6b98b9f37b",
+  "dna": "d2194ceaa1f793c8a32f1cb632ce0c67b6e481d5",
   "edition": 286,
-  "date": 1780640958247,
+  "date": 1780647627082,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Zombie"
+      "value": "Homo Sapien"
     },
     {
       "trait_type": "Hair",
-      "value": "Crew Cut"
+      "value": "Blonde Slicked Back"
     },
     {
       "trait_type": "Eyes",
-      "value": "3D Shades"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Red Pirate Capt"
+      "value": "3D Glasses"
     },
     {
       "trait_type": "Pants",
       "value": "Faded Jeans"
     },
     {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
       "trait_type": "Footwear",
-      "value": "Kill Billy Boots"
+      "value": "Brown Sandals"
     }
   ],
   "compiler": "HashLips Art Engine"

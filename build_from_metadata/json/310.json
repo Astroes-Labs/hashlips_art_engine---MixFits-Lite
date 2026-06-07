@@ -2,25 +2,37 @@
   "name": "Your Collection #310",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/310.png",
-  "dna": "0f9e56d9263457d0662905148549fbba30d7936d",
+  "dna": "2562ddad30f69661c0ee327291be8b2fdb9187d9",
   "edition": 310,
-  "date": 1780640961370,
+  "date": 1780647628837,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sky"
+      "value": "Void"
     },
     {
       "trait_type": "Body",
-      "value": "Green Slime"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
     },
     {
       "trait_type": "Eyes",
-      "value": "Straight Face"
+      "value": "Nerd Glasses"
     },
     {
-      "trait_type": "Special",
-      "value": "Cheese"
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

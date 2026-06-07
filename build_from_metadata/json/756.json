@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #756",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/756.png",
+  "dna": "e3b186666fc59822f7d5ff97c0b5a60da8adf3cb",
+  "edition": 756,
+  "date": 1780647660568,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

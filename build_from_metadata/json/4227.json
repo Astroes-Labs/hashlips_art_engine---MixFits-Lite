@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4227",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4227.png",
+  "dna": "83bcac3475f006bfe0c049dbbfaff4dfb36501e6",
+  "edition": 4227,
+  "date": 1780647903867,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

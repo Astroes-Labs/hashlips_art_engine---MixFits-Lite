@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #983",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/983.png",
+  "dna": "8fba365731ff37bbcae839680080bceb5303b0a4",
+  "edition": 983,
+  "date": 1780647676231,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

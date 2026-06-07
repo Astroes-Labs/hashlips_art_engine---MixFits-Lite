@@ -2,9 +2,9 @@
   "name": "Your Collection #234",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/234.png",
-  "dna": "63367bd0242d970d87a250675237da13527032bf",
+  "dna": "c346b85b5cf4099453fb1bc0464a2c526f5b596d",
   "edition": 234,
-  "date": 1780640953840,
+  "date": 1780647623358,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Body",
-      "value": "Void Watcher"
+      "value": "Reddish Ghost"
     }
   ],
   "compiler": "HashLips Art Engine"

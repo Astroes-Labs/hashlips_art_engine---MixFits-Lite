@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2027",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2027.png",
+  "dna": "d7825f26ed0f2ec29c38541fca21dc5f76b8ef42",
+  "edition": 2027,
+  "date": 1780647749089,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #506",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/506.png",
+  "dna": "553a82ebc6142be42ec62f88b9f0dcaa4ad69547",
+  "edition": 506,
+  "date": 1780647643510,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

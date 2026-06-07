@@ -2,13 +2,13 @@
   "name": "Your Collection #311",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/311.png",
-  "dna": "84eca90609af6f7f81f8f97db6cb2d9a754a9f3e",
+  "dna": "d7b453baea581fd688b5a3c4ac59f33a5748f765",
   "edition": 311,
-  "date": 1780640961477,
+  "date": 1780647628918,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light"
+      "value": "Void"
     },
     {
       "trait_type": "Body",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Fade"
+      "value": "Bowl Cut"
     },
     {
       "trait_type": "Eyes",
-      "value": "Laser"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Grand Mage Robe"
+      "value": "Blue Wraparound Sunglasses"
     },
     {
       "trait_type": "Pants",
-      "value": "Camo Pants"
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Tux"
     },
     {
       "trait_type": "Footwear",
-      "value": "Brown Sandals"
+      "value": "Black Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

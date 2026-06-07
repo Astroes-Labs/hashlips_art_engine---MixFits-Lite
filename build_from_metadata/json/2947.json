@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2947",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2947.png",
+  "dna": "11de74c74d388eface033d46dc8e51e9bbe34aa5",
+  "edition": 2947,
+  "date": 1780647814169,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Tux"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

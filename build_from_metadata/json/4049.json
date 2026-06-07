@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4049",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4049.png",
+  "dna": "ad8b0424e6e9a83aa8ead3f7e0e9c7058a08d7cd",
+  "edition": 4049,
+  "date": 1780647891418,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

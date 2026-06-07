@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3601",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3601.png",
+  "dna": "46d2a251b5898bf95ad810edd1c05e3a410ea870",
+  "edition": 3601,
+  "date": 1780647859635,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

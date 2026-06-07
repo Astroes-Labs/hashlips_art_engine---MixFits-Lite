@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #4050",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4050.png",
+  "dna": "4162ee1cd582fa219a6dc090d527e73c9326ad41",
+  "edition": 4050,
+  "date": 1780775050197,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Shark Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

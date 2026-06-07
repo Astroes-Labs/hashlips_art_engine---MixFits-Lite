@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2707",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2707.png",
+  "dna": "402da29252d554c1dc9d08923c49a0b8911c0268",
+  "edition": 2707,
+  "date": 1780647796723,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

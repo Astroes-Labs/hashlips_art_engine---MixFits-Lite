@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2198",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2198.png",
+  "dna": "f5dbe9897ef9cdf3d2f0ee67cb097526a88872c3",
+  "edition": 2198,
+  "date": 1780647760986,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

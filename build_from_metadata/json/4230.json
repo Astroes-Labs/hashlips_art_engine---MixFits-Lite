@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4230",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4230.png",
+  "dna": "6a4c8b0fdd641c5e19d1ad798502109ec45bb2c8",
+  "edition": 4230,
+  "date": 1780647904068,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

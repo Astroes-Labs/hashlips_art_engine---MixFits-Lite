@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4207",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4207.png",
+  "dna": "03dfe643b65833783798aa6227424fc6fef56d6e",
+  "edition": 4207,
+  "date": 1780647902443,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

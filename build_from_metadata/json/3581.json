@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #3581",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3581.png",
+  "dna": "936e288faa7937eda3df1d11d1c0ac399a4b0a16",
+  "edition": 3581,
+  "date": 1780685629352,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Knight"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

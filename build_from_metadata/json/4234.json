@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4234",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4234.png",
+  "dna": "b56536d9c592691b45fcd0f9277377d8caa4127e",
+  "edition": 4234,
+  "date": 1780647904331,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

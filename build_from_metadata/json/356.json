@@ -2,37 +2,17 @@
   "name": "Your Collection #356",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/356.png",
-  "dna": "2c5e48ef8b48a9abc316aac05766698db7dfff05",
+  "dna": "5b9211f17d1f7f9e27d3b5cabd3d76231f7dc3e3",
   "edition": 356,
-  "date": 1780640966528,
+  "date": 1780647632481,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Wine"
+      "value": "Void"
     },
     {
       "trait_type": "Body",
-      "value": "Homo Sapien"
-    },
-    {
-      "trait_type": "Hair",
-      "value": "Low Cut"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Eye Patch"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Full Protective Suit"
-    },
-    {
-      "trait_type": "Pants",
-      "value": "Joker Suit Pants"
-    },
-    {
-      "trait_type": "Footwear",
-      "value": "Brown Shoes"
+      "value": "Silver Skeleton"
     }
   ],
   "compiler": "HashLips Art Engine"

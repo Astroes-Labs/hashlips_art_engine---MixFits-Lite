@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2039",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2039.png",
+  "dna": "89b227575ea4844f4398ae25f6abeed860b5319f",
+  "edition": 2039,
+  "date": 1780647750177,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

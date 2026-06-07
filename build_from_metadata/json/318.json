@@ -2,9 +2,9 @@
   "name": "Your Collection #318",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/318.png",
-  "dna": "2d169a51556263163d04963d89bd2ffaa32e899c",
+  "dna": "65db0d88b3a4ce60e8fa248237ea9b679345da75",
   "edition": 318,
-  "date": 1780640962596,
+  "date": 1780647629492,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,7 +12,27 @@
     },
     {
       "trait_type": "Body",
-      "value": "Stoner"
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Dark Green Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

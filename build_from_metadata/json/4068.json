@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4068",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4068.png",
+  "dna": "014035ac569043e2e4996f3641165845f4b77a76",
+  "edition": 4068,
+  "date": 1780647892677,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

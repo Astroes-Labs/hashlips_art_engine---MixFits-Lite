@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #720",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/720.png",
+  "dna": "cca387f559513dcd2b7d4f91176137d298fcda17",
+  "edition": 720,
+  "date": 1780647658027,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Kill Billy Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

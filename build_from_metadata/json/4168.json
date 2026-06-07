@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4168",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4168.png",
+  "dna": "3db75f0c43d69bbde231bf933f16ada42ed2c55b",
+  "edition": 4168,
+  "date": 1780647899516,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

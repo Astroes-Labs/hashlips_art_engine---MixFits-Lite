@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #979",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/979.png",
+  "dna": "2ccc94cbd3d0762afc560df2afc8d958e38dcd6e",
+  "edition": 979,
+  "date": 1780775050187,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Full Protective Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

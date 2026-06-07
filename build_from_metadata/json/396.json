@@ -2,9 +2,9 @@
   "name": "Your Collection #396",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/396.png",
-  "dna": "7a15c05293f2843b960f53cb224ae81745b1c2ee",
+  "dna": "4e3f1b757db6c1dead5be5c32c2ef00a15b0dfc9",
   "edition": 396,
-  "date": 1780640969422,
+  "date": 1780647635798,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,15 +12,27 @@
     },
     {
       "trait_type": "Body",
-      "value": "Stoner"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
     },
     {
       "trait_type": "Eyes",
-      "value": "3D Shades"
+      "value": "Regular Visor"
     },
     {
-      "trait_type": "Special",
-      "value": "Brain"
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

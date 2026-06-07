@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2116",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2116.png",
+  "dna": "fa99db51048d97722fd023cffe01a112cc2871c6",
+  "edition": 2116,
+  "date": 1780647755298,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Protective Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -2,37 +2,37 @@
   "name": "Your Collection #425",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/425.png",
-  "dna": "af2b71a6a8df2f86d24919fc12316b070318a2c0",
+  "dna": "812238188a791d63d918b4b1cd5353eeeb366b3e",
   "edition": 425,
-  "date": 1780640971656,
+  "date": 1780647637769,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Wine"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Zombie"
+      "value": "Homo Sapien"
     },
     {
       "trait_type": "Hair",
-      "value": "Dirty Blonde Taper Fade"
+      "value": "Blonde Taper Fade"
     },
     {
       "trait_type": "Eyes",
-      "value": "3D Glasses"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Chef Outfit"
+      "value": "Laser"
     },
     {
       "trait_type": "Pants",
-      "value": "Jeans"
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
     },
     {
       "trait_type": "Footwear",
-      "value": "Ash colorway Sneakers"
+      "value": "Black Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

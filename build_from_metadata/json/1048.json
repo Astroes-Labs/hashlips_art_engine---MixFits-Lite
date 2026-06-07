@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1048",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1048.png",
+  "dna": "ef2db1740e529a0da2389e8499eba198138811d9",
+  "edition": 1048,
+  "date": 1780647680599,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Wizard Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

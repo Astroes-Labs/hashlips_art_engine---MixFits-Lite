@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1994",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1994.png",
+  "dna": "36acc308e68934184fed20d1e4a824adda806f3b",
+  "edition": 1994,
+  "date": 1780647746861,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Chef Outfit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

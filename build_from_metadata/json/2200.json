@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2200",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2200.png",
+  "dna": "6ce6292a163863a628b088e3b17a90f4d8f33b76",
+  "edition": 2200,
+  "date": 1780647761127,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

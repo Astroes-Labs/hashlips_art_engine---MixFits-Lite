@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #877",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/877.png",
+  "dna": "c1427e6e6d30ddf0b761a823197e74dc2c4086ad",
+  "edition": 877,
+  "date": 1780647668854,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Dark Green Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

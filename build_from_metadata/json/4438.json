@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4438",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4438.png",
+  "dna": "0e3fc2d021c2286b2216d71b23be088a5249c274",
+  "edition": 4438,
+  "date": 1780647918846,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

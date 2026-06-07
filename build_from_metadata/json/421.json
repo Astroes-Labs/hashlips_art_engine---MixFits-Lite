@@ -2,33 +2,33 @@
   "name": "Your Collection #421",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/421.png",
-  "dna": "bb433e21b1f268e14f16688d88bef2474ac08c4c",
+  "dna": "483c614009fa0e3af246a5bd472e2532d1446f44",
   "edition": 421,
-  "date": 1780640971286,
+  "date": 1780647637481,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Void"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Zombie"
+      "value": "Homo Sapien"
     },
     {
       "trait_type": "Hair",
-      "value": "Bowl Cut"
+      "value": "Dirty Blonde Taper Fade"
     },
     {
       "trait_type": "Eyes",
       "value": "Eye Patch"
     },
     {
-      "trait_type": "Shirt",
-      "value": "Chef Outfit"
+      "trait_type": "Pants",
+      "value": "Black Pants"
     },
     {
-      "trait_type": "Pants",
-      "value": "Tux Suit Pants"
+      "trait_type": "Shirt",
+      "value": "Protective Suit"
     },
     {
       "trait_type": "Footwear",

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3702",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3702.png",
+  "dna": "a56503444a1fb07fa0a459c55e05dbd9ad35fb33",
+  "edition": 3702,
+  "date": 1780647866708,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

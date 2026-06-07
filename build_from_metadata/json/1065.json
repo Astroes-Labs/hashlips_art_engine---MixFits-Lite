@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1065",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1065.png",
+  "dna": "fda5570f0821c8b876d49dadec5d64ffb7a1db45",
+  "edition": 1065,
+  "date": 1780647681716,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

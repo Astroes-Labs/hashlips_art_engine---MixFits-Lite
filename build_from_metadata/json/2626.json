@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2626",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2626.png",
+  "dna": "5b40ec2c31e279e90677721bc2ea6ebc7120d6c1",
+  "edition": 2626,
+  "date": 1780647791250,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

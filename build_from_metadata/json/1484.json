@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1484",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1484.png",
+  "dna": "519db208fdd6b12ef2e0e1fff14ae28587907750",
+  "edition": 1484,
+  "date": 1780647710395,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

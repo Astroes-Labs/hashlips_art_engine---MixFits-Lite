@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2026",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2026.png",
+  "dna": "083ba86e3767df2aa36a784f223421b9a2a78727",
+  "edition": 2026,
+  "date": 1780647749027,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #920",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/920.png",
+  "dna": "abbda0793624ec77b48473704ba38693e3ee4751",
+  "edition": 920,
+  "date": 1780647671867,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

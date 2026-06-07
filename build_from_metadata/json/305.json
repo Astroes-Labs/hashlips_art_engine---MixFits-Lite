@@ -2,13 +2,13 @@
   "name": "Your Collection #305",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/305.png",
-  "dna": "a9988ebdd77712b54f7b3d9b6730c551710b3e93",
+  "dna": "21934ba6c1a92e2570517e90e0fd711a9bd1ae24",
   "edition": 305,
-  "date": 1780640960555,
+  "date": 1780647628469,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Void"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Fade"
+      "value": "Low Cut II"
     },
     {
       "trait_type": "Eyes",
       "value": "Pink Wraparound Sunglasses"
     },
     {
-      "trait_type": "Shirt",
-      "value": "France Accent Jersey"
+      "trait_type": "Pants",
+      "value": "Grey Pants"
     },
     {
-      "trait_type": "Pants",
-      "value": "Blue Suit Pants"
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
     },
     {
       "trait_type": "Footwear",
-      "value": "Boxers Boot"
+      "value": "Black Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

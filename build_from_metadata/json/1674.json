@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1674",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1674.png",
+  "dna": "08decfac1acb4104bbec1912f01e22bafeee5589",
+  "edition": 1674,
+  "date": 1780647725030,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

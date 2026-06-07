@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4442",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4442.png",
+  "dna": "0aa27bfb668c14f5269efa8dfc09ec5ece68856a",
+  "edition": 4442,
+  "date": 1780647919151,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Tux"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

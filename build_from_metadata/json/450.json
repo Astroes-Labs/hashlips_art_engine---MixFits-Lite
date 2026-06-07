@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #450",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/450.png",
+  "dna": "3687266a77e8d2769d5431e1e7015a3ffb4f1672",
+  "edition": 450,
+  "date": 1780647639684,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Grand Mage Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1782",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1782.png",
+  "dna": "2cc47cd4a4fac4a0c72ce0672d1325ec4a52175f",
+  "edition": 1782,
+  "date": 1780647732416,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #3145",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3145.png",
+  "dna": "421027f9e5de92b04d531be9f5961ab51374cf73",
+  "edition": 3145,
+  "date": 1780647827993,
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Experiment Zero"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

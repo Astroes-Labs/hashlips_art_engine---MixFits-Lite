@@ -2,13 +2,13 @@
   "name": "Your Collection #36",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/36.png",
-  "dna": "61b4692abd60e5280909a8c5f9a32288499edb15",
+  "dna": "6b297d53275914c50e461e43ad991bef3644307b",
   "edition": 36,
-  "date": 1780640941492,
+  "date": 1780647608235,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Wine"
+      "value": "Void"
     },
     {
       "trait_type": "Body",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Crew Cut"
+      "value": "Blonde Taper Fade"
     },
     {
       "trait_type": "Eyes",
       "value": "Classic Visor"
     },
     {
-      "trait_type": "Shirt",
-      "value": "Red Varsity Jacket"
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
     },
     {
-      "trait_type": "Pants",
-      "value": "Jeans"
+      "trait_type": "Shirt",
+      "value": "Lab Coat"
     },
     {
       "trait_type": "Footwear",
-      "value": "Flip Flops"
+      "value": "Black Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

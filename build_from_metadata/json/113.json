@@ -2,9 +2,9 @@
   "name": "Your Collection #113",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/113.png",
-  "dna": "d9cb51471d9e6c8ea7d4d4b375eea03d5fdcc8db",
+  "dna": "e1ca6a4f862c66f161aee17e34285961655b8930",
   "edition": 113,
-  "date": 1780640945130,
+  "date": 1780647614139,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,7 +12,15 @@
     },
     {
       "trait_type": "Body",
-      "value": "Skeleton"
+      "value": "Purple Slime"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Straight Face"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Cheese"
     }
   ],
   "compiler": "HashLips Art Engine"

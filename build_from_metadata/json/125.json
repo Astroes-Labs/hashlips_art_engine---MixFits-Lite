@@ -2,17 +2,37 @@
   "name": "Your Collection #125",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/125.png",
-  "dna": "55f0c441f1651c95363f7e82b2fb8d56aa458279",
+  "dna": "732b825104d5a7b4bf817f6a90cee1259550a0e4",
   "edition": 125,
-  "date": 1780640945793,
+  "date": 1780647614986,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sky"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Void Watcher"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Monk Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
     }
   ],
   "compiler": "HashLips Art Engine"

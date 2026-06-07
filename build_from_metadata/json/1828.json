@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1828",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1828.png",
+  "dna": "cb7b8a8acf2dbdfaa25047842ef0dfab17e43f71",
+  "edition": 1828,
+  "date": 1780647735549,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2396",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2396.png",
+  "dna": "03fea44d54374a6ad6a47d68bc6d76bd1279573c",
+  "edition": 2396,
+  "date": 1780647774689,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

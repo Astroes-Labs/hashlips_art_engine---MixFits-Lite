@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4170",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4170.png",
+  "dna": "1d05c1c7c85939a1255247f794490ee27302bb9f",
+  "edition": 4170,
+  "date": 1780647899669,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Chef Outfit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

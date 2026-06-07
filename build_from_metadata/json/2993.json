@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2993",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2993.png",
+  "dna": "b960f19598916f2b2fb803ae5d6ed82455737096",
+  "edition": 2993,
+  "date": 1780647817458,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

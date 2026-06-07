@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4350",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4350.png",
+  "dna": "82b0b35411b4638ec9e2a67c38f5c523f7d0b4fd",
+  "edition": 4350,
+  "date": 1780647912345,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

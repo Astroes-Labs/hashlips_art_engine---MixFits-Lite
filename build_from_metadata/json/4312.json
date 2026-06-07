@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4312",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4312.png",
+  "dna": "d5642a670976ad7f19a50b656f6d7eac9cf3da6d",
+  "edition": 4312,
+  "date": 1780647909707,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

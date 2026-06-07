@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #751",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/751.png",
+  "dna": "5a55d6f637e6189fb5b9d2a480e5c958efdbe9e5",
+  "edition": 751,
+  "date": 1780647660222,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

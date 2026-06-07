@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3283",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3283.png",
+  "dna": "80ee53b2257347e2cb9db5d64ad394d3d5e14d25",
+  "edition": 3283,
+  "date": 1780647837543,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #1965",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1965.png",
+  "dna": "10dc9cfa8fdd89768f855aca58545a08535403c8",
+  "edition": 1965,
+  "date": 1780775050188,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Croc Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1942",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1942.png",
+  "dna": "03184ad0cb0268c6aad081a5a5cf01e51b7c8b28",
+  "edition": 1942,
+  "date": 1780647743445,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

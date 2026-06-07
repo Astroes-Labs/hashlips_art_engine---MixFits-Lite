@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1532",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1532.png",
+  "dna": "2ef1017a518298e747ddea20cd62f7ae03deb4c2",
+  "edition": 1532,
+  "date": 1780647713743,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

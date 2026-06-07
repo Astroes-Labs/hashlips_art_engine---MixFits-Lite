@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4080",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4080.png",
+  "dna": "c1e5cb767f59f9ad951e9b6569f6e472155e0931",
+  "edition": 4080,
+  "date": 1780647893540,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1652",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1652.png",
+  "dna": "59fbfcccc3e814e6289c2015fcebb70e9d81a73f",
+  "edition": 1652,
+  "date": 1780647723269,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

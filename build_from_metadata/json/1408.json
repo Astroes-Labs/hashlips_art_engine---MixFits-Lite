@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1408",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1408.png",
+  "dna": "8823bb373f83fa00c4d8f0d169b05e7bd68c064d",
+  "edition": 1408,
+  "date": 1780647705044,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

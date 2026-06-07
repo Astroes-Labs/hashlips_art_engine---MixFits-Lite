@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #1189",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1189.png",
+  "dna": "697fa098b208baa89cc39a4a7afaea57af0dd6c6",
+  "edition": 1189,
+  "date": 1780647690092,
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Experiment Zero"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Straight Face"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4379",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4379.png",
+  "dna": "bd3ee3ae424d139957e55e99cd7d57ee7f2584a1",
+  "edition": 4379,
+  "date": 1780647914324,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

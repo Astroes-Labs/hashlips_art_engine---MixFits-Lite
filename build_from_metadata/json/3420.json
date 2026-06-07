@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3420",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3420.png",
+  "dna": "2f4ace4b9044dc3a1e08ec4f485719d2b2f238af",
+  "edition": 3420,
+  "date": 1780647847225,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

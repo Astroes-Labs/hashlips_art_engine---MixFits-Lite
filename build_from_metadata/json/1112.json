@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1112",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1112.png",
+  "dna": "e281e0caef4feba974412cb670603a2594340ca2",
+  "edition": 1112,
+  "date": 1780647684889,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

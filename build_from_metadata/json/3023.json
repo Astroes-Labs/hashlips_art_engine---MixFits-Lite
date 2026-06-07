@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3023",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3023.png",
+  "dna": "92b9a82b136d8fe8d40f12da1e80f5fc8dde06ec",
+  "edition": 3023,
+  "date": 1780647819736,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

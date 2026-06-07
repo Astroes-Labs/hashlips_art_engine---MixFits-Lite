@@ -2,17 +2,25 @@
   "name": "Your Collection #104",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/104.png",
-  "dna": "d102d230cd59f29324e19d1ae8d2f88d605c15cf",
+  "dna": "f9576d9a2dc818b97747728e6e366bd684bc4b63",
   "edition": 104,
-  "date": 1780640944642,
+  "date": 1780647613457,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Mummy"
+      "value": "Green Slime"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Straight Face"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Ring"
     }
   ],
   "compiler": "HashLips Art Engine"

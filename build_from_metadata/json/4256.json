@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4256",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4256.png",
+  "dna": "9d2f25f325abb568342e8166eda20c6a8bbc445d",
+  "edition": 4256,
+  "date": 1780647905861,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

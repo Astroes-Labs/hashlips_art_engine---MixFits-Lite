@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #899",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/899.png",
+  "dna": "34618c2b1f8146104c9505a3391d333568a76ad3",
+  "edition": 899,
+  "date": 1780647670468,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Monk Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1028",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1028.png",
+  "dna": "1a184ba1950a362332c56bb434586684d171720d",
+  "edition": 1028,
+  "date": 1780647679211,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

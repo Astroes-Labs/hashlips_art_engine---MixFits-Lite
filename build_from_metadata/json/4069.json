@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4069",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4069.png",
+  "dna": "963010f1988ad6796bbf2ffcd119d852d8a2e057",
+  "edition": 4069,
+  "date": 1780647892755,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

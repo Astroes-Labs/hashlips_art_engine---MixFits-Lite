@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3674",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3674.png",
+  "dna": "0b8ee0693c101e088195de8009e7f0adec009329",
+  "edition": 3674,
+  "date": 1780773419866,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Knight Helmet"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

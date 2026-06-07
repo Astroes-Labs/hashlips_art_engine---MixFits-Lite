@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #3366",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3366.png",
+  "dna": "263098f42f8dbb09e1c17863bff132eb0643890a",
+  "edition": 3366,
+  "date": 1780773088597,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Ninja Outfit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

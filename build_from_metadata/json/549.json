@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #549",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/549.png",
+  "dna": "084823af2c3d9849d6719fc9f64876c9bf012692",
+  "edition": 549,
+  "date": 1780647646396,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

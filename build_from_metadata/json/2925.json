@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2925",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2925.png",
+  "dna": "c6bc455140592a1ef1c6c78abbb5949eb01819e3",
+  "edition": 2925,
+  "date": 1780647812704,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

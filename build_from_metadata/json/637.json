@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #637",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/637.png",
+  "dna": "60d18382af7fde7defdbec2c74a9a5c2e1cdea21",
+  "edition": 637,
+  "date": 1780647652514,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

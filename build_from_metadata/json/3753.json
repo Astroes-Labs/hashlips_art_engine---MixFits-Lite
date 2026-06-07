@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3753",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3753.png",
+  "dna": "71a2624a46910443db9fc0c8c9e815e79a106f3d",
+  "edition": 3753,
+  "date": 1780647870258,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Wizard Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

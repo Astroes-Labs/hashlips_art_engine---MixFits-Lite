@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4020",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4020.png",
+  "dna": "3bdbfae8c1e067226cdb949eec3967fcc92c3097",
+  "edition": 4020,
+  "date": 1780773419869,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Lucha Libre Mask"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

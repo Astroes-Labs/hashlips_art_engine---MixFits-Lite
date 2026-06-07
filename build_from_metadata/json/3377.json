@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3377",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3377.png",
+  "dna": "fca66193d053ac7b44d59fc7fbd8f065308b8784",
+  "edition": 3377,
+  "date": 1780647844028,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

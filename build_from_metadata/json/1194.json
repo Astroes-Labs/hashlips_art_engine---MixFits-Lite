@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1194",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1194.png",
+  "dna": "108cdba70a8ebfe8fddf58295fbbb5885ba5e48f",
+  "edition": 1194,
+  "date": 1780647690392,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

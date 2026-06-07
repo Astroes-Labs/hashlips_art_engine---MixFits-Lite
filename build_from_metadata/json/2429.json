@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2429",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2429.png",
+  "dna": "e4ded2b06b5cdc68f0e7fb01ae25e56909c0affa",
+  "edition": 2429,
+  "date": 1780647777374,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3032",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3032.png",
+  "dna": "1872ff9eec258cf96fdbc675a3426257503ec154",
+  "edition": 3032,
+  "date": 1780647820341,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

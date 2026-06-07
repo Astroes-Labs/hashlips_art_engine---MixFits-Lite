@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1433",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1433.png",
+  "dna": "3f1b7de2c309d0b594aa85484d5bb4008e05a186",
+  "edition": 1433,
+  "date": 1780647706754,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

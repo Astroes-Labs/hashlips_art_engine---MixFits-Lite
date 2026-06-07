@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4031",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4031.png",
+  "dna": "b2339d953bbfbae5687782c21ed3fb4d53f97e75",
+  "edition": 4031,
+  "date": 1780647890161,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

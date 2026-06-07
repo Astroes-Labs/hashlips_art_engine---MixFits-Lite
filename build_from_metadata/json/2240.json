@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2240",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2240.png",
+  "dna": "0d25196767dcf9a2612448d28c8de2b090f0d0b0",
+  "edition": 2240,
+  "date": 1780647763984,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Grand Mage Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

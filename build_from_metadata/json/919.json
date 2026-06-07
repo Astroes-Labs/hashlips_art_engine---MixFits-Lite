@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #919",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/919.png",
+  "dna": "e6f787fd552dd2809f5a5c0510decaeee0459f61",
+  "edition": 919,
+  "date": 1780647671807,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Grand Mage Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

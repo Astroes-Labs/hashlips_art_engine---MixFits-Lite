@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2733",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2733.png",
+  "dna": "5ff3f502d1301784918ae6a4d75264b2a3bf530e",
+  "edition": 2733,
+  "date": 1780647798523,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

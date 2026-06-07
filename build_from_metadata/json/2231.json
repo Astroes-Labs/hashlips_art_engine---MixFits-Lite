@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2231",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2231.png",
+  "dna": "2ac9c8b2ffedb7030b3c4107cac103b15c6c1cac",
+  "edition": 2231,
+  "date": 1780647763214,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

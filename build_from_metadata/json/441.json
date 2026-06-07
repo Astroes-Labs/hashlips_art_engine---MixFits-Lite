@@ -2,37 +2,25 @@
   "name": "Your Collection #441",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/441.png",
-  "dna": "e1425ece7c1868e1c8f336a61c6d274e53edaaa2",
+  "dna": "01b0f6e85d0e36089871515954e1650c5f02fa31",
   "edition": 441,
-  "date": 1780640973079,
+  "date": 1780647638928,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Homo Sapien"
-    },
-    {
-      "trait_type": "Hair",
-      "value": "Blonde Slicked Back"
+      "value": "Blue Slime"
     },
     {
       "trait_type": "Eyes",
-      "value": "Eye Patch"
+      "value": "Straight Face"
     },
     {
-      "trait_type": "Shirt",
-      "value": "Red Sweat Shirt"
-    },
-    {
-      "trait_type": "Pants",
-      "value": "Joker Suit Pants"
-    },
-    {
-      "trait_type": "Footwear",
-      "value": "Black Combat Boots"
+      "trait_type": "Special",
+      "value": "Brain"
     }
   ],
   "compiler": "HashLips Art Engine"

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4292",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4292.png",
+  "dna": "1db511fcf2b79f30127f68aaa6a87fbd9b4eb519",
+  "edition": 4292,
+  "date": 1780647908321,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Task Force Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

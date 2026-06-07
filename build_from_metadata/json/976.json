@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #976",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/976.png",
+  "dna": "477e86a4f2bdcbbe3ad643ebc346d6a86221ef92",
+  "edition": 976,
+  "date": 1780647675779,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

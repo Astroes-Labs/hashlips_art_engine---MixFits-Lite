@@ -2,25 +2,37 @@
   "name": "Your Collection #367",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/367.png",
-  "dna": "2fdc48aefb022998fb0646c01f55ffe9491b7681",
+  "dna": "572d5b592048838bb2e9c808de78a3c2a62abd9e",
   "edition": 367,
-  "date": 1780640967357,
+  "date": 1780647633749,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sky"
+      "value": "Void"
     },
     {
       "trait_type": "Body",
-      "value": "Blue Slime"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
     },
     {
       "trait_type": "Eyes",
-      "value": "Straight Face"
+      "value": "Blue Wraparound Sunglasses"
     },
     {
-      "trait_type": "Special",
-      "value": "Dog"
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

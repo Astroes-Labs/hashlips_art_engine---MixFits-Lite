@@ -2,33 +2,33 @@
   "name": "Your Collection #282",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/282.png",
-  "dna": "d2cfbdf3469993463d3a34126e230c6e318f0fc9",
+  "dna": "8b21ac7210337fa18ad6730466f8d973e7f81199",
   "edition": 282,
-  "date": 1780640957619,
+  "date": 1780647626758,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Void"
+      "value": "Light"
     },
     {
       "trait_type": "Body",
-      "value": "Zombie"
+      "value": "Homo Sapien"
     },
     {
       "trait_type": "Hair",
-      "value": "Ginger Bowl Cut"
+      "value": "Brunette Bun"
     },
     {
       "trait_type": "Eyes",
-      "value": "Regular Visor"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Shark Suit"
+      "value": "Laser"
     },
     {
       "trait_type": "Pants",
-      "value": "Jeans"
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
     },
     {
       "trait_type": "Footwear",

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2306",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2306.png",
+  "dna": "49fff80e7c226a0a70ce853c345f5f0861175a2d",
+  "edition": 2306,
+  "date": 1780647768585,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #927",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/927.png",
+  "dna": "ea298e4e4e00c3d1f401828b5f2e424c69b0f098",
+  "edition": 927,
+  "date": 1780647672315,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

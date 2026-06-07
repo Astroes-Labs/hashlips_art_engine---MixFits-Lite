@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4425",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4425.png",
+  "dna": "f379c495e286ac91e99f5098ab791edcd6c5aee2",
+  "edition": 4425,
+  "date": 1780647917662,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

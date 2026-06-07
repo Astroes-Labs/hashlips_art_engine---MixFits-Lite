@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1996",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1996.png",
+  "dna": "d0d51c7a97656292c3e39f559c2fbefcf663a3b1",
+  "edition": 1996,
+  "date": 1780647747022,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Chef Outfit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #812",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/812.png",
+  "dna": "9763f911e93e77588c739b36a874247485ea90db",
+  "edition": 812,
+  "date": 1780647664508,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

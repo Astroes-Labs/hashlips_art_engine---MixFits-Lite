@@ -2,9 +2,9 @@
   "name": "Your Collection #298",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/298.png",
-  "dna": "e8b56c8b34a945d4bb6b7c594d155b6120bdd022",
+  "dna": "aa5c36f7aaedf5d43c19af1860120435a2e2ff44",
   "edition": 298,
-  "date": 1780640959571,
+  "date": 1780647627968,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,27 +12,27 @@
     },
     {
       "trait_type": "Body",
-      "value": "Homo Sapien"
+      "value": "Zombie"
     },
     {
       "trait_type": "Hair",
-      "value": "Bowl Cut"
+      "value": "Fade"
     },
     {
       "trait_type": "Eyes",
-      "value": "Pink Wraparound Sunglasses"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Blue Pirate Capt"
+      "value": "Sunglasses"
     },
     {
       "trait_type": "Pants",
-      "value": "Faded Jeans"
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
     },
     {
       "trait_type": "Footwear",
-      "value": "Ash colorway Sneakers"
+      "value": "Brown Sandals"
     }
   ],
   "compiler": "HashLips Art Engine"

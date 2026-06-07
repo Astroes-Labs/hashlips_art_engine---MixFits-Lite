@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #787",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/787.png",
+  "dna": "bc7ff98c49f54a4014dd766b312fab49b178d368",
+  "edition": 787,
+  "date": 1780647662856,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

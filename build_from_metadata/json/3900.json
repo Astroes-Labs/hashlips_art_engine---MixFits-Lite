@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3900",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3900.png",
+  "dna": "f9a26032a2548c144dca4e80675a90b10680b0c9",
+  "edition": 3900,
+  "date": 1780685629356,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Katana"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Knight"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Knight Helmet"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

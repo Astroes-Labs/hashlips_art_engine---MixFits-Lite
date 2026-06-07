@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4323",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4323.png",
+  "dna": "0f0b8cc229d28a1209ae7f247a74642762085a8c",
+  "edition": 4323,
+  "date": 1780647910492,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Dark Green Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

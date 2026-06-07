@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2703",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2703.png",
+  "dna": "9403fab095020a9f6365fc8cd8bb1387ca1ff33f",
+  "edition": 2703,
+  "date": 1780647796449,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Joker Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

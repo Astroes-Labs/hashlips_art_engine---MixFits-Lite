@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #796",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/796.png",
+  "dna": "6c3f4fe708425f745309e578f065dd9adfac9ebc",
+  "edition": 796,
+  "date": 1780647663410,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mummy"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

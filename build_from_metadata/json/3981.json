@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3981",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3981.png",
+  "dna": "d66c477bdf341333c4a9e07056a2c87c747f6363",
+  "edition": 3981,
+  "date": 1780647886373,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Dark Green Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

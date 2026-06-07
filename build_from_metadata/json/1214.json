@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1214",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1214.png",
+  "dna": "b49de09fc6bc1745d7ba7d9035ae0e0fb0cda057",
+  "edition": 1214,
+  "date": 1780647691761,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

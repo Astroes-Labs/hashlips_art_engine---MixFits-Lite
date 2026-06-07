@@ -2,9 +2,9 @@
   "name": "Your Collection #438",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/438.png",
-  "dna": "6c2e38f42d307b94e6f00d475c1e99a5e79f570e",
+  "dna": "f32e4fe223390df7446505bb3c7455a0f89fdd3f",
   "edition": 438,
-  "date": 1780640972839,
+  "date": 1780647638720,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,23 +12,23 @@
     },
     {
       "trait_type": "Body",
-      "value": "Zombie"
+      "value": "Homo Sapien"
     },
     {
       "trait_type": "Hair",
-      "value": "Blonde Taper Fade"
+      "value": "Low Cut II"
     },
     {
       "trait_type": "Eyes",
-      "value": "Blue Wraparound Sunglasses"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Space Hunter Gear"
+      "value": "Regular Visor"
     },
     {
       "trait_type": "Pants",
-      "value": "Task Force Pants"
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Task Force Vest"
     },
     {
       "trait_type": "Footwear",

@@ -2,13 +2,13 @@
   "name": "Your Collection #375",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/375.png",
-  "dna": "23fc1f0db93fb1e69e79a1f5105857f1c17119dc",
+  "dna": "e350a11087ddf4431268775f60016b07f8d842be",
   "edition": 375,
-  "date": 1780640967922,
+  "date": 1780647634371,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Wine"
+      "value": "Light"
     },
     {
       "trait_type": "Body",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Messy"
+      "value": "Brunette Bun"
     },
     {
       "trait_type": "Eyes",
-      "value": "Sunglasses"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Space Hunter Gear"
+      "value": "Regular Visor"
     },
     {
       "trait_type": "Pants",
-      "value": "Black Shorts"
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
     },
     {
       "trait_type": "Footwear",
-      "value": "Ski Boots"
+      "value": "Brown Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

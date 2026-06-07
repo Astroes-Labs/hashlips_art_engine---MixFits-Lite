@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1333",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1333.png",
+  "dna": "06d174136900172bcaa30910c57871d0a9d673ce",
+  "edition": 1333,
+  "date": 1780647700037,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

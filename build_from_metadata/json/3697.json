@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3697",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3697.png",
+  "dna": "406802d25f7c7486225ce3b217eced5338f4674b",
+  "edition": 3697,
+  "date": 1780647866352,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

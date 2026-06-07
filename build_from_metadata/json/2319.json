@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2319",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2319.png",
+  "dna": "914832efefd9ba17bcd2006fa97c0f62aa108fe9",
+  "edition": 2319,
+  "date": 1780647769447,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Joker Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

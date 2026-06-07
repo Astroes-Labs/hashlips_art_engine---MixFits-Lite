@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1015",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1015.png",
+  "dna": "23469fc2dc62459e385a299f82a4253940a33c82",
+  "edition": 1015,
+  "date": 1780647678340,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brains"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Task Force Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

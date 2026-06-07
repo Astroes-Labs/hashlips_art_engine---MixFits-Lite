@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #999",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/999.png",
+  "dna": "443c5677eb28361732451859fa5166b90a0fd0cb",
+  "edition": 999,
+  "date": 1780647677283,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -2,9 +2,9 @@
   "name": "Your Collection #431",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/431.png",
-  "dna": "ff65e5cc93e6b57738803d421869d10ac28b20b8",
+  "dna": "398e74b94e46699ad08bd20303ec54ef0883f47e",
   "edition": 431,
-  "date": 1780640972293,
+  "date": 1780647638166,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,27 +12,27 @@
     },
     {
       "trait_type": "Body",
-      "value": "Zombie"
+      "value": "Homo Sapien"
     },
     {
       "trait_type": "Hair",
-      "value": "Messy"
+      "value": "Clean Shave"
     },
     {
       "trait_type": "Eyes",
-      "value": "Regular Visor"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Red Hoodie"
+      "value": "Blue Wraparound Sunglasses"
     },
     {
       "trait_type": "Pants",
       "value": "Grey Pants"
     },
     {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
       "trait_type": "Footwear",
-      "value": "Brown Shoes"
+      "value": "OffWhyt Sneakers"
     }
   ],
   "compiler": "HashLips Art Engine"

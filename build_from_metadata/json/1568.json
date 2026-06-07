@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1568",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1568.png",
+  "dna": "d79e6d062d62eda7a8402d466107f05521b70bc8",
+  "edition": 1568,
+  "date": 1780647716392,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

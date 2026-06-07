@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2010",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2010.png",
+  "dna": "197ca7c3490c54c94b86b3cfcca32064b047d6ee",
+  "edition": 2010,
+  "date": 1780647747968,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

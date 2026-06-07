@@ -2,9 +2,9 @@
   "name": "Your Collection #132",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/132.png",
-  "dna": "a83a74e76984d90fae2a7e52581acc89fb4da3c5",
+  "dna": "ad93a7716a456400889e09777370a1fc978e1010",
   "edition": 132,
-  "date": 1780640946128,
+  "date": 1780647615505,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,7 +12,27 @@
     },
     {
       "trait_type": "Body",
-      "value": "Void Executioner"
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

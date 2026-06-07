@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #532",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/532.png",
+  "dna": "c06b4d3889c9258266fc28ecf1f794e5389deda0",
+  "edition": 532,
+  "date": 1780647645269,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

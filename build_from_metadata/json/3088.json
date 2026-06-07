@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3088",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3088.png",
+  "dna": "d6c9b5890c4e0400abc50b26b0e2bba8359c52a6",
+  "edition": 3088,
+  "date": 1780647824126,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

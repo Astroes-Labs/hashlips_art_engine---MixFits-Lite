@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1716",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1716.png",
+  "dna": "1915f972888be1534a72874b85a482bd827315e1",
+  "edition": 1716,
+  "date": 1780647727881,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

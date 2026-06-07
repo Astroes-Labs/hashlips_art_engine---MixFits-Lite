@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4082",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4082.png",
+  "dna": "4f3743f9802bf4c03229c9fe3a7a6bd4d601e5cc",
+  "edition": 4082,
+  "date": 1780647893665,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

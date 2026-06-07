@@ -2,33 +2,33 @@
   "name": "Your Collection #411",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/411.png",
-  "dna": "71cb6e7c241863a2d7241267a23001f90bb7181b",
+  "dna": "cfda9b226be3772734eccf7b3527739a40a5a2de",
   "edition": 411,
-  "date": 1780640970609,
+  "date": 1780647636841,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sky"
+      "value": "Light"
     },
     {
       "trait_type": "Body",
-      "value": "Zombie"
+      "value": "Homo Sapien"
     },
     {
       "trait_type": "Hair",
-      "value": "Low Cut II"
+      "value": "Clean Shave"
     },
     {
       "trait_type": "Eyes",
-      "value": "Pink Wraparound Sunglasses"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Joker Suit"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Pants",
-      "value": "BBall Short"
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
     },
     {
       "trait_type": "Footwear",

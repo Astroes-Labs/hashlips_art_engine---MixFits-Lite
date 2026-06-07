@@ -2,9 +2,9 @@
   "name": "Your Collection #178",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/178.png",
-  "dna": "e6e59a8adf3ae9e2c893da4edb0878ab23ea8369",
+  "dna": "1c068ed80520bbb384f730d26220826c6acd9a8a",
   "edition": 178,
-  "date": 1780640949466,
+  "date": 1780647619051,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,7 +12,27 @@
     },
     {
       "trait_type": "Body",
-      "value": "Reddish Ghost"
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
     }
   ],
   "compiler": "HashLips Art Engine"

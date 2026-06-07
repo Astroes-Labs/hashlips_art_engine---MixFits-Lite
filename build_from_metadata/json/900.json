@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #900",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/900.png",
+  "dna": "ebd64ee90c02e6dc3046be2098a55539f041500d",
+  "edition": 900,
+  "date": 1780647670554,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

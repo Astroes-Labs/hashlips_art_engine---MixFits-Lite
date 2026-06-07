@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #4056",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4056.png",
+  "dna": "3034de6a3fee500dfaef7331a0b8b28ba400b6cf",
+  "edition": 4056,
+  "date": 1780647891893,
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Experiment Zero"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #753",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/753.png",
+  "dna": "fbe70c888808ac81f94e4a1ae027344b4790dca5",
+  "edition": 753,
+  "date": 1780647660346,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

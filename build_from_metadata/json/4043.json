@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4043",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4043.png",
+  "dna": "1ab3a540fdbc674c1a1250d6b144d71a9a3bcc83",
+  "edition": 4043,
+  "date": 1780647890990,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

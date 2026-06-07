@@ -2,33 +2,33 @@
   "name": "Your Collection #246",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/246.png",
-  "dna": "e2c312ca688379c5e5902e1fd8d35be9f592dfd2",
+  "dna": "c0e8093f43412cb531124adcb67af80d13bf67ab",
   "edition": 246,
-  "date": 1780640954759,
+  "date": 1780647624195,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Wine"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Zombie"
+      "value": "Homo Sapien"
     },
     {
       "trait_type": "Hair",
-      "value": "Low Cut"
+      "value": "Blonde Taper Fade"
     },
     {
       "trait_type": "Eyes",
-      "value": "Laser"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Invisible Hoodie"
+      "value": "Blue Wraparound Sunglasses"
     },
     {
       "trait_type": "Pants",
       "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
     },
     {
       "trait_type": "Footwear",

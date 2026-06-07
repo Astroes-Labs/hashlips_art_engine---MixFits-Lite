@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4190",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4190.png",
+  "dna": "cc10a777f07a30e6b61ccd388ebd9df68d44b649",
+  "edition": 4190,
+  "date": 1780647901123,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

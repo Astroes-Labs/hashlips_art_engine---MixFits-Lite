@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1833",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1833.png",
+  "dna": "75607e707a86ca8aaa243d0a273d78660c360a58",
+  "edition": 1833,
+  "date": 1780647735889,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

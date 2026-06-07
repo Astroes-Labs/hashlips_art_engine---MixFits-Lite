@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #587",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/587.png",
+  "dna": "040f133f677c1df004c698e14f89a731b2ed314a",
+  "edition": 587,
+  "date": 1780647649157,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

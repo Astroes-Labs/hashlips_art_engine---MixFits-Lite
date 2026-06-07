@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2341",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2341.png",
+  "dna": "dfb6862859c9bdd71f9bb393391906c33f7d8a5b",
+  "edition": 2341,
+  "date": 1780647771020,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Dark Green Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

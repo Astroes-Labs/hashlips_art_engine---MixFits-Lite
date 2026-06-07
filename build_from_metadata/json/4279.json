@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4279",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4279.png",
+  "dna": "0a4bccbd85fb3a39cb74ced72140ef78de1a4010",
+  "edition": 4279,
+  "date": 1780647907465,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2328",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2328.png",
+  "dna": "03143e77b2e2d79b82ad93303530d984b9bb5247",
+  "edition": 2328,
+  "date": 1780647770133,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

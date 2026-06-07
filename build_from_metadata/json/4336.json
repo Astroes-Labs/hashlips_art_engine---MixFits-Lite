@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4336",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4336.png",
+  "dna": "d07b87b0ba5557b5754f9718a64d6c38093c09fa",
+  "edition": 4336,
+  "date": 1780647911382,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

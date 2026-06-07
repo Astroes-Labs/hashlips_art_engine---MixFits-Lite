@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4297",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4297.png",
+  "dna": "92e46d78f9a727405a73032f656fa61d79d98d6d",
+  "edition": 4297,
+  "date": 1780647908660,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4178",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4178.png",
+  "dna": "7ff22173fe1890868dc9ef4691fa7026d5907171",
+  "edition": 4178,
+  "date": 1780647900290,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

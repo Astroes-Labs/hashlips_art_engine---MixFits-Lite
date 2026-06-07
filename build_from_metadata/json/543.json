@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #543",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/543.png",
+  "dna": "53c81f07d25e4bbb86a0ce07330fe720e56f1843",
+  "edition": 543,
+  "date": 1780647645998,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

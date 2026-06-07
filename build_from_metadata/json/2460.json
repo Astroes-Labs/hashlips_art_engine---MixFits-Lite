@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2460",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2460.png",
+  "dna": "6403181fafd334297feb8984b9915641f537f223",
+  "edition": 2460,
+  "date": 1780647779463,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

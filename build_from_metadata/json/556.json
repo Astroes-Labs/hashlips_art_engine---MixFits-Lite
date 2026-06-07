@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #556",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/556.png",
+  "dna": "01d338431c27239d5771001f48d3575e4a3bcc78",
+  "edition": 556,
+  "date": 1780647646868,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

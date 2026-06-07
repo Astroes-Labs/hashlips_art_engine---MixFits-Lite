@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2530",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2530.png",
+  "dna": "63d80e29c1465f01f202f5641b0b0f9544ffefd4",
+  "edition": 2530,
+  "date": 1780647784500,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

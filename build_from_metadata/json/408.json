@@ -2,9 +2,9 @@
   "name": "Your Collection #408",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/408.png",
-  "dna": "416b90defbfd38195ff8e03747a3a41359fa4df1",
+  "dna": "8971b2b726db63720f4becfc93c84ee66e615727",
   "edition": 408,
-  "date": 1780640970385,
+  "date": 1780647636615,
   "attributes": [
     {
       "trait_type": "Background",
@@ -16,19 +16,19 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Dirty Blonde Taper Fade"
+      "value": "Clean Shave"
     },
     {
       "trait_type": "Eyes",
       "value": "Eye Patch"
     },
     {
-      "trait_type": "Shirt",
-      "value": "Task Force Vest"
-    },
-    {
       "trait_type": "Pants",
       "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
     },
     {
       "trait_type": "Footwear",

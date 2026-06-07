@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1808",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1808.png",
+  "dna": "0111c7cd34d310a89bf33a1679dab551f8894985",
+  "edition": 1808,
+  "date": 1780647734177,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

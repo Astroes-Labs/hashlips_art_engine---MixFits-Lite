@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #700",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/700.png",
+  "dna": "4fb63f09b25dfccf01c788b70faa8182b2a3ded7",
+  "edition": 700,
+  "date": 1780647656601,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

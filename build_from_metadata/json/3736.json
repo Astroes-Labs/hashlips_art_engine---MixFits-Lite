@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3736",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3736.png",
+  "dna": "3f709ad9abccc6436729e9e43713f73048bcf26c",
+  "edition": 3736,
+  "date": 1780647869027,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

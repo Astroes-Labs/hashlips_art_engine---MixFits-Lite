@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #1027",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1027.png",
+  "dna": "994f48189537aa3921c9216c8718c3000fe12206",
+  "edition": 1027,
+  "date": 1780773088586,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Panda Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

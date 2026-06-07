@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3501",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3501.png",
+  "dna": "89dbdb00fca75f87206d2a9fde268cece6331426",
+  "edition": 3501,
+  "date": 1780647852827,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

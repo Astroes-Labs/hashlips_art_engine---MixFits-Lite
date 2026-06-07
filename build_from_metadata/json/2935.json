@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2935",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2935.png",
+  "dna": "56956bbf89f81cf4122dc50e1d94e55a15c70e68",
+  "edition": 2935,
+  "date": 1780647813359,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Kill Billy Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

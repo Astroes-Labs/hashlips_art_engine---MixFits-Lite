@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4034",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4034.png",
+  "dna": "097275306c1c5d83c944e774c5c2d0fa6612c52a",
+  "edition": 4034,
+  "date": 1780773419869,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Lucha Libre Mask"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

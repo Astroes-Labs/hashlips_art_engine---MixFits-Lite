@@ -2,17 +2,37 @@
   "name": "Your Collection #175",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/175.png",
-  "dna": "6e90e21c20d3d8e4ae63f925354932ffa4034640",
+  "dna": "ec50a2eaff4523a5001557bcb975ea9b7ffea577",
   "edition": 175,
-  "date": 1780640949259,
+  "date": 1780647618821,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Monitor Bot Y"
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Panda Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
     }
   ],
   "compiler": "HashLips Art Engine"

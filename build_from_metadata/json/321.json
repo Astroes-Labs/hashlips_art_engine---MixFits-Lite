@@ -2,33 +2,33 @@
   "name": "Your Collection #321",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/321.png",
-  "dna": "1140f9bea18be08933f065d279b8c96ff7dcce94",
+  "dna": "4108360a80ec2271ee49cc1f4ac8153fdf2644a9",
   "edition": 321,
-  "date": 1780640963064,
+  "date": 1780647629757,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Zombie"
+      "value": "Homo Sapien"
     },
     {
       "trait_type": "Hair",
-      "value": "Slick Afro"
+      "value": "Blonde Slicked Back"
     },
     {
       "trait_type": "Eyes",
-      "value": "Nerd Glasses"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Blue Varsity Jacket"
+      "value": "Sunglasses"
     },
     {
       "trait_type": "Pants",
-      "value": "Task Force Pants"
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
     },
     {
       "trait_type": "Footwear",

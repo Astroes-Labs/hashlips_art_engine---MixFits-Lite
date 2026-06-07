@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #721",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/721.png",
+  "dna": "913c7ea8fe673cab8fbdb0918001626fb3869e54",
+  "edition": 721,
+  "date": 1780647658096,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Chef Outfit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

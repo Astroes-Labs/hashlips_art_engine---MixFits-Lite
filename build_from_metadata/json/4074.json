@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4074",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4074.png",
+  "dna": "c2f83ffa0bcae014082d3899fe54f07fb7002805",
+  "edition": 4074,
+  "date": 1780647893092,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

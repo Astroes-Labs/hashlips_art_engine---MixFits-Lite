@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3112",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3112.png",
+  "dna": "5315ef6cc791982874edd0f17770de75ea6692ce",
+  "edition": 3112,
+  "date": 1780647825718,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

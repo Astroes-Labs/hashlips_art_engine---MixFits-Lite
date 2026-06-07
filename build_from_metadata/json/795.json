@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #795",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/795.png",
+  "dna": "ddc90a729e34bb064178322f07e2ef9ddd529e49",
+  "edition": 795,
+  "date": 1780647663365,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Chef Outfit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3281",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3281.png",
+  "dna": "39a1b910d6d68d10a30208e652f5282000414956",
+  "edition": 3281,
+  "date": 1780647837415,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Grand Mage Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

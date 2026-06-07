@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2227",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2227.png",
+  "dna": "a5a7c754c38c5a593c82551dcd396956d2884138",
+  "edition": 2227,
+  "date": 1780647762920,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Wizard Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

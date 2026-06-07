@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #3046",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3046.png",
+  "dna": "788a2221505bd771d3f52feb5d98a7307b2d8ae0",
+  "edition": 3046,
+  "date": 1780647821258,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink Slime"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Straight Face"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Bomb"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

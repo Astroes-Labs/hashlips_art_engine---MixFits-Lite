@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #875",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/875.png",
+  "dna": "6a2f794c50223cbde8ccb7cd37723940f05e2ac0",
+  "edition": 875,
+  "date": 1780647668711,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Biker Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #711",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/711.png",
+  "dna": "c330e9399e2376f63a35ee830f2962a5cc327eb7",
+  "edition": 711,
+  "date": 1780647657419,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

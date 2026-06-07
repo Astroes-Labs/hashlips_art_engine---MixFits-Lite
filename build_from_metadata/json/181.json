@@ -2,13 +2,13 @@
   "name": "Your Collection #181",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/181.png",
-  "dna": "be176fc9ae321d60b22d0d030983ecb25376f492",
+  "dna": "ef32051110091eec3a2984ad0ee8bc5efeec16ac",
   "edition": 181,
-  "date": 1780640949740,
+  "date": 1780647619276,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Void"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Brunette Bun"
+      "value": "Bowl Cut"
     },
     {
       "trait_type": "Eyes",
-      "value": "3D Shades"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Snow Jacket"
+      "value": "Pink Wraparound Sunglasses"
     },
     {
       "trait_type": "Pants",
-      "value": "Black Pants"
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Chef Outfit"
     },
     {
       "trait_type": "Footwear",
-      "value": "OffWhyt Sneakers"
+      "value": "Red colorway Sneakers"
     }
   ],
   "compiler": "HashLips Art Engine"

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3327",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3327.png",
+  "dna": "c7372393d901c1337c0b9f4759176cb879550a3f",
+  "edition": 3327,
+  "date": 1780647840629,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1046",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1046.png",
+  "dna": "eb60099184676084c5f4269c3bccfe497fc5a741",
+  "edition": 1046,
+  "date": 1780647680470,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

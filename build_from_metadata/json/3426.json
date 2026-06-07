@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3426",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3426.png",
+  "dna": "2cd1835f7f21894e486fe6db1d573a5ac290f14f",
+  "edition": 3426,
+  "date": 1780647847633,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Joker Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

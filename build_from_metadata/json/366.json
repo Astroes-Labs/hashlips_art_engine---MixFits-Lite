@@ -2,37 +2,37 @@
   "name": "Your Collection #366",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/366.png",
-  "dna": "78030889c679ec749dc48e4c649c84d1ae3a8288",
+  "dna": "e5ffcfa1d77a8990c7d133252879ae30a2295004",
   "edition": 366,
-  "date": 1780640967274,
+  "date": 1780647633684,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sky"
+      "value": "Void"
     },
     {
       "trait_type": "Body",
-      "value": "Zombie"
+      "value": "Homo Sapien"
     },
     {
       "trait_type": "Hair",
-      "value": "Ginger Bowl Cut"
+      "value": "Fade"
     },
     {
       "trait_type": "Eyes",
-      "value": "Eye Patch"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Monk Robe"
+      "value": "Regular Visor"
     },
     {
       "trait_type": "Pants",
-      "value": "Black Suit Pants"
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
     },
     {
       "trait_type": "Footwear",
-      "value": "Black Boots"
+      "value": "Brown Sandals"
     }
   ],
   "compiler": "HashLips Art Engine"

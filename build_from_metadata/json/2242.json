@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2242",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2242.png",
+  "dna": "b4829b0017119830f465f41e59ffa4e611bc5d56",
+  "edition": 2242,
+  "date": 1780647764118,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

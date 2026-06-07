@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4112",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4112.png",
+  "dna": "65b867e97c8d4fa17075166acfa87acb3d370646",
+  "edition": 4112,
+  "date": 1780647895705,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1963",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1963.png",
+  "dna": "ea4f442997c99bb60c2e8df5ea3f648715c4e182",
+  "edition": 1963,
+  "date": 1780647744874,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

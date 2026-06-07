@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4407",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4407.png",
+  "dna": "6ee9743c6c91a93aae4f3ad4a24e27f97f3174d8",
+  "edition": 4407,
+  "date": 1780647916396,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

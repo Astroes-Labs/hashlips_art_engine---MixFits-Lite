@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2861",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2861.png",
+  "dna": "271de4e1e743be9eb11fff6c2b87317853123f95",
+  "edition": 2861,
+  "date": 1780647808026,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

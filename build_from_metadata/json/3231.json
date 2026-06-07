@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3231",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3231.png",
+  "dna": "cd4bd15bcf2cad338f1d2d868ac12c9bf6e0fedf",
+  "edition": 3231,
+  "date": 1780647834029,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3266",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3266.png",
+  "dna": "0e39ed4d996ccc4190514991a9146cb52ebd3441",
+  "edition": 3266,
+  "date": 1780647836408,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Joker Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

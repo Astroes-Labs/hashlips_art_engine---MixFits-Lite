@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #858",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/858.png",
+  "dna": "e5aba3d13f70573f5b581f30d25219b3b9b6519a",
+  "edition": 858,
+  "date": 1780647667569,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

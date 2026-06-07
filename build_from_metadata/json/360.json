@@ -2,37 +2,37 @@
   "name": "Your Collection #360",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/360.png",
-  "dna": "8dd3bca08dba9f19b07892f263ca2b10b71a1330",
+  "dna": "85a4c60777f4849632f95192531b531f73ac6254",
   "edition": 360,
-  "date": 1780640966841,
+  "date": 1780647633043,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Wine"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Zombie"
+      "value": "Homo Sapien"
     },
     {
       "trait_type": "Hair",
-      "value": "Dirty Blonde Taper Fade"
+      "value": "Messy"
     },
     {
       "trait_type": "Eyes",
-      "value": "Nerd Glasses"
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
     },
     {
       "trait_type": "Shirt",
       "value": "Red Hoodie"
     },
     {
-      "trait_type": "Pants",
-      "value": "Joker Suit Pants"
-    },
-    {
       "trait_type": "Footwear",
-      "value": "Ash colorway Sneakers"
+      "value": "Black Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

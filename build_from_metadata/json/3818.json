@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3818",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3818.png",
+  "dna": "53a771b8bbf41afb6d0ff26df59c2fecb9e7f9fb",
+  "edition": 3818,
+  "date": 1780647874811,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Biker Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

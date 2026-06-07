@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #801",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/801.png",
+  "dna": "0abc5036da716aca344b268ddaaca050903a2511",
+  "edition": 801,
+  "date": 1780647663776,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Slime"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Straight Face"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Ring"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

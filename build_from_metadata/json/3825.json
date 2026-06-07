@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3825",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3825.png",
+  "dna": "77a983ede9fce66f2a8e07a322ca9dc9eaa99421",
+  "edition": 3825,
+  "date": 1780647875339,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

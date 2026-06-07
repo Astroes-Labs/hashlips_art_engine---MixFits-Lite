@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #767",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/767.png",
+  "dna": "201f29fe24e261246e63a0f6886a41950aa9f8c1",
+  "edition": 767,
+  "date": 1780647661543,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2629",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2629.png",
+  "dna": "1de03a7e6709e07bc3bd671c0bad8eeda9aa29e3",
+  "edition": 2629,
+  "date": 1780647791464,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

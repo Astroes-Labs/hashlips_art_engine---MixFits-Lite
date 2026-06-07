@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2514",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2514.png",
+  "dna": "c408744962f041822ed8677be8ccde2fc91935b4",
+  "edition": 2514,
+  "date": 1780647783274,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

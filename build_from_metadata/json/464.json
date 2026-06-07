@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #464",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/464.png",
+  "dna": "770a49b9a63762fc3dffb0611c4dd2e316807c02",
+  "edition": 464,
+  "date": 1780647640792,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brains"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

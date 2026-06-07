@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3809",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3809.png",
+  "dna": "77df79701b0be52fa2bfc2448803d02a4341eba4",
+  "edition": 3809,
+  "date": 1780647874178,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Kill Billy Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

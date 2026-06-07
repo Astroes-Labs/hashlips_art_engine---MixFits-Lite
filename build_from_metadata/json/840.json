@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #840",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/840.png",
+  "dna": "c40bae366c4c37cb1ac58f390b810f0f30e58a44",
+  "edition": 840,
+  "date": 1780647666380,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Task Force Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

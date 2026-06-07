@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #836",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/836.png",
+  "dna": "0796f7bbb2bd4f40d233b5402ab20e96f3326171",
+  "edition": 836,
+  "date": 1780647666124,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Joker Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

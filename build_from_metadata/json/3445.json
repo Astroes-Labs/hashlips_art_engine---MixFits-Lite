@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #3445",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3445.png",
+  "dna": "305e58cd1249c152007f697961d690692f4e716f",
+  "edition": 3445,
+  "date": 1780775050195,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Croc Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

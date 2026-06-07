@@ -2,9 +2,9 @@
   "name": "Your Collection #150",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/150.png",
-  "dna": "62afadd2ebef2f0d329781d261b40148dfcfb337",
+  "dna": "b2402f8e27df6c2402f32ea64b62a2930f4848c9",
   "edition": 150,
-  "date": 1780640946998,
+  "date": 1780647616886,
   "attributes": [
     {
       "trait_type": "Background",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Clean Shave"
+      "value": "Dirty Blonde Taper Fade"
     },
     {
       "trait_type": "Eyes",
-      "value": "Eye Patch"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Task Force Vest"
+      "value": "Regular Visor"
     },
     {
       "trait_type": "Pants",
-      "value": "Faded Jeans"
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
     },
     {
       "trait_type": "Footwear",
-      "value": "Pirate Boots"
+      "value": "Brown Sandals"
     }
   ],
   "compiler": "HashLips Art Engine"

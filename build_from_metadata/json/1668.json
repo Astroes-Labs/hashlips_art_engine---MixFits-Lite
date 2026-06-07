@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1668",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1668.png",
+  "dna": "9e48d37e7f7952bb198d27374dc5a6217c20f272",
+  "edition": 1668,
+  "date": 1780647724602,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Chef Outfit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

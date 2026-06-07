@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2274",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2274.png",
+  "dna": "11244eaa0e4189ca0a5f3607600ad8c970d0ddb7",
+  "edition": 2274,
+  "date": 1780647766300,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

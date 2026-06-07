@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #3446",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3446.png",
+  "dna": "a422d46dd73e853a0227b8147275808295ac46ce",
+  "edition": 3446,
+  "date": 1780647848947,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mummy II"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

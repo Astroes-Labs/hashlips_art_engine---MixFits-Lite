@@ -2,17 +2,37 @@
   "name": "Your Collection #92",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/92.png",
-  "dna": "c53a1f5cdb928d024b5e15f4ed927b761605b8f2",
+  "dna": "dd44c6e7308a8ca6b7cc24ccbf6f42f64030dd33",
   "edition": 92,
-  "date": 1780640944068,
+  "date": 1780647612603,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sky"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Silver Skeleton"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Kill Billy Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

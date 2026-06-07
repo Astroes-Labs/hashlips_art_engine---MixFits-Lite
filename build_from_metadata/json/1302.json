@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1302",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1302.png",
+  "dna": "c81482aeb055c8793072b4838d61a2dec12c8693",
+  "edition": 1302,
+  "date": 1780647697692,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Pirate Capt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

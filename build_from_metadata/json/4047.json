@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4047",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4047.png",
+  "dna": "0c03cc666f75ec893cd6309500cdba76e7334ac9",
+  "edition": 4047,
+  "date": 1780647891295,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Biker Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2710",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2710.png",
+  "dna": "fd0cd9cd1a35970fbd4aa998f90ed1e590b1b096",
+  "edition": 2710,
+  "date": 1780647796932,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

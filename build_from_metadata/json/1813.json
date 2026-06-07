@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1813",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1813.png",
+  "dna": "091c5c226662e21bdc1f6a82892a52ef8f20df0a",
+  "edition": 1813,
+  "date": 1780647734511,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Dark Green Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

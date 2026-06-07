@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3518",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3518.png",
+  "dna": "f96ea15634f61c86111b65b3ec90af48804e1ae2",
+  "edition": 3518,
+  "date": 1780647853983,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

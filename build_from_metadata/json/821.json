@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #821",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/821.png",
+  "dna": "e656aaf09c306959a0fa76fb5bdb92ef6e36c2df",
+  "edition": 821,
+  "date": 1780647665098,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

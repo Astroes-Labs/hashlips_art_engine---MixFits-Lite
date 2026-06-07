@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3208",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3208.png",
+  "dna": "097291e986da0d936f83e227413058efc04d2e87",
+  "edition": 3208,
+  "date": 1780647832340,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #888",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/888.png",
+  "dna": "d88abffcaac42e158352c949d9efb2b8280b9bbe",
+  "edition": 888,
+  "date": 1780647669598,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

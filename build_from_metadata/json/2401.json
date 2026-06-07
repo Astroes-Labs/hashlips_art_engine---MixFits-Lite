@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2401",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2401.png",
+  "dna": "8c8b475d2dc128ab9f9ab4ede3caee05f402c1e5",
+  "edition": 2401,
+  "date": 1780647775071,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

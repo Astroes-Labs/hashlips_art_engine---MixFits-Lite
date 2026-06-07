@@ -2,9 +2,9 @@
   "name": "Your Collection #30",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/30.png",
-  "dna": "c4b719c95229aa992a9e6135b85a00e37abf3550",
+  "dna": "987eb97683cb0abc285cf542c15495b555f3fec0",
   "edition": 30,
-  "date": 1780640941198,
+  "date": 1780647607787,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,7 +12,27 @@
     },
     {
       "trait_type": "Body",
-      "value": "Gold Skeleton"
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Biker Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
     }
   ],
   "compiler": "HashLips Art Engine"

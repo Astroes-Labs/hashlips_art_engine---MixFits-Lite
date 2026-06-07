@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4313",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4313.png",
+  "dna": "61093d582368e1edd2bdf7b1203acac3faa73212",
+  "edition": 4313,
+  "date": 1780647909808,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Task Force Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

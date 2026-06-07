@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #2210",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2210.png",
+  "dna": "5b8f58e4bba38d22e458f7ad2002fc18e2b0d458",
+  "edition": 2210,
+  "date": 1780775050189,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Panda Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

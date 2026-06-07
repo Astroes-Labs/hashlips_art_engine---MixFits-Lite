@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2123",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2123.png",
+  "dna": "3f1dac8f13226c212c80e8bacdd59f0d6affb494",
+  "edition": 2123,
+  "date": 1780647755761,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

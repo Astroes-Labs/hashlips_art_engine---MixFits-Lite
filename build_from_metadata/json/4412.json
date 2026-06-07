@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4412",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4412.png",
+  "dna": "74e7e1ad09a2778f132a9f57349eb78df6393924",
+  "edition": 4412,
+  "date": 1780647916776,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

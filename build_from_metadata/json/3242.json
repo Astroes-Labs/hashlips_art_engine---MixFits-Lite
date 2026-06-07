@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3242",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3242.png",
+  "dna": "7c55515f0eec105e809844c4b969fa81b47dfcbe",
+  "edition": 3242,
+  "date": 1780647834743,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Chef Outfit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

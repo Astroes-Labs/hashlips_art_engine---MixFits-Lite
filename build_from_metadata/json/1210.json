@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1210",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1210.png",
+  "dna": "0688d4ebc605c39a9bc5e89970173ada82fa44bf",
+  "edition": 1210,
+  "date": 1780647691473,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

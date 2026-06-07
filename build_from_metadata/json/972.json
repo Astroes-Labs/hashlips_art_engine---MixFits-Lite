@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #972",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/972.png",
+  "dna": "b3b4e072f8366120ef301d1edfe9ba607f67061a",
+  "edition": 972,
+  "date": 1780647675512,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #754",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/754.png",
+  "dna": "1539d373b258f17e8dbc98064a3409a7f1b0f993",
+  "edition": 754,
+  "date": 1780775050186,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Full Protective Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

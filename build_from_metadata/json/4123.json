@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4123",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4123.png",
+  "dna": "3a239296ad206c3a04f08e77fafd77963a248150",
+  "edition": 4123,
+  "date": 1780647896441,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

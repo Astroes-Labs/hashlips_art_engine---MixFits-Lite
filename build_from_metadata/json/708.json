@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #708",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/708.png",
+  "dna": "043fabb838de5b41ae480f24a237959ce4b541ec",
+  "edition": 708,
+  "date": 1780647657197,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -2,17 +2,37 @@
   "name": "Your Collection #78",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/78.png",
-  "dna": "c18b57a13d528bf06c70f133d4e32e76927f79e5",
+  "dna": "b46b9dda93fb0181da9d93b825f4431224152993",
   "edition": 78,
-  "date": 1780640943464,
+  "date": 1780647611569,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sky"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Gold Skeleton"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
     }
   ],
   "compiler": "HashLips Art Engine"

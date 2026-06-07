@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #2456",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2456.png",
+  "dna": "94d0c4172aad595d9af7366677e13cae61d1cb44",
+  "edition": 2456,
+  "date": 1780647779200,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Void Watcher"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

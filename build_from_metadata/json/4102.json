@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4102",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4102.png",
+  "dna": "88368fb8648a1ccfd9bb93f31785a61a3728d0d9",
+  "edition": 4102,
+  "date": 1780647895009,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

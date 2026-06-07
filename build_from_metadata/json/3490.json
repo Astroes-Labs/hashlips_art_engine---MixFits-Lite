@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3490",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3490.png",
+  "dna": "8ade7940ad509f4464cf9c5200fbfc4312b07662",
+  "edition": 3490,
+  "date": 1780647852096,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Tux"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

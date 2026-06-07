@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #986",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/986.png",
+  "dna": "ea4b489a86bdeccaf054268dc7da31c78f530ea7",
+  "edition": 986,
+  "date": 1780647676423,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

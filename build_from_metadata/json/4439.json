@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4439",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4439.png",
+  "dna": "816b9bc2b1a24f7687084491b7a4592db4ff9521",
+  "edition": 4439,
+  "date": 1780647918941,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Dark Green Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

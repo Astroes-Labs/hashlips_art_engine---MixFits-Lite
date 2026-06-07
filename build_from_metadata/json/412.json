@@ -2,25 +2,37 @@
   "name": "Your Collection #412",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/412.png",
-  "dna": "14206550b8482ee3019eea4d4cc53129c9201e80",
+  "dna": "b18a31e62df49ad7a89d2e1bdfe0827cf7db837b",
   "edition": 412,
-  "date": 1780640970660,
+  "date": 1780647636906,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark"
+      "value": "Void"
     },
     {
       "trait_type": "Body",
-      "value": "Stoner"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
     },
     {
       "trait_type": "Eyes",
-      "value": "Straight Face"
+      "value": "3D Glasses"
     },
     {
-      "trait_type": "Special",
-      "value": "Katana"
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
     }
   ],
   "compiler": "HashLips Art Engine"

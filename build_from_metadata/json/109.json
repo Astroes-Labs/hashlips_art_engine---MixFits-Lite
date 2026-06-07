@@ -2,17 +2,25 @@
   "name": "Your Collection #109",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/109.png",
-  "dna": "41582681c05e52b3d5bc099faf855d5a51573440",
+  "dna": "5d2f59bfab733c3c93031847864e2b70320a407f",
   "edition": 109,
-  "date": 1780640944923,
+  "date": 1780647613826,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Void"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Monitor Bot X"
+      "value": "Pink Slime"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Straight Face"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Dog"
     }
   ],
   "compiler": "HashLips Art Engine"

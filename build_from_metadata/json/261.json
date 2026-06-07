@@ -2,37 +2,17 @@
   "name": "Your Collection #261",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/261.png",
-  "dna": "b15d5e7ec583ff97d8abe1cee5a9f1013b75f80c",
+  "dna": "087f561c533134d6c44dff0e30e9be1fe1aa9468",
   "edition": 261,
-  "date": 1780640956018,
+  "date": 1780647625261,
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Void"
-    },
-    {
       "trait_type": "Body",
-      "value": "Zombie"
-    },
-    {
-      "trait_type": "Hair",
-      "value": "Clean Shave"
+      "value": "Experiment Zero"
     },
     {
       "trait_type": "Eyes",
-      "value": "3D Shades"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "High Priest"
-    },
-    {
-      "trait_type": "Pants",
-      "value": "Jeans"
-    },
-    {
-      "trait_type": "Footwear",
-      "value": "Ski Boots"
+      "value": "Blue Wraparound Sunglasses"
     }
   ],
   "compiler": "HashLips Art Engine"

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #512",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/512.png",
+  "dna": "f7d8f23374ec885b1c6e7cb38ced2da038e63ae6",
+  "edition": 512,
+  "date": 1780647643889,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

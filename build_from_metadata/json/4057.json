@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4057",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4057.png",
+  "dna": "f761ec4e504cf71ade428c7d572b23c4e0c89378",
+  "edition": 4057,
+  "date": 1780647891963,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Wizard Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

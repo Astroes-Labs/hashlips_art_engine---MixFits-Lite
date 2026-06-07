@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #3714",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3714.png",
+  "dna": "ce3ca0f11fc9bd63f75a918313b9cd710532da24",
+  "edition": 3714,
+  "date": 1780647867520,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reddish Ghost"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

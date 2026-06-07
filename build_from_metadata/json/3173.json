@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3173",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3173.png",
+  "dna": "d7426736fcdab9ec2914a2a48c462aad45d88ecd",
+  "edition": 3173,
+  "date": 1780647829972,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

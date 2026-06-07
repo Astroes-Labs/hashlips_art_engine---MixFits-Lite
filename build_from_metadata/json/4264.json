@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4264",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4264.png",
+  "dna": "6490e82cd408b4d0bcd44295a9150fbcf89cec01",
+  "edition": 4264,
+  "date": 1780647906404,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

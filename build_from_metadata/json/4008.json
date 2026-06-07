@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4008",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4008.png",
+  "dna": "956de7a131dea4f050a05bfc8dd377e3ef5f2e78",
+  "edition": 4008,
+  "date": 1780647888555,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

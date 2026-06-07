@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #2755",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2755.png",
+  "dna": "d3b1379f433112fecb8e9db788c1eedeac4973c7",
+  "edition": 2755,
+  "date": 1780775050192,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Shark Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

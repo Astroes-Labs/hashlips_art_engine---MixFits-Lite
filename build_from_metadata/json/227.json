@@ -2,17 +2,37 @@
   "name": "Your Collection #227",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/227.png",
-  "dna": "9ba7d93ee2c7a36fee6f39664d925dd56043c6b0",
+  "dna": "4b2136e1fa3a09014171a4bb19bf6b2ce8d807a6",
   "edition": 227,
-  "date": 1780640953233,
+  "date": 1780647622870,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Void"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Silver Back Werewolf"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

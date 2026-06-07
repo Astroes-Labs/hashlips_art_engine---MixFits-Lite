@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4314",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4314.png",
+  "dna": "a16daee08d2286305e8e12e422722a7ca570aa27",
+  "edition": 4314,
+  "date": 1780647909884,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

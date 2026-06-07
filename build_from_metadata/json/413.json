@@ -2,13 +2,13 @@
   "name": "Your Collection #413",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/413.png",
-  "dna": "01628d824c974056b933097646005de1be434da0",
+  "dna": "6dcb25eea6924888661ac0118119d608b7da41af",
   "edition": 413,
-  "date": 1780640970726,
+  "date": 1780647636987,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sky"
+      "value": "Void"
     },
     {
       "trait_type": "Body",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Ginger Bowl Cut"
+      "value": "Bowl Cut"
     },
     {
       "trait_type": "Eyes",
-      "value": "Eye Patch"
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
     },
     {
       "trait_type": "Shirt",
       "value": "Invisible Hoodie"
     },
     {
-      "trait_type": "Pants",
-      "value": "Shredded Jeans"
-    },
-    {
       "trait_type": "Footwear",
-      "value": "Boxers Boot"
+      "value": "OffWhyt Sneakers"
     }
   ],
   "compiler": "HashLips Art Engine"

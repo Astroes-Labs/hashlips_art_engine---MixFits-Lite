@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2019",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2019.png",
+  "dna": "67ad21d806f9991297054f857ce6fbd0ec57b985",
+  "edition": 2019,
+  "date": 1780647748575,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

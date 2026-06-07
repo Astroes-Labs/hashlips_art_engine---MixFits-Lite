@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1042",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1042.png",
+  "dna": "a71434f83bef638bbdd2ae692a3e901339511ed1",
+  "edition": 1042,
+  "date": 1780647680196,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Biker Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

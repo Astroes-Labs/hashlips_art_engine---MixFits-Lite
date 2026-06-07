@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3806",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3806.png",
+  "dna": "2bef374a0607e1ed1c35d8bc997464f810b663bc",
+  "edition": 3806,
+  "date": 1780647873809,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

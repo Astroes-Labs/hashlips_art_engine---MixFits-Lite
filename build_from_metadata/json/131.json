@@ -2,17 +2,37 @@
   "name": "Your Collection #131",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/131.png",
-  "dna": "516d240f0d6d8a6bf7298cf41195837127d4d260",
+  "dna": "1f014346c860210e68c36598ae61b5784f441e96",
   "edition": 131,
-  "date": 1780640946084,
+  "date": 1780647615417,
   "attributes": [
     {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
       "trait_type": "Body",
-      "value": "Experiment Zero"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
     },
     {
       "trait_type": "Eyes",
-      "value": "Laser"
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

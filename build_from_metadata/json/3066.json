@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3066",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3066.png",
+  "dna": "880dbd8b0a4ff0cbc8fa30c9f32e88c16d7b8d3e",
+  "edition": 3066,
+  "date": 1780647822652,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

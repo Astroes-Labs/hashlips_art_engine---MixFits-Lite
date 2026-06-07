@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1920",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1920.png",
+  "dna": "3f34ee6ba3d4d034e8abb13df55df390815990b4",
+  "edition": 1920,
+  "date": 1780647741940,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Dark Green Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

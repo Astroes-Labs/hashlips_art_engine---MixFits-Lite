@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4162",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4162.png",
+  "dna": "80010303ae3228dfb64699167409a21a1182b484",
+  "edition": 4162,
+  "date": 1780647899102,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3482",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3482.png",
+  "dna": "079dd9ce520423a33d6da13e7abb0ca0d149e599",
+  "edition": 3482,
+  "date": 1780647851505,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

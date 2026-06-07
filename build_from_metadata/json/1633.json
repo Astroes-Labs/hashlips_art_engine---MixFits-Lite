@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1633",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1633.png",
+  "dna": "11d52cd6a92369dc6ef2991bf4d416403389df4e",
+  "edition": 1633,
+  "date": 1780647721504,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Kill Billy Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

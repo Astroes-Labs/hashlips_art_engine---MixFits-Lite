@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2006",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2006.png",
+  "dna": "d2627943b0797ec7096ea41d6a94d9ea37a27b24",
+  "edition": 2006,
+  "date": 1780647747721,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ski Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

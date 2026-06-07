@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #770",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/770.png",
+  "dna": "8e1c94535645f15ed0d3c0b8ded444d298828171",
+  "edition": 770,
+  "date": 1780685629347,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Afro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Knight"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

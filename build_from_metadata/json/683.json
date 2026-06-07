@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #683",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/683.png",
+  "dna": "130e1b4fd2513cb29ec822890d1d15146c2db0b8",
+  "edition": 683,
+  "date": 1780647655514,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2628",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2628.png",
+  "dna": "26f7dc7b4adb215bf3f1d311543ac38927b7e11e",
+  "edition": 2628,
+  "date": 1780647791396,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Kill Billy Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

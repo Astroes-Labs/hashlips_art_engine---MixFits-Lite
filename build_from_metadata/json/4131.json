@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4131",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4131.png",
+  "dna": "b2a1e68fc189a06f7842504b4262a4a36ab9ad5c",
+  "edition": 4131,
+  "date": 1780647896988,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

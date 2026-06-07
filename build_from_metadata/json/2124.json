@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2124",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2124.png",
+  "dna": "d2c997c1eb903f75226ac3e1b0576ec49e941a59",
+  "edition": 2124,
+  "date": 1780647755828,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Suit"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

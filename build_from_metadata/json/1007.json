@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1007",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1007.png",
+  "dna": "39ffff3e6c4dec4b429b5d0c036fb5c306e7a59a",
+  "edition": 1007,
+  "date": 1780647677824,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

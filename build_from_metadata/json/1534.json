@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1534",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1534.png",
+  "dna": "6180500d2e8be7664ce212dd8c9414fca027df82",
+  "edition": 1534,
+  "date": 1780647713872,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Joker Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

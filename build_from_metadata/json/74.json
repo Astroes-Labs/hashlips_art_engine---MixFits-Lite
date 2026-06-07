@@ -2,17 +2,37 @@
   "name": "Your Collection #74",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/74.png",
-  "dna": "ca24f81ebb7c5e56232dbcdd7f8c6c0209f07b82",
+  "dna": "8241ed077f6ed63d925930f842cef6dd9bdc70b9",
   "edition": 74,
-  "date": 1780640943249,
+  "date": 1780647611262,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Mighty Balor"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Tux"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

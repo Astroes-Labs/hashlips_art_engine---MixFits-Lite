@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #522",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/522.png",
+  "dna": "c84dabdca2ea3baed809a3c852cb78ab7d822f16",
+  "edition": 522,
+  "date": 1780647644561,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

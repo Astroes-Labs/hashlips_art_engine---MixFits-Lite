@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2084",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2084.png",
+  "dna": "58cae2545b3ff3dd741229c4159d3a8c4e9efc17",
+  "edition": 2084,
+  "date": 1780647753155,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

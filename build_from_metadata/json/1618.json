@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1618",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1618.png",
+  "dna": "6d16c7944434f7030f6dc7b9a10bed2d81123d7a",
+  "edition": 1618,
+  "date": 1780773419862,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Lucha Libre Mask"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

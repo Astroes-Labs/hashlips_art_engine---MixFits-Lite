@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4378",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4378.png",
+  "dna": "dd506aa9d4fc1ec38a8636376f7abb392178c45d",
+  "edition": 4378,
+  "date": 1780647914252,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Kill Billy Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

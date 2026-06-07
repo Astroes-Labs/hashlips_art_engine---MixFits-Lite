@@ -2,17 +2,37 @@
   "name": "Your Collection #8",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/8.png",
-  "dna": "6ed3fa589d7d1754f86dd347b34df68a19839b06",
+  "dna": "6eae46cbaabb43ce68aca1f6becc52ef285febcd",
   "edition": 8,
-  "date": 1780640939854,
+  "date": 1780647605897,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Gold Skeleton"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
     }
   ],
   "compiler": "HashLips Art Engine"

@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #2895",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2895.png",
+  "dna": "bbe019ed53a76dbaf7a3d8adfb36abf484d93826",
+  "edition": 2895,
+  "date": 1780774597942,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Stoner"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

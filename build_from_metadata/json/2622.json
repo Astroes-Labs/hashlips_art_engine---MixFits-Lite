@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #2622",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2622.png",
+  "dna": "17585ca142519198faaec1b24d03bbe9af9bf518",
+  "edition": 2622,
+  "date": 1780685629350,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Knight"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4272",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4272.png",
+  "dna": "2306cb666ee9207a507db961ae6d529f1f351836",
+  "edition": 4272,
+  "date": 1780647906929,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

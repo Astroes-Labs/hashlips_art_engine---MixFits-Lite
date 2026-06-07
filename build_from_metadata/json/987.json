@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #987",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/987.png",
+  "dna": "ea5ca91a71864fb100c653c781d3ec129d730f3b",
+  "edition": 987,
+  "date": 1780647676485,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Dark Green Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

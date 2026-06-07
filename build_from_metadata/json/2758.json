@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2758",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2758.png",
+  "dna": "3513873e828091c6fc6a9d931abefe26a1ee7803",
+  "edition": 2758,
+  "date": 1780647800234,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brains"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2856",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2856.png",
+  "dna": "532d91de5571b6e28443088d9187a451aa37c669",
+  "edition": 2856,
+  "date": 1780647807685,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

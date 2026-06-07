@@ -2,13 +2,13 @@
   "name": "Your Collection #215",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/215.png",
-  "dna": "b9960bb412ca8f233aec7568d674d74c3b17523b",
+  "dna": "bbe35c8953162ce5d636ac541b47ce10ec95bfb0",
   "edition": 215,
-  "date": 1780640952286,
+  "date": 1780647621956,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Brains"
+      "value": "Brunette Bun"
     },
     {
       "trait_type": "Eyes",
-      "value": "Classic Visor"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Red Varsity Jacket"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Pants",
-      "value": "Joker Suit Pants"
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
     },
     {
       "trait_type": "Footwear",
-      "value": "Flip Flops"
+      "value": "Black Combat Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

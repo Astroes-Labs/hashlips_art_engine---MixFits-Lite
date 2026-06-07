@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2481",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2481.png",
+  "dna": "a68f0db15540338acdf4bab77b30e1a58be6171a",
+  "edition": 2481,
+  "date": 1780647781030,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #1856",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1856.png",
+  "dna": "f54202fd45f2986568eb1484686f7a1563e4680b",
+  "edition": 1856,
+  "date": 1780647737590,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mighty Balor"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

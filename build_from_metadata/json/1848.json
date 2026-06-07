@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #1848",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1848.png",
+  "dna": "cc2cf2cbae84579ac648ea65ac19eb06aa538e02",
+  "edition": 1848,
+  "date": 1780685629348,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Knight"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

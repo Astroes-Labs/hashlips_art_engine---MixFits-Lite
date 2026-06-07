@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3061",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3061.png",
+  "dna": "f2e7ed582e149867ecbee761bef70efbfa8ab9a7",
+  "edition": 3061,
+  "date": 1780647822315,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Wizard Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

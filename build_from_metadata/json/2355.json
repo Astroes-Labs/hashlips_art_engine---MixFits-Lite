@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2355",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2355.png",
+  "dna": "0f82a68beb16f1ec6ab631665838f95132d12c7d",
+  "edition": 2355,
+  "date": 1780647771923,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

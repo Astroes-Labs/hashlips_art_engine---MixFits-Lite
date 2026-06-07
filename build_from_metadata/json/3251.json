@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3251",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3251.png",
+  "dna": "ad623ae7e815ec3e9c5d177aadc6f705c9c98346",
+  "edition": 3251,
+  "date": 1780647835345,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

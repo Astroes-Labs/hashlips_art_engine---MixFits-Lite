@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #3085",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3085.png",
+  "dna": "ac241f78ce04c238dca8122ae61cecee6271433f",
+  "edition": 3085,
+  "date": 1780647823927,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mutant C"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

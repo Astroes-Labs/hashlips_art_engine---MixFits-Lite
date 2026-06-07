@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3704",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3704.png",
+  "dna": "0945e1b1dd40740a5cbc5762532d8e6fbd0110a2",
+  "edition": 3704,
+  "date": 1780647866869,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Task Force Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

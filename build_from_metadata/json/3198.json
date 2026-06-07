@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3198",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3198.png",
+  "dna": "da14856d7e693c868c0c043ebce3f64c02381872",
+  "edition": 3198,
+  "date": 1780647831683,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3801",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3801.png",
+  "dna": "1baa6bbb4b41b343eb4aaee3a8301faf3bfb704e",
+  "edition": 3801,
+  "date": 1780647873473,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Varsity Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

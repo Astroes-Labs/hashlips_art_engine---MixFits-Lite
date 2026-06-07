@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #2091",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2091.png",
+  "dna": "247d308431496bcd645ccac3fc8fff88ab34098f",
+  "edition": 2091,
+  "date": 1780647753582,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mighty Balor"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

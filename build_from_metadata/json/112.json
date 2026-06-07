@@ -2,17 +2,37 @@
   "name": "Your Collection #112",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/112.png",
-  "dna": "c1f9e20e840495560eac3b827dd2eef3054ad317",
+  "dna": "416a0e0e1db7237e0302ffcb6fcf1924b0326b6c",
   "edition": 112,
-  "date": 1780640945086,
+  "date": 1780647614079,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark"
+      "value": "Void"
     },
     {
       "trait_type": "Body",
-      "value": "Ginger Werewolf"
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
     }
   ],
   "compiler": "HashLips Art Engine"

@@ -2,9 +2,9 @@
   "name": "Your Collection #300",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/300.png",
-  "dna": "1129e701baa637d6706d7f2700353b98a775db4a",
+  "dna": "8dd36b6e2ee4bf1fb1e18733134458f2f6f8e5c7",
   "edition": 300,
-  "date": 1780640959821,
+  "date": 1780647628120,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,15 +12,27 @@
     },
     {
       "trait_type": "Body",
-      "value": "Blue Slime"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
     },
     {
       "trait_type": "Eyes",
-      "value": "Straight Face"
+      "value": "Classic Visor"
     },
     {
-      "trait_type": "Special",
-      "value": "Dog"
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Red colorway Sneakers"
     }
   ],
   "compiler": "HashLips Art Engine"

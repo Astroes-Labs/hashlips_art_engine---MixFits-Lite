@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2015",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2015.png",
+  "dna": "d26b266418349b28913b86863bdfda5f790188d3",
+  "edition": 2015,
+  "date": 1780647748300,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

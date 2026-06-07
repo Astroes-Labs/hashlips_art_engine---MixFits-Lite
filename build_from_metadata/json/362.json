@@ -2,37 +2,25 @@
   "name": "Your Collection #362",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/362.png",
-  "dna": "1fbf0c26153a50dfafadd8797509c8b8b724f1df",
+  "dna": "67037a928ca27864aa5cc51fdc7bc2482335cba4",
   "edition": 362,
-  "date": 1780640966972,
+  "date": 1780647633224,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Zombie"
-    },
-    {
-      "trait_type": "Hair",
-      "value": "Brains"
+      "value": "Blue Slime"
     },
     {
       "trait_type": "Eyes",
-      "value": "Eye Patch"
+      "value": "Straight Face"
     },
     {
-      "trait_type": "Shirt",
-      "value": "Ninja Outfit"
-    },
-    {
-      "trait_type": "Pants",
-      "value": "Blue Suit Pants"
-    },
-    {
-      "trait_type": "Footwear",
-      "value": "OffWhyt Sneakers"
+      "trait_type": "Special",
+      "value": "Brain"
     }
   ],
   "compiler": "HashLips Art Engine"

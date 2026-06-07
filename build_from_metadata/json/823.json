@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #823",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/823.png",
+  "dna": "067373f2b7b9fc2f02f5fa1f0f7692d4c0bacf8f",
+  "edition": 823,
+  "date": 1780647665226,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Dark Green Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

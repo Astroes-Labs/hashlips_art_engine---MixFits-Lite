@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #588",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/588.png",
+  "dna": "6f76a74bb7abab3737527bc6cc74c6af6fc9356e",
+  "edition": 588,
+  "date": 1780647649200,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Greenish Ghost"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

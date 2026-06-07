@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #844",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/844.png",
+  "dna": "3371a9009dc8914e7210b9d40ea5ff04148f6368",
+  "edition": 844,
+  "date": 1780647666630,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

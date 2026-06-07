@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1787",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1787.png",
+  "dna": "7f539c11576b2e63583ab81e57ddbd4090635b6d",
+  "edition": 1787,
+  "date": 1780647732740,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

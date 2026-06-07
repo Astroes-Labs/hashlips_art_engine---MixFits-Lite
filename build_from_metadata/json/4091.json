@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4091",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4091.png",
+  "dna": "296ddf521238acbcd7246a47f389d3e9cd0de95b",
+  "edition": 4091,
+  "date": 1780647894268,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

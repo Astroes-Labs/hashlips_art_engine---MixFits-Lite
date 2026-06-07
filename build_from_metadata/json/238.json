@@ -2,37 +2,37 @@
   "name": "Your Collection #238",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/238.png",
-  "dna": "10b67ee51378c7045b0ec1db34ac27fa41494fbf",
+  "dna": "cccb0b3cb6322f0e50cb3b7dca64b553697b4951",
   "edition": 238,
-  "date": 1780640954118,
+  "date": 1780647623636,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sky"
+      "value": "Light"
     },
     {
       "trait_type": "Body",
-      "value": "Zombie"
+      "value": "Homo Sapien"
     },
     {
       "trait_type": "Hair",
-      "value": "Blonde Taper Fade"
+      "value": "Crew Cut"
     },
     {
       "trait_type": "Eyes",
-      "value": "3D Shades"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "France Accent Jersey"
+      "value": "Blue Wraparound Sunglasses"
     },
     {
       "trait_type": "Pants",
-      "value": "Tux Suit Pants"
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Hawaii Beach Shirt"
     },
     {
       "trait_type": "Footwear",
-      "value": "Kill Billy Boots"
+      "value": "Boxers Boot"
     }
   ],
   "compiler": "HashLips Art Engine"

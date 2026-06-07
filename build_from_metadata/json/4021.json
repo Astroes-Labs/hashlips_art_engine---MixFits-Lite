@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4021",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4021.png",
+  "dna": "604929098ac150ad17a5c4391e192ae4f81ae37e",
+  "edition": 4021,
+  "date": 1780647889437,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

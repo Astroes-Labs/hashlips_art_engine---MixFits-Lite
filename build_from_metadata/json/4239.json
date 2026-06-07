@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4239",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4239.png",
+  "dna": "470b3d950378867b39ead59b76a896dc8471cb12",
+  "edition": 4239,
+  "date": 1780647904662,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Kill Billy Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -2,9 +2,9 @@
   "name": "Your Collection #5",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/5.png",
-  "dna": "caae019508d4a854893f5054fe5754057aefddd0",
+  "dna": "cbf1be8a98078e3bb9873a9098b44f1e9b87a933",
   "edition": 5,
-  "date": 1780640939646,
+  "date": 1780647605641,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,27 +12,27 @@
     },
     {
       "trait_type": "Body",
-      "value": "Zombie"
+      "value": "Homo Sapien"
     },
     {
       "trait_type": "Hair",
-      "value": "Slick Afro"
+      "value": "Blonde Taper Fade"
     },
     {
       "trait_type": "Eyes",
-      "value": "3D Glasses"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Joker Suit"
+      "value": "Nerd Glasses"
     },
     {
       "trait_type": "Pants",
-      "value": "Jeans"
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
     },
     {
       "trait_type": "Footwear",
-      "value": "Ski Boots"
+      "value": "Flip Flops"
     }
   ],
   "compiler": "HashLips Art Engine"

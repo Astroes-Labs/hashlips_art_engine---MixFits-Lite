@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #513",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/513.png",
+  "dna": "ee44573147a387c4720ae96c391e25436fbf9692",
+  "edition": 513,
+  "date": 1780647643953,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Knight"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

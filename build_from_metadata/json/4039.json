@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4039",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4039.png",
+  "dna": "500fec40ba5f6936340bb4522586047f11f07c2b",
+  "edition": 4039,
+  "date": 1780647890717,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

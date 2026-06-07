@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #3499",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3499.png",
+  "dna": "878cdaf481ef8bf1921e548c484bbcc5f342d3bd",
+  "edition": 3499,
+  "date": 1780773088598,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Shark Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

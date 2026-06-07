@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #2387",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2387.png",
+  "dna": "64e411766ab327b4c1339847894bd384c49f6d8d",
+  "edition": 2387,
+  "date": 1780647774080,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Ginger Werewolf"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -2,17 +2,37 @@
   "name": "Your Collection #62",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/62.png",
-  "dna": "328ef48784a769c2acba7278509a5a192ff7eb3b",
+  "dna": "06b9d5a50b2bdb6852b9e4b9543760ca0c1956f6",
   "edition": 62,
-  "date": 1780640942744,
+  "date": 1780647610280,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light"
+      "value": "Sky"
     },
     {
       "trait_type": "Body",
-      "value": "Mummy II"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

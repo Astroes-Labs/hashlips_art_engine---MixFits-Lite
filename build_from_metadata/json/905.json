@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #905",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/905.png",
+  "dna": "459e1de3066a3c35cb1712415e07040c406214bd",
+  "edition": 905,
+  "date": 1780647670916,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Boxer Trunks"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Biker Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

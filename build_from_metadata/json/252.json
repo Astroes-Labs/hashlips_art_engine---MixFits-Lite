@@ -2,37 +2,17 @@
   "name": "Your Collection #252",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/252.png",
-  "dna": "ab01529a4ae4df62995c5454c499a887b9f49858",
+  "dna": "7318e600bf7ee0fada3abee508f67b9dfdb297e8",
   "edition": 252,
-  "date": 1780640955320,
+  "date": 1780647624601,
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Sky"
-    },
-    {
       "trait_type": "Body",
-      "value": "Zombie"
-    },
-    {
-      "trait_type": "Hair",
-      "value": "Blonde Slicked Back"
+      "value": "Experiment Zero"
     },
     {
       "trait_type": "Eyes",
-      "value": "Nerd Glasses"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Monk Robe"
-    },
-    {
-      "trait_type": "Pants",
-      "value": "Blue Suit Pants"
-    },
-    {
-      "trait_type": "Footwear",
-      "value": "Brown Shoes"
+      "value": "Sunglasses"
     }
   ],
   "compiler": "HashLips Art Engine"

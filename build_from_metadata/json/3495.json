@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3495",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3495.png",
+  "dna": "6ce50258925268e282544f347bc70cff514fc64d",
+  "edition": 3495,
+  "date": 1780773419865,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "High Priest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Knight Helmet"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

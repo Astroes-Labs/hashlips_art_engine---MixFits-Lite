@@ -2,9 +2,9 @@
   "name": "Your Collection #46",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/46.png",
-  "dna": "1479eac06f4609714fd7241302aace900fff8eec",
+  "dna": "97973b23233552b949a11395a1a04d2aa013e64e",
   "edition": 46,
-  "date": 1780640941982,
+  "date": 1780647609016,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,7 +12,27 @@
     },
     {
       "trait_type": "Body",
-      "value": "Greenish Ghost"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Kill Billy Boots"
     }
   ],
   "compiler": "HashLips Art Engine"

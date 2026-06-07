@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4177",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4177.png",
+  "dna": "408c0e384ca34a008439b1c9d07f777ba5c3c18b",
+  "edition": 4177,
+  "date": 1780647900205,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Space Hunter Gear"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1793",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1793.png",
+  "dna": "0c14dff4c5e9edbf4981dca1300bf28670526667",
+  "edition": 1793,
+  "date": 1780647733176,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

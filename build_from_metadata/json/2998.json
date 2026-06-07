@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2998",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2998.png",
+  "dna": "e6bf4e99bdcbaa687b11bfce977b4cab9f0a2be9",
+  "edition": 2998,
+  "date": 1780647817798,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3481",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3481.png",
+  "dna": "5afc58ef44a5c81d3ab018c3401a0a57401fb9e8",
+  "edition": 3481,
+  "date": 1780647851441,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Grand Mage Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

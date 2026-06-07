@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2717",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2717.png",
+  "dna": "f799bf9d2f7433f4d374901b30524aaeec675915",
+  "edition": 2717,
+  "date": 1780647797405,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Combat Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1272",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1272.png",
+  "dna": "9aab5351e1c9ad9879f8688ec759a76022bbf712",
+  "edition": 1272,
+  "date": 1780647695665,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -2,9 +2,9 @@
   "name": "Your Collection #444",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/444.png",
-  "dna": "9a4598697097f1230b58f4c4b005d54376bdf12c",
+  "dna": "6d2015765dbced552029dca9c9413c6969e1f2b5",
   "edition": 444,
-  "date": 1780640973322,
+  "date": 1780647639195,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,27 +12,27 @@
     },
     {
       "trait_type": "Body",
-      "value": "Zombie"
+      "value": "Homo Sapien"
     },
     {
       "trait_type": "Hair",
-      "value": "Blue Tinted Bun"
+      "value": "Clean Shave"
     },
     {
       "trait_type": "Eyes",
-      "value": "Regular Visor"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Bloe Hoodie"
+      "value": "Blue Wraparound Sunglasses"
     },
     {
       "trait_type": "Pants",
-      "value": "Boxer Trunks"
+      "value": "Faded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Varsity Jacket"
     },
     {
       "trait_type": "Footwear",
-      "value": "Combat Boots"
+      "value": "Black Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

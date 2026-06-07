@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4083",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4083.png",
+  "dna": "d1eea99939ca56aadcd2c628909d4e8e652f85ea",
+  "edition": 4083,
+  "date": 1780647893731,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Kill Billy Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

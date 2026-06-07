@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1578",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1578.png",
+  "dna": "c2f4c194d14adda134a3543b450cd42ed2d74552",
+  "edition": 1578,
+  "date": 1780647717132,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

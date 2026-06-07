@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #621",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/621.png",
+  "dna": "8e418e310888db247dba3b52d6cf14a220671f43",
+  "edition": 621,
+  "date": 1780647651408,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

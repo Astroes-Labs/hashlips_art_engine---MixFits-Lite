@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #958",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/958.png",
+  "dna": "37f771c6c85afa92b6c13b41ef071111a2c2096a",
+  "edition": 958,
+  "date": 1780647674346,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Sandals"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

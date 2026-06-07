@@ -2,17 +2,37 @@
   "name": "Your Collection #138",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/138.png",
-  "dna": "5303b5ef63f446e97548ac7cb1b2053e915937b5",
+  "dna": "a86fb21fb929fa2c53cff59f3f9707fb5f32a6c9",
   "edition": 138,
-  "date": 1780640946389,
+  "date": 1780647615972,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sky"
+      "value": "Wine"
     },
     {
       "trait_type": "Body",
-      "value": "Brain Box"
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
     }
   ],
   "compiler": "HashLips Art Engine"

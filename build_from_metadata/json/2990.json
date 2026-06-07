@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2990",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2990.png",
+  "dna": "b78d49a28709c9d39b5efd223bc797d76625dfbc",
+  "edition": 2990,
+  "date": 1780647817248,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Tinted Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Sweat Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

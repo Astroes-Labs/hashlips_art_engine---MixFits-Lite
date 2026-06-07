@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2955",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2955.png",
+  "dna": "1df43cd3ab465adf9bdcb9793ba2a8674c3ead13",
+  "edition": 2955,
+  "date": 1780647814868,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Slicked Back"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "OffWhyt Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

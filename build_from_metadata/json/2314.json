@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2314",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2314.png",
+  "dna": "19046afcaa5985f94ee39666b2e71c0947e8fb66",
+  "edition": 2314,
+  "date": 1780647769125,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "King Crown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bloe Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Brown Shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2887",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2887.png",
+  "dna": "91412baa78553c22aff7ef2fc9dc2c79445e8479",
+  "edition": 2887,
+  "date": 1780647809811,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "France Accent Jersey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

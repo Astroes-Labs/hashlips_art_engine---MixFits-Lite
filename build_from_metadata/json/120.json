@@ -2,17 +2,25 @@
   "name": "Your Collection #120",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/120.png",
-  "dna": "d53193e1b62fd4cc429adaceff790b94bf4d368e",
+  "dna": "539f41c10531d43fa18624a0c6ad13edf29a4375",
   "edition": 120,
-  "date": 1780640945548,
+  "date": 1780647614643,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light"
+      "value": "Void"
     },
     {
       "trait_type": "Body",
-      "value": "Mutant A"
+      "value": "Purple Slime"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Straight Face"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Ring"
     }
   ],
   "compiler": "HashLips Art Engine"

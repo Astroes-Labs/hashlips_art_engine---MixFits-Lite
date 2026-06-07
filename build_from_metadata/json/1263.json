@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1263",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1263.png",
+  "dna": "ac87a0cbc25bb10a2cab16eff18d3940daa2916a",
+  "edition": 1263,
+  "date": 1780647695089,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Beach Shirt"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

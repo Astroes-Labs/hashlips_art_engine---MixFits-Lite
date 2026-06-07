@@ -2,9 +2,9 @@
   "name": "Your Collection #328",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/328.png",
-  "dna": "f6bfe20706778e886f4a29cfc4ca4fb56e32c01d",
+  "dna": "9323e30f832bd6bba15da6eee042f071d797b9ac",
   "edition": 328,
-  "date": 1780640964092,
+  "date": 1780647630288,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,15 +12,27 @@
     },
     {
       "trait_type": "Body",
-      "value": "Purple Slime"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
     },
     {
       "trait_type": "Eyes",
-      "value": "Straight Face"
+      "value": "Pink Wraparound Sunglasses"
     },
     {
-      "trait_type": "Special",
-      "value": "Cheese"
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Dark Green Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

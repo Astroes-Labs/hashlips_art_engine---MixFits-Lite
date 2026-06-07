@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2777",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2777.png",
+  "dna": "c6985557bd2ffafa77127d5b6ebc636f0a066a47",
+  "edition": 2777,
+  "date": 1780647801560,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Shades"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Camo Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Grand Mage Robe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

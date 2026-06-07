@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #2891",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2891.png",
+  "dna": "4c6d69e64ea214027024303b32cdbfbde9e7a125",
+  "edition": 2891,
+  "date": 1780647810116,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tux Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

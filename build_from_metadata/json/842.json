@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #842",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/842.png",
+  "dna": "6076f7f9fc692b45863ede70cf4b56d361688307",
+  "edition": 842,
+  "date": 1780647666509,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crew Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Shredded Jeans"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

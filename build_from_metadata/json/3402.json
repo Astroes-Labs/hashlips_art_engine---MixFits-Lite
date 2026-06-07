@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3402",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3402.png",
+  "dna": "1783c98ac6a4fc66601f23b64303bbbe73e6087c",
+  "edition": 3402,
+  "date": 1780647845797,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Snow Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

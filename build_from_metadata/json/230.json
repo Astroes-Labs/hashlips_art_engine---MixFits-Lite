@@ -2,17 +2,37 @@
   "name": "Your Collection #230",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/230.png",
-  "dna": "09a07f1d171eac9ada56910ca60f581ea3277fd4",
+  "dna": "103f30c41fbd44e8e97a3491bec79c3d1eee9382",
   "edition": 230,
-  "date": 1780640953443,
+  "date": 1780647623079,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark"
+      "value": "Void"
     },
     {
       "trait_type": "Body",
-      "value": "Brown Werewolf II"
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Bun"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Visor"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Suit Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BBall Uni"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
     }
   ],
   "compiler": "HashLips Art Engine"

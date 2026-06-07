@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1948",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1948.png",
+  "dna": "7c557d8dcb90c9bb6d08deb9fcb8c993afcc1347",
+  "edition": 1948,
+  "date": 1780647743847,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dirty Blonde Taper Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Invisible Hoodie"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Boxers Boot"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3860",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3860.png",
+  "dna": "e3641fefa2dc850771d8fef11f1f0defdc17d863",
+  "edition": 3860,
+  "date": 1780647877985,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low Cut II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Wraparound Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BBall Short"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Flip Flops"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

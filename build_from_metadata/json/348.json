@@ -2,9 +2,9 @@
   "name": "Your Collection #348",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/348.png",
-  "dna": "34ea276c0420158d2c2bd46f657658aa251336ac",
+  "dna": "0d0892cf2c187cc773d1b994b55f94c370681a65",
   "edition": 348,
-  "date": 1780640965915,
+  "date": 1780647631769,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,27 +12,15 @@
     },
     {
       "trait_type": "Body",
-      "value": "Zombie"
-    },
-    {
-      "trait_type": "Hair",
-      "value": "Ginger Bowl Cut"
+      "value": "Green Slime"
     },
     {
       "trait_type": "Eyes",
-      "value": "Laser"
+      "value": "Straight Face"
     },
     {
-      "trait_type": "Shirt",
-      "value": "Biker Jacket"
-    },
-    {
-      "trait_type": "Pants",
-      "value": "Blue Suit Pants"
-    },
-    {
-      "trait_type": "Footwear",
-      "value": "Red colorway Sneakers"
+      "trait_type": "Special",
+      "value": "Bomb"
     }
   ],
   "compiler": "HashLips Art Engine"

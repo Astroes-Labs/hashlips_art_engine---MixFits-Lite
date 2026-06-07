@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #1509",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1509.png",
+  "dna": "a1f5d0f57f9586f7f5398e24c18f36fc0a45dfd1",
+  "edition": 1509,
+  "date": 1780647712040,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger Bowl Cut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Khaki Shorts"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Pirate Boots"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

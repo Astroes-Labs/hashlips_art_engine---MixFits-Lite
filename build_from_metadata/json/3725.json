@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #3725",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3725.png",
+  "dna": "15c50fb1099b3b567a68f69863951403aa7fbf94",
+  "edition": 3725,
+  "date": 1780647868290,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Task Force Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Kill Billy Jacket"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Ash colorway Sneakers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

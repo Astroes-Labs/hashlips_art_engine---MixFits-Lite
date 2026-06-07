@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #1400",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1400.png",
+  "dna": "75c918267a0a526c0b0a17332b92ade8ced68450",
+  "edition": 1400,
+  "date": 1780778780578,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Homo Sapien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clean Shave"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Shark Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
